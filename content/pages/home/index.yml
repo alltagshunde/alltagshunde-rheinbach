@@ -1,11 +1,5 @@
 title: Home
 buildingBlocks:
-  - type: image
-    image: dsc01648.jpg
-    width: 1/2
-  - type: image
-    width: 1/2
-    image: 2019-03-23-05268.jpg
   - type: text
     heading: Wilkommen
     text: >-
@@ -49,3 +43,107 @@ buildingBlocks:
     headingLevel: '1'
     headingSize: '2'
     headingCentered: true
+  - type: image
+    image: dsc01648.jpg
+    width: 1/2
+    innerWidth: 1/2
+  - type: image
+    width: 1/2
+    image: 2019-03-23-05268.jpg
+    innerWidth: 1/2
+  - type: text
+    width: 1/2
+    headingLevel: '3'
+    headingCentered: true
+    heading: Links
+    text: >-
+      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
+      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
+      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
+      ich bin es. Hallo, ich bin es. Hallo, ich bin es. **Hallo, ich bin es.**
+      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
+      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
+      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
+      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
+      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
+      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
+      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
+      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
+      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
+      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
+      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
+      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
+      Hallo, ich bin es.
+
+
+      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
+      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
+      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
+      ich bin es. Hallo, ich bin es. Hallo, ich bin es. **Hallo, ich bin es.**
+      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
+      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
+      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
+      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
+      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
+      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
+      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
+      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
+      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
+      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
+      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
+      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
+      Hallo, ich bin es.
+  - type: text
+    width: 1/2
+    headingLevel: '3'
+    headingCentered: true
+    heading: Rechts
+    text: >-
+      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
+      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
+      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
+      ich bin es. Hallo, ich bin es. Hallo, ich bin es. **Hallo, ich bin es.**
+      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
+      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
+      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
+      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
+      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
+      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
+      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
+      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
+      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
+      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
+      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
+      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
+      Hallo, ich bin es.
+
+
+      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
+      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
+      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
+      ich bin es. Hallo, ich bin es. Hallo, ich bin es. **Hallo, ich bin es.**
+      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
+      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
+      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
+      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
+      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
+      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
+      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
+      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
+      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
+      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
+      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
+      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
+      Hallo, ich bin es.
+  - type: image
+    width: 1/3
+    innerWidth: '1'
+    image: 2019-03-23-05268.jpg
+  - type: image
+    width: 1/3
+    innerWidth: '1'
+    image: dsc01648.jpg
+  - type: image
+    width: 1/3
+    innerWidth: '1'
+    image: 2019-03-23-05268.jpg
