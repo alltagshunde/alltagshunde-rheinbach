@@ -1,8 +1,11 @@
 title: Home
 buildingBlocks:
   - type: image
-    image: issue-18.png
-    width: '1'
+    image: dsc01648.jpg
+    width: 1/2
+  - type: image
+    width: 1/2
+    image: 2019-03-23-05268.jpg
   - type: text
     heading: Wilkommen
     text: >-
