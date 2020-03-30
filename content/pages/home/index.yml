@@ -2,6 +2,7 @@ title: Home
 buildingBlocks:
   - type: image
     image: issue-18.png
+    width: '1'
   - type: text
     heading: Wilkommen
     text: >-
@@ -41,3 +42,7 @@ buildingBlocks:
       bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
       ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
       Hallo, ich bin es.
+    width: '1'
+    headingLevel: '1'
+    headingSize: '2'
+    headingCentered: true
