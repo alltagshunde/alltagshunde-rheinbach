@@ -6,7 +6,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `gatsby-theme-building-blocks`,
+      resolve: `@alltagshunde/gatsby-theme-alltagshunde`,
       options: {
       },
     },

@@ -13,6 +13,6 @@
   },
   "dependencies": {
     "gatsby": "^2.19.45",
-    "gatsby-theme-building-blocks": "^1"
+    "@alltagshunde/gatsby-theme-alltagshunde": "^1"
   }
 }
