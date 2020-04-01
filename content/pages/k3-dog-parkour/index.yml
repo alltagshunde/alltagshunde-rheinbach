@@ -1,0 +1,21 @@
+title: K3 Dog Parkour
+buildingBlocks:
+  - type: text
+    width: '1'
+    headingLevel: '1'
+    headingCentered: false
+    heading: NEU ab August 2020 - Jetzt schon Platz sichern!
+    text: ...
+    headingSize: '3'
+  - type: image
+    width: 1/3
+    innerWidth: 1/3
+    image: rudi-stepper.jpg
+  - type: image
+    width: 1/3
+    innerWidth: 1/3
+    image: img_7720.jpg
+  - type: image
+    width: 1/3
+    innerWidth: 1/3
+    image: dsc00363.jpg
