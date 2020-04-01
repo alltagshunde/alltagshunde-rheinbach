@@ -8,15 +8,18 @@ buildingBlocks:
     width: 1/2
     headingLevel: '4'
     headingCentered: true
-    heading: Philosophie & Arbeitsweise
+    heading: ''
     text: >-
-      Die Hundehaltung sieht heute anders aus als noch vor 30 Jahren. Lebte der
-      Hund damals noch vorrangig im Stall oder Zwinger und erfüllte als Wach-
-      bzw. Hofhund, Hüte- oder Jagdhund, als Dienst- oder Schutzhund seinen Job,
+      **Hundehaltung damals und heute**
+
+
+      Hundehaltung sieht heute anders aus als noch vor 30 Jahren. Lebte der Hund
+      damals meist noch in Stall oder Zwinger und erfüllte als Wach- bzw.
+      Hofhund, Hüte- oder Jagdhund, als Dienst- oder Schutzhund etc. seinen Job,
       so lebt er heutzutage doch in den meisten Haushalten vorrangig als
       sozialer Begleiter und Familienhund. Den Zwinger hat er gegen die
       heimische Couch getauscht und seine Leckerchen verdient er sich durch
-      treue Blicke und Streicheleinheiten, statt harter Arbeit.
+      treue Blicke und Streicheleinheiten, statt harter körperlicher Arbeit.
 
 
       Doch so sehr der Hund durch seinen neuen Stellenwert in unserem Leben auch
@@ -108,5 +111,5 @@ buildingBlocks:
       Deine
 
 
-      **Carolin Henseler**
+      Carolin Henseler
     headingSize: '4'
