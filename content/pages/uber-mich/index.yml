@@ -6,9 +6,9 @@ buildingBlocks:
     image: dsc01648.jpg
   - type: text
     width: 1/2
-    headingLevel: '4'
-    headingCentered: true
-    heading: ''
+    headingLevel: '1'
+    headingCentered: false
+    heading: ' '
     text: >-
       **Hundehaltung damals und heute**
 
@@ -112,4 +112,4 @@ buildingBlocks:
 
 
       Carolin Henseler
-    headingSize: '4'
+    headingSize: '1'
