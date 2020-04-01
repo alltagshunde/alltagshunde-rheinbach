@@ -1,5 +1,9 @@
 title: Home
 buildingBlocks:
+  - type: image
+    image: 2019-03-23-05268.jpg
+    width: 1/2
+    innerWidth: 1/2
   - type: text
     heading: Herzlich willkommen!
     text: >-
@@ -28,11 +32,7 @@ buildingBlocks:
 
 
       Carolin Henseler
-    width: '1'
-    headingLevel: '1'
+    width: 1/2
+    headingLevel: '4'
     headingSize: '2'
     headingCentered: true
-  - type: image
-    image: 2019-03-23-05268.jpg
-    width: '1'
-    innerWidth: '1'
