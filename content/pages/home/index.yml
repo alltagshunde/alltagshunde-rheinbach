@@ -1,45 +1,34 @@
 title: Home
 buildingBlocks:
   - type: text
-    heading: Wilkommen
+    heading: Herzlich willkommen!
     text: >-
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. **Hallo, ich bin es.**
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
-      Hallo, ich bin es.
+      Ich freue mich, dass Du den Weg auf meine Webseite gefunden hast.
 
 
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. **Hallo, ich bin es.**
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
-      Hallo, ich bin es.
-    width: '1'
+      In der Region Rheinbach, Meckenheim und Wachtberg biete ich interessierten
+      Hundehaltern ein umfangreiches Angebot rund um die Erziehung und
+      Beschäftigung mit dem geliebten Vierbeiner.\
+
+      Sicher ist auch für dich und deinen Hund etwas Passendes dabei und ich
+      freue mich darauf, dich und deinen Hund beim gemeinsamen Training oder
+      einer der Hundewanderungen persönlich kennenzulernen!
+
+
+      Solltest Du doch etwas vermissen oder Fragen zum Training für dich und
+      deinen Hund haben, ruf mich doch einfach an und wir sprechen darüber wie
+      ich dich am besten bei der Erreichung deiner Ziele unterstützen kann!\
+
+      \
+
+      Bis dahin, viel Spaß auf meiner Seite!
+
+
+      Deine
+
+
+      Carolin Henseler
+    width: 1/2
     headingLevel: '1'
     headingSize: '2'
     headingCentered: true
@@ -47,103 +36,3 @@ buildingBlocks:
     image: dsc01648.jpg
     width: 1/2
     innerWidth: 1/2
-  - type: image
-    width: 1/2
-    image: 2019-03-23-05268.jpg
-    innerWidth: 1/2
-  - type: text
-    width: 1/2
-    headingLevel: '3'
-    headingCentered: true
-    heading: Links
-    text: >-
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. **Hallo, ich bin es.**
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
-      Hallo, ich bin es.
-
-
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. **Hallo, ich bin es.**
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
-      Hallo, ich bin es.
-  - type: text
-    width: 1/2
-    headingLevel: '3'
-    headingCentered: true
-    heading: Rechts
-    text: >-
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. **Hallo, ich bin es.**
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
-      Hallo, ich bin es.
-
-
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. **Hallo, ich bin es.**
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
-      Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin
-      es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich
-      bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo,
-      ich bin es. Hallo, ich bin es. Hallo, ich bin es. Hallo, ich bin es.
-      Hallo, ich bin es.
-  - type: image
-    width: 1/3
-    innerWidth: '1'
-    image: 2019-03-23-05268.jpg
-  - type: image
-    width: 1/3
-    innerWidth: '1'
-    image: dsc01648.jpg
-  - type: image
-    width: 1/3
-    innerWidth: '1'
-    image: 2019-03-23-05268.jpg
