@@ -1,0 +1,13 @@
+title: Unterwegs
+buildingBlocks:
+  - type: text
+    width: '1'
+    headingLevel: '1'
+    headingCentered: true
+    heading: AlltagsHunde unterwegs ...
+    headingSize: '4'
+    text: ...
+  - type: image
+    width: '1'
+    innerWidth: '1'
+    image: dscf1661.jpg
