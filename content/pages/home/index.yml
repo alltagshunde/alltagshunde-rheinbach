@@ -33,6 +33,6 @@ buildingBlocks:
 
       Carolin Henseler
     width: 1/2
-    headingLevel: '4'
-    headingSize: '2'
-    headingCentered: true
+    headingLevel: '1'
+    headingSize: '3'
+    headingCentered: false
