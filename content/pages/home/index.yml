@@ -28,11 +28,11 @@ buildingBlocks:
 
 
       Carolin Henseler
-    width: 1/2
+    width: '1'
     headingLevel: '1'
     headingSize: '2'
     headingCentered: true
   - type: image
-    image: dsc01648.jpg
-    width: 1/2
-    innerWidth: 1/2
+    image: 2019-03-23-05268.jpg
+    width: '1'
+    innerWidth: '1'
