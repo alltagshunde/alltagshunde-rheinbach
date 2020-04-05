@@ -3,7 +3,7 @@ buildingBlocks:
   - type: image
     image: 2019-03-23-05268.jpg
     width: 1/2
-    innerWidth: 1/2
+    innerWidth: '1'
   - type: text
     heading: Herzlich willkommen!
     text: >-
