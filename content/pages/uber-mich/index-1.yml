@@ -7,3 +7,9 @@ buildingBlocks:
     heading: Philosophie
     text: ...
     button: Mehr erfahren
+  - type: card
+    width: 1/2
+    image: canis-absolventin.png
+    heading: Qualifikation
+    text: ""
+    button: Mehr erfahren
