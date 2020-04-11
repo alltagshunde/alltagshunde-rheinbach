@@ -1,0 +1,9 @@
+title: Über mich
+isLandingPage: false
+buildingBlocks:
+  - type: card
+    width: 1/2
+    image: dsc_0229.jpg
+    heading: Philosophie
+    text: ...
+    button: Mehr erfahren
