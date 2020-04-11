@@ -1,9 +1,11 @@
 title: Home
+isLandingPage: true
 buildingBlocks:
   - type: image
     image: 2019-03-23-05268.jpg
-    width: 1/2
+    width: 1/4
     innerWidth: '1'
+    isBanner: false
   - type: text
     heading: Herzlich willkommen!
     text: >-
@@ -12,25 +14,20 @@ buildingBlocks:
 
       In der Region Rheinbach, Meckenheim und Wachtberg biete ich interessierten
       Hundehaltern ein umfangreiches Angebot rund um die Erziehung und
-      Beschäftigung mit dem geliebten Vierbeiner.
-
-      Sicher ist auch für dich und deinen Hund etwas Passendes dabei und ich
-      freue mich darauf, dich und deinen Hund beim gemeinsamen Training oder
-      einer der Hundewanderungen persönlich kennenzulernen!
-
-
-      Solltest Du doch etwas vermissen oder Fragen zum Training für dich und
-      deinen Hund haben, ruf mich doch einfach an und wir sprechen darüber wie
-      ich dich am besten bei der Erreichung deiner Ziele unterstützen kann!
+      Beschäftigung mit dem geliebten Vierbeiner. Sicher ist auch für dich und
+      deinen Hund etwas Passendes dabei und ich freue mich darauf, dich und
+      deinen Hund beim gemeinsamen Training oder einer der Hundewanderungen
+      persönlich kennenzulernen! <br/>Solltest Du doch etwas vermissen oder
+      Fragen zum Training für dich und deinen Hund haben, ruf mich doch einfach
+      an und wir sprechen darüber wie ich dich am besten bei der Erreichung
+      deiner Ziele unterstützen kann!
 
 
       Bis dahin, viel Spaß auf meiner Seite!
 
 
-      Deine
-
-      Carolin Henseler
-    width: 1/2
+      Deine Carolin Henseler
+    width: 3/4
     headingLevel: '1'
     headingSize: '3'
     headingCentered: false

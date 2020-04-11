@@ -1,5 +1,17 @@
 title: Betreuung
 buildingBlocks:
+  - type: card
+    width: 1/2
+    image: 2015-08-14-17979.jpg
+    heading: Dogwalking
+    text: ''
+    button: Mehr erfahren
+  - type: card
+    width: 1/2
+    image: 2015-08-14-17979.jpg
+    heading: Tagesbetreuung
+    text: Day Spa
+    button: Mehr erfahren
   - type: image
     width: '1'
     innerWidth: '1'
