@@ -6,19 +6,16 @@ buildingBlocks:
     isBanner: true
     image: 2015-08-14-17979.jpg
   - type: card
-    width: 1/3
-    image: ""
+    width: 1/2
+    image: 68676353_10102957786484248_6661898527007834112_o.jpg
     heading: Dogwalking
     text: ""
     button: Mehr erfahren
     buttonLink: Dogwalking
   - type: card
-    width: 1/3
-    image: ""
-    heading: Tagesbetreuung
-    text: Day Spa
+    width: 1/2
+    heading: Tages- und Urlaubsbetreuung
     button: Mehr erfahren
-  - type: card
-    width: 1/3
-    heading: Urlaubsbetreuung / Pension
-    button: Mehr erfahren
+    image: 67332840_10102937658181528_8169800118011166720_o.jpg
+    text: ""
+    buttonLink: Tages- & Urlaubsbetreuung
