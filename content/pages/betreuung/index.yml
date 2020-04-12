@@ -1,10 +1,5 @@
 title: Betreuung
 buildingBlocks:
-  - type: image
-    width: "1"
-    innerWidth: "1"
-    isBanner: true
-    image: 2015-08-14-17979.jpg
   - type: card
     width: 1/2
     image: 68676353_10102957786484248_6661898527007834112_o-2-.jpg
