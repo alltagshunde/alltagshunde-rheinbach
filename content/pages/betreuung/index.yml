@@ -6,6 +6,7 @@ buildingBlocks:
     heading: Dogwalking
     text: ''
     button: Mehr erfahren
+    buttonLink: Dogwalking
   - type: card
     width: 1/2
     image: 2015-08-14-17979.jpg

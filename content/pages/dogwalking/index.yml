@@ -1,0 +1,10 @@
+title: Dogwalking
+isLandingPage: false
+parentPage: Betreuung
+buildingBlocks:
+  - type: text
+    width: '1'
+    headingLevel: '1'
+    headingCentered: true
+    heading: Dogwalking
+    text: Gassi-Service
