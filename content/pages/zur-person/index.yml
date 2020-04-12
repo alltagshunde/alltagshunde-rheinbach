@@ -1,5 +1,6 @@
 title: Zur Person
 isLandingPage: false
+parentPage: Über mich
 buildingBlocks:
   - type: text
     width: 3/4
