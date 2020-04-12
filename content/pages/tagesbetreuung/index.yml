@@ -1,0 +1,11 @@
+title: Tagesbetreuung
+isLandingPage: false
+parentPage: Betreuung
+buildingBlocks:
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: true
+    heading: Tagesbetreuung
+    headingSize: "3"
+    text: ...
