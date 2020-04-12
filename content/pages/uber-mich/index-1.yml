@@ -9,12 +9,12 @@ buildingBlocks:
     button: Mehr erfahren
   - type: card
     width: 1/3
-    image: canis-absolventin.png
-    heading: Qualifikation
-    text: ""
+    image: zur-person.jpg
+    heading: Philosophie & Arbeitsweise
     button: Mehr erfahren
   - type: card
     width: 1/3
-    image: zur-person.jpg
-    heading: Philosophie & Arbeitsweise
+    image: canis-absolventin.png
+    heading: Qualifikation
+    text: ""
     button: Mehr erfahren
