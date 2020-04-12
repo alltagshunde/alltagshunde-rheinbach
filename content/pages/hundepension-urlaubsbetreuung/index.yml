@@ -2,8 +2,13 @@ title: Tages- & Urlaubsbetreuung
 isLandingPage: false
 parentPage: Betreuung
 buildingBlocks:
+  - type: image
+    width: "1"
+    innerWidth: "1"
+    isBanner: true
+    image: 2015-08-14-17979.jpg
   - type: text
-    width: 1/2
+    width: "1"
     headingLevel: "3"
     headingCentered: false
     heading: Tages & Urlaubsbetreuung
@@ -31,8 +36,3 @@ buildingBlocks:
 
       Tagesbetreuung bis 5 Stunden: 25,00 €
     headingSize: "3"
-  - type: image
-    width: "1"
-    innerWidth: "1"
-    isBanner: true
-    image: 2015-08-14-17979.jpg
