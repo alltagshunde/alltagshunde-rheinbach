@@ -5,7 +5,7 @@ buildingBlocks:
   - type: text
     width: 1/2
     headingLevel: "3"
-    headingCentered: true
+    headingCentered: false
     heading: Tages & Urlaubsbetreuung
     text: >-
       Du bist beruflich unterwegs oder planst eine Flugreise? 
@@ -23,16 +23,16 @@ buildingBlocks:
       **Preise:**
 
 
-      **Pension: 35,00 € pro Tag; Abgabe- und Abholtag werden in vollem Umfang berechnet.**
+      Pension: 35,00 € pro Tag; Abgabe- und Abholtag werden in vollem Umfang berechnet.
 
 
-      **Tagesbetreuung bis zu 12 Stunden: 30,00 €**
+      Tagesbetreuung bis zu 12 Stunden: 30,00 €
 
 
-      **Tagesbetreuung bis 5 Stunden: 25,00 €**
+      Tagesbetreuung bis 5 Stunden: 25,00 €
     headingSize: "3"
   - type: image
-    width: 1/2
-    innerWidth: 1/2
-    isBanner: false
-    image: 67332840_10102937658181528_8169800118011166720_o.jpg
+    width: "1"
+    innerWidth: "1"
+    isBanner: true
+    image: 2015-08-14-17979.jpg
