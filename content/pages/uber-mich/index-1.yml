@@ -2,14 +2,19 @@ title: Über mich
 isLandingPage: false
 buildingBlocks:
   - type: card
-    width: 1/2
+    width: 1/3
     image: dsc_0229.jpg
-    heading: Philosophie
-    text: ...
+    heading: Carolin Henseler - Zur Person
+    text: ""
     button: Mehr erfahren
   - type: card
-    width: 1/2
+    width: 1/3
     image: canis-absolventin.png
     heading: Qualifikation
     text: ""
+    button: Mehr erfahren
+  - type: card
+    width: 1/3
+    image: zur-person.jpg
+    heading: Philosophie & Arbeitsweise
     button: Mehr erfahren
