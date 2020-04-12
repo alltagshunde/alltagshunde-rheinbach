@@ -4,17 +4,20 @@ buildingBlocks:
   - type: card
     width: 1/3
     image: dsc_0229.jpg
-    heading: Carolin Henseler - Zur Person
+    heading: Zur Person
     text: ""
     button: Mehr erfahren
+    buttonLink: Zur Person
   - type: card
     width: 1/3
     image: zur-person.jpg
     heading: Philosophie & Arbeitsweise
     button: Mehr erfahren
+    buttonLink: Philosophie
   - type: card
     width: 1/3
     image: canis-absolventin.png
     heading: Qualifikation
     text: ""
     button: Mehr erfahren
+    buttonLink: Qualifikation
