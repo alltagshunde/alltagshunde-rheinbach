@@ -1,27 +1,7 @@
 title: Beschäftigung
 buildingBlocks:
-  - type: image
-    width: '1'
-    innerWidth: '1'
-    image: schnuffel-labbi.jpg
-  - type: text
-    width: '1'
-    headingLevel: '1'
-    headingCentered: false
-    heading: Mantrailing
-    text: ...
-    headingSize: '3'
-  - type: text
-    width: '1'
-    headingLevel: '1'
-    headingCentered: false
-    heading: Geruchsdifferenzierung / Scent Detection
-    text: ...
-    headingSize: '3'
-  - type: text
-    width: '1'
-    headingLevel: '1'
-    headingCentered: false
+  - type: card
+    width: 1/4
+    image: 2016-06-10-34027.jpg
     heading: Apport for Fun
-    text: ...
-    headingSize: '3'
+    button: Mehr erfahren
