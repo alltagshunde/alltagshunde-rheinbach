@@ -2,6 +2,21 @@ title: Beschäftigung
 buildingBlocks:
   - type: card
     width: 1/4
+    heading: Mantrailing
+    button: Mehr erfahren
+    image: search-dog-620175_1280.jpg
+  - type: card
+    width: 1/4
+    image: schnuffel-labbi.jpg
+    heading: Geruchsdifferenzierung - Schnüffel dich glücklich!
+    button: Mehr erfahren
+  - type: card
+    width: 1/4
     image: 2016-06-10-34027.jpg
     heading: Apport for Fun
+    button: Mehr erfahren
+  - type: card
+    width: 1/4
+    image: rudi-stepper.jpg
+    heading: "K3DogParkour® "
     button: Mehr erfahren
