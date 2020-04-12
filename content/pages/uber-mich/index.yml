@@ -23,9 +23,13 @@ buildingBlocks:
       Als Kernziel meiner Arbeit verstehe ich es daher, dich als Hundehalter darin zu unterstützen, deinen Hund zu einem entspannten Begleiter in deinem Alltag, einem „AlltagsHund“ zu erziehen. Denn Hunde die gelernt haben, die ihnen aufgezeigten Grenzen zu akzeptieren und sich in Konfliktsituationen auf ihren Menschen zu verlassen, genießen in unserer Gesellschaft einfach mehr Freiheiten und sind in der Regel (fast) überall gern gesehene Gäste.
 
 
-      Die Grundlage hierfür liegt in einer vertrauensvollen aber auch belastbaren Beziehungsstruktur in der sich beide Partner wertgeschätzt aber auch in ihren Bedürfnissen ernst genommen fühlen. Das Leben bietet uns nun mal nicht immer nur Sonnenschein. Und eine Beziehung die auch mal einen Streit verträgt, sowie ein Partner der auch zu mir hält, wenn es mal nicht so toll läuft, geben mir die Sicherheit, auch in Konfliktsituationen einen Anker zu haben, an den ich mich vertrauensvoll wenden und an dem ich mich orientieren kann. Genauso geht es auch deinem Hund! 
-
-
+      Die Grundlage hierfür liegt in einer vertrauensvollen aber auch belastbaren Beziehungsstruktur in der sich beide Partner wertgeschätzt aber auch in ihren Bedürfnissen ernst genommen fühlen. Das Leben bietet uns nun mal nicht immer nur Sonnenschein. Und eine Beziehung die auch mal einen Streit verträgt, sowie ein Partner der auch zu mir hält, wenn es mal nicht so toll läuft, geben mir die Sicherheit, auch in Konfliktsituationen einen Anker zu haben, an den ich mich vertrauensvoll wenden und an dem ich mich orientieren kann. Genauso geht es auch deinem Hund!
+    headingSize: "3"
+  - type: text
+    width: 2/3
+    headingLevel: "1"
+    headingCentered: false
+    text: >-
       **Die Frage nach der Methode**
 
 
@@ -33,12 +37,8 @@ buildingBlocks:
 
 
       Außerdem wird das körpereigene Belohnungssystem außer Acht gelassen und ignoriert, dass sich Hunde in vielen Bereichen ihre Belohnung selber sichern und der Mensch seinen Hund oftmals belohnt, ohne es eigentlich zu wollen.  Nicht selten sehen wir uns im Hundetraining mit Problemverhalten konfrontiert, das erst durch die unbewusste Bestätigung durch den Hundebesitzer verstärkt und erlernt wurde. Und das sogar ganz ohne Leckerchen.
-    headingSize: "3"
-  - type: text
-    width: 2/3
-    headingLevel: "1"
-    headingCentered: false
-    text: >-
+
+
       **So nett wie möglich, so deutlich wie nötig!**
 
 
@@ -66,4 +66,4 @@ buildingBlocks:
     width: 1/3
     innerWidth: 1/3
     isBanner: false
-    image: zur-person.jpg
+    image: dsc01648.jpg
