@@ -15,6 +15,7 @@ buildingBlocks:
     image: 2016-06-10-34027.jpg
     heading: Apport for Fun
     button: Mehr erfahren
+    buttonLink: Apport for Fun
   - type: card
     width: 1/4
     image: rudi-stepper.jpg
