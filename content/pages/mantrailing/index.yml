@@ -1,0 +1,11 @@
+title: Mantrailing
+isLandingPage: false
+parentPage: Beschäftigung
+buildingBlocks:
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: false
+    heading: Mantrailing
+    text: ...
+    headingSize: "3"
