@@ -2,17 +2,12 @@ title: K3 Dog Parkour
 parentPage: Beschäftigung
 buildingBlocks:
   - type: image
-    width: 3/4
-    innerWidth: 3/4
-    isBanner: false
-    image: 53751080_10102770840146208_5856767827465207808_n.jpg
-  - type: image
-    width: 1/4
-    innerWidth: 1/4
+    width: 1/2
+    innerWidth: 1/2
     image: img_7720.jpg
   - type: image
-    width: 1/4
-    innerWidth: 1/4
+    width: 1/2
+    innerWidth: 1/2
     image: dsc00363.jpg
   - type: text
     width: 3/4
