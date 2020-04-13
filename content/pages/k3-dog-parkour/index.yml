@@ -10,7 +10,7 @@ buildingBlocks:
     innerWidth: 1/2
     image: dsc00363.jpg
   - type: text
-    width: 3/4
+    width: "1"
     headingLevel: "3"
     headingCentered: false
     heading: NEU ab August 2020 - Sichere dir jetzt schon deinen Platz!
