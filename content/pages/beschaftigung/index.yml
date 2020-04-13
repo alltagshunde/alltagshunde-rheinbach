@@ -5,6 +5,7 @@ buildingBlocks:
     heading: Mantrailing
     button: Mehr erfahren
     image: search-dog-620175_1280.jpg
+    buttonLink: Mantrailing
   - type: card
     width: 1/4
     image: schnuffel-labbi.jpg
