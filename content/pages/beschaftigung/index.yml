@@ -11,6 +11,7 @@ buildingBlocks:
     image: schnuffel-labbi.jpg
     heading: Geruchsdifferenzierung - Schnüffel dich glücklich!
     button: Mehr erfahren
+    buttonLink: Geruchsdifferenzierung - Schnüffel dich glücklich
   - type: card
     width: 1/4
     image: 2016-06-10-34027.jpg
@@ -22,3 +23,4 @@ buildingBlocks:
     image: rudi-stepper.jpg
     heading: "K3DogParkour® "
     button: Mehr erfahren
+    buttonLink: K3 Dog Parkour
