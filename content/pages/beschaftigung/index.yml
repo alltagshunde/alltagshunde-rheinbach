@@ -1,5 +1,35 @@
 title: Beschäftigung
 buildingBlocks:
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: Beschäftigungsangebote
+    headingSize: "3"
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    headingColorPrimary: false
+    text: >-
+      In meiner Hundeschule biete ich dir und deinem Hund eine runde Auswahl an
+      Beschäftigungsmöglichkeiten. 
+
+
+      Wichtig sind dabei vor allem zwei Dinge:  
+
+
+      Manchmal kommt es vor, dass wir bereits vor der Anschaffung des Hundes einen Traum haben oder uns ein bestimmtes Bild im Kopf spukt. Jeder Hund ist jedoch einzigartig und die Interessen deines Hundes müssen daher auch nicht zwangsläufig mit deinen übereinstimmen. Es ist im Übrigen ein hartnäckiges Gerücht, dass ein Hund unbedingt ein umfangreiches Beschäftigungsangebot braucht um glücklich zu sein. Nicht wenige Hunde sind völlig zufrieden ihre Menschen im Alltag begleiten und regelmäßig ausgedehnte Spaziergänge unternehmen zu dürfen. Für welche Art der Beschäftigung auch immer dein Herz brennt, wichtig ist mir dabei, dass **dein Hund und Du** Spaß daran haben und eine gute Zeit zusammen verbringen. 
+
+
+      Darüber hinaus ist mir wichtig, dass dein Hund sinnvoll beschäftigt und artgerecht ausgelastet wird. \
+
+      Im Fokus stehen daher Angebote wie die Nasenarbeit und das Apportieren, bei denen die natürlichen Fähigkeiten deines Hundes gefordert werden und Ihr gemeinsam als Team zusammenarbeitet. Abgerundet wird das Angebot durch K3DogParkour®, einem abwechslungsreichen und gesundheitsförderndem Geräteparkours, von dem wirklich jeder Hund profitieren kann.  
+
+
+      Wenn Du dir unsicher bist, welche Beschäftigung euch beiden Spaß machen könnte, sprich mich gerne an. Gerne berate ich dir und beantworte deine Fragen zu den verschiedenen Formaten. Zusammen finden wir mit Sicherheit das richtige Angebot für dich und deinen Hund. Ich freue mich auf deinen Anruf!
+    heading: Sinnvolle Beschäftigung und artgerechte Auslastung
   - type: card
     width: 1/4
     heading: Mantrailing
@@ -8,7 +38,7 @@ buildingBlocks:
     buttonLink: Mantrailing
   - type: card
     width: 1/4
-    image: tea-time.jpg
+    image: vizsla-geruchsdifferenzierung.jpg
     heading: Schnüffel dich glücklich!
     button: Mehr erfahren
     buttonLink: Geruchsdifferenzierung - Schnüffel dich glücklich
