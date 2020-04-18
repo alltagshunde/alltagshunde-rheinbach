@@ -9,7 +9,7 @@ buildingBlocks:
   - type: card
     width: 1/4
     image: schnuffel-labbi.jpg
-    heading: Geruchsdifferenzierung - Schnüffel dich glücklich!
+    heading: Schnüffel dich glücklich!
     button: Mehr erfahren
     buttonLink: Geruchsdifferenzierung - Schnüffel dich glücklich
   - type: card
