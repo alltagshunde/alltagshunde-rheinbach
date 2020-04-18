@@ -4,11 +4,11 @@ buildingBlocks:
     width: 1/4
     heading: Mantrailing
     button: Mehr erfahren
-    image: search-dog-620175_1280.jpg
+    image: mantrailing.jpg
     buttonLink: Mantrailing
   - type: card
     width: 1/4
-    image: schnuffel-labbi.jpg
+    image: tea-time.jpg
     heading: Schnüffel dich glücklich!
     button: Mehr erfahren
     buttonLink: Geruchsdifferenzierung - Schnüffel dich glücklich
@@ -20,7 +20,7 @@ buildingBlocks:
     buttonLink: Apport for Fun
   - type: card
     width: 1/4
-    image: rudi-stepper.jpg
+    image: nele-und-rudi.jpg
     heading: "K3DogParkour® "
     button: Mehr erfahren
     buttonLink: K3 Dog Parkour
