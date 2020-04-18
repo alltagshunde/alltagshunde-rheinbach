@@ -1,9 +1,43 @@
 title: Betreuung
 buildingBlocks:
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: Hundebetreuung
+    headingSize: "3"
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: Urlaubs- und Tagesbetreuung für deinen Hund
+    headingSize: "6"
+    text: >-
+      Egal ob Du lange Arbeitszeiten hast, beruflich viel unterwegs bist oder
+      mit deiner Familie eine Flugreise planst, bei mir ist dein Hund in den
+      besten Händen.
+
+
+      Wenn Du beruflich stark eingespannt oder anderweitig verhindert bist und nicht möchtest, dass dein Hund sich den ganzen Tag langweilt, springe ich gerne für dich ein. Im Rahmen meines Gassiservice darf dein Hund mich und meine Hundegruppe auf ausgedehnte Spaziergänge begleiten. Solltest du länger abwesend sein oder dein Hund ungern alleine bleiben, besteht ebenfalls die Möglichkeit deinen Hund ganztägig zu betreuen. 
+
+
+      Während der Urlaubsbetreuung lebt dein Hund mit uns und unseren Hunden im Haushalt. Selbstverständlich erhält er hier sein eigenes Körbchen und einen Rückzugsort. Ansonsten darf er sich selbstverständlich frei bewegen. Dein Hund begleitet mich und meine Hundegruppe regelmäßig auf ausgedehnte Spaziergänge und wir erleben allerhand spannende Abenteuer. Zwischendurch begleitet mich dein Hund aber auch ins Büro und zum Training, so dass nebenbei auch die Erziehung nicht zu kurz kommt. \
+
+      \
+
+      **Hinweis:**
+
+
+      **Um die hohe Qualität der Betreuung zu gewährleisten und den Aufenthalt für die Gäste, wie auch für meine eigenen Hunde so stressarm wie möglich zu gestalten, ist die Betreuung nur für bekannte Hunde bzw. nach vorherigem Kennenlernen möglich und die Plätze auf max. 2 Übernachtungsgäste begrenzt.** 
+
+
+      **Insbesondere in den Schulferien sind diese Plätze erfahrungsgemäß heiß begehrt und teilweise bis zu 6 Monate vorher ausgebucht. Bitte denke also rechtzeitig daran, einen Probetag für deinen Hund zu vereinbaren.**
   - type: card
     width: 1/2
-    image: 68676353_10102957786484248_6661898527007834112_o-2-.jpg
-    heading: Dogwalking
+    image: 67332840_10102937658181528_8169800118011166720_o.jpg
+    heading: Gassiservice
     text: ""
     button: Mehr erfahren
     buttonLink: Dogwalking
@@ -11,6 +45,6 @@ buildingBlocks:
     width: 1/2
     heading: Tages- und Urlaubsbetreuung
     button: Mehr erfahren
-    image: 67332840_10102937658181528_8169800118011166720_o.jpg
+    image: hundenasen-decke.jpg
     text: ""
     buttonLink: Tages- & Urlaubsbetreuung
