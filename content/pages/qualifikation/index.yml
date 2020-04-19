@@ -3,231 +3,196 @@ parentPage: Über mich
 buildingBlocks:
   - type: text
     width: "1"
-    headingLevel: "3"
-    headingCentered: false
-    text: >-
-      Nachfolgend ein Auszug meiner bislang erworbenen Qualifikationen im
-      Bereich Hundetraining, Verhaltensberatung und Beschäftigung:
-
-
-
-
-      **2020**
-
-
-      **Webinare**
-
-
-      * **Impulskontrolle und Frustrationstoleranz beim Hund Teil 1**(Maren Grote)
-
-      * **Impulskontrolle und Frustrationstoleranz beim Hund Teil 2**(Maren Grote)
-
-
-
-
-      **2019**
-
-
-      **Seminare**
-
-
-      * **Mantrailing für Hundetrainer und ambitionierte Hobbytrailer**(Harmke Horst)
-
-      * **Vermisstenspürhunde im Einsatz**(Harmke Horst)
-
-      * **Auslandshunde – Zuhause im Glück oder doch nicht?**(Michael Grewe)
-
-
-      **Workshops**
-
-
-      * **Trailen für Mantrailingtrainer**(Mia Warwas, Dr. Iris Mackensen-Friedrichs)
-
-      * **Schnüffel dich glücklich – Geruchsdifferenzierung Aufbau + Praxis**(Dr. Iris Mackensen-Friedrichs)
-
-      * **Themenworkshop Mantrailing für Fortgeschrittene (Abgangssuche, Ebenenwechsel in der City und Differenzierungen)**(Mark Andrew Brown, Sabine Ditterich)
-
-
-
-
-      **2018**
-
-
-      **Workshops**
-
-
-      * **Körpersprachliches Longieren mit Hund**(Sami El Ayachi)
-
-      * **Das Leben mit einem Smalltalker**(Sami El Ayachi)
-
-      * **Trainertage Mantrailing – Körpersprache des Hundes**(Sabine Ditterich)
-
-      * **Trainertage Mantrailing – Theorie**(Sabine Ditterich)
-
-      * **Trainertage Mantrailing – Trailen mit schwierigen Hunden**(Sabine Ditterich)
-
-      * **Ausbildung zum Mantrailingtrainer – Hundezentrum Mayen**(Yvonne Glanzer)
-
-      * **Trailen für Mantrailingtrainer**(Mia Warwas, Dr. Iris Mackensen-Friedrichs)
-
-      * **Hundebewegungsschulung – Wenn Vorwärtsdenker rückwärts gehen**(Sara Kirdar)
-
-      * **TCM und Verhalten I – Wie bist Du denn so und warum?**(Ines Kivelitz, Ines Koopmann)
-
-
-
-
-      **2017**
-
-
-      **Seminare**
-
-
-      * **Verhaltensstörungen bei Hunden – Neurobiologische Grundlagen von Stereotypien und Störungen der Impulskontrolle**(Robert Mehl)
-
-
-      **Workshops**
-
-
-      * **Arbeit mit ängstlichen Hunden**(Ina Pfeifle, Anne Klose)
-
-      * **Hundebegegnungen gelassen meistern**(Maren Grote, Lisa Pinsdorf)
-
-      * **TrainingsIager Erstgespräch**(Tanja Elias)
-
-
-      **Praktika**
-
-
-      * **Praktische Woche II – Erarbeitung und Umsetzung von Trainingskonzepten**(Rainer Dorenkamp, Ina Pfeifle)
-
-
-      **Themenabende**
-
-
-      * **„Bindung, Vertrauen, Beziehung, Erziehung“ – Ein Themenabend der aufräumt in Kopf und Herz**(Rainer Dorenkamp, Tanja Elias)
-
-
-
-
-      **2016**
-
-
-      **Seminare**
-
-
-      * **Rassen des Hundes**(Gerd Leder)
-
-      * **Das Verhalten des Hundes III – Spiel- und Aggressionsverhalten**(Dr. Dorit Feddersen-Petersen, Michael Grewe)
-
-      * **Anatomie, Physiologie und Gesundheit des Hundes I**(Dr. Monika Schroedter, Nicole Kieschnick)
-
-      * **Anatomie, Physiologie und Gesundheit des Hundes II**(Dr. Monika Schroedter, Nicole Kieschnick)
-
-      * **Das Verhalten des Hundes IV – Sozialverhalten und Soziale Organisation**(Dr. Iris Mackensen-Friedrichs)
-
-      * **Verhaltenstherapie und Verhaltensmodifikation**(Dr. Iris Mackensen-Friedrichs)
-
-      * **Grundlagen der Populationsgenetik und Verlust der genetischen Vielfalt**(Dr. Irene Sommerfeld-Stur, Dr. Udo Gansloßer)
-
-      * **„Beobachtung – einschätzen – eingreifen – bei Streithähnen und diskutierenden Hunden“**(Ute Heberer)
-
-
-      **Workshops**
-
-
-      * **Arbeit mit aggressiven Hunden I**(Rainer Dorenkamp, Ina Pfeifle)
-
-      * **Arbeit mit aggressiven Hunden II**(Michael Grewe, Sonee Dosoruth)
-
-      * **Möglichkeiten von Spiel und Beschäftigung**(Sonee Dosoruth, Anne Klose)
-
-      * **Arbeit mit jagenden Hunden**(Sonee Dosoruth, Anne Klose)
-
-      * **Trainingslager Hundeerziehung**(Rainer Dorenkamp, Tanja Elias)
-
-      * **Hundebegegnungen gelassen meistern**(Maren Grote)
-
-
-      **Praktika**
-
-
-      * **Beratungswoche – Beratung im Rahmen von Mensch-Hund-Beziehungen**(Claudia Lange, Tanja Elias)
-
-      * **Praktikum im Tierheim T.i.N.O. – Tiere in Not Odenwald e. V.**
-
-      * **Praktikum im Hundezentrum Mittelfranken**(Carmen & Gerd Schuster)
-
-
-      **Themenabende**
-
-
-      * **My home is my Castle – Häusliches Miteinander aus Hundesicht**(Michael Grewe)
-
-      * **Mythen der Hundehaltung**(Maren Grote)
-
-
-
-
-      **2015**
-
-
-      **Seminare**
-
-
-      * **Das Verhalten des Hundes II – Die Kommunikation**(Dr. Dorit Feddersen-Petersen, Dr. Iris Mackensen-Friedrichs)
-
-      * **Wie lernt der Hund? – Grundsätze des Lernverhaltens**(Dr. Iris Mackensen-Friedrichs, Nicole Kieschnick)
-
-      * **Gesprächsführung und Beratung – Ein Kommunikationsseminar**(Claudia Lange, Tanja Elias)
-
-      * **Genetische Grundlagen der Hundezucht**(Dr. Iris Mackensen-Friedrichs)
-
-
-      **Workshops**
-
-
-      * **Kommunikation zwischen Mensch & Hund – Grundsätze der Körpersprache**(Rainer Dorenkamp)
-
-      * **Welpenaufzucht und -Erziehung – Aufbau und Moderation einer Welpengruppe**(Bettina Bannes-Grewe)
-
-      * **Leinenführigkeit**(Anne Klose, Sonee Dosoruth)
-
-      * **Junghundetraining**(Rainer Dorenkamp, Sonee Dosoruth)
-
-      * **Übungsaufbau**(Rainer Dorenkamp, Sonee Dosoruth)
-
-      * **Häusliches Programm & Konfliktmanagement**(Rainer Dorenkamp, Ina Pfeifle)
-
-
-      **Praktika**
-
-
-      * **Praktikum im Tierheim Lübeck e. V.**
-
-      * **Praktikum Erarbeitung eines Soziogramms über Dingos**(Dr. Iris Mackensen-Friedrichs)
-
-
-
-
-      **2014**
-
-
-      **Seminare**
-
-
-      * **Einführung in die Kynologie**(Dr. Walter Reulecke, Michael Grewe, Gerd Leder)
-
-      * **Körpersprache des Hundes**(Dr. Iris Mackensen-Friedrichs)
-
-      * **Das Verhalten des Hundes I – Die ontogenetische Entwicklung**(Dr. Dorit Feddersen-Petersen, Michael Grewe)
-
-
-      **Praktika**
-
-
-      * **Praktische Woche I – Hundeausbildung in Theorie und Praxis**(Rainer Dorenkamp, Michael Grewe, Ina Pfeifle, Sonee Dosoruth)
-
-      * **Ethogramm des Wolfes**(Dr. Iris Mackensen-Friedrichs, Nicole Kieschnik)
+    headingLevel: "1"
+    headingCentered: true
+    text: ""
     heading: Qualifikation
-    headingSize: "3"
+    headingSize: "1"
+    headingColorPrimary: false
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: "Hier erfährst Du näheres zu meiner Ausbildung und Qualifikation... "
+    text: >-
+      Von September 2014 bis Juli 2017 absolvierte ich das Studium zur
+      Hundetrainerin und Verhaltensberaterin bei Canis -Zentrum für Kynologie,
+      ein fachlich umfassendes und wissenschaftlich fundiertes, qualitativ
+      hochwertiges kynologisches Studium. Neben biologischen und ethologischen
+      Grundlagen zu Anatomie, Physiologie, Gesundheit und Verhalten des Hundes,
+      habe ich durch den hohen Praxisanteil des Studiums umfangreiche Kenntnisse
+      zur Ausbildung und Erziehung junger Hunde, sowie der therapeutischen
+      Arbeit mit jagenden, aggressiven und ängstlichen Hunden, sowie der
+      Beratung deren Halter erworben.
+
+
+      Ergänzt wurden diese Kenntnisse durch praktische Einblicke in die Arbeit verschiedener Tierheime und Hundeschulen in Form von Praktika.
+
+
+      Seit 2017 beschäftige ich mich sehr intensiv mit dem Thema Nasenarbeit und führe zwei eigene Hunde im Mantrailing. Von Mai 2018 bis Mai 2019 absolvierte ich eine Ausbildung zum Mantrailing Trainerin im Hundezentrum Mayen. Darüber hinaus besuche ich regelmäßig Workshops bei namhaften Dozenten wie Sabine Ditterich, Mark Brown, Harmke Horst sowie Dr. Iris Mackensen-Friedrichs und Mia Warwas.
+
+
+      **Seit 2017 verfüge ich über die erforderliche Erlaubnis gemäß §11 Abs. 1 Nr. 8f TierSchG zum Betrieb einer Hundeschule.**
+
+
+      Regelmäßige Fortbildung ist für mich nicht nur eine Selbstverständlichkeit, sondern ein Vergnügen. Nachfolgend eine Liste der von mir besuchten Fortbildungen *außerhalb* meines Studiums bei Canis.
+
+
+
+
+      ***Seminare***
+
+
+      2020
+
+
+      **Webinar Impulskontrolle und Frustrationstoleranz beim Hund Teil 1**(Maren Grote)
+
+
+      **Webinar Impulskontrolle und Frustrationstoleranz beim Hund Teil 2**(Maren Grote)
+
+
+      2019
+
+
+      **Mantrailing für Hundetrainer und ambitionierte Hobbytrailer**(Harmke Horst)
+
+
+      **Vermisstenspürhunde im Einsatz**(Harmke Horst)
+
+
+      **Auslandshunde – Zuhause im Glück oder doch nicht?**(Michael Grewe)
+
+
+      2017
+
+
+      **Verhaltensstörungen bei Hunden – Neurobiologische Grundlagen von Stereotypien und Störungen der Impulskontrolle**(Robert Mehl)
+
+
+      2016
+
+
+      **Grundlagen der Populationsgenetik und Verlust der genetischen Vielfalt**(Dr. Irene Sommerfeld-Stur, Dr. Udo Gansloßer)
+
+
+      **„Beobachtung – einschätzen – eingreifen – bei Streithähnen und diskutierenden Hunden“**(Ute Heberer)
+
+
+
+
+      ***Workshops***
+
+
+      2019
+
+
+      **Trailen für Mantrailingtrainer**(Mia Warwas, Dr. Iris Mackensen-Friedrichs)
+
+
+      **Schnüffel dich glücklich – Geruchsdifferenzierung Aufbau + Praxis**(Dr. Iris Mackensen-Friedrichs)
+
+
+      **Mantrailing für Fortgeschrittene (Abgangssuche, Ebenenwechsel in der City, Differenzierungen)**(Mark Andrew Brown, Sabine Ditterich)
+
+
+      2018
+
+
+      **Körpersprachliches Longieren mit Hund**(Sami El Ayachi)
+
+
+      **Das Leben mit einem Smalltalker**(Sami El Ayachi)
+
+
+      **Trainertage Mantrailing – Körpersprache des Hundes**(Sabine Ditterich)
+
+
+      **Trainertage Mantrailing – Theorie**(Sabine Ditterich)
+
+
+      **Trainertage Mantrailing – Trailen mit schwierigen Hunden**(Sabine Ditterich)
+
+
+      **Ausbildung zum Mantrailingtrainer – Hundezentrum Mayen**(Yvonne Glanzer)
+
+
+      **Trailen für Mantrailingtrainer**(Mia Warwas, Dr. Iris Mackensen-Friedrichs)
+
+
+      **Hundebewegungsschulung – Wenn Vorwärtsdenker rückwärtsgehen**(Sara Kirdar)
+
+
+      **TCM und Verhalten I – Wie bist Du denn so und warum?**(Ines Kivelitz, Ines Koopmann)
+
+
+      2017
+
+
+      **Arbeit mit ängstlichen Hunden**(Ina Pfeifle, Anne Klose)
+
+
+      **Hundebegegnungen gelassen meistern**(Maren Grote, Lisa Pinsdorf)
+
+
+      **TrainingsIager Erstgespräch**(Tanja Elias)
+
+
+      2016
+
+
+      **Trainingslager Hundeerziehung**(Rainer Dorenkamp, Tanja Elias)
+
+
+      **Hundebegegnungen gelassen meistern**(Maren Grote)
+
+
+
+
+      ***Praktika***
+
+
+      2016
+
+
+      **Praktikum im Tierheim T.i.N.O. – Tiere in Not Odenwald e. V.**
+
+
+      **Praktikum in Hundeschule und Pension – Hundezentrum Mittelfranken**(Carmen & Gerd Schuster)
+
+
+      2015
+
+
+      **Praktikum im Tierheim Lübeck e. V.**
+
+
+      **Praktikum Erarbeitung eines Soziogramms über Dingos**(Dr. Iris Mackensen-Friedrichs)
+
+
+      2014
+
+
+      **Praktische Woche I – Hundeausbildung in Theorie und Praxis**(Rainer Dorenkamp, Michael Grewe, Ina Pfeifle, Sonee Dosoruth)
+
+
+
+
+      ***Themenabende***
+
+
+      2017
+
+
+      **„Bindung, Vertrauen, Beziehung, Erziehung“ – Ein Themenabend der aufräumt in Kopf und Herz**(Rainer Dorenkamp, Tanja Elias)
+
+
+      2016
+
+
+      **My home is my Castle – Häusliches Miteinander aus Hundesicht**(Michael Grewe)
+
+
+      **Mythen der Hundehaltung**(Maren Grote)
+    headingSize: "6"
