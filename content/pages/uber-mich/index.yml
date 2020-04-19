@@ -52,15 +52,17 @@ buildingBlocks:
     isBanner: false
     image: 2015-03-07-06349.jpg
   - type: card
-    width: 1/3
+    width: 1/2
     image: e90a4922-2.jpg
     heading: Philosophie & Arbeitsweise
     button: Mehr erfahren
     buttonLink: Philosophie
+    innerWidth: 3/4
   - type: card
-    width: 1/3
+    width: 1/2
     image: canis-absolventin.png
     heading: Qualifikation
     text: ""
     button: Mehr erfahren
     buttonLink: Qualifikation
+    innerWidth: 3/4
