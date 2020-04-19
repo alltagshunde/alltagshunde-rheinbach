@@ -6,10 +6,10 @@ buildingBlocks:
     headingCentered: true
     headingColorPrimary: false
     heading: Beschäftigungsangebote
-    headingSize: "3"
+    headingSize: "1"
   - type: text
     width: "1"
-    headingLevel: "1"
+    headingLevel: "2"
     headingCentered: true
     headingColorPrimary: false
     text: >-
@@ -27,7 +27,7 @@ buildingBlocks:
 
       Wenn Du dir unsicher bist, welche Beschäftigung euch beiden Spaß machen könnte, sprich mich gerne an. Gerne berate ich dir und beantworte deine Fragen zu den verschiedenen Formaten. Zusammen finden wir mit Sicherheit das richtige Angebot für dich und deinen Hund. Ich freue mich auf deinen Anruf!
     heading: Sinnvolle Beschäftigung und artgerechte Auslastung
-    headingSize: "6"
+    headingSize: "2"
   - type: card
     width: 1/4
     heading: Mantrailing

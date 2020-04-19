@@ -1,26 +1,26 @@
 title: Home
 isLandingPage: true
 buildingBlocks:
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: Hundetraining für den Alltag
+    headingSize: "1"
+    text: ""
   - type: image
     image: 2019-03-23-05268.jpg
     width: 1/4
-    innerWidth: '1'
+    innerWidth: "1"
     isBanner: false
   - type: text
-    heading: Herzlich willkommen!
+    heading: Für ein entspanntes Miteinander von Mensch und Hund
     text: >-
       Ich freue mich, dass Du den Weg auf meine Webseite gefunden hast.
 
 
-      In der Region Rheinbach, Meckenheim und Wachtberg biete ich interessierten
-      Hundehaltern ein umfangreiches Angebot rund um die Erziehung und
-      Beschäftigung mit dem geliebten Vierbeiner. Sicher ist auch für dich und
-      deinen Hund etwas Passendes dabei und ich freue mich darauf, dich und
-      deinen Hund beim gemeinsamen Training oder einer der Hundewanderungen
-      persönlich kennenzulernen! <br/>Solltest Du doch etwas vermissen oder
-      Fragen zum Training für dich und deinen Hund haben, ruf mich doch einfach
-      an und wir sprechen darüber wie ich dich am besten bei der Erreichung
-      deiner Ziele unterstützen kann!
+      In der Region Rheinbach, Meckenheim und Wachtberg biete ich interessierten Hundehaltern ein umfangreiches Angebot rund um die Erziehung und Beschäftigung mit dem geliebten Vierbeiner. Sicher ist auch für dich und deinen Hund etwas Passendes dabei und ich freue mich darauf, dich und deinen Hund beim gemeinsamen Training oder einer der Hundewanderungen persönlich kennenzulernen! <br/>Solltest Du doch etwas vermissen oder Fragen zum Training für dich und deinen Hund haben, ruf mich doch einfach an und wir sprechen darüber wie ich dich am besten bei der Erreichung deiner Ziele unterstützen kann!
 
 
       Bis dahin, viel Spaß auf meiner Seite!
@@ -28,6 +28,30 @@ buildingBlocks:
 
       Deine Carolin Henseler
     width: 3/4
-    headingLevel: '1'
-    headingSize: '3'
+    headingLevel: "2"
+    headingSize: "3"
     headingCentered: false
+  - heading: Kontakt aufnehmen
+    headingLevel: "2"
+    headingSize: "3"
+    width: "1"
+    facebook: https://www.example.com
+    whatsapp: "00176"
+    headingCentered: true
+    type: contact
+    email: caro@alltagshunde-rheinbach.de
+  - type: message
+    width: "1"
+    isBanner: true
+    image: rheinbach.png
+    heading: Senden Sie mir eine Nachricht
+    headingLevel: "3"
+    headingSize: "4"
+    headingCentered: true
+  - type: text
+    width: "1"
+    headingLevel: "2"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: AlltagsHunde bietet
+    headingSize: "2"

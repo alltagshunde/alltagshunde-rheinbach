@@ -1,6 +1,18 @@
 title: Über mich
 isLandingPage: false
 buildingBlocks:
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: Über mich
+  - type: text
+    width: "1"
+    headingLevel: "2"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: Carolin Henseler - Zur Person
   - type: card
     width: 1/3
     image: 2015-03-07-06349.jpg

@@ -12,7 +12,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@alltagshunde/gatsby-theme-alltagshunde": "alltagshunde/gatsby-theme-alltagshunde#v1.0.7",
-    "gatsby": "^2.19.45"
+    "@alltagshunde/gatsby-theme-alltagshunde": "alltagshunde/gatsby-theme-alltagshunde#v1.0.8",
+    "gatsby": "^2.19"
   }
 }

@@ -6,14 +6,14 @@ buildingBlocks:
     headingCentered: true
     headingColorPrimary: false
     heading: Hundebetreuung
-    headingSize: "3"
+    headingSize: "1"
   - type: text
     width: "1"
-    headingLevel: "3"
+    headingLevel: "2"
     headingCentered: true
     headingColorPrimary: false
     heading: Urlaubs- und Tagesbetreuung für deinen Hund
-    headingSize: "6"
+    headingSize: "2"
     text: >-
       Egal ob Du lange Arbeitszeiten hast, beruflich viel unterwegs bist oder
       mit deiner Familie eine Flugreise planst, bei mir ist dein Hund in den
@@ -23,11 +23,10 @@ buildingBlocks:
       Wenn Du beruflich stark eingespannt oder anderweitig verhindert bist und nicht möchtest, dass dein Hund sich den ganzen Tag langweilt, springe ich gerne für dich ein. Im Rahmen meines Gassiservice darf dein Hund mich und meine Hundegruppe auf ausgedehnte Spaziergänge begleiten. Solltest du länger abwesend sein oder dein Hund ungern alleine bleiben, besteht ebenfalls die Möglichkeit deinen Hund ganztägig zu betreuen. 
 
 
-      Während der Urlaubsbetreuung lebt dein Hund mit uns und unseren Hunden im Haushalt. Selbstverständlich erhält er hier sein eigenes Körbchen und einen Rückzugsort. Ansonsten darf er sich selbstverständlich frei bewegen. Dein Hund begleitet mich und meine Hundegruppe regelmäßig auf ausgedehnte Spaziergänge und wir erleben allerhand spannende Abenteuer. Zwischendurch begleitet mich dein Hund aber auch ins Büro und zum Training, so dass nebenbei auch die Erziehung nicht zu kurz kommt. \
+      Während der Urlaubsbetreuung lebt dein Hund mit uns und unseren Hunden im Haushalt. Selbstverständlich erhält er hier sein eigenes Körbchen und einen Rückzugsort. Ansonsten darf er sich selbstverständlich frei bewegen. Dein Hund begleitet mich und meine Hundegruppe regelmäßig auf ausgedehnte Spaziergänge und wir erleben allerhand spannende Abenteuer. Zwischendurch begleitet mich dein Hund aber auch ins Büro und zum Training, so dass nebenbei auch die Erziehung nicht zu kurz kommt. 
 
-      \
 
-      **Hinweis:**
+      ### Hinweis:
 
 
       **Um die hohe Qualität der Betreuung zu gewährleisten und den Aufenthalt für die Gäste, wie auch für meine eigenen Hunde so stressarm wie möglich zu gestalten, ist die Betreuung nur für bekannte Hunde bzw. nach vorherigem Kennenlernen möglich und die Plätze auf max. 2 Übernachtungsgäste begrenzt.** 
@@ -41,6 +40,7 @@ buildingBlocks:
     text: ""
     button: Mehr erfahren
     buttonLink: Dogwalking
+    innerWidth: 3/4
   - type: card
     width: 1/2
     heading: Tages- und Urlaubsbetreuung
@@ -48,3 +48,4 @@ buildingBlocks:
     image: hundenasen-decke.jpg
     text: ""
     buttonLink: Tages- & Urlaubsbetreuung
+    innerWidth: 3/4
