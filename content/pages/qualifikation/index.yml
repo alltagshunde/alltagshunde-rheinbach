@@ -14,7 +14,7 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
-    heading: "Hier erfährst Du näheres zu meiner Ausbildung und Qualifikation... "
+    heading: "Hier erfährst Du näheres zu meiner Ausbildung und Qualifikation. "
     text: >-
       Von September 2014 bis Juli 2017 absolvierte ich das Studium zur
       Hundetrainerin und Verhaltensberaterin bei Canis -Zentrum für Kynologie,
@@ -37,10 +37,13 @@ buildingBlocks:
 
 
       Regelmäßige Fortbildung ist für mich nicht nur eine Selbstverständlichkeit, sondern ein Vergnügen. Nachfolgend eine Liste der von mir besuchten Fortbildungen *außerhalb* meines Studiums bei Canis.
-
-
-
-
+    headingSize: "6"
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    headingColorPrimary: false
+    text: >-
       ***Seminare***
 
 
@@ -78,20 +81,22 @@ buildingBlocks:
 
 
       **„Beobachtung – einschätzen – eingreifen – bei Streithähnen und diskutierenden Hunden“**(Ute Heberer)
-
-
-
-
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    headingColorPrimary: false
+    text: >-
       ***Workshops***
 
 
       2019
 
 
-      **Trailen für Mantrailingtrainer**(Mia Warwas, Dr. Iris Mackensen-Friedrichs)
+      **Trailen für Mantrailingtrainer** (Mia Warwas, Dr. Iris Mackensen-Friedrichs)
 
 
-      **Schnüffel dich glücklich – Geruchsdifferenzierung Aufbau + Praxis**(Dr. Iris Mackensen-Friedrichs)
+      **Schnüffel dich glücklich – Geruchsdifferenzierung Aufbau + Praxis** (Dr. Iris Mackensen-Friedrichs)
 
 
       **Mantrailing für Fortgeschrittene (Abgangssuche, Ebenenwechsel in der City, Differenzierungen)**(Mark Andrew Brown, Sabine Ditterich)
@@ -100,56 +105,55 @@ buildingBlocks:
       2018
 
 
-      **Körpersprachliches Longieren mit Hund**(Sami El Ayachi)
+      **Körpersprachliches Longieren mit Hund** (Sami El Ayachi)
 
 
-      **Das Leben mit einem Smalltalker**(Sami El Ayachi)
+      **Das Leben mit einem Smalltalker** (Sami El Ayachi)
 
 
-      **Trainertage Mantrailing – Körpersprache des Hundes**(Sabine Ditterich)
+      **Trainertage Mantrailing – Körpersprache des Hundes** (Sabine Ditterich)
 
 
-      **Trainertage Mantrailing – Theorie**(Sabine Ditterich)
+      **Trainertage Mantrailing – Theorie** (Sabine Ditterich)
 
 
-      **Trainertage Mantrailing – Trailen mit schwierigen Hunden**(Sabine Ditterich)
+      **Trainertage Mantrailing – Trailen mit schwierigen Hunden** (Sabine Ditterich)
 
 
-      **Ausbildung zum Mantrailingtrainer – Hundezentrum Mayen**(Yvonne Glanzer)
+      **Trailen für Mantrailingtrainer** (Mia Warwas, Dr. Iris Mackensen-Friedrichs)
 
 
-      **Trailen für Mantrailingtrainer**(Mia Warwas, Dr. Iris Mackensen-Friedrichs)
+      **Hundebewegungsschulung – Wenn Vorwärtsdenker rückwärtsgehen** (Sara Kirdar)
 
 
-      **Hundebewegungsschulung – Wenn Vorwärtsdenker rückwärtsgehen**(Sara Kirdar)
-
-
-      **TCM und Verhalten I – Wie bist Du denn so und warum?**(Ines Kivelitz, Ines Koopmann)
+      **TCM und Verhalten I – Wie bist Du denn so und warum?** (Ines Kivelitz, Ines Koopmann)
 
 
       2017
 
 
-      **Arbeit mit ängstlichen Hunden**(Ina Pfeifle, Anne Klose)
+      **Arbeit mit ängstlichen Hunden** (Ina Pfeifle, Anne Klose)
 
 
-      **Hundebegegnungen gelassen meistern**(Maren Grote, Lisa Pinsdorf)
+      **Hundebegegnungen gelassen meistern** (Maren Grote, Lisa Pinsdorf)
 
 
-      **TrainingsIager Erstgespräch**(Tanja Elias)
+      **TrainingsIager Erstgespräch** (Tanja Elias)
 
 
       2016
 
 
-      **Trainingslager Hundeerziehung**(Rainer Dorenkamp, Tanja Elias)
+      **Trainingslager Hundeerziehung** (Rainer Dorenkamp, Tanja Elias)
 
 
-      **Hundebegegnungen gelassen meistern**(Maren Grote)
-
-
-
-
+      **Hundebegegnungen gelassen meistern** (Maren Grote)
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    headingColorPrimary: false
+    text: >-
       ***Praktika***
 
 
@@ -175,24 +179,25 @@ buildingBlocks:
 
 
       **Praktische Woche I – Hundeausbildung in Theorie und Praxis**(Rainer Dorenkamp, Michael Grewe, Ina Pfeifle, Sonee Dosoruth)
-
-
-
-
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    headingColorPrimary: false
+    text: >-
       ***Themenabende***
 
 
       2017
 
 
-      **„Bindung, Vertrauen, Beziehung, Erziehung“ – Ein Themenabend der aufräumt in Kopf und Herz**(Rainer Dorenkamp, Tanja Elias)
+      **„Bindung, Vertrauen, Beziehung, Erziehung“ – Ein Themenabend der aufräumt in Kopf und Herz** (Rainer Dorenkamp, Tanja Elias)
 
 
       2016
 
 
-      **My home is my Castle – Häusliches Miteinander aus Hundesicht**(Michael Grewe)
+      **My home is my Castle – Häusliches Miteinander aus Hundesicht** (Michael Grewe)
 
 
       **Mythen der Hundehaltung**(Maren Grote)
-    headingSize: "6"
