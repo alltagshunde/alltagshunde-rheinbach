@@ -14,14 +14,17 @@ buildingBlocks:
     headingColorPrimary: false
     heading: Carolin Henseler - Zur Person
     text: >-
-      Ich bin 1982 geboren und zusammen mit meinem Lebensgefährten und unseren
-      zwei Hunden wohne ich im schönen Wachtberger Ländchen nahe Bonn.
+      Zusammen mit meinem Lebensgefährten und unseren zwei Hunden wohne ich im
+      schönen Wachtberger Ländchen nahe Bonn. Der Weg zum Hundetrainer ergab
+      sich für mich eher ungeplant. Denn nach meinem Abitur im Jahr 2001
+      absolvierte ich zunächst eine klassische kaufmännische Ausbildung als
+      Bankkauffrau mit anschließendem Studium und diversen Stationen im Ausland.
+      Im Jahr 2010 führte mich mein Weg dann der Liebe wegen wieder zurück ins
+      schöne Rheinland. Seither bin ich hier für einen europaweit führenden
+      Anbieter von Express- und Kurierdienstleistungen tätig.
 
 
-      Der Weg zum Hundetrainer ergab sich für mich eher ungeplant. Nach meinem Abitur im Jahr 2001 strebte ich zunächst eine klassische kaufmännische Ausbildung als Bankkauffrau mit anschließendem Studium und diversen Stationen im Ausland. Im Jahr 2010 führte mich mein Weg dann der Liebe wegen wieder zurück ins schöne Rheinland. Seither bin ich hier für einen europaweit führenden Anbieter von Express- und Kurierdienstleistungen tätig.
-
-
-      Als 2011 unser Rüde Aris als Welpe bei uns einzog, wollten ich ihm natürlich von Anfang an einen optimalen Start ins Leben ermöglichen. Doch ich fühlte mich schnell erschlagen von der Masse an Informationen, die in der heutigen Medienlandschaft so leicht verfügbar sind und vielleicht gerade deshalb oft für Verwirrung sorgen. Gerade in den sozialen Medien wird vieles oft sehr emotional und hitzig, teilweise sogar unter der Gürtellinie diskutiert. Auf der Suche nach dem richtigen Weg für mich und meinen Hund besuchte ich also verschiedene Hundeschulen, las Bücher, besuchte Seminare etc. doch mein Wissensdurst blieb ungestillt.
+      Als 2011 unser Rüde Aris als Welpe bei uns einzog, wollten ich ihm natürlich von Anfang an einen optimalen Start ins Leben ermöglichen. Doch die Masse an Informationen, die in der heutigen Medienlandschaft so leicht verfügbar sind empfand ich sehr verwirrend. Gerade in den sozialen Medien wird vieles oft sehr emotional und hitzig, teilweise sogar unter der Gürtellinie diskutiert. Auf der Suche nach dem richtigen Weg für mich und meinen Hund besuchte ich also verschiedene Hundeschulen, las Bücher, besuchte Seminare etc. doch mein Wissensdurst blieb ungestillt.
 
 
       Im Jahr 2014 entschied ich mich daher für das Studium zur Hundetrainerin und Verhaltensberaterin bei **[Canis](www.canis-kynos.de)**. Ursprünglich nur gedacht um meinen eigenen Wissendurst zu stillen, erkannte ich während des Studiums jedoch schnell wie viel Spaß es mir bereitet, Menschen zu mehr Verständnis für das hündische Verhalten und zu einer besseren Kommunikation mit Ihrem Hund zu verhelfen. Der Umgang mit Hunden und ihren Menschen bedeutet seither für mich einen gelungenen Ausgleich zu meinem Alltag im Büro. 
@@ -34,17 +37,23 @@ buildingBlocks:
     isBanner: false
     image: 2019-03-23-05268.jpg
   - type: card
-    width: 1/2
+    width: 1/3
     image: e90a4922-2.jpg
     heading: Philosophie & Arbeitsweise
     button: Mehr erfahren
     buttonLink: Philosophie
     innerWidth: 3/4
   - type: card
-    width: 1/2
+    width: 1/3
     image: canis-absolventin.png
     heading: Qualifikation
     text: ""
     button: Mehr erfahren
     buttonLink: Qualifikation
     innerWidth: 3/4
+  - type: card
+    width: 1/3
+    innerWidth: 3/4
+    heading: Meine Hunde
+    button: Mehr erfahren
+    image: 2019-10-25-01149.jpg
