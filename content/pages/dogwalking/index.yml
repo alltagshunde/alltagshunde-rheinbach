@@ -53,8 +53,6 @@ buildingBlocks:
       Hund wieder sicher und bequem zu dir nach hause oder ins Büro zurück.
 
 
-
-
       **Kosten:** 
 
 
@@ -71,18 +69,6 @@ buildingBlocks:
       * Ca. 1,5 – 2-stündiger Spaziergang in Wald und Feld bei jedem Wetter.
 
       * Bei Bedarf Betreuung im Haus (z. B. Füttern, Medikamente verabreichen o. ä. )
-
-
-
-
-      **Wenn Du jetzt neugierig geworden bist, dann melde dich über das Kontaktformular oder ruf mich gleich an: 0176 6171 1772**\
-
-      \
-
-      **Ich freue mich auf deinen Anruf und beantworte gerne deine Fragen!**
-
-
-      **Deine Carolin**
   - type: text
     width: 1/2
     headingLevel: "3"
@@ -102,3 +88,18 @@ buildingBlocks:
       * Läufige Hündinnen können je nach Zusammenstellung in der Gruppe oder nur einzeln betreut werden. 
 
       * Dein Hund sollte kein übersteigertes Jagdverhalten haben, damit er in der Gruppe abgeleint werden kann.
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    headingColorPrimary: false
+    text: >-
+      **Wenn Du jetzt neugierig geworden bist, dann melde dich über das
+      Kontaktformular oder ruf mich gleich an: 0176 6171 1772**\
+
+      \
+
+      **Ich freue mich auf deinen Anruf oder deine Nachricht und beantworte gerne deine Fragen!**
+
+
+      **Deine Carolin**
