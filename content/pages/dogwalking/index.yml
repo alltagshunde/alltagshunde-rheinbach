@@ -4,67 +4,101 @@ parentPage: Betreuung
 buildingBlocks:
   - type: text
     width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: Gassiservice - Dogwalking
+  - type: text
+    width: "1"
     headingLevel: "3"
     headingCentered: true
-    heading: Dogwalking - Gassi-Service // *** Freie Plätze Donnerstags und
-      Freitags! ***
+    heading: "*** Aktuell donnerstags und freitags freie Plätze! ***"
     text: >-
       Die Gründe einen professionellen Gassi-Service in Anspruch zu nehmen,
       können vielfältig sein. Ob aus beruflichen, privaten oder gesundheitlichen
-      Gründen, dein Hund ist bei mir bestens aufgehoben. 
+      Gründen, dein Hund ist bei mir bestens aufgehoben. Du kannst dich darauf
+      verlassen, dass dein Hund in deiner Abwesenheit eine gute Zeit hat und
+      nach unserem Spaziergang ausgeglichen und zufrieden auf dich warten wird.
 
 
-      Du kannst dich darauf verlassen, dass dein Hund in deiner Abwesenheit eine gute Zeit hat und nach unserem Spaziergang ausgeglichen und zufrieden auf dich warten wird.
 
 
-      **Vorteile für dich und deinen Hund:**
+      **Vorteile des Gassiservices für dich und deinen Hund:**
 
 
       * Dein Hund muss nicht alleine zuhause bleiben oder sich im Büro langweilen, während du arbeitest.
 
-      * Du kannst dich völlig auf deine Arbeit konzentrieren oder Termine wahrnehmen, ohne ein schlechtes Gewissen zu haben.
+      * Du kannst dich völlig auf deine Arbeit konzentrieren oder Termine wahrnehmen und brauchst kein schlechtes Gewissen zu haben.
 
       * Dein Hund hat Kontakt zu Artgenossen, mit denen er frei laufen kann und sich wie ein Hund verhalten darf.
 
-      * Selbstverständlich lege ich auch während des Gassi-Service Wert auf gute Manieren, daher werden auch Grundgehorsam, Leinenführigkeit und Abruf deines Hundes stets gefestigt bzw. weiter ausgebaut.
+      * Selbstverständlich lege ich auch während des Gassi-Service Wert auf gute Manieren, daher werden auch Grundgehorsam, Leinenführigkeit und Abruf deines Hundes stets gefestigt bzw. verbessert.
 
-      * Ich hole deinen Hund in meinem mit professionellen Hundeboxen ausgestatteten Auto bei dir Zuhause oder an deinem Arbeitsplatz ab. Nach unserem Ausflug in Feld und Wald bringe ich ihn wieder sicher und bequem nach hause oder ins Büro zurück.
+      * Nach unserem Ausflug ins Grüne wartet dein Hund ausgeglichen und zufrieden auf deine Rückkehr bzw. den Feierabend.
+    headingSize: "3"
+  - type: text
+    width: 1/2
+    headingLevel: "1"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: Ablauf & Kosten
+    text: >-
+      Ich hole deinen Hund in meinem mit professionellen Hundeboxen
+      ausgestatteten Auto je nach Absprache bei dir Zuhause oder an deinem
+      Arbeitsplatz ab. Wenn alle Hunde eingesammelt sind unternehmen wir einen
+      Ausflug ins Grüne. Meist gehen wir im Wald spazieren, wobei ich immer für
+      Abwechslung und im Sommer natürlich auch für Schatten und Wasser sorge. In
+      der Regel besteht die Gruppe aus 4 - 8 Hunden (inkl. meiner eigenen Hunde)
+      und wir laufen ca. 1,5 - 2 Stunden. Nach dem Spaziergang bringe ich deinen
+      Hund wieder sicher und bequem zu dir nach hause oder ins Büro zurück.
 
 
-      **Mein Service beinhaltet folgende Leistungen:**
+
+
+      **Kosten:** 
+
+
+      25,00 € pro Spaziergang (inkl. Fahrtkosten in Wachtberg, Meckenheim o. Rheinbach)\
+
+      Monats-Abonnement auf Anfrage möglich.  
+
+
+      **Dafür erhältst Du folgende Leistungen:**
 
 
       * Abhol- & Bring-Dienst im Umkreis von Rheinbach, Meckenheim, Wachtberg
 
-      * 1,5 – 2-stündiger Spaziergang in Wald und Feld bei jedem Wetter.
+      * Ca. 1,5 – 2-stündiger Spaziergang in Wald und Feld bei jedem Wetter.
 
       * Bei Bedarf Betreuung im Haus (z. B. Füttern, Medikamente verabreichen o. ä. )
 
 
-      **Voraussetzungen:**
 
 
-      * Dein Hund sollte eine gültige Steuermarke besitzen, haftpflichtversichert und vollständig geimpft sein.
-
-      * Dein Hund sollte grundsätzlich verträglich mit Artgenossen und Menschen sein.
-
-      * Läufige Hündinnen können leider nicht in der Gruppe betreut werden.
-
-      * Dein Hund sollte kein übersteigertes Jagdverhalten haben, damit er in der Gruppe abgeleint werden kann.
-
-
-      **Preise:**
-
-
-      25,00 € pro Spaziergang (inkl. Fahrtkosten)
-
-
-      Monats-Abo auf Anfrage. 
-
-
-      Wenn Du jetzt neugierig geworden bist, dann schreib mir oder ruf mich gleich an und ich beantworte gerne deine Fragen!\
+      **Wenn Du jetzt neugierig geworden bist, dann melde dich über das Kontaktformular oder ruf mich gleich an: 0176 6171 1772**\
 
       \
 
-      Mobil: 0176 6171 1772
-    headingSize: "3"
+      **Ich freue mich auf deinen Anruf und beantworte gerne deine Fragen!**
+
+
+      **Deine Carolin**
+  - type: text
+    width: 1/2
+    headingLevel: "3"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: Voraussetzungen
+    text: >-
+      * Dein Hund sollte eine gültige Steuermarke besitzen und auf dich als
+      Halter registriert sein
+
+      * Dein Hund benötigt eine gültige Haftpflichtversicherung die Fremdbetreuung einschließt (dies ist bei den meisten Versicherungen recht unbürokratisch möglich) 
+
+      * Dein Hund sollte frei von ansteckenden Krankheiten sein und über einen gültigen Impfstatus verfügen
+
+      * Dein Hund sollte grundsätzlich verträglich mit Artgenossen und Menschen sein. \
+        Sollte es hier Einschränkungen geben, sprich mich gerne trotzdem an. Oft können diese Hunde - eine Maulkorbgewöhnung vorausgesetzt - je nach Zusammenstellung der Gruppe ebenfalls betreut werden und davon profitieren. 
+      * Läufige Hündinnen können je nach Zusammenstellung in der Gruppe oder nur einzeln betreut werden. 
+
+      * Dein Hund sollte kein übersteigertes Jagdverhalten haben, damit er in der Gruppe abgeleint werden kann.
