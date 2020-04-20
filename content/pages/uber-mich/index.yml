@@ -8,7 +8,7 @@ buildingBlocks:
     headingColorPrimary: false
     heading: Über mich
   - type: text
-    width: "1"
+    width: 2/3
     headingLevel: "2"
     headingCentered: true
     headingColorPrimary: false
@@ -28,6 +28,11 @@ buildingBlocks:
 
 
       **Selbstverständlich verfüge ich über die erforderliche Erlaubnis gemäß §11 Abs. 1 Nr. 8f TierSchG zum Betrieb einer Hundeschule. Mehr zu meiner Ausbildung und Qualifikation erfährst Du auf den folgenden Seiten.**
+  - type: image
+    width: 1/3
+    innerWidth: 3/4
+    isBanner: false
+    image: 2019-03-23-05268.jpg
   - type: card
     width: 1/2
     image: e90a4922-2.jpg
