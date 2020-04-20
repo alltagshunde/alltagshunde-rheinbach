@@ -10,7 +10,7 @@ buildingBlocks:
     headingColorPrimary: false
   - type: text
     width: "1"
-    headingLevel: "1"
+    headingLevel: "2"
     headingCentered: true
     headingColorPrimary: false
     text: '***"Erziehung hat mit Beziehung zu tun, nicht mit Anleitungen. Mit
