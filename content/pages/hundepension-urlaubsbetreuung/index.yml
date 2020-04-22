@@ -28,26 +28,24 @@ buildingBlocks:
     headingSize: "2"
   - type: text
     width: 1/2
-    headingLevel: "3"
+    headingLevel: "2"
     headingCentered: false
     headingColorPrimary: false
-    heading: ""
+    heading: Aufnahmebedingungen und Kosten
     text: >-
       **Kosten:** 
 
 
-      35,00 € pro Tag; 
+      * 35,00 € pro Tag; 
 
+      * Zweithund 25,00 € pro Tag
 
-      Zweithund 25,00 € pro Tag
-
-
-      Abgabe- und Abholtag werden in vollem Umfang berechnet.
+      * Abgabe- und Abholtag werden in vollem Umfang berechnet.
 
 
       \
 
-      **Voraussetzungen für eine Urlaubsbetreuung:**
+      **Voraussetzungen:**
 
 
       * Dein Hund muss mit einem Chip gekennzeichnet und auf dich als Halter registriert sein.
@@ -60,8 +58,8 @@ buildingBlocks:
 
       * Bitte bringe eine ausreichende Menge des Hundefutters, an das dein Hund gewöhnt ist mit. Auf Wunsch kann dein Hund auch von mir mit BARF gefüttert werden (gegen Aufpreis). 
 
-      * Um die hohe Qualität der Betreuung zu gewährleisten und den Aufenthalt sowohl für Gäste, wie auch meine eigenen Hunde so stressarm wie möglich zu gestalten, ist die Betreuung nur für uns bekannte Hunde bzw. nach vorherigem Probeaufenthalt  (kostenpflichtig) möglich.
-    headingSize: "6"
+      * Um die hohe Qualität der Betreuung zu gewährleisten und den Aufenthalt sowohl für Gäste, wie auch meine eigenen Hunde so stressarm wie möglich zu gestalten, ist die Betreuung nur für mir bekannte Hunde bzw. nach vorherigem Probeaufenthalt  (kostenpflichtig) möglich.
+    headingSize: "2"
   - type: image
     width: "1"
     innerWidth: "1"
