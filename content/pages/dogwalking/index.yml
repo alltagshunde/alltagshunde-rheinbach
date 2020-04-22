@@ -10,7 +10,7 @@ buildingBlocks:
     heading: Gassiservice - Dogwalking
   - type: text
     width: "1"
-    headingLevel: "3"
+    headingLevel: "2"
     headingCentered: true
     heading: "*** Aktuell donnerstags und freitags freie Plätze! ***"
     text: >-
@@ -35,7 +35,7 @@ buildingBlocks:
       * Selbstverständlich lege ich auch während des Gassi-Service Wert auf gute Manieren, daher werden auch Grundgehorsam, Leinenführigkeit und Abruf deines Hundes stets gefestigt bzw. verbessert.
 
       * Nach unserem Ausflug ins Grüne wartet dein Hund ausgeglichen und zufrieden auf deine Rückkehr bzw. den Feierabend.
-    headingSize: "3"
+    headingSize: "2"
   - type: text
     width: 1/2
     headingLevel: "2"
