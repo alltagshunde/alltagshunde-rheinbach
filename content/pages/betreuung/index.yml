@@ -34,7 +34,7 @@ buildingBlocks:
     innerWidth: 3/4
   - type: card
     width: 1/2
-    heading: Tages- und Urlaubsbetreuung
+    heading: Urlaubsbetreuung
     button: Mehr erfahren
     image: hundenasen-decke.jpg
     text: ""
