@@ -1,0 +1,57 @@
+title: Meine Hunde
+isLandingPage: false
+parentPage: Über mich
+buildingBlocks:
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: "Meine Hunde "
+  - type: image
+    width: 1/4
+    innerWidth: null
+    isBanner: false
+    image: 2019-10-25-01077.jpg
+  - type: text
+    width: 3/4
+    headingLevel: "2"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: Aris - Ein Typ zum Pferde stehlen
+    text: >-
+      Aris begleitet mich bereits von Welpenbeinen an und hat  mich durch die
+      gesamte Ausbildungszeit und zu unzähligen Seminaren begleitet. Er kommt
+      oft in Einzelstunden zum Einsatz, z. B. als Ablenkung oder wenn es um
+      Sozialisation geht, denn er ist absolut verträglich mit Mensch und Hund.
+
+
+      Außerdem ist er für jeden Mist zu haben: Von Agility über Tricksen, Longieren, Degility oder Apportieren. Es gibt fast nichts, was er nicht mitmachen würde. Leidenschaftlich gern begleitet er uns aber auf lange Wanderungen, läuft gern am Pferd mit und ist nebenbei ein begnadeter Mantrailer. Ein Typ zum Pferde stehlen halt.
+  - type: text
+    width: 3/4
+    headingLevel: "2"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: Sally - Die sensible Diva
+    text: >-
+      Sally habe ich 2016 mit 6 Jahren während eines Praktikums im Tierheim des
+      Vereins [Tiere in Not Odenwald e. V.](www.tiere-in-not-odenwald.de)
+      übernommen. Damals hatte ich schon länger die Augen nach einem Zweithund
+      offen gehalten. Da mein Lebensgefährte jedoch von keinem Kandidaten zu
+      überzeugen war, hatte ich das Thema erstmal entnervt ad Acta gelegt. Als
+      sie da jedoch vor mir in der Hundegruppe saß, mit zitternden Beinchen und
+      verständnislosem Blick, ob denn mal bitte jemand dieses Missverständnis
+      auflösen könnte, da war es Liebe auf den ersten Blick und ich wusste,
+      dieser Hund gehört zu mir. \
+
+      \
+
+      Der Weg danach war oftmals steinig, denn Madame hatte nicht nur ein Päckchen zu tragen, sondern gleich einen ganzen Koffer gepackt: Von Beißvorfällen innerhalb der Familie, Leinenpöbelei, Futteraggression, aggressivem Verhalten gegenüber anderen Hunden aber auch Ängsten war alles dabei. 
+
+
+      Manches ist auch heute noch nicht einfach aber wir wissen damit umzugehen und gerade in der Interaktion mit Artgenossen verfügt sie heute über Kompetenzen, die ich ihr niemals zugetraut hätte.  Die Entscheidung diesen Hund zu adoptieren haben wir keinen einzigen Tag bereut. Im Gegenteil, durch sie durfte ich so unheimlich viel lernen, ich bin dankbar für jeden Tag, den sie bei uns ist.
+  - type: image
+    width: 1/4
+    innerWidth: null
+    isBanner: false
+    image: e90a4949.jpg
