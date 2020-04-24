@@ -5,16 +5,36 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Erziehung und Beratung
-  - type: image
-    width: 1/3
-    innerWidth: "1"
-    image: 2019-03-23-05472.jpg
+    heading: Erziehung
   - type: text
-    width: 2/3
+    width: "1"
     headingLevel: "2"
     headingCentered: true
-    heading: ""
-    text: |-
-      * Welpen & Junghunde
-      * Erwachsene Hunde
+    heading: Erziehungsangebote und Verhaltensberatung
+    text: >-
+      Auf den folgenden Seite möchte ich dir meine Angebote rund um Erziehung
+      und Verhaltensberatung vorstellen. 
+
+
+      Egal ob Du dir Unterstützung bei der Erziehung deines Welpen oder Junghundes wünschst oder dein bereits erwachsener Hund noch Nachhilfe in Sachen Erziehung benötigt, hier bist Du richtig. 
+
+
+      Doch vielleicht drückt der Schuh auch ganz woanders und dein Hund stellt dich im Alltag immer wieder vor Herausforderungen durch sein problematisches Verhalten? Er verhält sich aggressiv oder zeigt extremes Jagdverhalten? Ich biete dir auch hierbei meine Hilfe an, berate dich umfassend zu möglichen Lösungswegen und unterstütze dich bei der Umsetzung.
+  - type: card
+    width: 1/3
+    innerWidth: null
+    image: gruppentraining.jpg
+    heading: Alltagstraining
+    button: Mehr erfahren
+  - type: card
+    width: 1/3
+    innerWidth: null
+    image: dsc_0044.jpg
+    heading: Welpen & Junghunde
+    button: Mehr erfahren
+  - type: card
+    width: 1/3
+    innerWidth: null
+    image: hund-zieht-an-der-leine.jpg
+    heading: Einzeltraining & Verhaltensberatung
+    button: Mehr erfahren
