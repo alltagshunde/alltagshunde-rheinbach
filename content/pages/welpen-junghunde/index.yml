@@ -7,27 +7,28 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Von Zuckerschock bis Lederjacke - Vorbereitung auf den Ernst des Lebens
+    heading: Welpen, Junghunde oder Quereinsteiger bis 12 Monate
   - type: text
     width: "1"
-    headingLevel: "2"
+    headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
-    heading: "Für Welpen, Junghunde und Quereinsteiger bis zu einem Alter von 12
-      Monaten "
+    heading: Von Zuckerschock bis Lederjacke - Vorbereitung auf den Ernst des Lebens
     text: >-
       Profitiere von meiner langjährigen Erfahrung in der Ausbildung von Welpen
       und Junghunden.
 
 
-      Ich zeige dir, wie Du deinem jungen Hund beibringst…
+      **Ich zeige dir, wie Du deinem jungen Hund beibringst …**
 
 
-      * ruhig und entspannt an anderen Hunden vorbeizulaufen
+      * locker an der Leine neben dir zu laufen
 
-      * verlässlich bei dir zu bleiben und Ablenkungen wie z.B. Joggern oder Radfahrern zu widerstehen
+      * ruhig und entspannt zu bleiben wenn euch andere Hunde begegnen
 
-      * auch aus schwierigen Situationen z. B. dem Spiel mit Artgenossen zuverlässig zu dir zurückzukommen
+      * auch ohne Leine verlässlich bei dir zu bleiben und Ablenkungen wie z.B. Joggern oder Radfahrern zu widerstehen
+
+      * auch aus schwierigen Situationen z. B. dem Spiel mit Artgenossen zuverlässig zurückzukommen
 
       * freundlich mit anderen Hunden Kontakt aufzunehmen.
 
@@ -36,7 +37,7 @@ buildingBlocks:
       * sich in schwierigen Situationen zurückzunehmen und auf dich zu achten.
   - type: text
     width: 1/2
-    headingLevel: "2"
+    headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
     heading: "In Theorie und Praxis widmen wir uns dabei u. a. den folgenden Themen:"
@@ -65,7 +66,7 @@ buildingBlocks:
     image: dsc_0001.jpg
   - type: text
     width: 1/2
-    headingLevel: "2"
+    headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
     heading: Paket "Das kleine 1x1"
@@ -93,7 +94,7 @@ buildingBlocks:
       **Kosten:** 395,- €
   - type: text
     width: 1/2
-    headingLevel: "2"
+    headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
     heading: "Deine Vorteile:"
