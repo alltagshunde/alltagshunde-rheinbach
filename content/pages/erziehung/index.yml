@@ -26,6 +26,7 @@ buildingBlocks:
     image: hund-zieht-an-der-leine.jpg
     heading: Einzeltraining & Verhaltensberatung
     button: Mehr erfahren
+    buttonLink: "Einzeltraining "
   - type: card
     width: 1/3
     innerWidth: null
@@ -38,3 +39,4 @@ buildingBlocks:
     image: dsc_0044.jpg
     heading: Welpen & Junghunde
     button: Mehr erfahren
+    buttonLink: Welpen & Junghunde
