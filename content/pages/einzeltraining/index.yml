@@ -61,9 +61,11 @@ buildingBlocks:
 
       **Hausbesuch (60 MIn.):** 75,- Euro 
 
-      (inkl. 20 km Fahrtkosten, darüber hinaus zzgl. 0,50 Euro je km)
+      (inkl. 20 km Fahrtkosten -  
 
-      **Nachkontrolle (45 Min.):** 50,- Euro pro
+      darüber hinaus zzgl. 0,50 Euro je km)
+
+      **Nachkontrolle (45 Min.):** 50,- Euro
     heading: "Kosten:"
   - type: text
     width: 1/2
@@ -96,7 +98,7 @@ buildingBlocks:
 
       4 x Einzeltraining (je 60 Min.)
 
-      1 x Hausbesuch (Fahrtkosten inkl.)
+      1 x Hausbesuch (inkl. Fahrtkosten)
 
       1 x Nachkontrolle (45 Min.)
 
