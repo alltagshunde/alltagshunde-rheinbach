@@ -27,15 +27,22 @@ buildingBlocks:
       Richtlinien der “echten” Apport- bzw. Dummyarbeit werden hierbei nicht berücksichtigt. \
 
       In diesem Kurs geht es vielmehr um die körperliche und geistige Auslastung des Familienhundes. So wird das Apportieren zum Freizeitspaß für dich und deinen Hund.
+  - type: image
+    width: 1/3
+    innerWidth: null
+    isBanner: true
+    image: chihuahua-apport.jpg
+  - type: image
+    width: 1/3
+    innerWidth: null
+    isBanner: false
+    image: 2016-06-10-34027.jpg
   - type: text
     width: 2/3
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      ### **In diesem Kurs zeige ich dir:**
-
-
       * verschiedene Möglichkeiten der Apportarbeit.
 
       * wie man mit mehreren Dummy´s gleichzeitig arbeiten kann.
@@ -45,25 +52,11 @@ buildingBlocks:
       * Einbauen von Tricks und Geräten in den Apport, wie z. B. das Überspringen von Hürden mit einem Apportel.
 
 
-      ### **Ziel:** 
+      ### **Ziel:**
 
 
       Am Ende des Kurses sollte nicht nur jeder Hund in der Lage sein, einen Gegenstand zu apportieren, sondern viel mehr sitzen zu bleiben, bis er losgeschickt wird und nur den, ihm angezeigten Dummy zu holen. Einige können danach bereits Tricks und Dummy miteinander kombinieren.
-  - type: image
-    width: 1/3
-    innerWidth: null
-    isBanner: true
-    image: chihuahua-apport.jpg
-  - type: image
-    width: 1/3
-    innerWidth: "1"
-    isBanner: false
-    image: 2016-06-10-34027.jpg
-  - type: image
-    width: 1/3
-    innerWidth: null
-    isBanner: false
-    image: apportieren.jpg
+    heading: "In diesem Kurs zeige ich dir:"
   - type: text
     width: 1/3
     headingLevel: "3"
@@ -76,6 +69,11 @@ buildingBlocks:
       **5er-Karte:** 110,00 Euro
 
       **10er-Karte:** 210,00 Euro
+  - type: image
+    width: 1/3
+    innerWidth: null
+    isBanner: false
+    image: apportieren.jpg
   - type: text
     width: 1/3
     headingLevel: "3"
