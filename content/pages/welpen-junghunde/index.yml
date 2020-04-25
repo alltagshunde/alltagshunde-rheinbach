@@ -7,15 +7,15 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Welpen, Junghunde & Quereinsteiger
+    heading: Welpen & Junghunde bis 12 Monate
   - type: text
-    width: 2/3
+    width: 1/2
     headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
     heading: Von Zuckerschock bis Lederjacke - Vorbereitung aufs Leben
     text: >-
-      Profitiere von meiner langjährigen Erfahrung in der Ausbildung von Welpen
+      Profitiere von meiner jahrelangen Erfahrung in der Ausbildung von Welpen
       und Junghunden.
 
 
@@ -35,12 +35,22 @@ buildingBlocks:
       * höflich auf Besuch zu reagieren und auf seinem Platz zu bleiben, wenn der Postbote kommt.
 
       * sich in schwierigen Situationen zurückzunehmen und auf dich zu achten.
+  - type: image
+    width: 1/2
+    innerWidth: null
+    isBanner: false
+    image: 3-4-monate-andere-tiere-pferde.jpg
+  - type: image
+    width: 1/2
+    innerWidth: "1"
+    isBanner: false
+    image: dsc_0001.jpg
   - type: text
     width: 1/2
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
-    heading: "In Theorie und Praxis geht es z. B. um folgende Themen:"
+    heading: "In Theorie und Praxis geht es   um folgende Themen:"
     text: >-
       * An lockerer Leine spazieren gehen
 
@@ -59,15 +69,10 @@ buildingBlocks:
       * Beratung zu typischen Themen wie Stubenreinheit, Beißhemmung, Alleine bleiben, Auto fahren, Ernährung etc. 
 
       * Beziehungsarbeit – Grenzen setzen, häusliches Miteinander, Struktur und Führung im Alltag
-  - type: image
-    width: 1/2
-    innerWidth: "1"
-    isBanner: false
-    image: dsc_0001.jpg
   - type: text
     width: 1/2
     headingLevel: "3"
-    headingCentered: true
+    headingCentered: false
     headingColorPrimary: false
     heading: Paket "Das kleine 1x1"
     text: >-
@@ -95,7 +100,7 @@ buildingBlocks:
   - type: text
     width: 1/2
     headingLevel: "3"
-    headingCentered: true
+    headingCentered: false
     headingColorPrimary: false
     heading: "Deine Vorteile:"
     text: >-
@@ -108,8 +113,3 @@ buildingBlocks:
       * Maximal effektives Training durch **intensive Betreuung** auch **zwischen** den **Terminen.**
 
       * **Platz-Garantie** + **Frühbucher-Bonus** für weiterführende Angebote (z. B. Beschäftigungsangebote, Wanderungen, Workshops etc.) gegenüber Neukunden
-  - type: image
-    width: 1/2
-    innerWidth: null
-    isBanner: false
-    image: 3-4-monate-andere-tiere-pferde.jpg
