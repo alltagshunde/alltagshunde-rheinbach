@@ -7,19 +7,19 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Welpen, Junghunde oder Quereinsteiger bis 12 Monate
+    heading: Welpen, Junghunde & Quereinsteiger
   - type: text
-    width: "1"
+    width: 2/3
     headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
-    heading: Von Zuckerschock bis Lederjacke - Vorbereitung auf den Ernst des Lebens
+    heading: Von Zuckerschock bis Lederjacke - Vorbereitung aufs Leben
     text: >-
       Profitiere von meiner langjährigen Erfahrung in der Ausbildung von Welpen
       und Junghunden.
 
 
-      **Ich zeige dir, wie Du deinem jungen Hund beibringst …**
+      ### **Ich zeige dir, wie Du deinem jungen Hund beibringst …**
 
 
       * locker an der Leine neben dir zu laufen
@@ -38,9 +38,9 @@ buildingBlocks:
   - type: text
     width: 1/2
     headingLevel: "3"
-    headingCentered: true
+    headingCentered: false
     headingColorPrimary: false
-    heading: "In Theorie und Praxis widmen wir uns dabei u. a. den folgenden Themen:"
+    heading: "In Theorie und Praxis geht es z. B. um folgende Themen:"
     text: >-
       * An lockerer Leine spazieren gehen
 
@@ -108,3 +108,8 @@ buildingBlocks:
       * Maximal effektives Training durch **intensive Betreuung** auch **zwischen** den **Terminen.**
 
       * **Platz-Garantie** + **Frühbucher-Bonus** für weiterführende Angebote (z. B. Beschäftigungsangebote, Wanderungen, Workshops etc.) gegenüber Neukunden
+  - type: image
+    width: 1/2
+    innerWidth: null
+    isBanner: false
+    image: 3-4-monate-andere-tiere-pferde.jpg
