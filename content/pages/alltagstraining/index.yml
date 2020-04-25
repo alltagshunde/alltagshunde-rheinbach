@@ -10,7 +10,7 @@ buildingBlocks:
     heading: Alltagstraining
   - type: text
     width: "1"
-    headingLevel: "2"
+    headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
     heading: Für ein entspanntes Miteinander von Mensch und Hund
@@ -19,31 +19,33 @@ buildingBlocks:
       Du und dein Hund mit Hunden aller Altersklassen und deren Haltern
       zusammen, eben genauso wie es auch im richtigen Leben passiert. Dies ist
       möglich, da die einzelnen Übungen ganz individuell an jedes
-      Mensch-Hund-Team angepasst werden können. 
+      Mensch-Hund-Team angepasst werden. Trainiert wird an unterschiedlichen
+      Orten z. B. im Wald oder städtischem Gebiet, ggf. auch mal auf dem
+      Hundeplatz. Je nach Zusammenstellung der Gruppe und je nachdem, welche
+      Themen gerade im Fokus stehen. 
 
 
-      Trainiert wird an unterschiedlichen Orten z. B. im Wald oder städtischem Gebiet, ggf. auch mal auf dem Hundeplatz. Je nach Zusammenstellung der Gruppe und je nachdem welche Themen gerade im Fokus stehen. 
+      Das Ziel der Gruppe ist es, dass Du als Mensch deinen Hund sicher durch Alltagssituationen führen kannst. Du hast die Möglichkeit das bisher Erlernte unter Alltagsbedingungen stets weiter zu festigen.
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: false
+    headingColorPrimary: false
+    text: >-
+      * **deinem Hund Orientierung bieten** und diese in schwierigen Situationen
+      einfordern können
+
+      * deinem hibbeligen Hund **Ruhe vermitteln und Sicherheit geben** können.
+
+      * **unerwünschtes Verhalten** deines Hundes über ein klares Abbruchsignal **unterbinden** können.
 
 
-      Das Ziel der Gruppe ist es, dass Du als Mensch deinen Hund sicher durch Alltagssituationen führen kannst. Du hast die Möglichkeit das bisher Erlernte unter Alltagsbedingungen stets weiter zu festigen. 
+      ### **Dein Hund lernt im Laufe des Trainings ...**
 
 
-      **Du trainierst u.a. ...**
+      * sich auch in schwierigen Situationen an dir zu orientieren und an lockerer bzw. ohne Leine neben dir zu laufen
 
-
-      * deinem Hund Orientierung zu bieten und diese in schwierigen Situationen einzufordern
-
-      * deinem hibbeligen Hund Ruhe zu vermitteln
-
-      * unerwünschtes Verhalten deines Hundes über ein klares **Abbruchsignal** zu unterbinden
-
-
-      **Dein Hund lernt ...**
-
-
-      * sich auch in schwierigen Situationen an dir zu orientieren und an lockerer / ohne Leine neben dir zu laufen
-
-      * (mit / ohne Leine) ruhig und entspannt an anderen Hunden vorbeizulaufen
+      * (mit und ohne Leine) ruhig und entspannt an anderen Hunden vorbeizulaufen
 
       * in Anwesenheit anderer Hunde gelassen zu bleiben und sich nicht provozieren zu lassen
 
@@ -54,17 +56,33 @@ buildingBlocks:
       * entspannt in öffentlichen Verkehrsmitteln zu fahren, auch wenn es eng wird.
 
       * ...
+    heading: Durch das Training wirst Du ...
   - type: text
-    width: "1"
-    headingLevel: "1"
-    headingCentered: true
+    width: 1/2
+    headingLevel: "3"
+    headingCentered: false
     headingColorPrimary: false
     heading: "Kosten: "
     text: |-
-      **Einzeln:** 25,- €
+      **Einzeln:** 25,- Euro pro Stunde
 
-      **5er Karte:** 110,-€
+      **5er Karte:** 110,- Euro
 
-      **10er Karte:** 210,- € 
+      **10er Karte:** 210,- Euro
 
-      Bzw. als Bestandteil des Junghunde Pakets "Das kleine 1x1"
+      Oder als Bestandteil des Junghunde Pakets "Das kleine 1x1"
+  - type: text
+    width: 1/2
+    headingLevel: "3"
+    headingCentered: false
+    headingColorPrimary: false
+    heading: "Deine Vorteile: "
+    text: >-
+      * **Individuelles Training** - jede Übung wird an den Leistungsstand von
+      dir und deinem Hund angepasst
+
+      * Training in **Kleingruppen** (max. 6 Teams)
+
+      * **Gemischte Gruppen** - Voneinander und miteinander lernen
+
+      * **Flexible Trainingszeiten** - Du entscheidest an welchem Termin Du teilnimmst.
