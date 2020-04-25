@@ -33,6 +33,7 @@ buildingBlocks:
     image: gruppentraining.jpg
     heading: Alltagstraining
     button: Mehr erfahren
+    buttonLink: Alltagstraining
   - type: card
     width: 1/3
     innerWidth: null
