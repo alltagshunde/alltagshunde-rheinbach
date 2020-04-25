@@ -11,7 +11,7 @@ buildingBlocks:
     image: dsc00363.jpg
   - type: text
     width: "1"
-    headingLevel: "3"
+    headingLevel: "2"
     headingCentered: false
     heading: K3DogParkour®  // NEU ab August 2020 - Sichere dir jetzt schon deinen
       Platz!
@@ -28,7 +28,7 @@ buildingBlocks:
       Die individuellen Schwerpunkte können dabei ganz unterschiedlich gelagert sein, denn das Training ist hervorragend auf jedes Mensch-Hund-Team anzupassen und daher für Hunde jeglichen Alters und Fitnesslevel geeignet.
 
 
-      **In diesem Kurs biete ich dir die Möglichkeit …**
+      **Das Training bietet dir die Möglichkeit …**
 
 
       * … deinen **älteren** **Hund** mit viel Spaß geistig und körperlich fit zu halten.
@@ -40,43 +40,35 @@ buildingBlocks:
       * … deinem **hyperaktiven** Hund durch konzentriertes Training zu mehr Ruhe zu verhelfen.
 
       * … deinen **Welpen** oder **Junghund** über ein positiv gestaltetes „Konflikt“-Training an verschiedene Umweltreize heranzuführen und zeitgleich Motorik und Grundgehorsam zu trainieren.
+    headingSize: null
+  - type: text
+    width: 1/2
+    headingLevel: "2"
+    headingCentered: false
+    headingColorPrimary: false
+    text: >-
+      Einzeln: 25,00 Euro pro Stunde (60 Min.)
 
 
+      5er-Karte: 110,00 Euro
 
 
-      **Deine Vorteile:**
+      10er-Karte 210,00 Euro
 
 
-      * Individuelles Training, auf dich und deinen Hund abgestimmt
+      Das Training findet in der Regel auf dem Hundeplatz in 53359 Rheinbach-Oberdrees statt.
+    heading: "Kosten: "
+  - type: text
+    width: 1/2
+    headingLevel: "2"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: "Deine Vorteile: "
+    text: >-
+      * **Individuelles Training**, auf dich und deinen Hund abgestimmt
 
-      * Training in der Kleingruppe (max. 5 Teilnehmer)
+      * Training in der **Kleingruppe** (max. 5 Teilnehmer)
 
-      * K3DogParkour® wird von Tierärzten und Tierphysiotherapeuten empfohlen und unterstützt.
+      * K3DogParkour® wird **von Tierärzten und Tierphysiotherapeuten empfohlen** und unterstützt.
 
-      * K3DogParkour® wird als geschützte Marke und im Sinne einer gleichbleibend hohen Qualität nur von lizenzierten Hundeschulen unterrichtet.
-
-
-      **Preis:**
-
-
-      Einzeln: 22,00 Euro pro Stunde (60 Min.)
-
-
-      5er-Karte: 100,00 Euro\
-
-      10er-Karte 200,00 Euro
-
-
-      Das Training findet in der Regel auf dem Hundeschulgelände in 53359 Rheinbach-Oberdrees statt.
-
-
-
-
-      **Neugierig geworden? Dann ruf mich gerne an und ich beantworte deine Fragen.**
-
-
-      **Ich freue mich auf deinen Anruf!**
-
-
-      **Mobil: 0176 6171 1772**
-    headingSize: "3"
+      * K3DogParkour® wird als geschützte Marke und im Sinne einer gleichbleibend hohen Qualität **nur von lizenzierten Hundeschulen** unterrichtet.
