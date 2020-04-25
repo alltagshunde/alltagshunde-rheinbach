@@ -15,12 +15,12 @@ buildingBlocks:
     headingColorPrimary: false
     text: >-
       Zeigt dein Hund im Alltag unerwünschtes oder problematisches Verhalten,
-      kann das ganz unterschiedliche Gründe haben. Die Ursachen lassen sich
-      daher in der Regel am effektivsten in der Einzelberatung herausarbeiten
-      und beheben.
+      kann das ganz unterschiedliche Gründe haben. Die Ursachen hierfür lassen
+      sich daher in der Regel am effektivsten in der Einzelberatung
+      herausarbeiten und beheben.
 
 
-      **Ich unterstütze dich und zeige dir, wie Du …**
+      ### **Ich unterstütze dich und zeige dir, wie Du …**
 
 
       * mit deinem Hund wieder gelassen spazieren gehen kannst, auch wenn Ihr auf andere Hundehalter trefft.
@@ -32,10 +32,10 @@ buildingBlocks:
       * wieder gerne Besuch empfangen kannst, weil dein Hund sich zu benehmen weiß und ruhig auf seinem Platz warten kann.
 
       * endlich unbesorgt zum Einkaufen oder zur Arbeit gehen kannst, weil Du weißt, dass dein Hund Zuhause entspannt auf dich wartet und nichts zerstört.
-    heading: Wer bist Du & Wer ist dein Hund? Persönlichkeiten einschätzen.
+    heading: Wer bist Du & Wer ist dein Hund?  - Eine Frage der Persönlichkeit
   - type: text
     width: "1"
-    headingLevel: "1"
+    headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
     text: >-
@@ -48,45 +48,65 @@ buildingBlocks:
 
 
       In der Regel sind *ca. 3 - 6 Einzelstunden* ausreichend, um dir und deinem Hund eine Basis für das weitere Miteinander zu geben und Gelerntes zu vertiefen.
+
+
+
+
+      ### Kosten:
+
+
+      Erstgespräch (75 Min.): 75,- Euro
+
+
+      Einzeltraining (60 Min.): 75,- Euro
+
+
+      Hausbesuch (60 MIn.): 75,- Euro 
+
+
+      (inkl. 20 km Fahrtkosten, darüber hinaus zzgl. 0,50 Euro je km)
+
+
+      Nachkontrolle (45 Min.): 50,- Euro pro
+    heading: "Ablauf und Kosten:"
   - type: text
-    width: 1/3
-    headingLevel: "3"
-    headingCentered: true
-    headingColorPrimary: false
-    heading: "Kosten:"
-    text: >-
-      * 75,- Euro für das Erstgespräch (75 min.) 
-
-      * 75,- Euro pro Einzelstunde (60 min.)
-
-      * 75,- Euro pro Hausbesuch (inkl. 20 km Fahrtkosten, darüber hinaus zzgl. 0,50 Euro je km)
-
-      * 50,- Euro pro Nachkontrolle (45 Min.)
-  - type: text
-    width: 1/3
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    heading: "Basis Paket:"
-    text: |-
-      * Erstgespräch (75 Min.) 
-      * 2 x Einzeltraining (je 60 Min.) 
-      * 1 x Nachkontrolle (45 Min.)
-
-         **für 265,- €** (statt 275,- €)
-  - type: text
-    width: 1/3
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
-    heading: "Exklusiv Paket:"
+    heading: Basis Paket
     text: |-
-      * Erstgespräch (75 Min.)
-      * 4 x Einzeltraining (je 60 Min.)
-      * 1 x Hausbesuch (60 Min.) 
-      * 1 x Nachkontrolle (45 Min.) 
+      **Das Basis Paket beinhaltet folgende Leistungen:** 
 
-        für 480,- € (statt 500,- €)
+      1 x Erstgespräch (75 Min.)
+
+      2 x Einzeltraining (je 60 Min.)
+
+      1 x Nachkontrolle (45 Min.)
+
+      Intensive Betreuung auch zwischen den Terminen
+
+      **Kosten: 265,- €** (statt 275,- €)
+  - type: text
+    width: 1/2
+    headingLevel: "3"
+    headingCentered: false
+    headingColorPrimary: false
+    heading: Exklusiv Paket
+    text: |-
+      **Das Exklusiv Paket beinhaltet folgende Leistungen:** 
+
+      1 x Erstgespräch (75 Min.)
+
+      4 x Einzeltraining (je 60 Min.)
+
+      1 x Hausbesuch (Fahrtkosten inkl.)
+
+      1 x Nachkontrolle (45 Min.)
+
+      Intensive Betreuung auch zwischen den Terminen
+
+      **Kosten: 475,- €** (statt 500,- €)
   - type: text
     width: "1"
     headingLevel: "3"
@@ -94,13 +114,13 @@ buildingBlocks:
     headingColorPrimary: false
     heading: "Vorteile bei Buchung des Basis oder Exklusiv Pakets:"
     text: >-
-      * Du bist an keine festen Kurse gebunden 
+      * Du bist an keine festen Kurse gebunden
 
       * Wir arbeiten ganz **individuell** an den Themen, die für **deinen** Alltag wichtig sind.
 
-      * **Hohe Effizienz**, weil Du das Lern-Tempo vorgibst.
-
       * Maximal effektives Training durch **intensive Betreuung** auch **zwischen** den **Terminen.**
+
+      * **Hohe Effizienz**, weil Du das Lerntempo vorgibst.
 
       * Möglichkeit deine erlernten Fähigkeiten in **Gruppenstunden** unter meiner fachlichen Leitung zu verfestigen.
 
