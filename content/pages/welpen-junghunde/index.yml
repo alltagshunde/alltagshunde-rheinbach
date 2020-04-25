@@ -7,9 +7,9 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Welpen & Junghunde bis 12 Monate
+    heading: Grunderziehung für Welpen & Junghunde
   - type: text
-    width: 1/2
+    width: 2/3
     headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
@@ -36,7 +36,7 @@ buildingBlocks:
 
       * sich in schwierigen Situationen zurückzunehmen und auf dich zu achten.
   - type: image
-    width: 1/2
+    width: 1/3
     innerWidth: null
     isBanner: false
     image: 3-4-monate-andere-tiere-pferde.jpg
