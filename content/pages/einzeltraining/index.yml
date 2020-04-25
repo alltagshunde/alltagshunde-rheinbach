@@ -34,9 +34,9 @@ buildingBlocks:
       * endlich unbesorgt zum Einkaufen oder zur Arbeit gehen kannst, weil Du weißt, dass dein Hund Zuhause entspannt auf dich wartet und nichts zerstört.
     heading: Wer bist Du & Wer ist dein Hund?  - Eine Frage der Persönlichkeit
   - type: text
-    width: "1"
+    width: 2/3
     headingLevel: "3"
-    headingCentered: true
+    headingCentered: false
     headingColorPrimary: false
     text: >-
       Am Beginn unserer Zusammenarbeit steht ein ausführliches Kennenlernen. Wer
@@ -48,27 +48,23 @@ buildingBlocks:
 
 
       In der Regel sind *ca. 3 - 6 Einzelstunden* ausreichend, um dir und deinem Hund eine Basis für das weitere Miteinander zu geben und Gelerntes zu vertiefen.
+    heading: "Ablauf:"
+  - type: text
+    width: 1/3
+    headingLevel: "3"
+    headingCentered: false
+    headingColorPrimary: false
+    text: |-
+      **Erstgespräch (75 Min.):** 75,- Euro
 
+      **Einzeltraining (60 Min.):** 75,- Euro
 
-
-
-      ### Kosten:
-
-
-      Erstgespräch (75 Min.): 75,- Euro
-
-
-      Einzeltraining (60 Min.): 75,- Euro
-
-
-      Hausbesuch (60 MIn.): 75,- Euro 
-
+      **Hausbesuch (60 MIn.):** 75,- Euro 
 
       (inkl. 20 km Fahrtkosten, darüber hinaus zzgl. 0,50 Euro je km)
 
-
-      Nachkontrolle (45 Min.): 50,- Euro pro
-    heading: "Ablauf und Kosten:"
+      **Nachkontrolle (45 Min.):** 50,- Euro pro
+    heading: "Kosten:"
   - type: text
     width: 1/2
     headingLevel: "3"
