@@ -22,12 +22,23 @@ buildingBlocks:
 
       Darüber hinaus ist mir wichtig, dass dein Hund artgerecht beschäftigt und sinnvoll ausgelastet wird. \
 
-      Im Fokus stehen daher Angebote rund um die Nasenarbeit und das Apportieren, bei denen die natürlichen Fähigkeiten deines Hundes gefordert werden und Ihr gemeinsam als Team zusammenarbeitet. Abgerundet wird das Angebot durch K3DogParkour®, einem neuen abwechslungsreichen und gesundheitsförderndem Geräteparkour, von dem wirklich jeder Hund profitieren kann.  
-
-
-      Wenn Du dir unsicher bist, welche Beschäftigung euch beiden Spaß machen könnte, sprich mich gerne an. Gerne berate ich dich und beantworte deine Fragen zu den verschiedenen Kursen. Zusammen finden wir mit Sicherheit das richtige Angebot für dich und deinen Hund. Ich freue mich auf deinen Anruf!
+      Im Fokus stehen daher Angebote rund um die Nasenarbeit und das Apportieren, bei denen die natürlichen Fähigkeiten deines Hundes gefordert werden und Ihr gemeinsam als Team zusammenarbeitet. Abgerundet wird das Angebot durch K3DogParkour®, einem neuen abwechslungsreichen und gesundheitsförderndem Geräteparkour, von dem wirklich jeder Hund profitieren kann.
     heading: Artgerechte Beschäftigung - Sinnvolle Auslastung
     headingSize: null
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: true
+    headingColorPrimary: false
+    text: >-
+      **Du bist noch unsicher, welche Beschäftigung euch beiden Spaß machen
+      könnte? Dann schick mir eine Nachricht oder ruf mich direkt an! Gerne
+      berate ich dich und beantworte deine Fragen zu den verschiedenen Kursen.
+      Zusammen finden wir mit Sicherheit das richtige Angebot für dich und
+      deinen Hund.** 
+
+
+      **Ich freue mich auf deine Nachricht oder deinen Anruf!**
   - type: card
     width: 1/4
     heading: Mantrailing
