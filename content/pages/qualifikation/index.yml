@@ -11,42 +11,53 @@ buildingBlocks:
     headingColorPrimary: false
   - type: text
     width: "1"
-    headingLevel: "3"
-    headingCentered: true
+    headingLevel: "2"
+    headingCentered: false
     headingColorPrimary: false
-    heading: "Hier erfährst Du näheres zu meiner Ausbildung und Qualifikation. "
+    heading: Meilensteine
     text: >-
-      Von September 2014 bis Juli 2017 absolvierte ich das Studium zur
-      Hundetrainerin und Verhaltensberaterin bei Canis -Zentrum für Kynologie,
-      ein fachlich umfassendes und wissenschaftlich fundiertes, qualitativ
-      hochwertiges kynologisches Studium. Neben biologischen und ethologischen
-      Grundlagen zu Anatomie, Physiologie, Gesundheit und Verhalten des Hundes,
-      habe ich durch den hohen Praxisanteil des Studiums umfangreiche Kenntnisse
-      zur Ausbildung und Erziehung junger Hunde, sowie der therapeutischen
-      Arbeit mit jagenden, aggressiven und ängstlichen Hunden, sowie der
-      Beratung deren Halter erworben.
+      **2014 - 2017** 
 
 
-      Ergänzt wurden diese Kenntnisse durch praktische Einblicke in die Arbeit verschiedener Tierheime und Hundeschulen in Form von Praktika.
+      **Ausbildung zur Hundetrainerin und Verhaltensberaterin bei Canis -Zentrum für Kynologie**
 
 
-      Seit 2017 beschäftige ich mich sehr intensiv mit dem Thema Nasenarbeit und führe zwei eigene Hunde im Mantrailing. Von Mai 2018 bis Mai 2019 absolvierte ich eine Ausbildung zum Mantrailing Trainerin im Hundezentrum Mayen. Darüber hinaus besuche ich regelmäßig Workshops bei namhaften Dozenten wie Sabine Ditterich, Mark Brown, Harmke Horst sowie Dr. Iris Mackensen-Friedrichs und Mia Warwas.
+      Fachlich umfassendes und wissenschaftlich fundiertes, qualitativ hochwertiges kynologisches Studium. Neben biologischen und ethologischen Grundlagen zu Anatomie, Physiologie, Gesundheit und Verhalten des Hundes, habe ich durch den hohen Praxisanteil der Ausbildung umfangreiche Kenntnisse u. a. zur Ausbildung und Erziehung junger Hunde, der therapeutischen Arbeit mit jagenden, aggressiven und ängstlichen Hunden, sowie der Beratung deren Halter erworben.
 
 
-      **Seit 2017 verfüge ich über die erforderliche Erlaubnis gemäß §11 Abs. 1 Nr. 8f TierSchG zum Betrieb einer Hundeschule.**
+      **2016 Praktikum im Tierheim des Vereins Tiere in Not Odenwald e. V. (T.i.N.O.)**
 
 
-      Regelmäßige Fortbildung ist für mich nicht nur eine Selbstverständlichkeit, sondern ein Vergnügen. Nachfolgend eine Liste der von mir besuchten Fortbildungen *außerhalb* meines Studiums bei Canis.
-    headingSize: "6"
+      Intensiver Einblick in den Betrieb und die täglichen Abläufe in einem Tierheim. T.i.N.O. ist eines der ersten Tierheime in Deutschland, dass die Haltung von Hunden in Gruppen einführte. Hier konnte ich u. a. viel über die Zusammenstellung von Hundegruppen und deren Dynamik, sowie die Moderation von Raufergruppen lernen. 
+
+
+      **2016 Praktikum im Hundezentrum Mittelfranken bei Carmen und Gerd Schuster**
+
+
+      Intensiver Einblick in den Betrieb und die täglichen Abläufe einer Hundepension und Hundeschule. Begleitung sowohl in Gruppen- als auch in Einzelstunden. 
+
+
+      **2017 Erteilung der Erlaubnis gemäß §11 Abs. 1 Nr. 8f TierSchG zum Betrieb einer Hundeschule** 
+
+
+      Erteilt durch das Veterinäramt des Rhein-Sieg-Kreises
+
+
+      **2018 - 2019 Ausbildung zur Mantrailing Trainerin im Hundezentrum Mayen bei Yvonne Glanzer**
+
+
+      Während der Ausbildung erarbeitete ich mir viel theoretisches Wissen rund ums Trailen und lernte dieses in Theorie und Praxis verständlich zu vermitteln. 
+
+
+
+
+      Regelmäßige Fortbildung ist für mich nicht nur eine Selbstverständlichkeit, sondern eine Leidenschaft, der ich so oft wie möglich nachkomme. Nachfolgend eine Liste der von mir besuchten Fortbildungen, Seminare und Workshops.
   - type: text
     width: "1"
-    headingLevel: "1"
-    headingCentered: true
+    headingLevel: "3"
+    headingCentered: false
     headingColorPrimary: false
     text: >-
-      ***Seminare***
-
-
       2020
 
 
@@ -81,15 +92,13 @@ buildingBlocks:
 
 
       **„Beobachtung – einschätzen – eingreifen – bei Streithähnen und diskutierenden Hunden“**(Ute Heberer)
+    heading: Seminare
   - type: text
     width: "1"
-    headingLevel: "1"
-    headingCentered: true
+    headingLevel: "3"
+    headingCentered: false
     headingColorPrimary: false
     text: >-
-      ***Workshops***
-
-
       2019
 
 
@@ -148,15 +157,13 @@ buildingBlocks:
 
 
       **Hundebegegnungen gelassen meistern** (Maren Grote)
+    heading: Workshops
   - type: text
     width: "1"
-    headingLevel: "1"
-    headingCentered: true
+    headingLevel: "3"
+    headingCentered: false
     headingColorPrimary: false
     text: >-
-      ***Praktika***
-
-
       2016
 
 
@@ -179,15 +186,13 @@ buildingBlocks:
 
 
       **Praktische Woche I – Hundeausbildung in Theorie und Praxis**(Rainer Dorenkamp, Michael Grewe, Ina Pfeifle, Sonee Dosoruth)
+    heading: Praktika
   - type: text
     width: "1"
-    headingLevel: "1"
-    headingCentered: true
+    headingLevel: "3"
+    headingCentered: false
     headingColorPrimary: false
     text: >-
-      ***Themenabende***
-
-
       2017
 
 
@@ -201,3 +206,33 @@ buildingBlocks:
 
 
       **Mythen der Hundehaltung**(Maren Grote)
+    heading: Vorträge
+  - type: text
+    width: "1"
+    headingLevel: "2"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: "Hier erfährst Du näheres zu meiner Ausbildung und Qualifikation. "
+    text: >-
+      Von September 2014 bis Juli 2017 absolvierte ich das Studium zur
+      Hundetrainerin und Verhaltensberaterin bei Canis -Zentrum für Kynologie,
+      ein fachlich umfassendes und wissenschaftlich fundiertes, qualitativ
+      hochwertiges kynologisches Studium. Neben biologischen und ethologischen
+      Grundlagen zu Anatomie, Physiologie, Gesundheit und Verhalten des Hundes,
+      habe ich durch den hohen Praxisanteil des Studiums umfangreiche Kenntnisse
+      zur Ausbildung und Erziehung junger Hunde, sowie der therapeutischen
+      Arbeit mit jagenden, aggressiven und ängstlichen Hunden, sowie der
+      Beratung deren Halter erworben.
+
+
+      Ergänzt wurden diese Kenntnisse durch praktische Einblicke in die Arbeit verschiedener Tierheime und Hundeschulen in Form von Praktika.
+
+
+      Seit 2017 beschäftige ich mich sehr intensiv mit dem Thema Nasenarbeit und führe zwei eigene Hunde im Mantrailing. Von Mai 2018 bis Mai 2019 absolvierte ich eine Ausbildung zum Mantrailing Trainerin im Hundezentrum Mayen. Darüber hinaus besuche ich regelmäßig Workshops bei namhaften Dozenten wie Sabine Ditterich, Mark Brown, Harmke Horst sowie Dr. Iris Mackensen-Friedrichs und Mia Warwas.
+
+
+      **Seit 2017 verfüge ich über die erforderliche Erlaubnis gemäß §11 Abs. 1 Nr. 8f TierSchG zum Betrieb einer Hundeschule.**
+
+
+      Regelmäßige Fortbildung ist für mich nicht nur eine Selbstverständlichkeit, sondern ein Vergnügen. Nachfolgend eine Liste der von mir besuchten Fortbildungen *außerhalb* meines Studiums bei Canis.
+    headingSize: null
