@@ -61,3 +61,31 @@ buildingBlocks:
     headingColorPrimary: false
     heading: AlltagsHunde bietet
     headingSize: "2"
+  - type: card
+    width: 1/4
+    innerWidth: null
+    image: hund-zieht-an-der-leine.jpg
+    heading: Einzeltraining & Beratung
+    button: Mehr erfahren
+    buttonLink: "Einzeltraining "
+  - type: card
+    width: 1/4
+    innerWidth: null
+    image: gruppentraining.jpg
+    heading: Grunderziehung      Welpen & Junghunde
+    buttonLink: Welpen & Junghunde
+    button: Mehr erfahren
+  - type: card
+    width: 1/4
+    innerWidth: null
+    image: apportieren.jpg
+    heading: Beschäftigung
+    buttonLink: Beschäftigung
+    button: Mehr erfahren
+  - type: card
+    width: 1/4
+    innerWidth: null
+    image: 4-hunde.jpg
+    heading: Gassiservice & Betreuung
+    buttonLink: Betreuung
+    button: Mehr erfahren
