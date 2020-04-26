@@ -15,9 +15,9 @@ buildingBlocks:
     headingColorPrimary: false
     heading: Für ein entspanntes Miteinander von Mensch und Hund
     text: >-
-      Das Alltagstraining findet als Gruppentraining statt. Hierbei trainieren
-      Du und dein Hund mit Hunden aller Altersklassen und deren Haltern
-      zusammen, eben genauso wie es auch im richtigen Leben passiert. Dies ist
+      Das Alltagstraining findet als Gruppentraining statt. Hierbei trainierst
+      Du mit deinem Hund gemeinsam mit Hunden aller Altersklassen und deren
+      Haltern, eben genauso wie es auch im richtigen Leben passiert. Dies ist
       möglich, da die einzelnen Übungen ganz individuell an jedes
       Mensch-Hund-Team angepasst werden. Trainiert wird an unterschiedlichen
       Orten z. B. im Wald oder städtischem Gebiet, ggf. auch mal auf dem
@@ -25,9 +25,9 @@ buildingBlocks:
       Themen gerade im Fokus stehen. 
 
 
-      Das Ziel der Gruppe ist es, dass Du als Mensch deinen Hund sicher durch Alltagssituationen führen kannst. Du hast die Möglichkeit das bisher Erlernte unter Alltagsbedingungen stets weiter zu festigen.
+      Das Ziel der Gruppe ist es, dass Du als Mensch deinen Hund sicher durch verschiedene Alltagssituationen führen kannst. Du hast die Möglichkeit das bisher Erlernte unter Alltagsbedingungen stets weiter zu festigen.
   - type: text
-    width: "1"
+    width: 2/3
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
@@ -35,11 +35,9 @@ buildingBlocks:
       * **deinem Hund Orientierung bieten** und diese in schwierigen Situationen
       einfordern können
 
-      * deinem hibbeligen Hund **Ruhe vermitteln und Sicherheit geben** können.
+      * deinem ängstlichen oder hibbeligen Hund **Ruhe vermitteln und Sicherheit geben** können.
 
       * **unerwünschtes Verhalten** deines Hundes über ein klares Abbruchsignal **unterbinden** können.
-
-
 
 
       ### **Dein Hund lernt im Laufe des Trainings ...**
@@ -60,11 +58,11 @@ buildingBlocks:
       * ...
     heading: Durch das Training wirst Du ...
   - type: text
-    width: 1/2
+    width: 1/3
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
-    heading: "Kosten: "
+    heading: "Preise: "
     text: |-
       **Einzeln:** 25,- Euro pro Stunde
 
@@ -72,21 +70,23 @@ buildingBlocks:
 
       **10er Karte:** 210,- Euro
 
-      Oder als Bestandteil des Junghunde Pakets "Das kleine 1x1"
+      Bzw. als Bestandteil des Welpen / Junghunde Pakets "*Das kleine 1x1*"
   - type: text
-    width: 1/2
+    width: "1"
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
-    heading: "Deine Vorteile: "
+    heading: "Deine Vorteile auf einen Blick: "
     text: >-
       * **Individuelles Training** - jede Übung wird an euren individuellen
-      Trainingsstand angepasst
+      Trainingsstand angepasst.
 
-      * Training in **Kleingruppen** (max. 6 Teams)
+      * Training in **Kleingruppen** (max. 6 Teams).
 
-      * **Gemischte Gruppen** - Voneinander und miteinander lernen
+      * **Gemischte Gruppen** - Voneinander und miteinander lernen.
+
+      * Kein langweiliges Lernen auf dem Hundeplatz sondern **Training mitten im Leben**.
 
       * **Flexible Trainingszeiten** - Du entscheidest an welchem Termin Du teilnimmst.
 
-      * **Intensive Betreuung** auch außerhalb des Trainings
+      * **Intensive Betreuung** auch außerhalb des Trainings.
