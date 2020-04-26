@@ -9,20 +9,21 @@ buildingBlocks:
     headingColorPrimary: false
     heading: Welpen & Junghunde
   - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: Vorbereitung aufs
+      Leben                                                                        Grunderziehung
+      für Welpen und Junghunde bis 12 Monate
+    text: Profitiere von meiner jahrelangen Erfahrung in der Ausbildung von Welpen
+      und Junghunden.
+  - type: text
     width: 2/3
     headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
-    heading: Grunderziehung und Vorbereitung aufs Leben      - für Welpen und
-      Junghunde bis 12 Monate
     text: >-
-      Profitiere von meiner jahrelangen Erfahrung in der Ausbildung von Welpen
-      und Junghunden.
-
-
-      ### **Ich zeige dir, wie Du deinem jungen Hund beibringst …**
-
-
       * locker an der Leine neben dir zu laufen.
 
       * ruhig und entspannt zu bleiben, wenn euch andere Hunde begegnen.
@@ -38,6 +39,7 @@ buildingBlocks:
       * höflich auf Besuch zu reagieren und auf seinem Platz zu bleiben, wenn der Postbote kommt.
 
       * sich in schwierigen Situationen zurückzunehmen und auf dich zu achten.
+    heading: Ich zeige dir, wie Du deinem jungen Hund beibringst ...
   - type: image
     width: 1/3
     innerWidth: null
@@ -90,7 +92,7 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
-    heading: "In Theorie und Praxis geht es   um folgende Themen:"
+    heading: "Inhalte in Theorie und Praxis:"
     text: >-
       * Beratung zu typischen Themen wie Stubenreinheit, Beißhemmung, Alleine
       bleiben, Auto fahren, Ernährung, Gesundheit etc.
