@@ -7,13 +7,14 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Grunderziehung für Welpen & Junghunde
+    heading: Welpen & Junghunde
   - type: text
     width: 2/3
     headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
-    heading: Von Zuckerschock bis Lederjacke - Vorbereitung aufs Leben
+    heading: Grunderziehung und Vorbereitung aufs Leben      - für Welpen und
+      Junghunde bis 12 Monate
     text: >-
       Profitiere von meiner jahrelangen Erfahrung in der Ausbildung von Welpen
       und Junghunden.
@@ -22,13 +23,15 @@ buildingBlocks:
       ### **Ich zeige dir, wie Du deinem jungen Hund beibringst …**
 
 
-      * locker an der Leine neben dir zu laufen
+      * locker an der Leine neben dir zu laufen.
 
-      * ruhig und entspannt zu bleiben wenn euch andere Hunde begegnen
+      * ruhig und entspannt zu bleiben, wenn euch andere Hunde begegnen.
 
-      * auch ohne Leine verlässlich bei dir zu bleiben und Ablenkungen wie z.B. Joggern oder Radfahrern zu widerstehen
+      * auch ohne Leine verlässlich bei dir zu bleiben und auf dich zu achten. 
 
-      * auch aus schwierigen Situationen z. B. dem Spiel mit Artgenossen zuverlässig zurückzukommen
+      * Ablenkungen wie z. B. Joggern oder Radfahrern zu widerstehen.
+
+      * auch aus Situationen mit hoher Ablenkung, z. B. dem Spiel mit Artgenossen, zuverlässig zurückzukommen.
 
       * freundlich mit anderen Hunden Kontakt aufzunehmen.
 
@@ -50,59 +53,71 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
+    heading: '"Das kleine 1x1"'
+    text: >-
+      **Das Paket beinhaltet folgende Leistungen:** 
+
+
+      1 x Hausbesuch (75 Min.)
+
+
+      2 x Einzelcoaching (60 Min.)
+
+
+      4 x Training in der Kleingruppe (60 Min.) 
+
+
+      1 x Stadtbesuch in der Kleingruppe (60 Min.)
+
+
+      1 x Spaziergang in der Kleingruppe (45 Min.)
+
+
+      1 x Schnuppertag "Sinnvolle Beschäftigungsmöglichkeiten" in der Kleingruppe (90 Min.)
+
+
+
+
+      + wöchentliche Sprechstunde 
+
+
+      + intensive Betreuung auch zwischen den einzelnen Terminen 
+
+
+      **Zum Preis von: 375,- Euro**
+  - type: text
+    width: 1/2
+    headingLevel: "3"
+    headingCentered: false
+    headingColorPrimary: false
     heading: "In Theorie und Praxis geht es   um folgende Themen:"
     text: >-
-      * An lockerer Leine spazieren gehen
+      * Beratung zu typischen Themen wie Stubenreinheit, Beißhemmung, Alleine
+      bleiben, Auto fahren, Ernährung, Gesundheit etc.
+
+      * Beziehungsarbeit – Grenzen setzen, häusliches Miteinander, Struktur und Führung im Alltag
 
       * Freundlicher und respektvoller Umgang mit Artgenossen
-
-      * Aufbau eines sicheren Abbruchkommandos (z. B. "Nein!")
-
-      * Zuverlässiger Rückruf aus verschiedensten Situationen
-
-      * Aufbau von Impulskontrolle und Frustrationstoleranz
 
       * Erkennen von Spiel & Ernst im Freispiel mit Artgenossen
 
       * Kennenlernen sinnvoller Beschäftigungsmöglichkeiten
 
-      * Beratung zu typischen Themen wie Stubenreinheit, Beißhemmung, Alleine bleiben, Auto fahren, Ernährung etc. 
+      * Aufbau von Impulskontrolle und Frustrationstoleranz
 
-      * Beziehungsarbeit – Grenzen setzen, häusliches Miteinander, Struktur und Führung im Alltag
+      * Aufbau eines sicheren Abbruchkommandos (z. B. "*Nein!*")
+
+      * Zuverlässiger Rückruf aus verschiedensten Situationen
+
+      * Leinenführigkeit und Freifolge
+
+      * Aufbau der wichtigsten Grundkommandos
   - type: text
     width: 1/2
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
-    heading: Paket "Das kleine 1x1"
-    text: >-
-      **Dauer:** 3 Monate
-
-
-      **Leistungen:** 
-
-
-      * 1 x Hausbesuch (75 Min.)
-
-      * 2 x Einzelcoaching (60 Min.)
-
-      * 4 x Training in der Kleingruppe (60 Min.) 
-
-      * 1 x Stadtbesuch in der Kleingruppe (60 Min.)
-
-      * 1 x Schnuppertag "Sinnvolle Beschäftigungsmöglichkeiten" in der Kleingruppe (60 Min.)
-
-
-      **Intensive Betreuung auch zwischen den einzelnen Terminen.** 
-
-
-      **Kosten:** 395,- €
-  - type: text
-    width: 1/2
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    heading: "Deine Vorteile:"
+    heading: "Deine Vorteile auf einen Blick:"
     text: >-
       * Du bist an **keine festen Kurse** gebunden
 
@@ -110,6 +125,6 @@ buildingBlocks:
 
       * **Hohe Effizienz**, weil Du selbst das Lern-Tempo vorgibst.
 
-      * Maximal effektives Training durch **intensive Betreuung** auch **zwischen** den **Terminen.**
+      * Maximal effektives Training durch **wöchentliche Sprechstunden und intensive Betreuung** auch zwischen den Terminen.
 
       * **Platz-Garantie** + **Frühbucher-Bonus** für weiterführende Angebote (z. B. Beschäftigungsangebote, Wanderungen, Workshops etc.) gegenüber Neukunden
