@@ -7,15 +7,13 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Welpen & Junghunde
+    heading: Vorbereitung aufs Leben
   - type: text
     width: "1"
     headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
-    heading: Vorbereitung aufs
-      Leben                                                                        Grunderziehung
-      für Welpen und Junghunde bis 12 Monate
+    heading: "Grunderziehung für Welpen und Junghunde bis 12 Monate "
     text: Profitiere von meiner jahrelangen Erfahrung in der Ausbildung von Welpen
       und Junghunden.
   - type: text
