@@ -41,27 +41,20 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      * **deinem Hund Orientierung bieten** und diese in schwierigen Situationen
-      einfordern können.
+      * wie Du **deinem Hund Orientierung bietest** und diese in schwierigen
+      Situationen einforderst.
 
-      * deinem hibbeligen Hund **Ruhe vermitteln** können.
+      * wie Du deinem hibbeligen Hund **Ruhe vermittelst.** 
 
-      * deinem ängstlichen Hund **Sicherheit geben** können.
+      * wie Dudeinem ängstlichen Hund **Sicherheit und Schutz** bietest.
 
-      * **unerwünschtes Verhalten** deines Hundes sicher abbrechen und **unterbinden** können.
-    heading: Durch das Training wirst Du ...
-  - type: text
+      * wie  Du **unerwünschtes Verhalten** deines Hundes sicher **unterbindest**.
+    heading: Durch das Training lernst Du ...
+  - type: image
     width: 1/3
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    heading: "Voraussetzung:"
-    text: |-
-      Erstgespräch bzw. Einzeltraining
-
-      oder
-
-      Training im Rahmen des Welpen- / Junghundepakets "Das kleine 1x1"
+    innerWidth: null
+    isBanner: false
+    image: gruppentraining.jpg
   - type: text
     width: 2/3
     headingLevel: "3"
@@ -87,15 +80,23 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
-    heading: "Preise: "
+    heading: "Voraussetzung:"
     text: |-
-      **Einzeln:** 25,- Euro pro Stunde
+      Erstgespräch bzw. Einzeltraining
 
-      **5er-Karte:** 110,- Euro
+      oder
 
-      **10er-Karte:** 210,- Euro
+      Training im Rahmen des Welpen- / Junghundepakets "Das kleine 1x1"
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: true
+    headingColorPrimary: false
+    text: |-
+      Dann sei dabei! 
 
-      Bzw. als Bestandteil des Welpen / Junghunde Pakets "*Das kleine 1x1*"
+      Ruf mich gleich an und wir vereinbaren einen Termin zum Kennenlernen.
+    heading: Klingt spannend?
   - type: text
     width: "1"
     headingLevel: "3"
@@ -115,3 +116,17 @@ buildingBlocks:
       * **Flexible Trainingszeiten** - Du entscheidest an welchem Termin Du teilnimmst.
 
       * **Intensive Betreuung** auch außerhalb des Trainings.
+  - type: text
+    width: 1/3
+    headingLevel: "3"
+    headingCentered: false
+    headingColorPrimary: false
+    heading: "Preise: "
+    text: |-
+      **Einzeln:** 25,- Euro pro Stunde
+
+      **5er-Karte:** 110,- Euro
+
+      **10er-Karte:** 210,- Euro
+
+      Bzw. als Bestandteil des Welpen / Junghunde Pakets "*Das kleine 1x1*"
