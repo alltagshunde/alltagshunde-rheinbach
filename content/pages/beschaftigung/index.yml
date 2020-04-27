@@ -40,8 +40,7 @@ buildingBlocks:
     text: Dann ruf mich am besten gleich an! Gerne berate ich dich ausführlich und
       beantworte deine Fragen zu den verschiedenen Angeboten. <br/>Gemeinsam
       finden wir mit Sicherheit das Richtige für dich und deinen Hund.
-    heading: Du bist unsicher, welche Art der Beschäftigung dir und deinem Hund Spaß
-      machen könnte?
+    heading: Du bist unsicher, was dir und deinem Hund Spaß machen könnte?
   - type: card
     width: 1/4
     heading: Mantrailing
