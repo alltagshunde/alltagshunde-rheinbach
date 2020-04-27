@@ -97,21 +97,23 @@ buildingBlocks:
     headingLevel: "2"
     headingCentered: false
     headingColorPrimary: false
-    text: >-
+    text: |-
       **Einzeln:** 25,00 Euro pro Termin (ca. 120 Min.)
-
 
       **5er-Karte:** 110,- Euro
 
-
       **10er-Karte:** 210,- Euro
 
-
-      Das Training findet an unterschiedlichen Orten in und um Rheinbach statt. 
-
-
-      ### **Voraussetzungen:**
-
-
-      Dein Hund sollte über einen gewissen Grundgehorsam verfügen und<br/>während er nicht arbeitet, entspannt im Auto warten können.
+      Das Training findet an unterschiedlichen Orten in und um Rheinbach statt.
     heading: "Preise: "
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: "Voraussetzungen:"
+    text: >-
+      Keine Vorkenntnisse nötig!
+
+
+      Dein Hund sollte über einen gewissen Grundgehorsam verfügen und während er Pause hat, entspannt im Auto warten können.
