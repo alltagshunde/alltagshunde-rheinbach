@@ -24,68 +24,76 @@ buildingBlocks:
     width: 2/3
     headingLevel: "2"
     headingCentered: false
-    heading: Geruchsdifferenzierung - Schnüffel dich glücklich!
+    heading: ""
     text: >-
       Hunde lieben es Ihre Nase zu gebrauchen, Gerüche zu entdecken und Spuren
       zu verfolgen. Im Alltag oder auf dem Spaziergang ist das leider oft
       hinderlich und daher meist nicht erlaubt. 
 
 
-      **In diesem Kurs zeige ich dir …**
-
-
-      * … wie Du deinen Hund **artgerecht beschäftigen** und **sinnvoll auslasten** kannst.
+      Im Laufe des Trainings lernt dein Hund, sich auf einen bestimmten Geruch zu konzentrieren, ein vorgegebenes Areal abzusuchen und dir den Geruch bei Fund anzuzeigen. Ähnlich wie beim Mantrailing wird ihm auch bei der Geruchsdifferenzierung vorab eine entsprechende Probe des Referenzgeruchs präsentiert.
+    headingSize: null
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: false
+    headingColorPrimary: false
+    text: >-
+      * … wie Du deinen Hund **artgerecht beschäftigen** und **sinnvoll
+      auslasten** kannst.
 
       * … Ihr gemeinsam als Team zusammenarbeiten und dabei viel Spaß haben könnt.
 
-      * … wie Du deinen Hund **auch bei Regenwetter** körperlich und geistig fordern kannst, ohne nass zu werden
+      * … wie Du deinen Hund **auch bei Regenwetter** körperlich und geistig fordern kannst, <br/>ohne dabei nass zu werden
 
-      * … wie Du ganz **neue Kompetenzen an deinem Hund** entdecken wirst.
-
-
-
-
-      **Deine Vorteile:**
-
-
-      * Individuelles Training, auf dich und deinen Hund abgestimmt
+      * … wie Du eine ganz **neue Seite an deinem Hund** entdecken wirst.
+    heading: In diesem Kurs zeige ich dir ...
+  - type: text
+    width: 1/2
+    headingLevel: "2"
+    headingCentered: false
+    headingColorPrimary: false
+    text: >-
+      * **Individuelles Training**, auf dich und deinen Hund abgestimmt
 
       * Training in der **Kleingruppe** (max. 4 Teilnehmer)
 
       * Handouts zum Aufbau der Trainingsstunden – dadurch **auch zuhause gut umsetzbar**
-    headingSize: null
+    heading: "Deine Vorteile:"
+    headingSize: "3"
   - type: text
-    width: 2/3
-    headingLevel: "2"
+    width: 1/2
+    headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
-    heading: "Kosten: "
+    heading: "Preise: "
     text: >-
-      Einzeln: 25,00 Euro
+      **Einzeln:** 25,00 Euro
 
 
-      5er-Karte: 110,00 Euro
+      **5er-Karte:** 110,00 Euro
 
 
-      10er-Karte: 210,00 Euro
+      **10er-Karte:** 210,00 Euro
 
 
       Das Training findet an unterschiedlichen Orten in und um 53359 Rheinbach statt.
-
-
-
-
-      ### Voraussetzungen: 
-
-
-      * Ein gewisser Grundgehorsam deines Hundes ist Voraussetzung: 
-
-        Dein Hund sollte auch in Anwesenheit von Artgenossen ansprechbar sein und nicht permanent bellen, wenn die anderen Hunde arbeiten.
-      * Zur Ausrüstung wird ein Halsband oder Geschirr benötigt, welches der Hund im Alltag **nicht** trägt. Alternativ kann auch z. B. ein Halstuch umgebunden werden. 
-
-      * Eine Schleppleine von 3 - 5 Meter Länge
   - type: image
-    width: 1/3
+    width: 1/2
     innerWidth: null
     isBanner: false
     image: beagle-geruchsdifferenzierung.jpg
+  - type: text
+    width: 1/2
+    headingLevel: "2"
+    headingCentered: false
+    headingColorPrimary: false
+    heading: "Voraussetzungen: "
+    text: >-
+      * Ein gewisser Grundgehorsam deines Hundes: 
+
+        Dein Hund sollte auch in Anwesenheit von Artgenossen in der Lage sein, <br/>sich zu konzentrieren und nicht permanent bellen, wenn die anderen Hunde arbeiten.
+      * Zur Ausrüstung wird ein Halsband oder Geschirr benötigt, welches der Hund **nicht** im Alltag trägt. Alternativ kann auch z. B. ein Halstuch umgebunden werden. 
+
+      * Eine Schleppleine von 3 - 5 Meter Länge
+    headingSize: "3"
