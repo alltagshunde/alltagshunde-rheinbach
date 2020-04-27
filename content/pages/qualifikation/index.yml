@@ -82,7 +82,46 @@ buildingBlocks:
       Überblick, der von mir zusätzlich besuchten Seminare, Workshops und
       Fortbildungen:"
   - type: text
-    width: "1"
+    width: 1/2
+    headingLevel: "3"
+    headingCentered: false
+    headingColorPrimary: false
+    text: >-
+      **Webinar Impulskontrolle und Frustrationstoleranz beim Hund Teil
+      1**<br/>(Maren Grote)
+
+
+      **Webinar Impulskontrolle und Frustrationstoleranz beim Hund Teil 2**<br/>(Maren Grote)
+
+
+      **Mantrailing für Hundetrainer und ambitionierte Hobbytrailer**<br/>(Harmke Horst)
+
+
+      **Vermisstenspürhunde im Einsatz**<br/>(Harmke Horst)
+
+
+      **Auslandshunde – Zuhause im Glück oder doch nicht?**<br/>(Michael Grewe)
+
+
+      **Verhaltensstörungen bei Hunden – Neurobiologische Grundlagen von Stereotypien und Störungen der Impulskontrolle**<br/>(Robert Mehl)
+
+
+      **Grundlagen der Populationsgenetik und Verlust der genetischen Vielfalt**<br/>(Dr. Irene Sommerfeld-Stur, Dr. Udo Gansloßer)
+
+
+      **„Beobachtung – einschätzen – eingreifen – bei Streithähnen und diskutierenden Hunden“**<br/> (Ute Heberer)
+
+
+      **„Bindung, Vertrauen, Beziehung, Erziehung“ – Ein Themenabend der aufräumt in Kopf und Herz**<br/>(Rainer Dorenkamp, Tanja Elias)
+
+
+      **My home is my Castle – Häusliches Miteinander aus Hundesicht**<br/>(Michael Grewe)
+
+
+      **Mythen der Hundehaltung**<br/>(Maren Grote)
+    heading: Seminare & Vorträge
+  - type: text
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
@@ -137,19 +176,4 @@ buildingBlocks:
 
 
       **Praktische Woche I – Hundeausbildung in Theorie und Praxis**<br/>(Rainer Dorenkamp, Michael Grewe, Ina Pfeifle, Sonee Dosoruth)
-    heading: Seminare und Workshops
-  - type: text
-    width: "1"
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    text: >-
-      **„Bindung, Vertrauen, Beziehung, Erziehung“ – Ein Themenabend der
-      aufräumt in Kopf und Herz**<br/>(Rainer Dorenkamp, Tanja Elias)
-
-
-      **My home is my Castle – Häusliches Miteinander aus Hundesicht**<br/>(Michael Grewe)
-
-
-      **Mythen der Hundehaltung**<br/>(Maren Grote)
-    heading: Vorträge
+    heading: Workshops & Praktika
