@@ -17,7 +17,7 @@ buildingBlocks:
   - type: text
     width: 3/4
     headingLevel: "3"
-    headingCentered: true
+    headingCentered: false
     headingColorPrimary: false
     heading: Zur Person
     text: >-
