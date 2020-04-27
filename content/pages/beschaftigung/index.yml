@@ -23,18 +23,30 @@ buildingBlocks:
     headingColorPrimary: false
     heading: ""
     headingSize: "6"
+    text: Jeder Hund ist einzigartig, daher müssen Talente und Persönlichkeit deines
+      Hundes nicht zwangsläufig seinem Rasseprofil oder deinen eigenen
+      Erwartungen entsprechen. Ebenfalls hält sich hartnäckig das Gerücht, dass
+      Hunde nur mit einem umfangreichen Beschäftigungsprogramm glücklich und
+      ohne dieses regelrecht verhaltensauffällig werden. Das Gegenteil ist
+      meiner Erfahrung nach jedoch deutlich häufiger der Fall. Viele Hunde sind
+      heute chronisch überbeschäftigt und dem Burnout nahe. Dabei wären nicht
+      wenige Hunde glücklich, ihre Menschen einfach im Alltag und auf
+      ausgedehnte Spaziergänge begleiten zu dürfen. Manchmal ist weniger eben
+      auch mehr.
+  - type: text
+    width: "1"
+    headingLevel: "2"
+    headingCentered: false
+    headingColorPrimary: false
     text: >-
-      Jeder Hund ist einzigartig und daher müssen die Interessen deines Hundes
-      nicht zwangsläufig mit seinem Rasseprofil oder deinen eigenen Erwartungen
-      übereinstimmen. Es ist im Übrigen ein hartnäckiges Gerücht, dass Hunde
-      unbedingt ein umfangreiches Beschäftigungsangebot benötigen, um glücklich
-      zu sein. Nicht wenige Hunde sind völlig zufrieden damit, ihre Menschen im
-      Alltag und ab und an auf ausgedehnte Spaziergänge begleiten zu dürfen. Für
-      welche Art der Beschäftigung auch immer dein Herz brennt, im Fokus sollte
-      die Freude an der gemeinsame Zeit mit deinem Hund stehen.
+      Dennoch spricht natürlich nichts gegen etwas Spaß und ein gemeinsames
+      Hobby. Dabei sollte dein Hund artgerecht und sinnvoll beschäftigt, statt
+      einfach nur körperlich „ausgepowert“ werden. Beschäftigungsformate wie
+      Flyball, DogFrisbee etc. wirst Du deshalb in meiner Hundeschule nicht
+      finden. 
 
 
-      Darüber hinaus ist mir wichtig, dass dein Hund artgerecht beschäftigt und sinnvoll ausgelastet wird. Im Fokus stehen daher Angebote rund um die Nasenarbeit und das Apportieren, bei denen die natürlichen Fähigkeiten deines Hundes in einem vernünftigen Rahmen gefordert werden und Ihr gemeinsam als Team zusammenarbeitet. Abgerundet wird das Angebot durch K3DogParkour®, einem neuen abwechslungsreichen und gesundheitsförderndem Geräteparkour, von dem wirklich jeder Hund profitieren kann.
+      Stattdessen biete ich Euch verschiedene Angebote rund um die Nasen- und Teamarbeit, bei denen eine ruhige und konzentrierte Arbeit deines Hundes im Vordergrund steht und seine natürlichen Fähigkeiten gefordert werden. Abgerundet wird das Angebot durch K3DogParkour®, einem neuen abwechslungsreichen und gesundheitsförderndem Geräteparkour, bei dem es sowohl um die physische Gesundheit deines Hundes, als auch um Vertrauen und Teamwork geht.
   - type: card
     width: 1/4
     heading: Mantrailing
