@@ -108,7 +108,7 @@ buildingBlocks:
     heading: "Preise: "
   - type: text
     width: "1"
-    headingLevel: "1"
+    headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
     heading: "Voraussetzungen:"
