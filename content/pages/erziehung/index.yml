@@ -8,19 +8,24 @@ buildingBlocks:
     heading: Erziehung
   - type: text
     width: "1"
-    headingLevel: "2"
+    headingLevel: "3"
     headingCentered: true
-    heading: Erziehung und Verhaltensberatung
+    heading: Grunderziehung und Verhaltensberatung
+    text: für Welpen, Junghunde und erwachsene Hunde.
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    headingColorPrimary: false
     text: >-
-      Auf den folgenden Seite möchte ich dir meine Angebote rund um die
-      Erziehung deines Vierbeiners und die Beratung bei Verhaltensproblemen
-      vorstellen. 
+      Unabhängig davon, ob gerade ein Welpe oder Junghund bei dir eingezogen
+      ist, dein bereits erwachsener Hund Nachhilfe in Sachen Erziehung benötigt
+      oder dein Hund dich im Alltag durch sein problematisches Verhalten immer
+      wieder vor große Herausforderungen stellt. Gerne biete ich dir meine
+      professionelle Hilfe an. 
 
 
-      Unabhängig davon, ob gerade ein Welpe oder Junghund bei dir eingezogen ist, dein bereits erwachsener Hund Nachhilfe in Sachen Erziehung benötigt oder dein Hund dich im Alltag durch sein problematisches Verhalten immer wieder vor große Herausforderungen stellt. Hier bist Du richtig.  
-
-
-      Gerne biete ich dir meine professionelle Hilfe an. Ich berate dich umfassend zu möglichen Lösungswegen, unterstütze dich bei deiner Zielsetzung und der anschließenden Umsetzung im Training mit deinem Hund.
+      Ich berate dich umfassend zu möglichen Lösungswegen, helfe dir bei deiner Zielsetzung und unterstütze dich bei der anschließenden Umsetzung im Training mit deinem Hund.
   - type: card
     width: 1/3
     innerWidth: null
