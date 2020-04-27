@@ -13,13 +13,17 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
-    text: >-
-      Zeigt dein Hund im Alltag unerwünschtes oder problematisches Verhalten,
+    heading: Wer bist Du & Wer ist dein Hund? - Eine Frage der Persönlichkeit
+    text: Zeigt dein Hund im Alltag unerwünschtes oder problematisches Verhalten,
       kann das ganz unterschiedliche Gründe haben. Die Ursachen hierfür lassen
       sich daher in der Regel am effektivsten in der Einzelberatung
-      herausarbeiten und beheben.
-
-
+      herausarbeiten und lösen.
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: true
+    headingColorPrimary: false
+    text: >-
       ### **Ich unterstütze dich und zeige dir, wie Du …**
 
 
@@ -32,7 +36,7 @@ buildingBlocks:
       * wieder gerne Besuch empfangen kannst, weil dein Hund sich zu benehmen weiß und ruhig auf seinem Platz warten kann.
 
       * endlich unbesorgt zum Einkaufen oder zur Arbeit gehen kannst, weil dein Hund Zuhause entspannt auf dich wartet ohne Dinge zu zerstören oder zu bellen.
-    heading: Wer bist Du & Wer ist dein Hund? - Eine Frage der Persönlichkeit
+    heading: ""
   - type: text
     width: 1/2
     headingLevel: "3"
