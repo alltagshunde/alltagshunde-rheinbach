@@ -73,8 +73,8 @@ buildingBlocks:
       Regelmäßige Fortbildung ist für mich nicht nur eine Selbstverständlichkeit, sondern eine Leidenschaft, der ich so oft wie möglich nachkomme. Nachfolgend eine Liste der von mir besuchten Fortbildungen, Seminare und Workshops.
   - type: text
     width: "1"
-    headingLevel: "2"
-    headingCentered: true
+    headingLevel: "3"
+    headingCentered: false
     headingColorPrimary: false
     heading: Fortbildung
     text: "Regelmäßige Fortbildung ist für mich nicht nur eine
@@ -179,7 +179,7 @@ buildingBlocks:
     heading: Workshops & Praktika
   - type: text
     width: 1/2
-    headingLevel: "1"
+    headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
     heading: Geplant 2020
