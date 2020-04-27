@@ -15,7 +15,7 @@ buildingBlocks:
     heading: Carolin Henseler
     text: Hundetrainerin & Verhaltensberaterin, Mantrailing Trainerin, Dogwalker
   - type: text
-    width: 2/3
+    width: 3/4
     headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
@@ -37,6 +37,11 @@ buildingBlocks:
 
 
       **Selbstverständlich verfüge ich über die erforderliche Erlaubnis gemäß §11 TierSchG zum Betrieb einer Hundeschule. Mehr zu meiner Ausbildung und Qualifikation erfährst Du auf den folgenden Seiten.**
+  - type: image
+    width: 1/4
+    innerWidth: null
+    isBanner: false
+    image: 2019-03-23-05268.jpg
   - type: card
     width: 1/3
     image: canis-absolventin.png
@@ -59,8 +64,3 @@ buildingBlocks:
     button: Mehr erfahren
     image: 2019-10-25-01149.jpg
     buttonLink: Meine Hunde
-  - type: image
-    width: 1/3
-    innerWidth: null
-    isBanner: false
-    image: 2019-03-23-05268.jpg
