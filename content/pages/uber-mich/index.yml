@@ -59,3 +59,8 @@ buildingBlocks:
     button: Mehr erfahren
     image: 2019-10-25-01149.jpg
     buttonLink: Meine Hunde
+  - type: image
+    width: 1/3
+    innerWidth: null
+    isBanner: false
+    image: 2019-03-23-05268.jpg
