@@ -18,35 +18,30 @@ buildingBlocks:
     headingSize: null
   - type: text
     width: "1"
-    headingLevel: "6"
-    headingCentered: false
-    headingColorPrimary: false
-    heading: ""
-    headingSize: "6"
-    text: Jeder Hund ist einzigartig, daher müssen Talente und Persönlichkeit deines
-      Hundes nicht zwangsläufig seinem Rasseprofil oder deinen eigenen
-      Erwartungen entsprechen. Ebenfalls hält sich hartnäckig das Gerücht, dass
-      Hunde nur mit einem umfangreichen Beschäftigungsprogramm glücklich und
-      ohne dieses regelrecht verhaltensauffällig werden. Das Gegenteil ist
-      meiner Erfahrung nach jedoch deutlich häufiger der Fall. Viele Hunde sind
-      heute chronisch überbeschäftigt und dem Burnout nahe. Dabei wären nicht
-      wenige Hunde glücklich, ihre Menschen einfach im Alltag und auf
-      ausgedehnte Spaziergänge begleiten zu dürfen. Manchmal ist weniger eben
-      auch mehr.
-  - type: text
-    width: "1"
     headingLevel: "2"
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      Dennoch spricht natürlich nichts gegen etwas Spaß und ein gemeinsames
-      Hobby. Dabei sollte dein Hund artgerecht und sinnvoll beschäftigt, statt
-      einfach nur körperlich „ausgepowert“ werden. Beschäftigungsformate wie
-      Flyball, DogFrisbee etc. wirst Du deshalb in meiner Hundeschule nicht
-      finden. 
+      Wenn es um die gemeinsame Beschäftigung geht, ist mir wichtig, dass dein
+      Hund seinen Anlagen entsprechend und und sinnvoll beschäftigt wird, statt
+      einfach nur körperlich „ausgepowert“ zu werden. Sportarten wie Flyball,
+      DogFrisbee etc. wirst Du deshalb in meiner Hundeschule nicht finden. 
 
 
-      Stattdessen biete ich Euch verschiedene Angebote rund um die Nasen- und Teamarbeit, bei denen eine ruhige und konzentrierte Arbeit deines Hundes im Vordergrund steht und seine natürlichen Fähigkeiten gefordert werden. Abgerundet wird das Angebot durch K3DogParkour®, einem neuen abwechslungsreichen und gesundheitsförderndem Geräteparkour, bei dem es sowohl um die physische Gesundheit deines Hundes, als auch um Vertrauen und Teamwork geht.
+      Stattdessen biete ich dir und deinem Hund verschiedene Angebote rund um die Nasen- und Teamarbeit, bei denen eine ruhige und konzentrierte Arbeit deines Hundes im Vordergrund steht und seine natürlichen Fähigkeiten gefordert werden. 
+
+
+      Abgerundet wird das Angebot durch K3DogParkour®, einem neuen abwechslungsreichen Geräteparkour, bei dem es sowohl um die physische Gesundheit deines Hundes, als auch um Vertrauen und Teamwork geht.
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: true
+    headingColorPrimary: false
+    text: Dann ruf mich am besten gleich an! <br/>Gerne berate ich dich ausführlich
+      und beantworte deine Fragen zu den verschiedenen Angeboten. <br/>Gemeinsam
+      finden wir mit Sicherheit das Richtige für dich und deinen Hund.
+    heading: Du bist unsicher, welche Art der Beschäftigung dir und deinem Hund Spaß
+      machen könnte?
   - type: card
     width: 1/4
     heading: Mantrailing
@@ -73,16 +68,18 @@ buildingBlocks:
     buttonLink: K3 Dog Parkour
   - type: text
     width: "1"
-    headingLevel: "3"
-    headingCentered: true
+    headingLevel: "6"
+    headingCentered: false
     headingColorPrimary: false
-    text: >-
-      Ruf mich doch an oder schick mir eine Nachricht!
-
-
-      Gerne berate ich dich ausführlich und beantworte deine Fragen zu den verschiedenen Angeboten. Gemeinsam finden wir mit Sicherheit das Richtige für dich und deinen Hund. 
-
-
-      Ich freue mich auf deine Nachricht oder deinen Anruf!
-    heading: Du bist unsicher, welche Art der Beschäftigung dir und deinem Hund Spaß
-      machen könnte?
+    heading: ""
+    headingSize: "6"
+    text: Jeder Hund ist einzigartig, daher müssen Talente und Persönlichkeit deines
+      Hundes nicht zwangsläufig seinem Rasseprofil oder deinen eigenen
+      Erwartungen entsprechen. Ebenfalls hält sich hartnäckig das Gerücht, dass
+      Hunde nur mit einem umfangreichen Beschäftigungsprogramm glücklich und
+      ohne dieses regelrecht verhaltensauffällig werden. Das Gegenteil ist
+      meiner Erfahrung nach jedoch deutlich häufiger der Fall. Viele Hunde sind
+      heute chronisch überbeschäftigt und dem Burnout nahe. Dabei wären nicht
+      wenige Hunde glücklich, ihre Menschen einfach im Alltag und auf
+      ausgedehnte Spaziergänge begleiten zu dürfen. Manchmal ist weniger eben
+      auch mehr.
