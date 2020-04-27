@@ -90,16 +90,6 @@ buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "3"
-    headingCentered: true
-    headingColorPrimary: false
-    text: |-
-      Dann sei dabei! 
-
-      Ruf mich gleich an und wir vereinbaren einen Termin zum Kennenlernen.
-    heading: Klingt spannend?
-  - type: text
-    width: "1"
-    headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
     heading: "Deine Vorteile auf einen Blick: "
