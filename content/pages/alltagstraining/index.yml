@@ -13,14 +13,19 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
-    heading: Für ein entspanntes Miteinander von Mensch und Hund
+    heading: Gruppentraining mal anders
+    text: Gemeinsam mit Hunden aller Altersklassen und ihren Haltern trainieren,
+      genauso wie im richtigen Leben.
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    headingColorPrimary: false
     text: >-
-      Das Alltagstraining findet als Gruppentraining statt. Hierbei trainierst
-      Du mit deinem Hund gemeinsam mit Hunden aller Altersklassen und deren
-      Haltern, eben genauso wie es auch im richtigen Leben passiert. Dies ist
-      möglich, da die einzelnen Übungen ganz individuell an jedes
-      Mensch-Hund-Team angepasst werden. Trainiert wird an unterschiedlichen
-      Orten z. B. im Wald oder städtischem Gebiet, ggf. auch mal auf dem
+      Möglich ist dies, da die einzelnen Übungen ganz leicht und individuell auf
+      jedes Mensch-Hund-Team angepasst werden. Trainiert wird an
+      unterschiedlichen Orten damit keine Langweile aufkommt. Z. B. im Wald, in
+      städtischem Gebiet oder im Baumarkt. Ggf. aber auch mal auf dem
       Hundeplatz. Je nach Zusammenstellung der Gruppe und je nachdem, welche
       Themen gerade im Fokus stehen. 
 
