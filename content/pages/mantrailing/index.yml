@@ -79,16 +79,18 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      * **Individuelles Training** – jedes Team bekommt seine(n) eigenen
+      * **Individuelles Training** – <br/>jedes Team bekommt seine(n) eigenen
       Trail(s).
 
-      * Wir trainieren ausschließlich in **kleinen Gruppen mit max. 4 Teams**,<br/>damit für jeden die benötigte Zeit da ist.
+      * Training in **kleinen Gruppen mit 4 Teams**,<br/>damit für jeden die genug Zeit da ist.
 
       * Effizientes Training, ganz auf Euren persönlichen Leistungsstand abgestimmt.
 
-      * Ich bereite die Trails effektiv vor, so entstehen **weniger Wartezeiten**.
+      * Ich bereite die Trails für jedes Team effektiv vor, <br/>so entstehen **weniger Wartezeiten**.
 
-      * Gemischte Gruppen und Leistungsstände.<br/>Dadurch ist der **Einstieg jederzeit möglich.**
+      * Gemischte Gruppen aus Einsteigern und Fortgeschrittenen - br/>Gemeinsam und miteinander lernen.
+
+      * **Einstieg jederzeit möglich** (keine Vorkenntnisse nötig)
     heading: "Deine Vorteile: "
   - type: text
     width: 1/2
