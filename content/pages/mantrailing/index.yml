@@ -15,20 +15,28 @@ buildingBlocks:
     headingLevel: "2"
     headingCentered: true
     headingColorPrimary: false
-    heading: Ob Aussie oder Zwergpudel - artgerechte Beschäftigung und sinnvolle
-      Auslastung für Jederhund
+    heading: Artgerechte Beschäftigung und Teamarbeit auf höchstem Niveau
+    text: Beim Mantrailing darf dein Hund seine Fähigkeiten endlich mal ganz gezielt
+      einsetzen.
+    headingSize: "3"
+  - type: text
+    width: "1"
+    headingLevel: "2"
+    headingCentered: false
+    headingColorPrimary: false
     text: >-
-      Beim Mantrailing darf dein Hund seine Fähigkeiten endlich mal ganz gezielt
-      einsetzen. 
-
-
-      Anhand einer Geruchsprobe (z. B. einem getragenen Kleidungsstück) lernt dein Hund die Spur einer versteckten Person zu verfolgen und diese bei Fund anzuzeigen. Du als Mensch lernst dabei, auf die Fähigkeiten deines Hundes zu vertrauen und seine Signale anhand der Körperhaltung zu "lesen". 
+      Anhand einer Geruchsprobe (z. B. einem getragenen Kleidungsstück) lernt
+      dein Hund die Spur einer versteckten Person zu verfolgen und diese bei
+      Fund anzuzeigen. Du als Mensch lernst dabei, auf die Fähigkeiten deines
+      Hundes zu vertrauen und seine Signale anhand der Körperhaltung zu
+      "lesen". 
 
 
       Dabei erfordert das Training Teamarbeit auf höchstem Niveau: Deine Unterstützung ist immer dann gefragt, wenn dein Hund Probleme hat, er z. B. die Geruchsspur verliert oder Hindernisse (z. B. Straßenüberquerung) auf dem Weg auftauchen. In diesen Situationen lernst Du deinen Hund nicht zu korrigieren, sondern ihm deine Hilfestellung anzubieten und ihm so zu ermöglichen, eigenständig die Spur wiederzufinden.
+    heading: ""
   - type: text
     width: 2/3
-    headingLevel: "1"
+    headingLevel: "2"
     headingCentered: true
     text: >-
       * wie Du deinen Hund sinnvoll beschäftigst und dabei ganz neue Kompetenzen
@@ -41,18 +49,8 @@ buildingBlocks:
       * wie dein Hund im Verlauf des Trainings lernt, sich auch bei starker Ablenkung (z. B. Artgenossen) zu konzentrieren und seine Aufgabe weiterzuverfolgen.
 
       * wie dein ängstlicher Hund im Verlauf des Trainings mehr Selbstvertrauen entwickelt und bestehende Unsicherheiten gegenüber der Umwelt oder fremden Menschen überwinden kann.
-
-
-
-
-      ### Für wen eignet sich Mantrailing?
-
-
-      Insbesondere **Hunde** die zu **Unsicherheiten gegenüber Menschen** oder unter **Umweltängsten** leiden können jedoch vom Training profitieren, da es die Hunde im Problemlösen schult und im Laufe des Trainings vermehrt eigenständiges Handeln erfordert. Das Training ist daher ausgesprochen geeignet, das Selbstvertrauen deines Hundes nachhaltig auszubauen. 
-
-
-      Ebenso sind aber z. B. auch Hunde willkommen, die **unverträglich mit Artgenossen** sind, da jeder Hund im Training einzeln gearbeitet wird.
     heading: Im Training zeige ich dir ...
+    headingSize: "3"
   - type: image
     width: 1/3
     innerWidth: null
@@ -100,3 +98,19 @@ buildingBlocks:
 
       * Gemischte Gruppen und Leistungsstände. Dadurch ist der **Einstieg jederzeit möglich** und es besteht die Möglichkeit von den fortgeschritteneren Teams zu lernen
     heading: "Deine Vorteile: "
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: Für wen eignet sich Mantrailing?
+    text: >-
+      Ob Aussie oder Yorkie, nahezu jeder Hund liebt es, seine Nase zu nutzen
+      und Spuren zu verfolgen.  Daher bringt auch jeder Hund die notwendigen
+      Fähigkeiten fürs Mantrailing mit.
+
+
+      Insbesondere **Hunde** die zu **Unsicherheiten gegenüber Menschen** oder unter **Umweltängsten** leiden, können jedoch auch darüber hinaus vom Training profitieren. Mantrailing schult deinen Hund im Problemlösen und erfordert von ihm im Laufe des Trainings vermehrt eigenständiges Handeln. Es ist daher ausgesprochen geeignet, das Selbstvertrauen des Hundes nachhaltig auszubauen. 
+
+
+      Ebenso sind aber auch Hunde willkommen, die z. B. **unverträglich mit Artgenossen** sind. Oft sind diese Teams vom Training ausgeschlossen oder Mensch und Hund fühlen sich in den üblichen Gruppenkursen nicht wohl. Beim Mantrailing seid Ihr willkommen! Jeder Hund arbeitet einzeln, daher muss es keine Berührungspunkte mit den anderen teilnehmenden Hunden geben.
