@@ -34,7 +34,7 @@ buildingBlocks:
       Im Laufe des Trainings lernt dein Hund, sich auf einen bestimmten Geruch zu konzentrieren, ein vorgegebenes Areal abzusuchen und dir den Geruch bei Fund anzuzeigen. Ähnlich wie beim Mantrailing wird ihm auch bei der Geruchsdifferenzierung vorab eine entsprechende Probe des Referenzgeruchs präsentiert.
     headingSize: null
   - type: text
-    width: "1"
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
@@ -61,6 +61,11 @@ buildingBlocks:
       * Handouts zum Aufbau der Trainingsstunden – dadurch **auch zuhause gut umsetzbar**
     heading: "Deine Vorteile:"
     headingSize: "3"
+  - type: image
+    width: 1/2
+    innerWidth: null
+    isBanner: false
+    image: beagle-geruchsdifferenzierung.jpg
   - type: text
     width: 1/2
     headingLevel: "3"
@@ -78,22 +83,18 @@ buildingBlocks:
 
 
       Das Training findet an unterschiedlichen Orten in und um 53359 Rheinbach statt.
-  - type: image
-    width: 1/2
-    innerWidth: null
-    isBanner: false
-    image: beagle-geruchsdifferenzierung.jpg
   - type: text
-    width: 1/2
+    width: "1"
     headingLevel: "2"
     headingCentered: false
     headingColorPrimary: false
     heading: "Voraussetzungen: "
     text: >-
-      * Ein gewisser Grundgehorsam deines Hundes: 
+      * Ein gewisser Grundgehorsam deines Hundes:<br/>Dein Hund sollte auch in
+      Anwesenheit von Artgenossen in der Lage sein, sich zu konzentrieren und
+      nicht permanent bellen, wenn die anderen Hunde arbeiten.
 
-        Dein Hund sollte auch in Anwesenheit von Artgenossen in der Lage sein, <br/>sich zu konzentrieren und nicht permanent bellen, wenn die anderen Hunde arbeiten.
-      * Zur Ausrüstung wird ein Halsband oder Geschirr benötigt, welches der Hund **nicht** im Alltag trägt. Alternativ kann auch z. B. ein Halstuch umgebunden werden. 
+      * Zur Ausrüstung wird ein Halsband oder Geschirr benötigt. Alternativ kann auch z. B. ein Halstuch umgebunden werden. **Wichtig** ist, dass der Hund Halsband/Geschirr oder Halstuch **nicht** im Alltag oder im Rahmen einer anderen Sucharbeit trägt. 
 
       * Eine Schleppleine von 3 - 5 Meter Länge
     headingSize: "3"
