@@ -10,13 +10,13 @@ buildingBlocks:
     headingColorPrimary: false
   - type: text
     width: "1"
-    headingLevel: "3"
+    headingLevel: "5"
     headingCentered: true
     headingColorPrimary: false
-    text: ""
+    text: (Michael Grewe)
     heading: '"Erziehung hat mit Beziehung zu tun, nicht mit Anleitungen. Mit
       Persönlichkeit, anstelle starrer Vorgaben. Mit Herz und mit Seele und mit
-      Freude aneinander."<br/>Michael Grewe'
+      Freude aneinander."'
   - type: image
     width: 1/4
     innerWidth: 1/4
