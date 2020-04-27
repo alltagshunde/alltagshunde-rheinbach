@@ -15,8 +15,21 @@ buildingBlocks:
     heading: Dein Hund in den besten Händen
     headingSize: null
     text: Du hast lange Arbeitszeiten, bist beruflich viel unterwegs oder planst mit
-      deiner Familie eine Flugreise?  Kein Problem, denn bei mir ist dein Hund
-      in den besten Händen.
+      deiner Familie eine Flugreise?
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: true
+    headingColorPrimary: false
+    text: >-
+      Es gibt viele Gründe eine professionelle Hundebetreuung in Anspruch zu
+      nehmen, sei es vorübergehend oder als fester Bestandteil im Alltag. 
+
+
+      Im Rahmen meines Gassiservice unterstütze ich dich z. B. wenn Du beruflich stark eingespannt oder anderweitig verhindert bist und deinem Hund trotzdem ausreichend Abwechslung und Hundekontakt gönnen möchtest. 
+
+
+      Ebenfalls biete ich dir an, deinen Hund während deiner Urlaubs- oder Geschäftsreise zu betreuen. Während deiner Abwesenheit lebt dein Hund mit im Haus und teilt den Alltag mit uns und unseren eigenen Hunden.
   - type: card
     width: 1/2
     image: 67332840_10102937658181528_8169800118011166720_o.jpg
@@ -33,17 +46,3 @@ buildingBlocks:
     text: ""
     buttonLink: Urlaubsbetreuung & Pension
     innerWidth: 3/4
-  - type: text
-    width: "1"
-    headingLevel: "3"
-    headingCentered: true
-    headingColorPrimary: false
-    text: >-
-      Im Rahmen meines Gassiservice unterstütze ich dich, wenn Du beruflich
-      stark eingespannt oder anderweitig verhindert bist und deinem Hund etwas
-      Abwechslung gönnen möchtest. Solltest du länger abwesend sein oder dein
-      Hund ungern alleine bleiben, besteht die Möglichkeit deinen Hund ganztägig
-      zu betreuen. 
-
-
-      Ebenfalls biete ich dir an, deinen Hund während deiner Urlaubsreise zu betreuen. Dein Hund lebt während deiner Abwesenheit mit im Haus und teilt den Alltag mit uns und unseren Hunden.
