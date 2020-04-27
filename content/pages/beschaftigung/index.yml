@@ -12,17 +12,29 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
+    text: In meiner Hundeschule biete ich dir und deinem Hund eine runde Auswahl an
+      Beschäftigungsmöglichkeiten.
+    heading: Artgerechte Beschäftigung - Sinnvolle Auslastung
+    headingSize: null
+  - type: text
+    width: "1"
+    headingLevel: "6"
+    headingCentered: false
+    headingColorPrimary: false
+    heading: ""
+    headingSize: "6"
     text: >-
-      In meiner Hundeschule biete ich dir und deinem Hund eine runde Auswahl an
-      Beschäftigungsmöglichkeiten. Wichtig sind dabei vor allem zwei Dinge:  
-
-
-      Jeder Hund ist einzigartig und daher müssen die Interessen deines Hundes nicht zwangsläufig mit deinen übereinstimmen. Es ist im Übrigen ein hartnäckiges Gerücht, dass ein Hund unbedingt ein umfangreiches Beschäftigungsangebot benötigt, um glücklich zu sein. Nicht wenige Hunde sind völlig zufrieden damit, ihre Menschen im Alltag und ab und an auf ausgedehnte Spaziergänge begleiten zu dürfen. Für welche Art der Beschäftigung auch immer dein Herz brennt, im Fokus sollte die gemeinsame Zeit und Freude daran stehen. 
+      Jeder Hund ist einzigartig und daher müssen die Interessen deines Hundes
+      nicht zwangsläufig mit seinem Rasseprofil oder deinen eigenen Erwartungen
+      übereinstimmen. Es ist im Übrigen ein hartnäckiges Gerücht, dass Hunde
+      unbedingt ein umfangreiches Beschäftigungsangebot benötigen, um glücklich
+      zu sein. Nicht wenige Hunde sind völlig zufrieden damit, ihre Menschen im
+      Alltag und ab und an auf ausgedehnte Spaziergänge begleiten zu dürfen. Für
+      welche Art der Beschäftigung auch immer dein Herz brennt, im Fokus sollte
+      die Freude an der gemeinsame Zeit mit deinem Hund stehen.
 
 
       Darüber hinaus ist mir wichtig, dass dein Hund artgerecht beschäftigt und sinnvoll ausgelastet wird. Im Fokus stehen daher Angebote rund um die Nasenarbeit und das Apportieren, bei denen die natürlichen Fähigkeiten deines Hundes in einem vernünftigen Rahmen gefordert werden und Ihr gemeinsam als Team zusammenarbeitet. Abgerundet wird das Angebot durch K3DogParkour®, einem neuen abwechslungsreichen und gesundheitsförderndem Geräteparkour, von dem wirklich jeder Hund profitieren kann.
-    heading: Artgerechte Beschäftigung - Sinnvolle Auslastung
-    headingSize: null
   - type: card
     width: 1/4
     heading: Mantrailing
@@ -53,10 +65,6 @@ buildingBlocks:
     headingCentered: true
     headingColorPrimary: false
     text: >-
-      ### Du bist unsicher, welche Art von Beschäftigung dir und deinem Hund
-      Spaß machen könnte?
-
-
       Ruf mich doch an oder schick mir eine Nachricht!
 
 
@@ -64,4 +72,5 @@ buildingBlocks:
 
 
       Ich freue mich auf deine Nachricht oder deinen Anruf!
-    heading: ""
+    heading: Du bist unsicher, welche Art der Beschäftigung dir und deinem Hund Spaß
+      machen könnte?
