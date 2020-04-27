@@ -9,18 +9,25 @@ buildingBlocks:
     headingSize: "1"
   - type: text
     width: "1"
-    headingLevel: "2"
+    headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
-    heading: Bei mir ist dein Hund in den besten Händen
-    headingSize: "2"
-    text: >-
-      Du hast lange Arbeitszeiten, bist beruflich viel unterwegs oder planst mit
+    heading: Dein Hund in den besten Händen
+    headingSize: null
+    text: Du hast lange Arbeitszeiten, bist beruflich viel unterwegs oder planst mit
       deiner Familie eine Flugreise?  Kein Problem, denn bei mir ist dein Hund
       in den besten Händen.
-
-
-      Im Rahmen meines Gassiservice unterstütze ich dich, wenn Du beruflich stark eingespannt oder anderweitig verhindert bist und deinem Hund etwas Abwechslung gönnen möchtest. Solltest du länger abwesend sein oder dein Hund ungern alleine bleiben, besteht die Möglichkeit deinen Hund ganztägig zu betreuen. 
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    headingColorPrimary: false
+    text: >-
+      Im Rahmen meines Gassiservice unterstütze ich dich, wenn Du beruflich
+      stark eingespannt oder anderweitig verhindert bist und deinem Hund etwas
+      Abwechslung gönnen möchtest. Solltest du länger abwesend sein oder dein
+      Hund ungern alleine bleiben, besteht die Möglichkeit deinen Hund ganztägig
+      zu betreuen. 
 
 
       Ebenfalls biete ich dir an, deinen Hund während deiner Urlaubsreise zu betreuen. Dein Hund lebt während deiner Abwesenheit mit im Haus und teilt den Alltag mit uns und unseren Hunden.
