@@ -14,7 +14,7 @@ buildingBlocks:
     text: für Welpen, Junghunde und erwachsene Hunde.
   - type: text
     width: "1"
-    headingLevel: "1"
+    headingLevel: "2"
     headingCentered: true
     headingColorPrimary: false
     text: >-
