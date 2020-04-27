@@ -5,17 +5,18 @@ buildingBlocks:
     width: "1"
     headingLevel: "1"
     headingCentered: true
-    heading: " Philosophie - Arbeitsweise"
+    heading: " Philosophie & Arbeitsweise"
     headingSize: "2"
     headingColorPrimary: false
   - type: text
     width: "1"
-    headingLevel: "2"
+    headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
-    text: '***"Erziehung hat mit Beziehung zu tun, nicht mit Anleitungen. Mit
+    text: ""
+    heading: '"Erziehung hat mit Beziehung zu tun, nicht mit Anleitungen. Mit
       Persönlichkeit, anstelle starrer Vorgaben. Mit Herz und mit Seele und mit
-      Freude aneinander."***  (Michael Grewe)'
+      Freude aneinander."<br/>Michael Grewe'
   - type: image
     width: 1/4
     innerWidth: 1/4
@@ -41,7 +42,7 @@ buildingBlocks:
 
 
       Die Grundlage hierfür liegt meiner Überzeugung nach in einer vertrauensvollen Beziehung zwischen Mensch und Hund, in der sich beide Partner wertgeschätzt aber auch in ihren Bedürfnissen ernst genommen fühlen. In einer Beziehung die auch mal einen Streit verträgt und einem Partner an unserer Seite, der auch zu uns hält, wenn es mal nicht so toll läuft, fühlen wir uns auch in Konfliktsituationen sicher aufgehoben.
-    headingSize: "4"
+    headingSize: "3"
   - type: text
     width: 3/4
     headingLevel: "2"
@@ -71,7 +72,7 @@ buildingBlocks:
 
 
       Das oberste Ziel eines jeden Trainings sollte es also sein, dass der Hund die Chance erhält, aus der Situation etwas zu lernen und sein Verhalten zukünftig entsprechend anzupassen. In dem Moment, in dem diese Möglichkeit weg fällt, ist jede unterbrechende Maßnahme gegenüber dem Hund unfair und deshalb abzulehnen.
-    headingSize: "4"
+    headingSize: "3"
     heading: Die Frage nach dem "Wie"
   - type: image
     width: 1/4
@@ -84,7 +85,7 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     heading: Der Weg zum Ziel
-    headingSize: "4"
+    headingSize: "3"
     text: Der Weg zu einem entspannten Miteinander von Mensch und Hund führt daher
       unweigerlich über die Beziehungsebene. Hier gilt es zunächst
       Persönlichkeiten einzuschätzen. Und zwar von Mensch und Hund. Welche
