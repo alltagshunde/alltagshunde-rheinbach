@@ -16,8 +16,8 @@ buildingBlocks:
     headingCentered: true
     headingColorPrimary: false
     heading: Artgerechte Beschäftigung und Teamarbeit auf höchstem Niveau
-    text: Beim Mantrailing darf dein Hund seine Fähigkeiten endlich mal ganz gezielt
-      einsetzen.
+    text: Beim Mantrailing darf dein Hund seine angeborenen Fähigkeiten endlich mal
+      ganz gezielt einsetzen.
     headingSize: "3"
   - type: text
     width: "1"
@@ -63,9 +63,9 @@ buildingBlocks:
     headingColorPrimary: false
     heading: Für wen eignet sich Mantrailing?
     text: >-
-      Ob Aussie oder Yorkie, nahezu jeder Hund liebt es, seine Nase zu nutzen
-      und Spuren zu verfolgen.  Daher bringt auch jeder Hund die notwendigen
-      Fähigkeiten fürs Mantrailing mit.
+      Ob Aussie oder Yorkie, eine gute Nase haben sie alle! Nahezu jeder Hund
+      liebt es, seine Nase zu nutzen und Spuren zu verfolgen. Daher bist Du bei
+      uns willkommen, egal welcher Rasse / Mix dein Hund angehört. 
 
 
       Insbesondere **Hunde** die zu **Unsicherheiten gegenüber Menschen** oder unter **Umweltängsten** leiden, können jedoch auch darüber hinaus vom Training profitieren. Mantrailing schult deinen Hund im Problemlösen und erfordert von ihm im Laufe des Trainings vermehrt eigenständiges Handeln. Es ist daher ausgesprochen geeignet, das Selbstvertrauen des Hundes nachhaltig auszubauen. 
@@ -73,6 +73,23 @@ buildingBlocks:
 
       Ebenso sind aber auch Hunde willkommen, die z. B. **unverträglich mit Artgenossen** sind. Oft sind diese Teams vom Training ausgeschlossen oder Mensch und Hund fühlen sich in den üblichen Gruppenkursen nicht wohl. Beim Mantrailing seid Ihr willkommen! Jeder Hund arbeitet einzeln, daher muss es keine Berührungspunkte mit den anderen teilnehmenden Hunden geben.
     headingSize: "3"
+  - type: text
+    width: 1/2
+    headingLevel: "2"
+    headingCentered: false
+    headingColorPrimary: false
+    text: >-
+      * **Individuelles Training** – jedes Team bekommt seine(n) eigenen
+      Trail(s).
+
+      * Wir trainieren ausschließlich in **kleinen Gruppen mit max. 4 Teams**,<br/>damit für jeden die benötigte Zeit da ist.
+
+      * Effizientes Training, ganz auf Euren persönlichen Leistungsstand abgestimmt.
+
+      * Ich bereite die Trails effektiv vor, so entstehen **weniger Wartezeiten**.
+
+      * Gemischte Gruppen und Leistungsstände.<br/>Dadurch ist der **Einstieg jederzeit möglich.**
+    heading: "Deine Vorteile: "
   - type: text
     width: 1/2
     headingLevel: "2"
@@ -97,21 +114,4 @@ buildingBlocks:
 
 
       Dein Hund sollte über einen gewissen Grundgehorsam verfügen und während er nicht arbeitet, entspannt im Auto abwarten können.
-    heading: "Kosten: "
-  - type: text
-    width: 1/2
-    headingLevel: "2"
-    headingCentered: false
-    headingColorPrimary: false
-    text: >-
-      * **Individuelles Training** – jedes Team bekommt seine(n) eigenen
-      Trail(s).
-
-      * Wir trainieren ausschließlich in **kleinen Gruppen mit max. 4 Teams**, damit für jeden die benötigte Zeit da ist.
-
-      * Effizientes Training, ganz auf deine persönlichen Bedürfnisse und die deines Hundes abgestimmt.
-
-      * Ich bereite die Trails effektiv vor, so entstehen **weniger Wartezeiten**.
-
-      * Gemischte Gruppen und Leistungsstände. Dadurch ist der **Einstieg jederzeit möglich** und es besteht die Möglichkeit von den fortgeschritteneren Teams zu lernen
-    heading: "Deine Vorteile: "
+    heading: "Preise: "
