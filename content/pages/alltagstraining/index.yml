@@ -38,13 +38,13 @@ buildingBlocks:
     headingColorPrimary: false
     text: >-
       * **deinem Hund Orientierung bieten** und diese in schwierigen Situationen
-      einfordern können
+      einfordern können.
 
-      * deinem hibbeligen Hund **Ruhe vermitteln** und 
+      * deinem hibbeligen Hund **Ruhe vermitteln** können.
 
       * deinem ängstlichen Hund **Sicherheit geben** können.
 
-      * **unerwünschtes Verhalten** deines Hundes über ein klares Abbruchsignal **unterbinden** können
+      * **unerwünschtes Verhalten** deines Hundes sicher abbrechen und **unterbinden** können.
     heading: Durch das Training wirst Du ...
   - type: text
     width: 1/3
@@ -64,20 +64,19 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      * sich auch in schwierigen Situationen an dir zu orientieren und an
-      lockerer bzw. ohne Leine neben dir zu laufen
+      * sich auch in schwierigen Situationen an dir zu orientieren. 
 
-      * (mit und ohne Leine) ruhig und entspannt an anderen Hunden vorbeizulaufen
+      * an lockerer bzw. ohne Leine neben dir zu laufen.
 
-      * in Anwesenheit anderer Hunde gelassen zu bleiben und sich nicht provozieren zu lassen
+      * (mit und ohne Leine) ruhig an anderen Hunden vorbeizulaufen.
 
-      * aus Situationen mit hoher Ablenkung, z. B. Spiel mit Artgenossen sicher zurückzukommen
+      * in Anwesenheit anderer Hunde gelassen zu bleiben und sich nicht provozieren zu lassen.
 
-      * im Cafe ruhig liegen zu bleiben, auch wenn der Kellner oder andere Hunde vorbeigehen.
+      * auch aus Situationen mit hoher Ablenkung, z. B. Spiel mit Artgenossen sicher zurückzukommen.
 
-      * entspannt in öffentlichen Verkehrsmitteln zu fahren, auch wenn es eng wird.
+      * im Cafe entspannt liegen zu bleiben, auch wenn der Kellner oder andere Hunde vorbeigehen.
 
-      * ...
+      * entspannt in öffentlichen Verkehrsmitteln zu fahren, auch wenn es mal eng wird.
     heading: Dein Hund lernt im Laufe des Trainings ...
   - type: text
     width: 1/3
