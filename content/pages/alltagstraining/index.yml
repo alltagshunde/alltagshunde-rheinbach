@@ -18,7 +18,7 @@ buildingBlocks:
       genauso wie im richtigen Leben.
   - type: text
     width: "1"
-    headingLevel: "1"
+    headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
     text: >-
