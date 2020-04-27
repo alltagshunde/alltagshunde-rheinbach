@@ -2,6 +2,19 @@ title: Geruchsdifferenzierung - Schnüffel dich glücklich
 isLandingPage: false
 parentPage: Beschäftigung
 buildingBlocks:
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: Geruchsdifferenzierung
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: Schnüffel dich glücklich
+    text: Ob Mops oder Schäferhund - Natürliche Auslastung und Spaß für Jederhund!
   - type: image
     width: 1/3
     innerWidth: null
