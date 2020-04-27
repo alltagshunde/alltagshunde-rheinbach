@@ -8,11 +8,17 @@ buildingBlocks:
     headingColorPrimary: false
     heading: Über mich
   - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: Carolin Henseler - Zur Person
+  - type: text
     width: 3/4
     headingLevel: "2"
     headingCentered: true
     headingColorPrimary: false
-    heading: Carolin Henseler - Zur Person
+    heading: ""
     text: >-
       Der Weg zum Hundetrainer ergab sich für mich eher ungeplant, da ich nach
       dem Abitur im Jahr 2001 zunächst eine klassische Ausbildung als
