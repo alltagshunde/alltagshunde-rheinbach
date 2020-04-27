@@ -5,15 +5,15 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Beschäftigungsangebot
+    heading: Beschäftigung
     headingSize: "1"
   - type: text
     width: "1"
     headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
-    text: In meiner Hundeschule biete ich dir und deinem Hund eine runde Auswahl an
-      Beschäftigungsmöglichkeiten.
+    text: In meiner Hundeschule biete ich dir und deinem Hund eine Auswahl an
+      Beschäftigungsangeboten rund um Nasen- und Teamarbeit.
     heading: Artgerechte Beschäftigung - Sinnvolle Auslastung
     headingSize: null
   - type: text
