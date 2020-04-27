@@ -24,17 +24,17 @@ buildingBlocks:
     headingCentered: true
     headingColorPrimary: false
     text: >-
-      * wieder gelassen mit deinem Hund spazieren zu gehen, auch wenn Euch
+      * wieder gelassen mit deinem Hund spazieren zu gehen, <br/>auch wenn Euch
       andere Hundehalter begegnen.
 
-      * deinen Hund auch aus Situationen mit hoher Ablenkung z. B. dem Spiel mit Artgenossen oder bei Wildsichtung zuverlässig abzurufen.
+      * deinen Hund auch aus Situationen mit hoher Ablenkung <br/>z. B. dem Spiel mit Artgenossen oder bei Wildsichtung zuverlässig abzurufen.
 
-      * auch ohne Leine entspannt mit deinem Hund spazieren zu gehen, weil er zuverlässig in der Nähe bleibt und auch im Freilauf auf dich achtet.
+      * auch ohne Leine entspannt mit deinem Hund spazieren zu gehen, <br/>weil er zuverlässig in der Nähe bleibt und auch im Freilauf auf dich achtet.
 
-      * wieder gerne Besuch zu empfangen, weil dein Hund sich zu benehmen weiß und ruhig auf seinem Platz warten kann.
+      * wieder gerne Besuch zu empfangen, <br/>weil dein Hund sich zu benehmen weiß und ruhig auf seinem Platz warten kann.
 
-      * endlich wieder unbesorgt zum Einkaufen oder zur Arbeit zu gehen, weil dein Hund Zuhause entspannt auf dich warten kann, ohne Dinge zu zerstören oder zu bellen.
-    heading: Ich unterstütze dich und zeige dir, wie Du es schaffst ...
+      * endlich wieder unbesorgt zum Einkaufen oder zur Arbeit zu gehen, <br/>weil dein Hund Zuhause entspannt auf dich warten kann, ohne Dinge zu zerstören oder zu bellen.
+    heading: Ich unterstütze dich und zeige dir,<br/>wie Du es schaffst ...
   - type: image
     width: 1/3
     innerWidth: null
