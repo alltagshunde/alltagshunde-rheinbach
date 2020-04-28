@@ -10,7 +10,7 @@ buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "2"
-    headingCentered: false
+    headingCentered: true
     heading: Gesundheit - Vertrauen - Teamwork
     text: "#### \\*\\*\\* NEU ab August 2020 - Sichere dir jetzt schon deinen Platz!
       \\*\\*\\*"
