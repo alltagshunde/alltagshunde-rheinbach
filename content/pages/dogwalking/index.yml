@@ -67,16 +67,17 @@ buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "2"
-    headingCentered: false
+    headingCentered: true
     headingColorPrimary: false
     text: >-
-      Dann melde dich über das Kontaktformular oder ruf mich am besten gleich
-      an!\
-
-      Gerne beantworte ich deine Fragen und berate dich, ob mein Gassiservice das Passende für dich und deinen Hund ist!
+      Du möchtest wissen, ob mein Gassiservice das Richtige für dich und deinen
+      Hund ist? 
 
 
-      Deine Carolin
+      Dann melde dich über das Kontaktformular oder ruf mich am besten gleich an! Gerne beantworte ich deine Fragen wir können einen Probetermin vereinbaren! 
+
+
+      Ich freue mich auf deinen Anruf! <br/>Deine Carolin
     heading: "Bist Du neugierig geworden? "
     headingSize: "3"
   - type: text
