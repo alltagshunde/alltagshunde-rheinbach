@@ -1,6 +1,12 @@
 title: K3 Dog Parkour
 parentPage: Beschäftigung
 buildingBlocks:
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: K3DogParkour®
   - type: image
     width: 1/2
     innerWidth: 1/2
@@ -13,8 +19,7 @@ buildingBlocks:
     width: "1"
     headingLevel: "2"
     headingCentered: false
-    heading: K3DogParkour®  // NEU ab August 2020 - Sichere dir jetzt schon deinen
-      Platz!
+    heading: NEU ab August 2020 - Sichere dir jetzt schon deinen Platz!
     text: >-
       K3DogParkour® ist ein mobiles Fitness-, Mental-, und „Mutmach“ -Training
       für Hunde aller Altersklassen mit spannendem Erlebnis-Parcours. Im Fokus
@@ -40,7 +45,7 @@ buildingBlocks:
       * … deinem **hyperaktiven** Hund durch konzentriertes Training zu mehr Ruhe zu verhelfen.
 
       * … deinen **Welpen** oder **Junghund** über ein positiv gestaltetes „Konflikt“-Training an verschiedene Umweltreize heranzuführen und zeitgleich Motorik und Grundgehorsam zu trainieren.
-    headingSize: null
+    headingSize: "3"
   - type: text
     width: 1/2
     headingLevel: "2"
