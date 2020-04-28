@@ -56,7 +56,7 @@ buildingBlocks:
     isBanner: false
     image: gruppentraining.jpg
   - type: text
-    width: 2/3
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
@@ -76,19 +76,7 @@ buildingBlocks:
       * entspannt in öffentlichen Verkehrsmitteln zu fahren, auch wenn es mal eng wird.
     heading: Dein Hund lernt im Laufe des Trainings ...
   - type: text
-    width: 1/3
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    heading: "Voraussetzung:"
-    text: |-
-      Erstgespräch bzw. Einzeltraining
-
-      oder
-
-      Training im Rahmen des Welpen- / Junghundepakets "Das kleine 1x1"
-  - type: text
-    width: "1"
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
@@ -107,7 +95,7 @@ buildingBlocks:
 
       * **Intensive Betreuung** auch außerhalb des Trainings.
   - type: text
-    width: 1/3
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
@@ -120,3 +108,15 @@ buildingBlocks:
       **10er-Karte:** 210,- Euro
 
       Bzw. als Bestandteil des Welpen / Junghunde Pakets "*Das kleine 1x1*"
+  - type: text
+    width: 1/2
+    headingLevel: "3"
+    headingCentered: false
+    headingColorPrimary: false
+    heading: "Voraussetzung:"
+    text: |-
+      Erstgespräch bzw. Einzeltraining
+
+      oder
+
+      Training im Rahmen des Welpen- / Junghundepakets "Das kleine 1x1"
