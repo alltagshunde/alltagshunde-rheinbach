@@ -22,15 +22,16 @@ buildingBlocks:
     headingColorPrimary: false
     text: >-
       K3DogParkour® ist ein mobiles Fitness-, Mental-, und „Mutmach“ -Training
-      für Hunde aller Altersklassen mit spannendem Erlebnis-Parcours. Im Fokus
-      steht die ganzheitliche Betrachtung des Hundes mit der einzigartigen
-      K3-Formel „Körper – Kognition – Kühnheit“.
+      für Hunde aller Altersklassen in einem spannendem Erlebnis-Parcours. Im
+      Fokus steht die ganzheitliche Betrachtung des Hundes mit der einzigartigen
+      K3-Formel „Körper – Kognition – Kühnheit“. Ziel ist ein körperliches,
+      geistiges und seelisches Gleichgewicht des Hundes durch sinnvolle
+      Auslastung, ruhiges konzentriertes Arbeiten, gepaart mit Teamwork und
+      gegenseitigem Vertrauen.
 
 
-      Ziel ist ein körperliches, geistiges und seelisches Gleichgewicht des Hundes durch sinnvolle Auslastung, ruhiges konzentriertes Arbeiten, gepaart mit Teamwork und gegenseitigem Vertrauen. Vom einfachen Fun-Parcours bis hin zu sehr anspruchsvollen Übungen ist alles möglich.
-
-
-      Die individuellen Schwerpunkte können dabei ganz unterschiedlich gelagert sein, denn das Training ist hervorragend auf jedes Mensch-Hund-Team anzupassen und daher für Hunde jeglichen Alters und Fitnesslevel geeignet.
+      Von einfachen Aufgaben für Beginner, Welpen oder ältere Hunde bis hin zu sehr anspruchsvollen Übungen für Profis ist alles möglich. Die individuellen Schwerpunkte können dabei ganz unterschiedlich gelagert sein, denn das Training ist hervorragend auf jedes Mensch-Hund-Team anzupassen und daher für Hunde jeglichen Alters und Fitnesslevel geeignet.
+    headingSize: "3"
   - type: image
     width: 1/2
     innerWidth: 1/2
@@ -64,13 +65,15 @@ buildingBlocks:
 
       * Training in **Kleingruppen** (max. 5 Teams)
 
-      * K3DogParkour® wird **von Tierärzten und Tierphysiotherapeuten empfohlen** und unterstützt.
+      * K3DogParkour® wird **von Tierärzten und Tierphysiotherapeuten empfohlen** und unterstützt
 
-      * K3DogParkour® wird als geschützte Marke und im Sinne einer gleichbleibend hohen Qualität **nur von lizenzierten Hundeschulen** unterrichtet.
+      * K3DogParkour® wird als geschützte Marke und im Sinne einer gleichbleibend hohen Qualität **nur von lizenzierten Hundeschulen** unterrichtet
 
       * Individuelles Training für jedes Team
 
       * **Hilfestellung** und **intensive Betreuung** auch außerhalb des Trainings
+
+        Mehr Infos unter: [www.k3dogparkour.com](www.k3dogparkour.com)
     headingSize: "3"
   - type: image
     width: 1/3
