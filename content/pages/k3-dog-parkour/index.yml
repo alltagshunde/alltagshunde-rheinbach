@@ -7,14 +7,6 @@ buildingBlocks:
     headingCentered: true
     headingColorPrimary: false
     heading: K3DogParkour®
-  - type: image
-    width: 1/2
-    innerWidth: 1/2
-    image: img_7720.jpg
-  - type: image
-    width: 1/2
-    innerWidth: 1/2
-    image: dsc00363.jpg
   - type: text
     width: "1"
     headingLevel: "2"
@@ -31,20 +23,6 @@ buildingBlocks:
 
 
       Die individuellen Schwerpunkte können dabei ganz unterschiedlich gelagert sein, denn das Training ist hervorragend auf jedes Mensch-Hund-Team anzupassen und daher für Hunde jeglichen Alters und Fitnesslevel geeignet.
-
-
-      **Das Training bietet dir die Möglichkeit …**
-
-
-      * … deinen **älteren** **Hund** mit viel Spaß geistig und körperlich fit zu halten.
-
-      * … deinen Hund **trotz eingeschränkter Mobilität** körperlich auszulasten ohne ihn zu überfordern.
-
-      * … das **Selbstvertrauen** deines **ängstlichen** Hundes über gemeinsame Erfolgserlebnisse zu stärken.
-
-      * … deinem **hyperaktiven** Hund durch konzentriertes Training zu mehr Ruhe zu verhelfen.
-
-      * … deinen **Welpen** oder **Junghund** über ein positiv gestaltetes „Konflikt“-Training an verschiedene Umweltreize heranzuführen und zeitgleich Motorik und Grundgehorsam zu trainieren.
     headingSize: "3"
   - type: text
     width: 1/2
@@ -52,17 +30,26 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      Einzeln: 25,00 Euro pro Stunde (60 Min.)
+      * … deinen **älteren** **Hund** mit viel Spaß geistig und körperlich fit
+      hältst.
 
+      * … deinen Hund **trotz eingeschränkter Mobilität** körperlich auslastest ohne ihn zu überfordern.
 
-      5er-Karte: 110,00 Euro
+      * … das **Selbstvertrauen** deines **ängstlichen** Hundes über gemeinsame Erfolgserlebnisse stärkst.
 
+      * … deinem **hyperaktiven** Hund durch konzentriertes Training zu mehr Ruhe verhilfst.
 
-      10er-Karte 210,00 Euro
-
-
-      Das Training findet in der Regel auf dem Hundeplatz in 53359 Rheinbach-Oberdrees statt.
-    heading: "Kosten: "
+      * … deinen **Welpen** oder **Junghund** über ein positiv gestaltetes „Konflikt“-Training an verschiedene Umweltreize heranzuführst und zeitgleich Motorik und Grundgehorsam trainierst.
+    heading: Im Training zeige ich dir, wie Du ...
+    headingSize: "3"
+  - type: image
+    width: 1/2
+    innerWidth: 1/2
+    image: dsc00363.jpg
+  - type: image
+    width: 1/2
+    innerWidth: 1/2
+    image: img_7720.jpg
   - type: text
     width: 1/2
     headingLevel: "2"
@@ -70,10 +57,31 @@ buildingBlocks:
     headingColorPrimary: false
     heading: "Deine Vorteile: "
     text: >-
-      * **Individuelles Training**, auf dich und deinen Hund abgestimmt
+      * Du bist an **keinen festen Kurs** gebunden
 
-      * Training in der **Kleingruppe** (max. 5 Teilnehmer)
+      * Training in **Kleingruppen** (max. 5 Teams)
 
       * K3DogParkour® wird **von Tierärzten und Tierphysiotherapeuten empfohlen** und unterstützt.
 
       * K3DogParkour® wird als geschützte Marke und im Sinne einer gleichbleibend hohen Qualität **nur von lizenzierten Hundeschulen** unterrichtet.
+
+      * Individuelles Training für jedes Team
+
+      * **Hilfestellung** und **intensive Betreuung** auch außerhalb des Trainings
+  - type: text
+    width: 1/2
+    headingLevel: "2"
+    headingCentered: false
+    headingColorPrimary: false
+    text: >-
+      **Einzeln:** 25,00 Euro pro Stunde (60 Min.)
+
+
+      **5er-Karte:** 110,00 Euro
+
+
+      **10er-Karte:** 210,00 Euro
+
+
+      Das Training findet in der Regel auf dem Hundeplatz in 53359 Rheinbach-Oberdrees statt.
+    heading: "Preise: "
