@@ -11,10 +11,26 @@ buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "2"
-    headingCentered: false
+    headingCentered: true
     heading: Urlaub bei guten Freunden
     text: Es ist mein Herzenswunsch, dass dein Hund sich während seines "Urlaubs"
       bei uns wie zuhause fühlt.
+    headingSize: "3"
+  - type: image
+    width: "1"
+    innerWidth: "1"
+    isBanner: true
+    image: 2015-08-14-17979.jpg
+  - type: text
+    width: 1/3
+    headingLevel: "2"
+    headingCentered: false
+    headingColorPrimary: false
+    text: |-
+      * 35,00 € pro Tag; 
+      * Zweithund 25,00 € pro Tag
+      * Abgabe- und Abholtag werden in vollem Umfang berechnet.
+    heading: "Preise: "
     headingSize: "3"
   - type: text
     width: 1/2
@@ -50,26 +66,3 @@ buildingBlocks:
 
       * Um die hohe Qualität der Betreuung zu gewährleisten und den Aufenthalt sowohl für Gäste, wie auch meine eigenen Hunde so stressarm wie möglich zu gestalten, ist die Betreuung nur für mir bekannte Hunde bzw. nach vorherigem Probeaufenthalt  (kostenpflichtig) möglich.
     headingSize: "2"
-  - type: image
-    width: "1"
-    innerWidth: "1"
-    isBanner: true
-    image: 2015-08-14-17979.jpg
-  - type: text
-    width: "1"
-    headingLevel: "2"
-    headingCentered: false
-    headingColorPrimary: false
-    text: >-
-      Während seines Aufenthalts bei uns lebt dein Hund zusammen mit uns und
-      unseren Hunden im Haus. Dafür setzen wir eine gewisse Anpassungsfähigkeit
-      und Sozialverträglichkeit mit Menschen und Artgenossen voraus. Kleinere
-      Auseinandersetzungen können vorkommen und gehören zum Leben in einer
-      Hundegruppe dazu. Selbstverständlich erhält dein Hund hier sein eigenes
-      Körbchen sowie einen Rückzugsort. 
-
-
-      Wir unternehmen regelmäßig ausgiebige Spaziergänge in der Gruppe mit viel Gelegenheit zum Freilauf die Hunde. Zwischendurch begleitet mich dein Hund aber auch mal ins Büro oder zu Terminen, so dass  auch während deiner Abwesenheit das Training nicht zu kurz kommt. Sollte dein Hund gewisse "Themen" haben, kann auf Wunsch und ergänzend zu eurem Training bei mir gerne (weiter) daran gearbeitet werden. Hierfür wird je nach Aufwand ggf. ein Aufpreis berechnet. 
-
-
-      Während deiner Reise kannst Du also völlig sorglos deinen Urlaub genießen oder dich auf deine Arbeit konzentrieren. Dein Hund ist bei mir in den besten Händen und liegt mir am Herzen wie meine eigenen Hunde. Gerade wenn mich meine Stammgäste besuchen fühlt es sich an, wie ein Urlaub unter Freunden.
