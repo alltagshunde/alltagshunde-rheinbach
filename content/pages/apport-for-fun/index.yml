@@ -82,3 +82,18 @@ buildingBlocks:
       * Ein gewisser Grundgehorsam des Hundes ist Voraussetzung: 
 
         Dein Hund sollte auch in Anwesenheit von Artgenossen ansprechbar sein und nicht permanent bellen, wenn die anderen Hunde arbeiten.
+  - type: text
+    width: 1/2
+    headingLevel: "2"
+    headingCentered: false
+    headingColorPrimary: false
+    heading: "Deine Vorteile: "
+    text: >-
+      * **Individuelles Training**, auf dich und deinen Hund abgestimmt
+
+      * Training in der **Kleingruppe** (max. 4 Teilnehmer)
+
+      * Handouts zum Aufbau der Trainingsstunden – dadurch **auch zuhause gut umsetzbar**
+
+      * Wöchentliche Email mit den Inhalten der letzten Stunde
+    headingSize: "3"
