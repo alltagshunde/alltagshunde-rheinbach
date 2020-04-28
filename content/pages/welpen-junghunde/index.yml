@@ -17,9 +17,9 @@ buildingBlocks:
     text: Profitiere von meiner jahrelangen Erfahrung in der Ausbildung von Welpen
       und Junghunden.
   - type: text
-    width: 2/3
+    width: 1/2
     headingLevel: "3"
-    headingCentered: true
+    headingCentered: false
     headingColorPrimary: false
     text: >-
       * locker an der Leine neben dir zu laufen.
@@ -39,7 +39,7 @@ buildingBlocks:
       * sich in schwierigen Situationen zurückzunehmen und auf dich zu achten.
     heading: Ich zeige dir, wie Du deinem jungen Hund beibringst ...
   - type: image
-    width: 1/3
+    width: 1/2
     innerWidth: null
     isBanner: false
     image: 3-4-monate-andere-tiere-pferde.jpg
