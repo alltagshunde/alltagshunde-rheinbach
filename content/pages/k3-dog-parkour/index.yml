@@ -65,7 +65,7 @@ buildingBlocks:
   - type: text
     width: 1/2
     headingLevel: "2"
-    headingCentered: true
+    headingCentered: false
     headingColorPrimary: false
     heading: "Deine Vorteile: "
     text: >-
@@ -80,6 +80,7 @@ buildingBlocks:
       * Individuelles Training für jedes Team
 
       * **Hilfestellung** und **intensive Betreuung** auch außerhalb des Trainings
+    headingSize: "3"
   - type: text
     width: 1/2
     headingLevel: "2"
@@ -97,3 +98,4 @@ buildingBlocks:
 
       Das Training findet in der Regel auf dem Hundeplatz in 53359 Rheinbach-Oberdrees statt.
     heading: "Preise: "
+    headingSize: "3"
