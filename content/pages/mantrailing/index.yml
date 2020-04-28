@@ -109,11 +109,9 @@ buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "3"
-    headingCentered: true
+    headingCentered: false
     headingColorPrimary: false
     heading: "Voraussetzungen:"
-    text: >-
-      Keine Vorkenntnisse nötig!
-
-
-      Dein Hund sollte über einen gewissen Grundgehorsam verfügen und während er Pause hat, entspannt im Auto warten können.
+    text: Keine Vorkenntnisse nötig! <br/>Dein Hund sollte über einen gewissen
+      Grundgehorsam verfügen und während er Pause hat, entspannt im Auto warten
+      können.
