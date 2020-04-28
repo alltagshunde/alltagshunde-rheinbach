@@ -7,25 +7,15 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Urlaubsbetreuung & Pension
+    heading: Urlaubsbetreuung
   - type: text
-    width: 1/2
+    width: "1"
     headingLevel: "2"
     headingCentered: false
     heading: Urlaub bei guten Freunden
-    text: >-
-      Es ist mein Herzenswunsch, dass dein Hund sich während seines "Urlaubs"
+    text: Es ist mein Herzenswunsch, dass dein Hund sich während seines "Urlaubs"
       bei uns wie zuhause fühlt.
-
-
-      Während seines Aufenthalts bei uns lebt dein Hund zusammen mit uns und unseren Hunden im Haus. Dafür setzen wir eine gewisse Anpassungsfähigkeit und Sozialverträglichkeit mit Menschen und Artgenossen voraus. Kleinere Auseinandersetzungen können vorkommen und gehören zum Leben in einer Hundegruppe dazu. Selbstverständlich erhält dein Hund hier sein eigenes Körbchen sowie einen Rückzugsort. 
-
-
-      Wir unternehmen regelmäßig ausgiebige Spaziergänge in der Gruppe mit viel Gelegenheit zum Freilauf die Hunde. Zwischendurch begleitet mich dein Hund aber auch mal ins Büro oder zu Terminen, so dass  auch während deiner Abwesenheit das Training nicht zu kurz kommt. Sollte dein Hund gewisse "Themen" haben, kann auf Wunsch und ergänzend zu eurem Training bei mir gerne (weiter) daran gearbeitet werden. Hierfür wird je nach Aufwand ggf. ein Aufpreis berechnet. 
-
-
-      Während deiner Reise kannst Du also völlig sorglos deinen Urlaub genießen oder dich auf deine Arbeit konzentrieren. Dein Hund ist bei mir in den besten Händen und liegt mir am Herzen wie meine eigenen Hunde. Gerade wenn mich meine Stammgäste besuchen fühlt es sich an, wie ein Urlaub unter Freunden.
-    headingSize: "2"
+    headingSize: "3"
   - type: text
     width: 1/2
     headingLevel: "2"
@@ -65,3 +55,21 @@ buildingBlocks:
     innerWidth: "1"
     isBanner: true
     image: 2015-08-14-17979.jpg
+  - type: text
+    width: "1"
+    headingLevel: "2"
+    headingCentered: false
+    headingColorPrimary: false
+    text: >-
+      Während seines Aufenthalts bei uns lebt dein Hund zusammen mit uns und
+      unseren Hunden im Haus. Dafür setzen wir eine gewisse Anpassungsfähigkeit
+      und Sozialverträglichkeit mit Menschen und Artgenossen voraus. Kleinere
+      Auseinandersetzungen können vorkommen und gehören zum Leben in einer
+      Hundegruppe dazu. Selbstverständlich erhält dein Hund hier sein eigenes
+      Körbchen sowie einen Rückzugsort. 
+
+
+      Wir unternehmen regelmäßig ausgiebige Spaziergänge in der Gruppe mit viel Gelegenheit zum Freilauf die Hunde. Zwischendurch begleitet mich dein Hund aber auch mal ins Büro oder zu Terminen, so dass  auch während deiner Abwesenheit das Training nicht zu kurz kommt. Sollte dein Hund gewisse "Themen" haben, kann auf Wunsch und ergänzend zu eurem Training bei mir gerne (weiter) daran gearbeitet werden. Hierfür wird je nach Aufwand ggf. ein Aufpreis berechnet. 
+
+
+      Während deiner Reise kannst Du also völlig sorglos deinen Urlaub genießen oder dich auf deine Arbeit konzentrieren. Dein Hund ist bei mir in den besten Händen und liegt mir am Herzen wie meine eigenen Hunde. Gerade wenn mich meine Stammgäste besuchen fühlt es sich an, wie ein Urlaub unter Freunden.
