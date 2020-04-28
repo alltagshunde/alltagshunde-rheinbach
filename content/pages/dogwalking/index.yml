@@ -37,12 +37,22 @@ buildingBlocks:
       * Nach unserem Ausflug ins Grüne ist **dein Hund ausgeglichen** und **wartet zufrieden** auf deine Rückkehr bzw. den Feierabend.
     heading: "Vorteile des Gassiservices für dich und deinen Hund: "
     headingSize: "3"
+  - type: image
+    width: 1/2
+    innerWidth: 1/2
+    isBanner: false
+    image: freilaufgruppe.png
+  - type: image
+    width: 1/2
+    innerWidth: null
+    isBanner: false
+    image: profis-hunde.png
   - type: text
     width: 1/2
     headingLevel: "2"
     headingCentered: true
     headingColorPrimary: false
-    heading: Ablauf & Kosten
+    heading: "Ablauf:"
     text: >-
       Ich hole deinen Hund in meinem mit professionellen Hundeboxen
       ausgestatteten Auto je nach Absprache bei dir Zuhause oder an deinem
@@ -104,8 +114,3 @@ buildingBlocks:
 
 
       **Deine Carolin**
-  - type: image
-    width: 1/2
-    innerWidth: 1/2
-    isBanner: false
-    image: freilaufgruppe.png
