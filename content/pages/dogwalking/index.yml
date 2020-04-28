@@ -54,25 +54,46 @@ buildingBlocks:
     headingColorPrimary: false
     heading: "Ablauf:"
     text: >-
-      Ich hole deinen Hund in meinem mit professionellen Hundeboxen
-      ausgestatteten Auto je nach Absprache bei dir Zuhause oder an deinem
-      Arbeitsplatz ab. Wenn alle Hunde eingesammelt sind unternehmen wir einen
-      Ausflug ins Grüne. Meist gehen wir im Wald spazieren, wobei ich immer für
-      Abwechslung und im Sommer natürlich auch für Schatten und Wasser sorge. In
-      der Regel besteht die Gruppe aus 5-6 Hunden (inkl. meiner eigenen Hunde)
-      und wir laufen ca. 1,5 - 2 Stunden. Nach dem Spaziergang bringe ich deinen
-      Hund wieder sicher und bequem zu dir nach hause oder ins Büro zurück.
+      Ich hole deinen Hund in meinem Auto mit professionellen Hundeboxen ab. Je
+      nach Absprache kann das bei dir Zuhause oder an deinem Arbeitsplatz sein.
+      Sobald alle Hunde abgeholt und an Board sind, unternehmen wir einen
+      Ausflug ins Grüne. 
 
 
-      **Kosten:** 
+      Meist gehen wir im schönen Rheinbacher Wald oder den umliegenden Feldern spazieren. Dabei sorge ich immer für Abwechslung und achte im Sommer selbstverständlich auch auf ausreichend Schatten und Wasser. 
 
 
-      * 25,00 € pro Spaziergang (inkl. Fahrtkosten in Wachtberg, Meckenheim, Rheinbach)
+      In der Regel besteht die Gruppe aus 5-6 Hunden (inkl. meiner eigenen Hunde) und wir laufen ca. 1,5 - 2 Stunden. Nach dem Spaziergang bringe ich deinen Hund wieder zu dir nach hause oder ins Büro zurück. Dein Hund wird ausgeglichen und zufrieden sein und den Rest des Tages höchstwahrscheinlich  zufrieden schlafen.
+  - type: text
+    width: "1"
+    headingLevel: "2"
+    headingCentered: false
+    headingColorPrimary: false
+    text: >-
+      Dann melde dich über das Kontaktformular oder ruf mich am besten gleich
+      an!\
+
+      Gerne beantworte ich deine Fragen und berate dich, ob mein Gassiservice das Passende für dich und deinen Hund ist!
+
+
+      Deine Carolin
+    heading: "Bist Du neugierig geworden? "
+    headingSize: "3"
+  - type: text
+    width: 1/2
+    headingLevel: "2"
+    headingCentered: false
+    headingColorPrimary: false
+    text: >-
+      * 25,00 € pro Spaziergang (inkl. Fahrtkosten in Wachtberg, Meckenheim,
+      Rheinbach)
 
       * Monats-Abonnement auf Anfrage möglich.  
 
 
-      **Dafür erhältst Du folgende Leistungen:**
+
+
+      ### **Der Gassiservice beinhaltet folgende Leistungen:**
 
 
       * Abhol- & Bring-Dienst im Umkreis von Rheinbach, Meckenheim, Wachtberg
@@ -80,6 +101,8 @@ buildingBlocks:
       * Ca. 1,5 – 2-stündiger Spaziergang mit der Hundegruppe im Grünen und bei jedem Wetter.
 
       * Bei Bedarf Betreuung im Haus (z. B. Füttern, Medikamente verabreichen o. ä.)
+    heading: "Preise: "
+    headingSize: "3"
   - type: text
     width: 1/2
     headingLevel: "2"
@@ -87,30 +110,15 @@ buildingBlocks:
     headingColorPrimary: false
     heading: Voraussetzungen
     text: >-
-      * Dein Hund sollte eine gültige Steuermarke besitzen und auf dich als
-      Halter registriert sein
+      * Dein Hund sollte eine **gültige Steuermarke** besitzen und auf dich als
+      Halter **registriert** sein
 
-      * Dein Hund benötigt eine gültige Haftpflichtversicherung die Fremdbetreuung einschließt (bei den meisten Versicherungen ist ein entsprechender Nachtrag recht unbürokratisch möglich) 
+      * Dein Hund benötigt eine **gültige Haftpflichtversicherung** die Fremdbetreuung einschließt (bei den meisten Versicherungen ist ein entsprechender Nachtrag recht unbürokratisch möglich) 
 
-      * Dein Hund sollte frei von ansteckenden Krankheiten sein und über einen gültigen Impfstatus verfügen
+      * Dein Hund sollte **frei von ansteckenden Krankheiten** sein und über einen **gültigen Impfstatus** verfügen
 
-      * Dein Hund sollte grundsätzlich verträglich mit Artgenossen und Menschen sein. \
+      * Dein Hund sollte **grundsätzlich verträglich mit Artgenossen und Menschen** sein. \
         Sollte es hier Einschränkungen geben, sprich mich gerne trotzdem an. Oft können diese Hunde - eine Maulkorbgewöhnung vorausgesetzt - je nach Zusammenstellung der Gruppe ebenfalls betreut werden und davon profitieren. 
       * Läufige Hündinnen können je nach Zusammenstellung in der Gruppe oder nur einzeln betreut werden. 
 
-      * Dein Hund sollte kein übersteigertes Jagdverhalten haben, damit er in der Gruppe abgeleint werden kann.
-  - type: text
-    width: "1"
-    headingLevel: "1"
-    headingCentered: true
-    headingColorPrimary: false
-    text: >-
-      **Wenn Du jetzt neugierig geworden bist, dann melde dich über das
-      Kontaktformular oder ruf mich gleich an: 0176 6171 1772**\
-
-      \
-
-      **Ich freue mich auf deinen Anruf oder deine Nachricht und beantworte gerne deine Fragen!**
-
-
-      **Deine Carolin**
+      * Dein Hund sollte **kein übersteigertes Jagdverhalten** haben, damit er in der Gruppe abgeleint werden kann.
