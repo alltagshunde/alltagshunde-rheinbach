@@ -50,7 +50,8 @@ buildingBlocks:
     image: vizsla-geruchsdifferenzierung.jpg
     heading: Geruchsdifferenzierung
     button: Mehr erfahren
-    buttonLink: Geruchsdifferenzierung - Schnüffel dich glücklich
+    buttonLink: Geruchsdifferenzierung
+    innerWidth: 3/4
   - type: card
     width: 1/4
     image: apportieren.jpg
