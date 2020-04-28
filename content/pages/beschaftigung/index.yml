@@ -45,6 +45,7 @@ buildingBlocks:
     button: Mehr erfahren
     image: mantrailing.jpg
     buttonLink: Mantrailing
+    innerWidth: 3/4
   - type: card
     width: 1/4
     image: vizsla-geruchsdifferenzierung.jpg
@@ -58,12 +59,14 @@ buildingBlocks:
     heading: Apport for Fun
     button: Mehr erfahren
     buttonLink: Apport for Fun
+    innerWidth: 3/4
   - type: card
     width: 1/4
     image: nele-und-rudi.jpg
     heading: "K3DogParkour® "
     button: Mehr erfahren
     buttonLink: K3 Dog Parkour
+    innerWidth: 3/4
   - type: text
     width: "1"
     headingLevel: "6"
