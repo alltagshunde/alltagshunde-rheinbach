@@ -31,6 +31,10 @@ buildingBlocks:
 
 
       Die individuellen Schwerpunkte können dabei ganz unterschiedlich gelagert sein, denn das Training ist hervorragend auf jedes Mensch-Hund-Team anzupassen und daher für Hunde jeglichen Alters und Fitnesslevel geeignet.
+  - type: image
+    width: 1/2
+    innerWidth: 1/2
+    image: dsc00363.jpg
   - type: text
     width: 1/2
     headingLevel: "2"
@@ -51,12 +55,13 @@ buildingBlocks:
     headingSize: "3"
   - type: image
     width: 1/2
-    innerWidth: 1/2
-    image: dsc00363.jpg
+    innerWidth: null
+    isBanner: false
+    image: img_7887.jpg
   - type: image
     width: 1/2
-    innerWidth: 1/2
-    image: img_7720.jpg
+    innerWidth: null
+    image: img-20190210-wa0011.jpg
   - type: text
     width: 1/2
     headingLevel: "2"
