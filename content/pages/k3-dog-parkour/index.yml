@@ -54,7 +54,7 @@ buildingBlocks:
     heading: Im Training zeige ich dir, wie Du ...
     headingSize: "3"
   - type: text
-    width: 1/2
+    width: 2/3
     headingLevel: "2"
     headingCentered: false
     headingColorPrimary: false
@@ -73,16 +73,16 @@ buildingBlocks:
       * **Hilfestellung** und **intensive Betreuung** auch außerhalb des Trainings
     headingSize: "3"
   - type: image
-    width: 1/2
+    width: 1/3
     innerWidth: null
     isBanner: false
     image: img_7887.jpg
   - type: image
-    width: 1/2
+    width: 1/3
     innerWidth: null
     image: nele-und-rudi.jpg
   - type: text
-    width: 1/2
+    width: 2/3
     headingLevel: "2"
     headingCentered: false
     headingColorPrimary: false
