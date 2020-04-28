@@ -19,7 +19,7 @@ buildingBlocks:
     width: 1/3
     innerWidth: null
     isBanner: false
-    image: tea-time.jpg
+    image: beagle-geruchsdifferenzierung.jpg
   - type: text
     width: 2/3
     headingLevel: "2"
@@ -65,7 +65,7 @@ buildingBlocks:
     width: 1/2
     innerWidth: null
     isBanner: false
-    image: beagle-geruchsdifferenzierung.jpg
+    image: tea-time.jpg
   - type: text
     width: 1/2
     headingLevel: "3"
