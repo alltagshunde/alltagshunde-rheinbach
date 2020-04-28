@@ -10,23 +10,24 @@ buildingBlocks:
     text: ""
     headingSize: null
   - type: text
+    width: "1"
+    headingLevel: "2"
+    headingCentered: true
+    headingColorPrimary: false
+    heading: Dummytraining für den Familienhund
+    headingSize: "3"
+    text: Freizeitspaß kombiniert mit sinnvoller Auslastung
+  - type: text
     width: 2/3
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
     text: >-
       Die meisten Hunde laufen gerne geworfenen Gegenständen hinter her. Zurück
-      bringen sie es aber, wenn überhaupt, nur ein paar Mal. In diesem Kurs
-      widmen wir uns unterschiedlichen Möglichkeiten, z.B. einfacher Apport,
-      Apport über Hürden, Apport in Kombination mit Tricks.
+      bringen sie es aber, wenn überhaupt, nur ein paar Mal. 
 
 
-      **Wichtig!** 
-
-
-      Richtlinien der “echten” Apport- bzw. Dummyarbeit werden hierbei nicht berücksichtigt. \
-
-      In diesem Kurs geht es vielmehr um die körperliche und geistige Auslastung des Familienhundes. So wird das Apportieren zum Freizeitspaß für dich und deinen Hund.
+      In diesem Kurs widmen wir uns unterschiedlichen Möglichkeiten, z.B. einfacher Apport, Apport über Hürden, Apport in Kombination mit Tricks. Im Vordergrund stehen neben einem vernünftigen Aufbau, die körperliche und geistige Auslastung des Familienhundes. So wird das Apportieren zum Freizeitspaß für dich und deinen Hund.
   - type: image
     width: 1/3
     innerWidth: null
