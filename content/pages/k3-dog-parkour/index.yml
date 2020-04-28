@@ -11,7 +11,15 @@ buildingBlocks:
     width: "1"
     headingLevel: "2"
     headingCentered: false
-    heading: NEU ab August 2020 - Sichere dir jetzt schon deinen Platz!
+    heading: Gesundheit - Vertrauen - Teamwork
+    text: "#### \\*\\*\\* NEU ab August 2020 - Sichere dir jetzt schon deinen Platz!
+      \\*\\*\\*"
+    headingSize: "3"
+  - type: text
+    width: "1"
+    headingLevel: "2"
+    headingCentered: false
+    headingColorPrimary: false
     text: >-
       K3DogParkour® ist ein mobiles Fitness-, Mental-, und „Mutmach“ -Training
       für Hunde aller Altersklassen mit spannendem Erlebnis-Parcours. Im Fokus
@@ -23,7 +31,6 @@ buildingBlocks:
 
 
       Die individuellen Schwerpunkte können dabei ganz unterschiedlich gelagert sein, denn das Training ist hervorragend auf jedes Mensch-Hund-Team anzupassen und daher für Hunde jeglichen Alters und Fitnesslevel geeignet.
-    headingSize: "3"
   - type: text
     width: 1/2
     headingLevel: "2"
