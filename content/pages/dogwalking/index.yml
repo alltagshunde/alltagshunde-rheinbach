@@ -104,3 +104,8 @@ buildingBlocks:
 
 
       **Deine Carolin**
+  - type: image
+    width: 1/2
+    innerWidth: 1/2
+    isBanner: false
+    image: freilaufgruppe.png
