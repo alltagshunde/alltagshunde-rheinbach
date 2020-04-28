@@ -18,7 +18,7 @@ buildingBlocks:
     headingSize: "3"
     text: Freizeitspaß kombiniert mit sinnvoller Auslastung
   - type: text
-    width: 2/3
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
@@ -29,41 +29,35 @@ buildingBlocks:
 
       In diesem Kurs widmen wir uns unterschiedlichen Möglichkeiten, z.B. einfacher Apport, Apport über Hürden, Apport in Kombination mit Tricks. Im Vordergrund stehen neben einem vernünftigen Aufbau, die körperliche und geistige Auslastung des Familienhundes. So wird das Apportieren zum Freizeitspaß für dich und deinen Hund.
   - type: image
-    width: 1/3
+    width: 1/2
     innerWidth: null
     isBanner: true
     image: chihuahua-apport.jpg
   - type: image
-    width: 1/3
+    width: 1/2
     innerWidth: null
     isBanner: false
     image: 2016-06-10-34027.jpg
   - type: text
-    width: 2/3
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      * verschiedene Möglichkeiten der Apportarbeit.
+      * Verschiedene Möglichkeiten der Apportarbeit.
 
-      * wie man mit mehreren Dummy´s gleichzeitig arbeiten kann.
+      * Mit meheren Dummys gleichzeitig arbeiten und den Hund gezielt losschicken
 
-      * Ausbau der Impulskontrolle: Wie Du es schaffst, dass dein Hund wartet, bis er starten darf.
+      * Ausbau der Impulskontrolle: <br/>Wie Du es schaffst, dass dein Hund wartet, bis er starten darf.
 
       * Einbauen von Tricks und Geräten in den Apport, wie z. B. das Überspringen von Hürden mit einem Apportel.
-
-
-      ### **Ziel:**
-
-
-      Am Ende des Kurses sollte nicht nur jeder Hund in der Lage sein, einen Gegenstand zu apportieren, sondern viel mehr sitzen zu bleiben, bis er losgeschickt wird und nur den, ihm angezeigten Dummy zu holen. Einige können danach bereits Tricks und Dummy miteinander kombinieren.
     heading: "In diesem Kurs zeige ich dir:"
   - type: text
     width: 1/3
     headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
-    heading: "Kosten: "
+    heading: "Preise: "
     text: |-
       **Einzeln:** 25,00 Euro pro Stunde (60 Min.)
 
