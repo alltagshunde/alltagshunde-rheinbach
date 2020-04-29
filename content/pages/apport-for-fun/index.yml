@@ -91,7 +91,7 @@ buildingBlocks:
     isBanner: false
     image: apportieren.jpg
   - type: text
-    width: 1/3
+    width: "1"
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
