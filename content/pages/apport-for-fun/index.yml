@@ -17,11 +17,11 @@ buildingBlocks:
     heading: Dummytraining für den Familienhund
     headingSize: "3"
     text: Die meisten Hunde laufen gerne geworfenen Gegenständen hinter her, bringen
-      sie aber meist ungern zurück. <br/>In diesem Kurs widmen wir uns mit viel
-      Spaß und Motivation den unterschiedlichen Möglichkeiten, z.B. einfacher
-      Apport, Apport über Hürden, Apport in Kombination mit Tricks. <br/>Im
-      Vordergrund stehen der gemeinsame Spaß und die körperliche und geistige
-      Auslastung des Familienhundes.
+      sie aber meist ungern zurück. In diesem Kurs widmen wir uns mit viel Spaß
+      und Motivation den unterschiedlichen Möglichkeiten, z.B. einfacher Apport,
+      Apport über Hürden, Apport in Kombination mit Tricks. Im Vordergrund
+      stehen der gemeinsame Spaß und die körperliche und geistige Auslastung des
+      Familienhundes.
   - type: image
     width: 1/3
     innerWidth: null
@@ -33,13 +33,15 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      * Aufbau und verschiedene Möglichkeiten der Apportarbeit
+      * Gezielter **Aufbau des Apports** über Spaß und Motivation
 
-      * Mit meheren Dummys gleichzeitig arbeiten und den Hund gezielt losschicken
+      * **verschiedene Möglichkeiten** der Apportarbeit
 
-      * Ausbau der Impulskontrolle: <br/>Wie Du es schaffst, dass dein Hund wartet, bis er starten darf.
+      * **Mit mehreren Dummys gleichzeitig** arbeiten und den Hund gezielt losschicken
 
-      * Einbauen von Tricks und Geräten in den Apport, wie z. B. das Überspringen von Hürden mit einem Apportel.
+      * Ausbau der Impulskontrolle: <br/>Wie Du es schaffst, dass **dein Hund wartet, bis er starten darf**
+
+      * **Einbauen von Tricks und Geräten in den Apport**, wie z. B. das Überspringen von Hürden mit einem Apportel
     heading: "In diesem Kurs zeige ich dir:"
   - type: text
     width: 2/3
@@ -69,12 +71,20 @@ buildingBlocks:
     headingCentered: true
     headingColorPrimary: false
     heading: "Preise: "
-    text: |-
+    text: >-
       **Einzeln:** 25,00 Euro pro Stunde (60 Min.)
+
 
       **5er-Karte:** 110,00 Euro
 
+
       **10er-Karte:** 210,00 Euro
+
+
+      **Alle 5er- und 10er-Karten können flexibel in allen Kursen eingesetzt werden.** 
+
+
+      Das Training findet auf dem Hundeplatz in Rheinbach-Oberdrees statt und verschiedenen Orten in der ländlichen Umgebund statt.
   - type: image
     width: 1/3
     innerWidth: null
