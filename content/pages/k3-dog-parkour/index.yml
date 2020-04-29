@@ -12,7 +12,7 @@ buildingBlocks:
     headingLevel: "2"
     headingCentered: true
     heading: Gesundheit - Vertrauen - Teamwork
-    text: "#### \\*\\*\\* NEU ab August 2020 - Sichere dir jetzt schon deinen Platz!
+    text: "### \\*\\*\\* NEU ab August 2020 - Sichere dir jetzt schon deinen Platz!
       \\*\\*\\*"
     headingSize: "3"
   - type: text
@@ -22,37 +22,35 @@ buildingBlocks:
     headingColorPrimary: false
     text: >-
       K3DogParkour® ist ein mobiles Fitness-, Mental-, und „Mutmach“ -Training
-      für Hunde aller Altersklassen in einem spannendem Erlebnis-Parcours. Im
-      Fokus steht die ganzheitliche Betrachtung des Hundes mit der einzigartigen
-      K3-Formel „Körper – Kognition – Kühnheit“. Ziel ist ein körperliches,
-      geistiges und seelisches Gleichgewicht des Hundes durch sinnvolle
-      Auslastung, ruhiges konzentriertes Arbeiten, gepaart mit Teamwork und
-      gegenseitigem Vertrauen.
+      bei dem die ganzheitliche Betrachtung des Hundes nach der einzigartigen
+      K3-Formel „Körper – Kognition – Kühnheit“ im Vordergrund steht. Ziel des
+      Trainings ist die sinnvolle Auslastung des Hundes durch ruhiges
+      konzentriertes Arbeiten gepaart mit Teamwork und gegenseitigem Vertrauen.
 
 
-      Von einfachen Aufgaben für Beginner, Welpen oder ältere Hunde bis hin zu sehr anspruchsvollen Übungen für Profis ist alles möglich. Die individuellen Schwerpunkte können dabei ganz unterschiedlich gelagert sein, denn das Training ist hervorragend auf jedes Mensch-Hund-Team anzupassen und daher für Hunde jeglichen Alters und Fitnesslevel geeignet.
+      Die Aufgaben im spannendem Erlebnis-Parcours sind dabei vielseitig: Von einfachen Übungen für Beginner, Welpen oder ältere Hunde bis hin zu anspruchsvollen Herausforderungen für die Profis ist alles möglich. Die individuellen Schwerpunkte können dabei ganz unterschiedlich gelagert sein, denn das Training ist hervorragend auf jedes Mensch-Hund-Team anzupassen und daher für Hunde jeglichen Alters und Fitnesslevel geeignet.
     headingSize: "3"
   - type: image
-    width: 1/2
-    innerWidth: 1/2
+    width: 1/3
+    innerWidth: "1"
     image: dsc00363.jpg
   - type: text
-    width: 1/2
+    width: 2/3
     headingLevel: "2"
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      * … deinen **älteren** **Hund** mit viel Spaß geistig und körperlich fit
-      hältst.
+      * … deinen älteren Hund **mit viel Spaß geistig und körperlich fit**
+      hältst
 
-      * … deinen Hund **trotz eingeschränkter Mobilität** körperlich auslastest ohne ihn zu überfordern.
+      * … deinen Hund **trotz eingeschränkter Mobilität** körperlich auslastest ohne ihn zu überfordern
 
-      * … das **Selbstvertrauen** deines **ängstlichen** Hundes über gemeinsame Erfolgserlebnisse stärkst.
+      * … das **Selbstvertrauen** deines ängstlichen Hundes **über gemeinsame Erfolgserlebnisse stärkst**
 
-      * … deinem **hyperaktiven** Hund durch konzentriertes Training zu mehr Ruhe verhilfst.
+      * … deinem hyperaktiven Hund durch **konzentriertes Training** zu mehr Ruhe verhilfst
 
-      * … deinen **Welpen** oder **Junghund** über ein positiv gestaltetes „Konflikt“-Training an verschiedene Umweltreize heranzuführst und zeitgleich Motorik und Grundgehorsam trainierst.
-    heading: Im Training zeige ich dir, wie Du ...
+      * … deinen Welpen oder Junghund über ein **positiv gestaltetes „Konflikt“-Training** an verschiedene Umweltreize heranzuführst und zeitgleich **Motorik und Grundgehorsam trainierst**
+    heading: Im Training zeige ich dir, wie du ...
     headingSize: "3"
   - type: text
     width: 2/3
@@ -69,7 +67,7 @@ buildingBlocks:
 
       * K3DogParkour® wird als geschützte Marke und im Sinne einer gleichbleibend hohen Qualität **nur von lizenzierten Hundeschulen** unterrichtet
 
-      * Individuelles Training für jedes Team
+      * **Individuelles** Training für jedes Team
 
       * **Hilfestellung** und **intensive Betreuung** auch außerhalb des Trainings
 
@@ -99,6 +97,9 @@ buildingBlocks:
       **10er-Karte:** 210,00 Euro
 
 
-      Das Training findet in der Regel auf dem Hundeplatz in 53359 Rheinbach-Oberdrees statt.
+      **Alle 5er- und 10er-Karten können flexibel in allen Kursen eingesetzt werden.**
+
+
+      Das Training findet in der Regel auf dem Hundeplatz in Rheinbach-Oberdrees statt.
     heading: "Preise: "
     headingSize: "3"
