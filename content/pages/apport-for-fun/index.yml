@@ -65,6 +65,11 @@ buildingBlocks:
     innerWidth: null
     isBanner: false
     image: 2016-06-10-34027.jpg
+  - type: image
+    width: 1/3
+    innerWidth: null
+    isBanner: false
+    image: apportieren.jpg
   - type: text
     width: 1/3
     headingLevel: "3"
@@ -85,11 +90,6 @@ buildingBlocks:
 
 
       Das Training findet auf dem Hundeplatz in Rheinbach-Oberdrees statt und verschiedenen Orten in der ländlichen Umgebund statt.
-  - type: image
-    width: 1/3
-    innerWidth: null
-    isBanner: false
-    image: apportieren.jpg
   - type: text
     width: "1"
     headingLevel: "3"
