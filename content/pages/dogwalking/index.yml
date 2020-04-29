@@ -18,7 +18,7 @@ buildingBlocks:
       Gründen, dein Hund ist bei mir bestens aufgehoben. Du kannst dich darauf
       verlassen, dass dein Hund in deiner Abwesenheit eine gute Zeit hat und
       nach unserem Spaziergang ausgeglichen und zufrieden auf dich warten wird.
-    headingSize: "2"
+    headingSize: "3"
   - type: text
     width: 1/2
     headingLevel: "2"
@@ -50,7 +50,7 @@ buildingBlocks:
   - type: text
     width: 1/2
     headingLevel: "2"
-    headingCentered: true
+    headingCentered: false
     headingColorPrimary: false
     heading: "Ablauf:"
     text: >-
@@ -64,6 +64,7 @@ buildingBlocks:
 
 
       In der Regel besteht die Gruppe aus 5-6 Hunden (inkl. meiner eigenen Hunde) und wir laufen ca. 1,5 - 2 Stunden. Nach dem Spaziergang bringe ich deinen Hund wieder zu dir nach hause oder ins Büro zurück. Dein Hund wird ausgeglichen und zufrieden sein und den Rest des Tages höchstwahrscheinlich  zufrieden schlafen.
+    headingSize: "3"
   - type: text
     width: "1"
     headingLevel: "2"
@@ -107,12 +108,12 @@ buildingBlocks:
   - type: text
     width: 1/2
     headingLevel: "2"
-    headingCentered: true
+    headingCentered: false
     headingColorPrimary: false
     heading: Voraussetzungen
     text: >-
       * Dein Hund sollte eine **gültige Steuermarke** besitzen und auf dich als
-      Halter **registriert** sein
+      Halter registriert sein
 
       * Dein Hund benötigt eine **gültige Haftpflichtversicherung** die Fremdbetreuung einschließt (bei den meisten Versicherungen ist ein entsprechender Nachtrag recht unbürokratisch möglich) 
 
@@ -120,6 +121,7 @@ buildingBlocks:
 
       * Dein Hund sollte **grundsätzlich verträglich mit Artgenossen und Menschen** sein. \
         Sollte es hier Einschränkungen geben, sprich mich gerne trotzdem an. Oft können diese Hunde - eine Maulkorbgewöhnung vorausgesetzt - je nach Zusammenstellung der Gruppe ebenfalls betreut werden und davon profitieren. 
-      * Läufige Hündinnen können je nach Zusammenstellung in der Gruppe oder nur einzeln betreut werden. 
-
       * Dein Hund sollte **kein übersteigertes Jagdverhalten** haben, damit er in der Gruppe abgeleint werden kann.
+
+      * Läufige Hündinnen können je nach Zusammenstellung in der Gruppe oder nur einzeln betreut werden.
+    headingSize: "3"
