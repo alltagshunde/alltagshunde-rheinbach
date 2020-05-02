@@ -43,6 +43,22 @@ buildingBlocks:
     isBanner: false
     image: dsc01648.jpg
   - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: false
+    headingColorPrimary: false
+    text: >-
+      Am Beginn unserer Zusammenarbeit steht ein ausführliches Kennenlernen. Wer
+      bist du und wer ist dein Hund? Was macht eure Beziehung aus? In diesem
+      Erstgespräch analysieren wir gemeinsam die Themen und Probleme, die den
+      Alltag mit deinem Hund erschweren und legen euer Trainingsziel fest. In
+      den folgenden Stunden erarbeiten wir zusammen einen individuellen
+      Lösungsweg, der sich gut in euren Alltag integrieren lässt.
+
+
+      In der Regel sind *ca. 3 - 6 Einzelstunden* ausreichend, um dir und deinem Hund eine Basis für das weitere Miteinander zu geben und Gelerntes zu vertiefen.
+    heading: "Ablauf:"
+  - type: text
     width: 1/2
     headingLevel: "3"
     headingCentered: false
@@ -57,9 +73,9 @@ buildingBlocks:
 
       1 x Nachkontrolle (45 Min.)
 
-      \+ wöchentliche Sprechstunde
+      + wöchentliche Online-Sprechstunde
 
-      \+ intensive Betreuung auch zwischen den Terminen
+      + intensive Betreuung auch zwischen den Terminen
 
       **zum Preis von: 265,- Euro**
     isColored: true
@@ -80,27 +96,11 @@ buildingBlocks:
 
       1 x Nachkontrolle (45 Min.)
 
-      \+ wöchentliche Sprechstunde
+      + wöchentliche Online-Sprechstunde
 
-      \+ intensive Betreuung auch zwischen den Terminen
+      + intensive Betreuung auch zwischen den Terminen
 
-      **zum Preis von: 475,- Euro**
-  - type: text
-    width: "1"
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    text: >-
-      Am Beginn unserer Zusammenarbeit steht ein ausführliches Kennenlernen. Wer
-      bist du und wer ist dein Hund? Was macht eure Beziehung aus? In diesem
-      Erstgespräch analysieren wir gemeinsam die Themen und Probleme, die den
-      Alltag mit deinem Hund erschweren und legen euer Trainingsziel fest. In
-      den folgenden Stunden erarbeiten wir zusammen einen individuellen
-      Lösungsweg, der sich gut in euren Alltag integrieren lässt.
-
-
-      In der Regel sind *ca. 3 - 6 Einzelstunden* ausreichend, um dir und deinem Hund eine Basis für das weitere Miteinander zu geben und Gelerntes zu vertiefen.
-    heading: "Ablauf:"
+      **zum Preis von: 465,- Euro**
   - type: text
     width: 2/3
     headingLevel: "3"
