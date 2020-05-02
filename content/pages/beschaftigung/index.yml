@@ -7,15 +7,16 @@ buildingBlocks:
     headingColorPrimary: false
     heading: Beschäftigung
     headingSize: "1"
-  - type: text
-    width: "1"
+  - headingColorPrimary: false
+    heading: Artgerechte Beschäftigung - Sinnvolle Auslastung
     headingLevel: "3"
-    headingCentered: true
-    headingColorPrimary: false
+    headingSize: null
+    width: "1"
     text: In meiner Hundeschule biete ich dir und deinem Hund eine Auswahl an
       Beschäftigungsangeboten rund um Nasen- und Teamarbeit.
-    heading: Artgerechte Beschäftigung - Sinnvolle Auslastung
-    headingSize: null
+    headingCentered: true
+    isColored: true
+    type: text
   - type: text
     width: "1"
     headingLevel: "2"
@@ -39,41 +40,40 @@ buildingBlocks:
       beantworte deine Fragen zu den verschiedenen Angeboten. <br/>Gemeinsam
       finden wir mit Sicherheit das Richtige für dich und deinen Hund.
     heading: Du bist unsicher, was dir und deinem Hund Spaß machen könnte?
+    isColored: true
   - type: card
     width: 1/4
     heading: Mantrailing
     button: Mehr erfahren
     image: mantrailing.jpg
     buttonLink: Mantrailing
-    innerWidth: 3/4
+    innerWidth: null
   - type: card
     width: 1/4
     image: vizsla-geruchsdifferenzierung.jpg
     heading: Schnüffel dich glücklich
     button: Mehr erfahren
     buttonLink: Geruchsdifferenzierung
-    innerWidth: 3/4
+    innerWidth: null
   - type: card
     width: 1/4
     image: apportieren.jpg
     heading: Apport for Fun
     button: Mehr erfahren
     buttonLink: Apport for Fun
-    innerWidth: 3/4
+    innerWidth: null
   - type: card
     width: 1/4
     image: nele-und-rudi.jpg
     heading: "K3DogParkour® "
     button: Mehr erfahren
     buttonLink: K3 Dog Parkour
-    innerWidth: 3/4
-  - type: text
-    width: "1"
-    headingLevel: "6"
-    headingCentered: false
-    headingColorPrimary: false
+    innerWidth: null
+  - headingColorPrimary: false
     heading: ""
+    headingLevel: "6"
     headingSize: "6"
+    width: "1"
     text: Jeder Hund ist einzigartig, daher müssen Talente und Persönlichkeit deines
       Hundes nicht zwangsläufig seinem Rasseprofil oder deinen eigenen
       Erwartungen entsprechen. Ebenfalls hält sich hartnäckig das Gerücht, dass
@@ -84,3 +84,6 @@ buildingBlocks:
       wenige Hunde glücklich, ihre Menschen einfach im Alltag und auf
       ausgedehnte Spaziergänge begleiten zu dürfen. Manchmal ist weniger eben
       auch mehr.
+    headingCentered: false
+    isColored: true
+    type: text

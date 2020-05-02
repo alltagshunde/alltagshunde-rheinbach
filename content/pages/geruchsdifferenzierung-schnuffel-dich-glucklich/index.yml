@@ -14,7 +14,9 @@ buildingBlocks:
     headingCentered: true
     headingColorPrimary: false
     heading: Schnüffel dich glücklich
-    text: Ob Mops oder Schäferhund - Natürliche Auslastung und Spaß für Jederhund!
+    text: "**Ob Mops oder Schäferhund - Natürliche Auslastung und Spaß für
+      Jederhund!**"
+    isColored: true
   - type: image
     width: 1/3
     innerWidth: null
@@ -48,6 +50,7 @@ buildingBlocks:
 
       * … wie du eine ganz **neue Seite an deinem Hund** entdecken wirst
     heading: In diesem Kurs zeige ich dir ...
+    isColored: true
   - type: text
     width: 1/2
     headingLevel: "2"
@@ -88,12 +91,11 @@ buildingBlocks:
 
 
       Das Training findet an unterschiedlichen Orten in und um 53359 Rheinbach statt.
-  - type: text
-    width: "1"
-    headingLevel: "2"
-    headingCentered: false
-    headingColorPrimary: false
+  - headingColorPrimary: false
     heading: "Voraussetzungen: "
+    headingLevel: "2"
+    headingSize: "3"
+    width: "1"
     text: >-
       * Ein gewisser Grundgehorsam deines Hundes:<br/>Dein Hund sollte auch in
       Anwesenheit von Artgenossen in der Lage sein, sich zu konzentrieren und
@@ -102,4 +104,6 @@ buildingBlocks:
       * Zur Ausrüstung wird ein Halsband oder Geschirr benötigt. Alternativ kann auch z. B. ein Halstuch umgebunden werden. **Wichtig** ist, dass der Hund Halsband/Geschirr oder Halstuch **nicht** im Alltag oder im Rahmen einer anderen Sucharbeit trägt. 
 
       * Eine Schleppleine von 3 - 5 Meter Länge
-    headingSize: "3"
+    headingCentered: false
+    isColored: true
+    type: text

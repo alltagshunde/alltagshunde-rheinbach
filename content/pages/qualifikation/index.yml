@@ -71,6 +71,7 @@ buildingBlocks:
 
 
       Regelmäßige Fortbildung ist für mich nicht nur eine Selbstverständlichkeit, sondern eine Leidenschaft, der ich so oft wie möglich nachkomme. Nachfolgend eine Liste der von mir besuchten Fortbildungen, Seminare und Workshops.
+    isColored: true
   - type: text
     width: "1"
     headingLevel: "3"
@@ -120,6 +121,7 @@ buildingBlocks:
 
       **Mythen der Hundehaltung**<br/>(Maren Grote)
     heading: Seminare & Vorträge
+    isColored: true
   - type: text
     width: 1/2
     headingLevel: "3"

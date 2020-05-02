@@ -6,12 +6,14 @@ buildingBlocks:
     headingCentered: true
     headingColorPrimary: false
     heading: Erziehung
+    isColored: false
   - type: text
     width: "1"
     headingLevel: "3"
     headingCentered: true
     heading: Grunderziehung und Verhaltensberatung
-    text: für Welpen, Junghunde und erwachsene Hunde.
+    text: "**für Welpen, Junghunde und erwachsene Hunde**"
+    isColored: true
   - type: text
     width: "1"
     headingLevel: "2"
@@ -27,6 +29,7 @@ buildingBlocks:
 
 
       Ich berate dich umfassend zu möglichen Lösungswegen, helfe dir bei deiner Zielsetzung und unterstütze dich Schritt für Schritt bei der anschließenden Umsetzung im Training mit deinem Hund.
+    isColored: true
   - type: card
     width: 1/3
     innerWidth: null

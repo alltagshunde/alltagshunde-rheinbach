@@ -16,6 +16,7 @@ buildingBlocks:
     heading: "Grunderziehung für Welpen und Junghunde bis 12 Monate "
     text: Profitiere von meiner jahrelangen Erfahrung in der Ausbildung von Welpen
       und Junghunden.
+    isColored: true
   - type: text
     width: 1/2
     headingLevel: "3"
@@ -48,6 +49,7 @@ buildingBlocks:
     innerWidth: "1"
     isBanner: false
     image: dsc_0001.jpg
+    isColored: true
   - type: text
     width: 1/2
     headingLevel: "3"

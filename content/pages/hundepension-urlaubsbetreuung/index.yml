@@ -16,6 +16,7 @@ buildingBlocks:
     text: Es ist mein Herzenswunsch, dass dein Hund sich während seines "Urlaubs"
       bei uns wie zuhause fühlt.
     headingSize: "3"
+    isColored: true
   - type: image
     width: "1"
     innerWidth: "1"
@@ -40,6 +41,7 @@ buildingBlocks:
 
       Während deiner Reise kannst du also völlig sorglos deinen Urlaub genießen oder dich auf deine Arbeit konzentrieren. Dein Hund ist bei mir in den besten Händen und liegt mir am Herzen wie meine eigenen Hunde.
     headingSize: "3"
+    isColored: true
   - type: text
     width: 2/3
     headingLevel: "2"

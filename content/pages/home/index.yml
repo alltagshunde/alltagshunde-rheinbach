@@ -14,6 +14,7 @@ buildingBlocks:
     width: 1/4
     innerWidth: "1"
     isBanner: false
+    isColored: true
   - type: text
     heading: Für ein entspanntes Miteinander von Mensch und Hund
     text: >-
@@ -39,21 +40,14 @@ buildingBlocks:
     headingCentered: false
   - heading: Kontakt aufnehmen
     headingLevel: "2"
-    headingSize: "3"
+    headingSize: "2"
     width: "1"
-    facebook: https://www.example.com
-    whatsapp: "00176"
+    facebook: true
+    innerWidth: 1/2
+    whatsapp: true
     headingCentered: true
     type: contact
-    email: caro@alltagshunde-rheinbach.de
-  - type: message
-    width: "1"
-    isBanner: true
-    image: rheinbach.png
-    heading: Senden Sie mir eine Nachricht
-    headingLevel: "3"
-    headingSize: "4"
-    headingCentered: true
+    email: true
   - type: text
     width: "1"
     headingLevel: "2"
@@ -61,6 +55,7 @@ buildingBlocks:
     headingColorPrimary: false
     heading: AlltagsHunde bietet
     headingSize: "2"
+    isColored: true
   - type: card
     width: 1/4
     innerWidth: null
@@ -68,6 +63,7 @@ buildingBlocks:
     heading: Beratung & Einzeltraining
     button: Mehr erfahren
     buttonLink: "Einzeltraining "
+    isColored: true
   - type: card
     width: 1/4
     innerWidth: null

@@ -1,0 +1,9 @@
+title: AGB
+isLandingPage: false
+buildingBlocks:
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    isColored: false
+    heading: AGB

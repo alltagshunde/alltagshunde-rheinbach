@@ -13,6 +13,7 @@ buildingBlocks:
     innerWidth: null
     isBanner: false
     image: 2015-08-09-17341.jpg
+    isColored: true
   - type: text
     width: 2/3
     headingLevel: "2"
@@ -37,12 +38,13 @@ buildingBlocks:
     heading: Sally - Sensible Diva
     text: >-
       Sally habe ich 2016 mit ca. 6 Jahren während meines Praktikums im Tierheim
-      des Vereins [T.i.N.O.](www.tiere-in-not-odenwald.de) übernommen. Damals
-      hatte ich bereits länger die Augen nach einem Zweithund offen gehalten
-      aber mein Lebensgefährte war noch nicht überzeugt. Dann sah ich Sally da
-      in der Hundegruppe sitzen, mit zitternden Beinchen und verständnislosem
-      Blick! Auch wenn es kitschig klingt und ich eigentlich nicht an so etwas
-      glaube - in diesem Moment wusste ich, dieser Hund gehört zu mir.
+      des Vereins [T.i.N.O.](https://www.tiere-in-not-odenwald.de) übernommen.
+      Damals hatte ich bereits länger die Augen nach einem Zweithund offen
+      gehalten aber mein Lebensgefährte war noch nicht überzeugt. Dann sah ich
+      Sally da in der Hundegruppe sitzen, mit zitternden Beinchen und
+      verständnislosem Blick! Auch wenn es kitschig klingt und ich eigentlich
+      nicht an so etwas glaube - in diesem Moment wusste ich, dieser Hund gehört
+      zu mir.
 
 
       Der Weg danach war oftmals steinig, denn Madame hatte nicht nur ein Päckchen zu tragen, sondern gleich einen ganzen Koffer gepackt: Von Beißvorfällen gegenüber Familienmitgliedern, Leinenpöbelei, Futteraggression, aggressivem Verhalten gegenüber anderen Hunden aber auch Ängsten, hatte sie alles im Gepäck. 

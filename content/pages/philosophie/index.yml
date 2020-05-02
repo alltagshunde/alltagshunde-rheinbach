@@ -17,6 +17,7 @@ buildingBlocks:
     heading: '"Erziehung hat mit Beziehung zu tun, nicht mit Anleitungen. Mit
       Persönlichkeit, anstelle starrer Vorgaben. Mit Herz und mit Seele und mit
       Freude aneinander."'
+    isColored: true
   - type: image
     width: 1/4
     innerWidth: 1/4
@@ -74,6 +75,7 @@ buildingBlocks:
       Das oberste Ziel eines jeden Trainings sollte es also sein, dass der Hund die Chance erhält, aus der Situation etwas zu lernen und sein Verhalten zukünftig entsprechend anzupassen. In dem Moment, in dem diese Möglichkeit weg fällt, ist jede unterbrechende Maßnahme gegenüber dem Hund unfair und deshalb abzulehnen.
     headingSize: "3"
     heading: Die Frage nach dem "Wie"
+    isColored: true
   - type: image
     width: 1/4
     innerWidth: 1/4

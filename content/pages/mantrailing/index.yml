@@ -10,15 +10,16 @@ buildingBlocks:
     text: ""
     headingSize: null
     headingColorPrimary: false
-  - type: text
-    width: "1"
-    headingLevel: "2"
-    headingCentered: true
-    headingColorPrimary: false
+  - headingColorPrimary: false
     heading: Artgerechte Beschäftigung und Teamarbeit auf höchstem Niveau
-    text: Beim Mantrailing darf dein Hund seine angeborenen Fähigkeiten endlich mal
-      ganz gezielt einsetzen.
+    headingLevel: "2"
     headingSize: "3"
+    width: "1"
+    text: "**Beim Mantrailing darf dein Hund seine angeborenen Fähigkeiten endlich
+      mal ganz gezielt einsetzen.**"
+    headingCentered: true
+    isColored: true
+    type: text
   - type: text
     width: "1"
     headingLevel: "2"
@@ -51,6 +52,7 @@ buildingBlocks:
       * wie dein **ängstlicher Hund** im Verlauf des Trainings **mehr Selbstvertrauen** entwickelt und bestehende Unsicherheiten gegenüber der Umwelt oder fremden Menschen überwinden kann
     heading: Im Training zeige ich dir ...
     headingSize: "3"
+    isColored: true
   - type: image
     width: 1/3
     innerWidth: null
@@ -92,6 +94,7 @@ buildingBlocks:
 
       * **Einstieg jederzeit möglich** (keine Vorkenntnisse nötig)
     heading: "Deine Vorteile: "
+    isColored: true
   - type: text
     width: 1/2
     headingLevel: "2"
@@ -112,6 +115,7 @@ buildingBlocks:
 
       Das Training findet an unterschiedlichen Orten in und um Rheinbach statt.
     heading: "Preise: "
+    isColored: false
   - type: text
     width: "1"
     headingLevel: "3"

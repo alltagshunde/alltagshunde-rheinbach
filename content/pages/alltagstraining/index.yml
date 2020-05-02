@@ -14,8 +14,9 @@ buildingBlocks:
     headingCentered: true
     headingColorPrimary: false
     heading: Gruppentraining mal anders
-    text: Gemeinsam mit Hunden aller Altersklassen und ihren Haltern trainieren,
-      genauso wie im richtigen Leben.
+    text: "**Gemeinsam mit Hunden aller Altersklassen und ihren Haltern trainieren,
+      genauso wie im richtigen Leben.**"
+    isColored: true
   - type: text
     width: "1"
     headingLevel: "3"
@@ -50,6 +51,7 @@ buildingBlocks:
 
       * wie  du **unerwünschtes Verhalten** deines Hundes sicher **unterbindest**
     heading: Durch das Training lernst du ...
+    isColored: true
   - type: image
     width: 1/3
     innerWidth: null
@@ -117,6 +119,7 @@ buildingBlocks:
 
 
       Das Training findet an unterschiedlichen Orten in Rheinbach und Umgebung statt.
+    isColored: true
   - type: text
     width: 1/2
     headingLevel: "3"

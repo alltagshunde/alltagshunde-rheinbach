@@ -19,6 +19,7 @@ buildingBlocks:
       verlassen, dass dein Hund in deiner Abwesenheit eine gute Zeit hat und
       nach unserem Spaziergang ausgeglichen und zufrieden auf dich warten wird.
     headingSize: "3"
+    isColored: true
   - type: text
     width: 1/2
     headingLevel: "2"
@@ -47,6 +48,7 @@ buildingBlocks:
     innerWidth: null
     isBanner: false
     image: profis-hunde.png
+    isColored: true
   - type: text
     width: 1/2
     headingLevel: "2"
@@ -81,11 +83,11 @@ buildingBlocks:
       Ich freue mich auf deinen Anruf! <br/>Deine Carolin
     heading: "Bist Du neugierig geworden? "
     headingSize: "3"
-  - type: text
-    width: 1/2
+  - headingColorPrimary: false
+    heading: "Preise: "
     headingLevel: "2"
-    headingCentered: false
-    headingColorPrimary: false
+    headingSize: "3"
+    width: 1/2
     text: >-
       * 25,00 € pro Spaziergang (inkl. Fahrtkosten in Wachtberg, Meckenheim,
       Rheinbach)
@@ -101,8 +103,9 @@ buildingBlocks:
       * Ca. 1,5 – 2-stündiger Spaziergang mit der Hundegruppe im Grünen und bei jedem Wetter.
 
       * Bei Bedarf Betreuung im Haus (z. B. Füttern, Medikamente verabreichen o. ä.)
-    heading: "Preise: "
-    headingSize: "3"
+    headingCentered: false
+    isColored: true
+    type: text
   - type: text
     width: 1/2
     headingLevel: "2"

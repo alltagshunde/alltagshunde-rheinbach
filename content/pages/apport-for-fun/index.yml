@@ -9,19 +9,20 @@ buildingBlocks:
     heading: Apport for Fun
     text: ""
     headingSize: null
-  - type: text
-    width: "1"
-    headingLevel: "2"
-    headingCentered: true
-    headingColorPrimary: false
+  - headingColorPrimary: false
     heading: Dummytraining für den Familienhund
+    headingLevel: "2"
     headingSize: "3"
+    width: "1"
     text: Die meisten Hunde laufen gerne geworfenen Gegenständen hinter her, bringen
       sie aber meist ungern zurück. In diesem Kurs widmen wir uns mit viel Spaß
       und Motivation den unterschiedlichen Möglichkeiten, z.B. einfacher Apport,
       Apport über Hürden, Apport in Kombination mit Tricks. Im Vordergrund
       stehen der gemeinsame Spaß und die körperliche und geistige Auslastung des
       Familienhundes.
+    headingCentered: true
+    isColored: true
+    type: text
   - type: image
     width: 1/3
     innerWidth: null
@@ -43,12 +44,11 @@ buildingBlocks:
 
       * **Einbauen von Tricks und Geräten in den Apport**, wie z. B. das Überspringen von Hürden mit einem Apportel
     heading: "In diesem Kurs zeige ich dir:"
-  - type: text
-    width: 2/3
-    headingLevel: "2"
-    headingCentered: false
-    headingColorPrimary: false
+  - headingColorPrimary: false
     heading: "Deine Vorteile: "
+    headingLevel: "2"
+    headingSize: "3"
+    width: 2/3
     text: >-
       * **Individuelles Training**, auf dich und deinen Hund abgestimmt
 
@@ -59,7 +59,9 @@ buildingBlocks:
       * **Einstieg jederzeit möglich**
 
       * Wöchentliche Email bzw. Handouts mit den Inhalten der letzten Stunde – <br/>dadurch **auch zuhause gut umsetzbar**
-    headingSize: "3"
+    headingCentered: false
+    isColored: true
+    type: text
   - type: image
     width: 1/3
     innerWidth: null
@@ -101,3 +103,4 @@ buildingBlocks:
       deinen Hund.
 
       * Ein gewisser Grundgehorsam des Hundes ist Voraussetzung: <br/>Dein Hund sollte auch in Anwesenheit von Artgenossen ansprechbar sein und nicht permanent bellen, wenn die anderen Hunde arbeiten.
+    isColored: true
