@@ -73,11 +73,10 @@ buildingBlocks:
 
       1 x Nachkontrolle (45 Min.)
 
-      + wöchentliche Online-Sprechstunde
+      \+ wöchentliche Online-Sprechstunde
+      \+ intensive Betreuung auch zwischen den Terminen
 
-      + intensive Betreuung auch zwischen den Terminen
-
-      **zum Preis von: 265,- Euro**
+      **zum Preis von: 259,- Euro**
     isColored: true
   - type: text
     width: 1/2
@@ -96,11 +95,10 @@ buildingBlocks:
 
       1 x Nachkontrolle (45 Min.)
 
-      + wöchentliche Online-Sprechstunde
+      \+ wöchentliche Online-Sprechstunde
+      \+ intensive Betreuung auch zwischen den Terminen
 
-      + intensive Betreuung auch zwischen den Terminen
-
-      **zum Preis von: 465,- Euro**
+      **zum Preis von: 459,- Euro**
   - type: text
     width: 2/3
     headingLevel: "3"
