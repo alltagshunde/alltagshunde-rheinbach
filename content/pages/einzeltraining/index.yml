@@ -59,49 +59,6 @@ buildingBlocks:
       In der Regel sind *ca. 3 - 6 Einzelstunden* ausreichend, um dir und deinem Hund eine Basis für das weitere Miteinander zu geben und Gelerntes zu vertiefen.
     heading: "Ablauf:"
   - type: text
-    width: 1/2
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    heading: Basis Paket
-    text: |-
-      **Das Basis Paket beinhaltet folgende Leistungen:** 
-
-      1 x Erstgespräch (75 Min.)
-
-      2 x Einzeltraining (je 60 Min.)
-
-      1 x Nachkontrolle (45 Min.)
-
-      \+ wöchentliche Online-Sprechstunde
-
-      \+ intensive Betreuung auch zwischen den Terminen
-
-      **zum Preis von: 259,- Euro**
-    isColored: true
-  - type: text
-    width: 1/2
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    heading: Intensiv Paket
-    text: |-
-      **Das Intensiv Paket beinhaltet folgende Leistungen:** 
-
-      1 x Erstgespräch (75 Min.)
-
-      4 x Einzeltraining (je 60 Min.)
-
-      1 x Hausbesuch (inkl. Fahrtkosten)
-
-      1 x Nachkontrolle (45 Min.)
-
-      \+ wöchentliche Online-Sprechstunde
-
-      \+ intensive Betreuung auch zwischen den Terminen
-
-      **zum Preis von: 459,- Euro**
-  - type: text
     width: 2/3
     headingLevel: "3"
     headingCentered: false
@@ -138,3 +95,47 @@ buildingBlocks:
 
       **Nachkontrolle (45 Min.):** 50,- Euro
     heading: "Einzelpreise:"
+  - type: text
+    width: 1/2
+    headingLevel: "3"
+    headingCentered: false
+    headingColorPrimary: false
+    heading: Basis Paket
+    text: |-
+      **Das Intensiv Paket beinhaltet folgende Leistungen:** 
+
+      1 x Erstgespräch (60 Min.)
+
+      1 x Hausbesuch (90 Min.)
+
+      4 x Einzeltraining (je 60 Min.)
+
+      1 x Nachkontrolle (45 Min.)
+
+      + wöchentliche Online-Sprechstunde
+
+      + intensive Betreuung auch zwischen den Terminen
+    isColored: true
+  - type: text
+    width: 1/2
+    headingLevel: "3"
+    headingCentered: false
+    headingColorPrimary: false
+    heading: Intensiv Paket
+    text: |-
+      **Das Intensiv Paket beinhaltet folgende Leistungen:** 
+
+      1 x Erstgespräch (75 Min.)
+
+      4 x Einzeltraining (je 60 Min.)
+
+      1 x Hausbesuch (inkl. Fahrtkosten)
+
+      1 x Nachkontrolle (45 Min.)
+
+      \+ wöchentliche Online-Sprechstunde
+
+      \+ intensive Betreuung auch zwischen den Terminen
+
+      **zum Preis von: 459,- Euro**
+    isColored: false
