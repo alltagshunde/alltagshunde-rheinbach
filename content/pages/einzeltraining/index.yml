@@ -110,10 +110,11 @@ buildingBlocks:
 
       1 x Nachkontrolle (45 Min.)
 
-      * wöchentliche Online-Sprechstunde
-      * intensive Betreuung auch zwischen den Terminen
+      &#43; wöchentliche Online-Sprechstunde 
 
-      Dauer / Gültig: 3 Monate
+      &#43; intensive Betreuung auch zwischen den Terminen
+
+      Dauer / Gültigkeit: 3 Monate
     isColored: true
   - type: text
     width: 1/2
