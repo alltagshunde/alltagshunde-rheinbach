@@ -102,6 +102,26 @@ buildingBlocks:
     headingColorPrimary: false
     heading: Basis Paket
     text: |-
+      **Das Basis Paket beinhaltet folgende Leistungen:** 
+
+      1 x Erstgespräch (60 Min.)
+
+      3 x Einzeltraining (je 60 Min.)
+
+      1 x Nachkontrolle (45 Min.)
+
+      * wöchentliche Online-Sprechstunde
+      * intensive Betreuung auch zwischen den Terminen
+
+      Dauer / Gültig: 3 Monate
+    isColored: true
+  - type: text
+    width: 1/2
+    headingLevel: "3"
+    headingCentered: false
+    headingColorPrimary: false
+    heading: Intensiv Paket
+    text: |-
       **Das Intensiv Paket beinhaltet folgende Leistungen:** 
 
       1 x Erstgespräch (60 Min.)
@@ -115,27 +135,6 @@ buildingBlocks:
       + wöchentliche Online-Sprechstunde
 
       + intensive Betreuung auch zwischen den Terminen
-    isColored: true
-  - type: text
-    width: 1/2
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    heading: Intensiv Paket
-    text: |-
-      **Das Intensiv Paket beinhaltet folgende Leistungen:** 
 
-      1 x Erstgespräch (75 Min.)
-
-      4 x Einzeltraining (je 60 Min.)
-
-      1 x Hausbesuch (inkl. Fahrtkosten)
-
-      1 x Nachkontrolle (45 Min.)
-
-      \+ wöchentliche Online-Sprechstunde
-
-      \+ intensive Betreuung auch zwischen den Terminen
-
-      **zum Preis von: 459,- Euro**
+      Dauer / Gültig: 4 Monate
     isColored: false
