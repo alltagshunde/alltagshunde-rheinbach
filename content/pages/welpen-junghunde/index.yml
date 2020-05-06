@@ -55,29 +55,7 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
-    heading: Paket "Das kleine 1 x 1"
-    text: |-
-      **Das Paket beinhaltet folgende Leistungen:** 
-
-      1 x Hausbesuch (75 Min.)
-
-      3 x Einzelcoaching (45 Min.)
-
-      1 x gemeinsamer Spaziergang (45 Min.)
-
-      1 x Schnuppertag "*Sinnvolle Beschäftigung*" (90 Min.)
-
-      \+ wöchentliche Online-Sprechstunde 
-
-      \+ intensive Betreuung auch zwischen den einzelnen Terminen 
-
-      **Zum Preis von: 249,- Euro**
-  - type: text
-    width: 1/2
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    heading: 'Paket "Das große 1 x 1" '
+    heading: 'Paket "Das kleine 1 x 1" '
     text: |-
       **Das Paket beinhaltet folgende Leistungen:** 
 
@@ -96,11 +74,6 @@ buildingBlocks:
       + intensive Betreuung auch zwischen den einzelnen Terminen 
 
       **Dauer / Gültig: 5 Monate**
-  - type: image
-    width: 1/2
-    innerWidth: "1"
-    isBanner: false
-    image: dsc_0001.jpg
   - type: text
     width: 1/2
     headingLevel: "3"
@@ -128,8 +101,31 @@ buildingBlocks:
       * **Leinenführigkeit** und **Freifolge**
 
       * Aufbau der wichtigsten **Grundkommandos**
-  - type: text
+  - type: image
     width: 1/2
+    innerWidth: "1"
+    isBanner: false
+    image: dsc_0001.jpg
+    text: |-
+      **Das Paket beinhaltet folgende Leistungen:** 
+
+      1x Hausbesuch (90 Min.)
+
+      5 x Einzeltraining (60 Min.)
+
+      5 x Gruppentraining (60 Min.) 
+
+      1 x Lernspaziergang 
+
+      1 x Schnupperstunde "*Sinnvolle Beschäftigung*" 
+
+      + wöchentliche Online-Sprechstunde 
+
+      + intensive Betreuung auch zwischen den einzelnen Terminen 
+
+      **Dauer / Gültig: 5 Monate**
+  - type: text
+    width: "1"
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
