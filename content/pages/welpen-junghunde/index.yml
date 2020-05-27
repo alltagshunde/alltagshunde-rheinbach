@@ -18,7 +18,7 @@ buildingBlocks:
       und Junghunden.
     isColored: true
   - type: text
-    width: 1/2
+    width: 2/3
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
@@ -42,18 +42,18 @@ buildingBlocks:
       * sich **in schwierigen Situatione**n zurückzunehmen und **auf dich zu achten**
     heading: Ich zeige dir, wie Du deinem jungen Hund beibringst ...
   - type: image
-    width: 1/2
+    width: 1/3
     innerWidth: null
     isBanner: false
     image: 3-4-monate-andere-tiere-pferde.jpg
   - type: image
-    width: 1/2
+    width: 1/3
     innerWidth: null
     isBanner: false
     image: welpe.jpg
     isColored: true
   - type: text
-    width: 1/2
+    width: 2/3
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
@@ -85,7 +85,7 @@ buildingBlocks:
       Angebote (z. B. Beschäftigungsangebote, Wanderungen, Workshops etc.)
       gegenüber Neukunden"
   - type: text
-    width: "1"
+    width: 2/3
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
@@ -126,7 +126,7 @@ buildingBlocks:
       * Artgerechte **Beschäftigungsmöglichkeiten**, die für dich und
       deinen Hund sinnvoll sind und euch beiden Spaß machen"
   - type: text
-    width: 1/2
+    width: 2/3
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
@@ -148,7 +148,7 @@ buildingBlocks:
 
       **Dauer / Gültigkeit: 5 Monate**
   - type: image
-    width: 1/2
+    width: 1/3
     innerWidth: "1"
     isBanner: false
     image: dsc_0001.jpg
