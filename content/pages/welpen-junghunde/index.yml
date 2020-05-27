@@ -99,13 +99,14 @@ buildingBlocks:
       * Wie dein Hund in allen Lebenslagen entspannt bleibt und sich an
       dir orientiert
 
-      * Beziehungsarbeit - welche **Grenzen** für das häusliche
-      Miteinander wichtig sind und wie du deinem Hund **Führung und Struktur im
-      Alltag** bietest
+      * **Beziehungsarbeit:** Welche **Grenzen** sind wichtig für das
+      häusliche Miteinander
 
-      * Aufbau und Festigung eines zuverlässigen **Abbruchsignals**\ 
+      * Wie Du im Alltag **Führung** übernimmst und **Struktur** bietest\ 
 
       * Erlernen von angemessener Korrektur und der Beißhemmung\r
+
+      * Aufbau und Festigung eines zuverlässigen **Abbruchsignals**\ 
 
       * Bedeutung der **Pubertät** des Hundes für die Erziehung
 
@@ -121,17 +122,15 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
-    heading: 'Paket "Das kleine 1 x 1" '
+    heading: 'Angebot: "Das kleine 1 x 1" '
     text: |-
       **Das Paket beinhaltet folgende Leistungen:** 
 
       1 x Hausbesuch (90 Min.)
 
-      5 x Einzeltraining (60 Min.)
+      2 x Einzeltraining (60 Min.)
 
-      5 x Gruppentraining (60 Min.) 
-
-      1 x Lernspaziergang 
+      10 x Gruppentraining (60 Min.) 
 
       1 x Schnupperstunde "*Sinnvolle Beschäftigung*" 
 
@@ -139,7 +138,7 @@ buildingBlocks:
 
       &#43; intensive Betreuung auch zwischen den einzelnen Terminen 
 
-      **Dauer / Gültig: 5 Monate**
+      **Dauer / Gültigkeit: 5 Monate**
   - type: image
     width: 1/2
     innerWidth: "1"
