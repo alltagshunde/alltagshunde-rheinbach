@@ -60,32 +60,26 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     heading: "Deine Vorteile auf einen Blick:"
-    text: "* Du bist an **keine festen Kurse** gebunden
+    text: >-
+      * Du bist an **keine festen Kurse** gebunden
 
-      * **Flexible Termine**, so dass sie in deinen Alltag passen:
-      Entweder als Gruppentraining, Einzelcoaching oder ein Paket aus beidem.\ 
+      * **Flexible Termine**, so dass sie in deinen Alltag passen: Entweder als Gruppentraining, Einzelcoaching oder ein Paket aus beidem. 
 
       * Training in **kleinen Gruppen** (max. 6 Teams)
 
-      * **Keine klassische Welpengruppe**, sondern ausgewählte Kontakte\ 
+      * **Keine klassische Welpengruppe**, sondern ausgewählte Kontakte 
 
-      * **gemischtes Gruppenstunden** für Welpen & Junghunde bis ca. 6
-      Monate bzw. Junghunde ab ca. 7 Monate & Erwachsene Hunde.\ 
+      * **Gemischtes Gruppenstunden** für Welpen & Junghunde bis ca. 6 Monate bzw. Junghunde ab ca. 7 Monate & Erwachsene Hunde. 
 
       * Lernen von und mit Erwachsenen Hunden
 
       * **Hohe Effizienz**, weil du selbst das Lern-Tempo vorgibst
 
-      * **wöchentliche Sprechstunde** und **intensive Betreuung** auch
-      zwischen den Terminen
+      * **Wöchentliche Online-Sprechstunde** 
 
-      * **wöchentliche Online-Sprechstunde\r**
+      * **intensive Betreuung auch zwischen den einzelnen Terminen**
 
-      \r* **intensive Betreuung auch zwischen den einzelnen Terminen**
-
-      * **Platz-Garantie** + **Frühbucher-Bonus** für weiterführende
-      Angebote (z. B. Beschäftigungsangebote, Wanderungen, Workshops etc.)
-      gegenüber Neukunden"
+      * **Platz-Garantie** + **Frühbucher-Bonus** für weiterführende Angebote (z. B. Beschäftigungsangebote, Wanderungen, Workshops etc.) gegenüber Neukunden
   - type: text
     width: 1/2
     headingLevel: "3"
