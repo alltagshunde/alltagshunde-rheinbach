@@ -67,9 +67,9 @@ buildingBlocks:
 
       * Training in **kleinen Gruppen** (max. 6 Teams)
 
-      * **Keine klassische Welpengruppe**, sondern ausgewählte Kontakte 
+      * **Keine klassische Welpengruppe**, sondern ausgewählte Kontakte in **kontrolliertem Rahmen**
 
-      * **Gemischtes Gruppenstunden** für Welpen & Junghunde bis ca. 6 Monate bzw. Junghunde ab ca. 7 Monate & Erwachsene Hunde. 
+      * **Gemischtes Gruppenstunden** für Welpen & Junghunde 
 
       * Lernen von und mit Erwachsenen Hunden
 
@@ -157,8 +157,8 @@ buildingBlocks:
 
       **Dauer / Gültigkeit: 5 Monate**
   - type: image
-    width: 1/2
-    innerWidth: "1"
+    width: "1"
+    innerWidth: 3/4
     isBanner: false
     image: dsc_0001.jpg
     text: |-
