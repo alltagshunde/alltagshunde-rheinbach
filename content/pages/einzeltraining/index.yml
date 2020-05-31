@@ -131,7 +131,7 @@ buildingBlocks:
     text: |-
       **Das Basis Paket beinhaltet folgende Leistungen:** 
 
-      1 x Erstgespräch (60 Min.)
+      1 x Erstgespräch (75 Min.)
 
       3 x Einzeltraining (je 60 Min.)
 
@@ -141,8 +141,8 @@ buildingBlocks:
 
       &#43; intensive Betreuung auch zwischen den Terminen
 
-      Dauer / Gültigkeit: 3 Monate\
-      Preis: 329,- Euro
+      Dauer / Gültigkeit: 4 Monate\
+      Preis: 349,- Euro
     isColored: true
   - type: text
     width: 1/2
@@ -153,9 +153,9 @@ buildingBlocks:
     text: |-
       **Das Intensiv Paket beinhaltet folgende Leistungen:** 
 
-      1 x Erstgespräch (60 Min.)
+      1 x Erstgespräch (75 Min.)
 
-      1 x Hausbesuch (90 Min.)
+      1 x Hausbesuch (60 Min.)
 
       3 x Einzeltraining (je 60 Min.)
 
@@ -168,5 +168,5 @@ buildingBlocks:
       &#43; intensive Betreuung auch zwischen den Terminen
 
       Dauer / Gültigkeit: 6 Monate\
-      Preis: 499,- Euro
+      Preis: 519,- Euro
     isColored: false
