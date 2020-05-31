@@ -42,13 +42,14 @@ buildingBlocks:
     width: 1/2
     innerWidth: null
     isBanner: false
-    image: freilaufgruppe.png
+    image: img_4372finish.jpg
+    isColored: true
   - type: image
     width: 1/2
     innerWidth: null
     isBanner: false
-    image: profis-hunde.png
-    isColored: true
+    image: freilaufgruppe.png
+    isColored: false
   - type: text
     width: 1/2
     headingLevel: "2"
