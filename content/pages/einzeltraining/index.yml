@@ -41,7 +41,7 @@ buildingBlocks:
     heading: Ich unterstütze dich und zeige dir, wie du es schaffst ...
   - type: image
     width: 1/2
-    innerWidth: 1/2
+    innerWidth: "1"
     isBanner: false
     isColored: false
     image: img_4087finish.jpg
@@ -122,7 +122,8 @@ buildingBlocks:
 
       &#43; intensive Betreuung auch zwischen den Terminen
 
-      Dauer / Gültigkeit: 3 Monate
+      Dauer / Gültigkeit: 3 Monate\
+      Preis: 329,- Euro
     isColored: true
   - type: text
     width: 1/2
@@ -137,7 +138,7 @@ buildingBlocks:
 
       1 x Hausbesuch (90 Min.)
 
-      4 x Einzeltraining (je 60 Min.)
+      3 x Einzeltraining (je 60 Min.)
 
       5 x Gruppentraining (je 60 Min.)
 
@@ -147,5 +148,6 @@ buildingBlocks:
 
       &#43; intensive Betreuung auch zwischen den Terminen
 
-      Dauer / Gültigkeit: 5 Monate
+      Dauer / Gültigkeit: 6 Monate\
+      Preis: 499,- Euro
     isColored: false
