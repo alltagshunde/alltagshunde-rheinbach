@@ -47,13 +47,14 @@ buildingBlocks:
     width: 1/2
     innerWidth: "1"
     isBanner: false
-    image: 3-4-monate-andere-tiere-pferde.jpg
+    image: welpen.jpg
+    isColored: true
   - type: image
     width: 1/2
     innerWidth: "1"
     isBanner: false
-    image: welpe.jpg
-    isColored: true
+    image: 3-4-monate-andere-tiere-pferde.jpg
+    isColored: false
   - type: text
     width: 1/2
     headingLevel: "3"
@@ -158,8 +159,8 @@ buildingBlocks:
 
       **Dauer / Gültigkeit: 5 Monate**
   - type: image
-    width: "1"
-    innerWidth: 3/4
+    width: 1/3
+    innerWidth: "1"
     isBanner: false
     image: dsc_0001.jpg
     text: |-
@@ -180,3 +181,15 @@ buildingBlocks:
       + intensive Betreuung auch zwischen den einzelnen Terminen 
 
       **Dauer / Gültig: 5 Monate**
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: french-bulldog-4301672_1920.jpg
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: dog-4608266_1920.jpg
