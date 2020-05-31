@@ -104,6 +104,25 @@ buildingBlocks:
       **Nachkontrolle (45 Min.):** 50,- Euro
     heading: "Einzelpreise:"
   - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    text: >-
+      Wenn wir miteinander trainiern ist es mir wichtig, dich als Hundehalter
+      fit im Umgang mit deinem Hund zu machen. Unsere gemeinsamen Termine
+      verstehe ich daher als Hilfe zur Selbsthilfe. Veränderung braucht jedoch
+      Zeit und jedes neu erlernte Verhalten - sowohl beim Mensch als auch beim
+      Hund - braucht Zeit um zu reifen und sich zu festigen. 
+
+
+      Daher möchte ich dir insbesondere meine Trainingspakete ans Herz legen. Wir vereinbaren zunächst ein Erstgespräch um uns kennenzulernen. Wenn die Chemie zwischen uns stimmt und Du entscheidest weiter mit mir arbeiten zu wollen, vereibaren wir eine bestimmte Trainingsdauer und Anzahl von Stunden. Die einzelnen Termine wählen wir in kleineren oder größeren Abständen, abhängig von eurem Trainingsziel. Während der einzelnen Termine bleiben wir stets in Kontakt um deine Trainingsfortschritte zu dokumentieren. Außerdem hast Du während meiner **wöchentlichen Online-Video-Sprechstunde** die Gelegenheit, dich intensiver mit mir auszutauschen, mir Fragen zu stellen und wir können die nächsten Trainingsschritte abstimmen bis wir uns wiedersehen. Nachdem Du dein erwünschtes Ziel erreicht hast, vereinbaren wir noch einen "Kontrolltermin" mit einigen Wochen Abstand. Eine ideale Gelegenheit für den letzten Feinschliff oder falls Du - was nur menschlich wäre - die Dinge in der Zwischenzeit ein bisschen schleifen gelassen hast.  \
+
+      \
+
+      Durch die kontinuierliche und intensive Betreuung wird das Training für dich und deinen Hund maximal effektiv und nachhaltig.
+    heading: "Maximal effektives Training und intensive Betreuung "
+  - type: text
     width: 1/2
     headingLevel: "3"
     headingCentered: false
@@ -151,22 +170,3 @@ buildingBlocks:
       Dauer / Gültigkeit: 6 Monate\
       Preis: 499,- Euro
     isColored: false
-  - type: text
-    width: "1"
-    headingLevel: "3"
-    headingCentered: false
-    isColored: false
-    text: >-
-      Wenn wir miteinander trainiern ist es mir wichtig, dich als Hundehalter
-      fit im Umgang mit deinem Hund zu machen. Unsere gemeinsamen Termine
-      verstehe ich daher als Hilfe zur Selbsthilfe. Veränderung braucht jedoch
-      Zeit und jedes neu erlernte Verhalten - sowohl beim Mensch als auch beim
-      Hund - braucht Zeit um zu reifen und sich zu festigen. 
-
-
-      Daher möchte ich dir insbesondere meine Trainingspakete ans Herz legen. Wir vereinbaren zunächst ein Erstgespräch um uns kennenzulernen. Wenn die Chemie zwischen uns stimmt und Du entscheidest weiter mit mir arbeiten zu wollen, vereibaren wir eine bestimmte Trainingsdauer und Anzahl von Stunden. Die einzelnen Termine wählen wir in kleineren oder größeren Abständen, abhängig von eurem Trainingsziel. Während der einzelnen Termine bleiben wir stets in Kontakt um deine Trainingsfortschritte zu dokumentieren. Außerdem hast Du während meiner **wöchentlichen Online-Video-Sprechstunde** die Gelegenheit, dich intensiver mit mir auszutauschen, mir Fragen zu stellen und wir können die nächsten Trainingsschritte abstimmen bis wir uns wiedersehen. Nachdem Du dein erwünschtes Ziel erreicht hast, vereinbaren wir noch einen "Kontrolltermin" mit einigen Wochen Abstand. Eine ideale Gelegenheit für den letzten Feinschliff oder falls Du - was nur menschlich wäre - die Dinge in der Zwischenzeit ein bisschen schleifen gelassen hast.  \
-
-      \
-
-      Durch die kontinuierliche und intensive Betreuung wird das Training für dich und deinen Hund maximal effektiv und nachhaltig.
-    heading: "Maximal effektives Training und intensive Betreuung "
