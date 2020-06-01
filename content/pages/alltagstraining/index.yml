@@ -105,19 +105,13 @@ buildingBlocks:
     headingColorPrimary: false
     heading: "Preise: "
     text: >-
-      **Einzeln:** 25,- Euro pro Stunde
-
-
-      **6er-Karte: 110,- Euro**
-
-      **12er-Karte: 220,- Euro**
+      **6er-Karte: 110,- Euro**<br/>**12er-Karte: 220,- Euro**
 
 
       **Angebot für Mehrhundehalter:**
 
-      **4er-Karte:** 110,- Euro
 
-      **8er-Karte:** 220,- Euro
+      **4er-Karte:** 110,- Euro<br/>**8er-Karte:** 220,- Euro
 
 
       Das Training findet an unterschiedlichen Orten in Rheinbach und Umgebung statt.
