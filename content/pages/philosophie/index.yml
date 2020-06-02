@@ -19,11 +19,11 @@ buildingBlocks:
       Freude aneinander."'
     isColored: true
   - type: image
-    width: 1/4
-    innerWidth: 1/4
+    width: 1/3
+    innerWidth: "1"
     image: e90a4922-2.jpg
   - type: text
-    width: 3/4
+    width: 2/3
     headingLevel: "2"
     headingCentered: false
     heading: Hundehaltung damals und heute
@@ -45,7 +45,7 @@ buildingBlocks:
       Die Grundlage hierfür liegt meiner Überzeugung nach in einer vertrauensvollen Beziehung zwischen Mensch und Hund, in der sich beide Partner wertgeschätzt aber auch in ihren Bedürfnissen ernst genommen fühlen. In einer Beziehung die auch mal einen Streit verträgt und einem Partner an unserer Seite, der auch zu uns hält, wenn es mal nicht so toll läuft, fühlen wir uns auch in Konfliktsituationen sicher aufgehoben.
     headingSize: "3"
   - type: text
-    width: 3/4
+    width: "1"
     headingLevel: "2"
     headingCentered: false
     text: >-
@@ -66,21 +66,35 @@ buildingBlocks:
       Wie nett muss ich denn eigentlich sein und wenn ich nicht nett bin, was bin ich denn dann?
 
 
-      Zunächst möchte auch ich mich von Gewalt und tierschutzwidrigen Trainingsmethoden ausdrücklich und deutlich distanzieren. Gewalt und Brutalität haben meiner festen Überzeugung nach im Hundetraining nichts verloren. Selbstverständlich ist es sinnvoll, dem Hund neue Kommandos und Verhaltensweisen wie "Komm", "Sitz" oder "Platz" über eine individuelle positive Belohnung beizubringen. Wenn es jedoch darum geht unerwünschtes Verhalten (z. B. das Pöbeln an der Leine, Jogger jagen etc.) zu unterbinden, halte ich eine punktuell eingesetzte und maßvoll dosierte Strafe in den meisten Fällen für die deutlich zielführendere Maßnahme um beim Hund eine nachhaltige Verhaltensänderung zu erreichen. Damit handelt es sich in meinen Augen auch um die fairere Maßnahme gegenüber dem Hund. Wer spielt schon gerne Topfschlagen, wenn es immer nur „heißer“ aber niemals „kälter wird?
-
-
-      Wichtig ist dabei, dass die Bestrafung - übrigens ebenso wie die Belohnung - sowohl in Intensität wie auch Qualität angepasst an den jeweiligen Hund erfolgt. Dies ist wichtig, damit sie von ihm auch als solche empfunden werden kann. Nicht jeder Hund macht sich etwas aus Futter und ein anderer hat für Spielzeug nur einen müden Blick übrig. Ebenso wird der eine Hund bereits bei erhobener Stimme oder einem deutlichen "Nein"! seines Menschen verstehen, dass man die Stulle nicht vom Teller klaut und es möglicherweise nie wieder versuchen, während ein zweiter Hund eine deutlichere Maßnahme z. B. einen Klaps oder einen geräuschvollen Schlag auf den Tisch benötigt, um zu verstehen, dass man kein Essen vom Tisch klaut.
-
-
-      Das oberste Ziel eines jeden Trainings sollte es also sein, dass der Hund die Chance erhält, aus der Situation etwas zu lernen und sein Verhalten zukünftig entsprechend anzupassen. In dem Moment, in dem diese Möglichkeit weg fällt, ist jede unterbrechende Maßnahme gegenüber dem Hund unfair und deshalb abzulehnen.
+      Zunächst möchte auch ich mich von Gewalt und tierschutzwidrigen Trainingsmethoden ausdrücklich und deutlich distanzieren. Gewalt und Brutalität haben meiner festen Überzeugung nach im Hundetraining nichts verloren. Selbstverständlich ist es sinnvoll, dem Hund neue Kommandos und Verhaltensweisen wie "Komm", "Sitz" oder "Platz" über eine individuelle positive Belohnung beizubringen. Wenn es jedoch darum geht unerwünschtes Verhalten (z. B. das Pöbeln an der Leine, Jogger jagen etc.) zu unterbinden, halte ich eine punktuell eingesetzte und maßvoll dosierte Strafe in den meisten Fällen für die deutlich zielführendere Maßnahme um beim Hund eine nachhaltige Verhaltensänderung zu erreichen. Damit handelt es sich in meinen Augen auch um die fairere Maßnahme gegenüber dem Hund. Wer spielt schon gerne Topfschlagen, wenn es immer nur „heißer“ aber niemals „kälter" wird?
     headingSize: "3"
     heading: Die Frage nach dem "Wie"
     isColored: true
   - type: image
-    width: 1/4
-    innerWidth: 1/4
+    width: "1"
+    innerWidth: 3/4
     isBanner: false
-    image: dsc01648.jpg
+    image: img_4328finish.jpg
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    text: >-
+      Wichtig ist dabei, dass die Bestrafung - übrigens ebenso wie die Belohnung
+      - sowohl in Intensität wie auch Qualität angepasst an den jeweiligen Hund
+      erfolgt. Dies ist wichtig, damit sie von ihm auch als solche empfunden
+      werden kann. Nicht jeder Hund macht sich etwas aus Futter und ein anderer
+      hat für Spielzeug nur einen müden Blick übrig. Ebenso wird der eine Hund
+      bereits bei erhobener Stimme oder einem deutlichen "Nein"! seines Menschen
+      verstehen, dass man die Stulle nicht vom Teller klaut und es
+      möglicherweise nie wieder versuchen, während ein zweiter Hund eine
+      deutlichere Maßnahme z. B. einen Klaps oder einen geräuschvollen Schlag
+      auf den Tisch benötigt, um zu verstehen, dass man kein Essen vom Tisch
+      klaut.
+
+
+      Das oberste Ziel eines jeden Trainings sollte es also sein, dass der Hund die Chance erhält, aus der Situation etwas zu lernen und sein Verhalten zukünftig entsprechend anzupassen. In dem Moment, in dem diese Möglichkeit weg fällt, ist jede unterbrechende Maßnahme gegenüber dem Hund unfair und deshalb abzulehnen.
   - type: text
     width: "1"
     headingLevel: "2"
