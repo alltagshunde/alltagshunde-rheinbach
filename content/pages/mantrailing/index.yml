@@ -36,7 +36,7 @@ buildingBlocks:
       Dabei erfordert das Training Teamarbeit auf höchstem Niveau: deine Unterstützung ist immer dann gefragt, wenn dein Hund Probleme hat, er z. B. die Geruchsspur verliert oder Hindernisse (z. B. Straßenüberquerung) auf dem Weg auftauchen. In diesen Situationen lernst du deinen Hund nicht zu korrigieren, sondern ihm deine Hilfestellung anzubieten und ihm so zu ermöglichen, eigenständig die Spur wiederzufinden.
     heading: ""
   - type: text
-    width: 2/3
+    width: 1/2
     headingLevel: "2"
     headingCentered: false
     text: >-
@@ -54,8 +54,8 @@ buildingBlocks:
     headingSize: "3"
     isColored: true
   - type: image
-    width: 1/3
-    innerWidth: null
+    width: 1/2
+    innerWidth: "1"
     isBanner: false
     image: sally-mantrailing.jpg
   - type: text
@@ -81,8 +81,7 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      * **Individuelles Training** – jedes Team bekommt seine(n) eigenen
-      Trail(s).
+      * **Individuelles Training** – jedes Team bekommt einen eigenen Trail.
 
       * Training in **kleinen Gruppen mit 4 Teams**, damit für jeden genug Zeit da ist.
 
