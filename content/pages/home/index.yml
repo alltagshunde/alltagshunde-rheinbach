@@ -10,8 +10,8 @@ buildingBlocks:
     headingSize: "1"
     text: ""
   - type: image
-    image: 2019-03-23-05268.jpg
-    width: 1/4
+    image: img_4201finish.jpg
+    width: 1/2
     innerWidth: "1"
     isBanner: false
     isColored: true
