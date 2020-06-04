@@ -45,7 +45,7 @@ buildingBlocks:
       Die Grundlage hierfür liegt meiner Überzeugung nach in einer vertrauensvollen Beziehung zwischen Mensch und Hund, in der sich beide Partner wertgeschätzt aber auch in ihren Bedürfnissen ernst genommen fühlen. In einer Beziehung die auch mal einen Streit verträgt und einem Partner an unserer Seite, der auch zu uns hält, wenn es mal nicht so toll läuft, fühlen wir uns auch in Konfliktsituationen sicher aufgehoben.
     headingSize: "3"
   - type: text
-    width: "1"
+    width: 1/2
     headingLevel: "2"
     headingCentered: false
     text: >-
@@ -77,8 +77,8 @@ buildingBlocks:
     heading: Die Frage nach dem "Wie"
     isColored: true
   - type: image
-    width: "1"
-    innerWidth: 3/4
+    width: 1/2
+    innerWidth: "1"
     isBanner: false
     image: img_4328finish.jpg
   - type: text
