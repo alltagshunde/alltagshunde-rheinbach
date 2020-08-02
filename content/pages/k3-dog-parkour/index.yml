@@ -34,7 +34,7 @@ buildingBlocks:
   - type: image
     width: 1/3
     innerWidth: "1"
-    image: dsc00363.jpg
+    image: k3dogparkour-k3formel.png
     isColored: true
   - type: text
     width: 2/3
