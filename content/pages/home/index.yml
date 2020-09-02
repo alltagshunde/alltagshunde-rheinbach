@@ -60,7 +60,7 @@ buildingBlocks:
     width: 1/4
     innerWidth: null
     image: hund-zieht-an-der-leine.jpg
-    heading: Beratung & Einzeltraining
+    heading: Einzelcoaching & Beratung
     button: Mehr erfahren
     buttonLink: "Einzeltraining "
     isColored: true
@@ -68,14 +68,14 @@ buildingBlocks:
     width: 1/4
     innerWidth: null
     image: gruppentraining.jpg
-    heading: Grunderziehung bis 12 Monate
+    heading: Grunderziehung & Alltagstraining
     buttonLink: Welpen & Junghunde
     button: Mehr erfahren
   - type: card
     width: 1/4
     innerWidth: null
     image: apportieren.jpg
-    heading: Beschäftigung
+    heading: Artgerechte Beschäftigung
     buttonLink: Beschäftigung
     button: Mehr erfahren
   - type: card
