@@ -7,7 +7,7 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Einzeltraining & Beratung
+    heading: Einzelcoaching & Beratung
   - type: text
     width: "1"
     headingLevel: "3"
@@ -25,19 +25,22 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      * mit deinem Hund **ruhig an anderen Hunden vorbeizulaufen**
+      * deinen Hund **ruhig und entspannt an anderen Hunden, Radfahrern Joggern
+      etc. vorbeizuführen**
 
-      * **deinen Hund** auch aus Situationen mit hoher Ablenkung, z. B. dem aufpringenden Hasen **zuverlässig abzurufen**
+      * deinen Hund auch aus Situationen mit hoher Ablenkung **zuverlässig abrufen zu können**
 
-      * dass dein Hund **Reizen** wie z. B. Joggern, Reitern oder Radfahrern **widersteht** 
+      * dass dein Hund **auch im Freilauf zuverlässig in der Nähe** **bleibt** und auf dich achtet
 
-      * dassdein Hund **auch im Freilauf auf dich achtet** und **zuverlässig in der Nähe** bleibt 
+      * deinem **ängstlichen Hund Halt und Orientierung** zu bieten
 
-      * **Besuch** zu **empfangen**, ohne dass dein Hund die Bude abreißt oder den Besuch bedrängt.
+      * wieder **entspannt Besuch zu empfangen** ohne dass dein Hund die Bude abreißt
 
-      * deinen Hund **im Kontakt mit anderen Hunden** besser einzuschätzen
+      * das **Jagdverhalten deines Hundes besser einschätzen und kontrollieren** zu können
 
-      * dein Hund **alleine bleibt** und entspannt auf dich warten kann, **ohne Dinge zu zerstören** oder zu bellen
+      * deinen Hund **im Kontakt mit anderen Hunden** besser einschätzen zu können
+
+      * dass dein Hund **in deiner Abwesenheit entspannt bleibt,** statt zu bellen oder Dinge zu zerstören.
     heading: Ich unterstütze dich und zeige dir, wie du es schaffst ...
   - type: image
     width: 1/2
@@ -59,7 +62,7 @@ buildingBlocks:
       Am Beginn unserer Zusammenarbeit steht ein ausführliches Kennenlernen. Wer
       bist du und wer ist dein Hund? Was macht eure Beziehung aus? In diesem
       Erstgespräch analysieren wir gemeinsam die Themen und Probleme, die den
-      Alltag mit deinem Hund erschweren und legen euer Trainingsziel fest. In
+      Alltag mit deinem Hund erschweren und legen eure Trainingsziele fest. In
       den folgenden Stunden erarbeiten wir zusammen einen individuellen
       Lösungsweg, der sich gut in euren Alltag integrieren lässt.
 
@@ -73,35 +76,30 @@ buildingBlocks:
     headingColorPrimary: false
     heading: "Deine Vorteile auf einen Blick:"
     text: >-
-      * Du bist an **keine festen Kurse** gebunden
+      * **Keine festen Kurse** - die Termine legen wir ganz individuell in
+      Absprache miteinander fest
 
-      * Wir arbeiten ganz **individuell** an den Themen, die für **deinen** Alltag wichtig sind.
+      * **Individuelles Training** - wir arbeiten an den Themen, die für dich und deinen Alltag wichtig sind
 
-      * Das **Training** findet entweder **auf dem Hundeplatz, bei dir zuhause oder draußen in alltagsnahen Situationen** statt. Je nachdem, was der Hintergund des Trainings und euer Ziel ist. 
+      * **Alltagsnahes Training** - wir trainieren entweder auf dem Hundeplatz, bei dir zuhause oder in alltagsnahen Situationen, je nach Problemstellung und Trainingsziel
 
-      * **Hohe Effizienz**, weil du das Lerntempo vorgibst.
+      * **Maximale Effizienz** - du ganz allein bestimmst wie schnell du deine Ziele erreichen willst, ich biete dir den passenden Rahmen. Durch kontinuierliche und intensive Betreuung wird das Training für dich und deinen Hund maximal effektiv und nachhaltig.
 
-      * Möglichkeit deine erlernten Fähigkeiten in **Gruppenstunden** unter meiner fachlichen Leitung zu verfestigen.
-
-      * **Platz-Garantie** und **Frühbucher-Bonus** für alle weiterführenden Angebote (z. B. Wanderungen, Beschäftigungsangebote, Workshops etc.) gegenüber Neukunden.
+      * **Festigung des Erlernten** - Im Anschluss an das Einzeltraining biete ich dir die Möglichkeit, deine neu erlernten Fähigkeiten unter meiner fachlichen Leitung in Kleingruppen mit anderen Hundehaltern und in alltagsnahen Situationen weiter zu festigen und auszubauen
     isColored: true
   - type: text
     width: 1/3
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
-    text: |-
-      **Erstgespräch (75 Min.):** 75,- Euro
+    text: >-
+      **Erstgespräch (60-90 Min.):** 75,- Euro
+
 
       **Einzeltraining (60 Min.):** 75,- Euro
 
-      **Hausbesuch (60 MIn.):** 75,- Euro 
 
-      inkl. 20 km Fahrtkosten  
-
-      darüber hinaus zzgl. 0,50 Euro je km
-
-      **Nachkontrolle (45 Min.):** 50,- Euro
+      jeweils inkl. 20 km Anfahrt, darüber hinaus zzgl. 0,50 Euro Fahrtkosten je km
     heading: "Einzelpreise:"
   - type: text
     width: "1"
@@ -113,12 +111,18 @@ buildingBlocks:
       fit im Umgang mit deinem Hund zu machen. Unsere gemeinsamen Termine
       verstehe ich daher als Hilfe zur Selbsthilfe. Veränderung braucht jedoch
       Zeit und jedes neu erlernte Verhalten - sowohl beim Mensch als auch beim
-      Hund - braucht Zeit um zu reifen und sich zu festigen. 
+      Hund - braucht Zeit um zu reifen und sich zu festigen. Daher möchte ich
+      dir insbesondere meine Trainingspakete ans Herz legen. 
 
 
-      Daher möchte ich dir insbesondere meine Trainingspakete ans Herz legen. Wir vereinbaren zunächst ein Erstgespräch um uns kennenzulernen. Wenn die Chemie zwischen uns stimmt und Du entscheidest weiter mit mir arbeiten zu wollen, vereinbaren wir eine bestimmte Trainingsdauer und Anzahl von Stunden. Die einzelnen Termine wählen wir in kleineren oder größeren Abständen, abhängig von eurem Trainingsziel. Während der einzelnen Termine bleiben wir stets in Kontakt um deine Trainingsfortschritte zu dokumentieren. Außerdem hast Du während meiner **wöchentlichen Online-Video-Sprechstunde** die Gelegenheit, dich intensiver mit mir auszutauschen, mir Fragen zu stellen und wir können die nächsten Trainingsschritte abstimmen bis wir uns wiedersehen. Nachdem Du dein erwünschtes Ziel erreicht hast, vereinbaren wir noch einen "Kontrolltermin" mit einigen Wochen Abstand. Eine ideale Gelegenheit für den letzten Feinschliff oder falls Du - was nur menschlich wäre - die Dinge in der Zwischenzeit ein bisschen schleifen gelassen hast.  \
+      Wir vereinbaren zunächst ein Erstgespräch um uns kennenzulernen. Wenn die Chemie zwischen uns stimmt und wir weiter miteinander arbeiten wollen, vereinbaren wir eine bestimmte Trainingsdauer und Anzahl von Stunden. Die einzelnen Termine wählen wir in kleineren oder größeren Abständen, abhängig von eurem Trainingsziel. 
 
-      \
+
+      Auch außerhalb der einzelnen Termine bleiben wir stets in Kontakt um deine Trainingsfortschritte zu dokumentieren. In meiner **wöchentlichen Online-Video-Sprechstunde** hast Du stets die Gelegenheit, dich mit mir auszutauschen, mir Fragen zu stellen und wir können z. B. die nächsten Trainingsschritte abstimmen bis wir uns wiedersehen. 
+
+
+      Nachdem Du dein erwünschtes Ziel erreicht hast, vereinbaren wir noch einen "Kontrolltermin" mit einigen Wochen Abstand. Eine ideale Gelegenheit für den letzten Feinschliff oder falls Du - was nur menschlich wäre - die Dinge in der Zwischenzeit ein bisschen schleifen gelassen hast. 
+
 
       Durch die kontinuierliche und intensive Betreuung wird das Training für dich und deinen Hund maximal effektiv und nachhaltig.
     heading: "Maximal effektives Training und intensive Betreuung "
