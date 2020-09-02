@@ -7,15 +7,15 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Geruchsdifferenzierung
+    heading: Schnüffel dich glücklich
   - type: text
     width: "1"
     headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
-    heading: Schnüffel dich glücklich
-    text: "**Ob Mops oder Schäferhund - Natürliche Auslastung und Spaß für
+    heading: "**Ob Mops oder Schäferhund - Natürliche Auslastung und Spaß für
       Jederhund!**"
+    text: ""
     isColored: true
   - type: image
     width: 1/3
@@ -33,7 +33,13 @@ buildingBlocks:
       hinderlich und daher meist nicht erlaubt. 
 
 
-      Im Laufe des Trainings lernt dein Hund, sich auf einen bestimmten Geruch zu konzentrieren, ein vorgegebenes Areal abzusuchen und dir den Geruch bei Fund anzuzeigen. Ähnlich wie beim Mantrailing wird ihm auch bei der Geruchsdifferenzierung vorab eine entsprechende Probe des Referenzgeruchs präsentiert.
+      In dieser Gruppe ist es jedoch ausdrücklich erwünscht, dass dein Vierbeiner seine Nase einsetzt. Woche für Woche lasse ich mir für die Hunde etwas neues einfallen: 
+
+
+      Mal gibt es interessante Fährten auszuarbeiten, einen Schnüffelparkour zu absolvieren oder einen versteckten Geruch anzuzeigen. Bei schlechtem Wetter gibt es auch mal ein Geschicklichkeitsspiel mit Hilfe des Nase zu lösen oder eine Geschenkbox auszupacken (indoor). 
+
+
+      Im Laufe des Trainings lernt dein Hund, seine Nase immer gezielter einzusetzen, sich auf einen Geruch zu konzentrieren und diesen von anderen Gerüchen zu differenzieren.
     headingSize: null
   - type: text
     width: 1/2
@@ -41,14 +47,15 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      * … wie du deinen Hund **artgerecht beschäftigen** und **sinnvoll
-      auslasten** kannst
+      * wie du deinen Hund **artgerecht beschäftigst** 
 
-      * … Ihr **gemeinsam als Team** zusammenarbeiten und dabei viel Spaß haben könnt
+      * Ihr gemeinsam **als Team zusammenarbeiten** und dabei viel Spaß haben könnt
 
-      * … wie du deinen Hund **auch bei Regenwetter** körperlich und geistig fordern kannst, ohne dabei nass zu werden
+      * wie du deine **Kinder ins Hundetraining einbinden** kannst, so daß beide Spaß daran haben
 
-      * … wie du eine ganz **neue Seite an deinem Hund** entdecken wirst
+      * wie du deinen Hund auch auch **bei schlechtem Wetter** und **ohne großen Zeitaufwand** sinnvoll auslasten kannst
+
+      * wie du eine ganz neue Seite und **ungeahnte Talente** an deinem Hund entdecken wirst
     heading: In diesem Kurs zeige ich dir ...
     isColored: true
   - type: text
@@ -57,13 +64,21 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      * **Individuelles Training**, auf dich und deinen Hund abgestimmt
+      * **Training in Kleingruppen** - damit ich optimal und individuell auf
+      jeden einzelnen eingehen kann arbeiten wir in kleinen Gruppen von 4 - 5
+      Mensch-Hund-Teams
 
-      * Training in der **Kleingruppe** (max. 5 Teilnehmer)
+      * **Abwechslungsreiches Training** - wöchentlich wechselnde Aufgaben, daher kommt keine Langeweile auf
 
-      * Abwechslung durch **verschiedene Trainingsorte**
+      * **Verschiedene Trainingsorte** - wir trainieren abwechselnd und je nach Thema auf dem Hundeplatz oder in Feld, Wald, Wiese und auch mal in der Stadt
 
-      * Handouts zum Aufbau der Trainingsstunden – dadurch **auch zuhause gut umsetzbar (indoor & outdoor)**
+      * **Leicht umsetzbar** -  ich erkläre detailliert die einzelnen Trainingsschritte und den Aufbau, so dass Du das Training auch leich zuhause in deinem Alltag umsetzen kannst
+
+      * **Flexibles Termine statt fester Kurse** - du hast die Wahl zwischen flexiblen 5er- oder 10er-Karten
+
+      * **Angebote** **für Mehrhundehalter** - hast Du mehr als einen Hund sieht dein Alltag natürlich anders aus. Sprich mich gerne an und wir schauen wie wir deine Hundegruppe ins Training einbinden können.
+
+      * **Intensive Betreuung** - auch außerhalb des Trainings profitierst du von meiner intensiven Betreuung z. B. während der Sprechstunden oder in meiner Facebook Gruppe
     heading: "Deine Vorteile:"
     headingSize: "3"
   - type: image
@@ -87,10 +102,10 @@ buildingBlocks:
       **10er-Karte:** 210,00 Euro
 
 
-      **Alle 5er- und 10er-Karten können flexibel in allen Kursen eingesetzt werden.** 
+      **Alle 5er- und 10er-Karten können flexibel in allen Beschäftigungskursen eingesetzt werden.** 
 
 
-      Das Training findet auf dem eingezäunten Hundeplatz in Meckenheim Lüftelberg, sowie an unterschiedlichen Orten in Rheinbach und Umgebung statt
+      Das Training findet auf dem eingezäunten Hundeplatz in 53340 Meckenheim, sowie an unterschiedlichen Orten in Rheinbach und Umgebung statt
   - headingColorPrimary: false
     heading: "Voraussetzungen: "
     headingLevel: "2"
@@ -101,7 +116,12 @@ buildingBlocks:
       Anwesenheit von Artgenossen in der Lage sein, sich zu konzentrieren und
       nicht permanent bellen, wenn die anderen Hunde arbeiten.
 
-      * Zur Ausrüstung wird ein Halsband oder Geschirr benötigt. Alternativ kann auch z. B. ein Halstuch umgebunden werden. **Wichtig** ist, dass der Hund Halsband/Geschirr oder Halstuch **nicht** im Alltag oder im Rahmen einer anderen Sucharbeit trägt. 
+
+
+      * Zur Ausrüstung wird ein Halsband oder Geschirr benötigt. Alternativ kann auch z. B. ein Halstuch umgebunden werden. <br/>**Wichtig** ist dabei, dass dein Hund das Halsband / Geschirr oder Halstuch **nicht** im Alltag bzw. im Rahmen einer anderen Sucharbeit (z. B. Mantrailing) trägt. 
+
+        Dies dient zur Abgrenzung und Unterscheidung für deinen Hund. Es stellt also quasi seine "Arbeitskleidung" dar. 
+
 
       * Eine Schleppleine von 3 - 5 Meter Länge
     headingCentered: false
