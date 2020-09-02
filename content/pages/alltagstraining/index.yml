@@ -42,16 +42,37 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      * wie du **deinem Hund Orientierung bietest** und diese in schwierigen
-      Situationen einforderst
+      * die im Einzeltraining erworbenen Fähigkeiten weiter zu festigen und
+      auszubauen
 
-      * wie du deinem hibbeligen Hund **Ruhe vermittelst**
+      * die Aufmerksamkeit deines Hundes auch unter hoher Ablenkung verbindlich einzufordern
 
-      * wie du deinem ängstlichen Hund **Sicherheit und Schutz** bietest
+      * deinen Hund auch in Gegenwart von Artgenossen zu kontrollieren 
 
-      * wie  du **unerwünschtes Verhalten** deines Hundes sicher **unterbindest**
-    heading: Durch das Training lernst du ...
+      * deinem hibbeligen Hund auch unter hoher Ablenkung Ruhe zu vermitteln
+
+      * deinem ängstlichen Hund Sicherheit und Orientierung zu bieten
+
+      * unerwünschtes Verhalten deines Hundes zu unterbinden
+    heading: Durch das Training in der Gruppe lernst du ...
     isColored: true
+  - type: text
+    width: 1/2
+    headingLevel: "3"
+    headingCentered: false
+    headingColorPrimary: false
+    text: >-
+      * auch in schwierigen Situationen auf dich zu achten und **sich an dir zu
+      orientieren**
+
+      * in Anwesenheit anderer Hunde gelassen zu bleiben und **sich nicht provozieren zu lassen**
+
+      * auch aus Situationen mit hoher Ablenkung, z. B. Spiel mit Artgenossen **sicher zurückzukommen**
+
+      * **im Cafe entspannt liegen zu bleiben**, auch wenn der Kellner oder andere Hunde vorbeigehen
+
+      * **entspannt in öffentlichen Verkehrsmitteln zu fahren**, auch wenn es mal eng wird
+    heading: Dein Hund lernt im Laufe des Trainings ...
   - type: image
     width: 1/2
     innerWidth: null
@@ -62,42 +83,22 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
-    text: >-
-      * sich auch in schwierigen Situationen **an dir zu orientieren**
-
-      * **an lockerer** bzw. **ohne Leine** neben dir zu laufen
-
-      * (mit und ohne Leine) **ruhig an anderen Hunden** vorbeizulaufen
-
-      * in Anwesenheit anderer Hunde gelassen zu bleiben und **sich nicht provozieren zu lassen**
-
-      * auch aus Situationen mit **hoher Ablenkung,** z. B. Spiel mit Artgenossen **sicher zurückzukommen**
-
-      * **im Cafe entspannt liegen zu bleiben**, auch wenn der Kellner oder andere Hunde vorbeigehen
-
-      * **entspannt in öffentlichen Verkehrsmitteln** zu fahren, auch wenn es mal eng wird
-    heading: Dein Hund lernt im Laufe des Trainings ...
-  - type: text
-    width: 1/2
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
     heading: "Deine Vorteile auf einen Blick: "
     text: >-
-      * **Individuelles Training** - jede Übung wird an euren individuellen
+      * **Individuelles Training** - jede Übung wird an deinen individuellen
       Trainingsstand angepasst
 
-      * Training in **Kleingruppen** (max. 5 Teams)
+      * **Training in Kleingruppen** - damit ich optimal und individuell auf jeden einzelnen eingehen kann arbeiten wir in kleinen Gruppen von 3 - 5 Mensch-Hund-Teams
 
-      * Extra **Angebote** für **Mehrhundehalter**!!!
+      * **Gemischte Gruppen** - voneinander und miteinander lernen, so wie im echten Leben
 
-      * **Gemischte Gruppen** - Voneinander und miteinander lernen
+      * **Angebote** **für Mehrhundehalter** - hast Du mehr als einen Hund sieht dein Alltag natürlich anders aus. Sprich mich gerne an und wir schauen wie wir deine Hundegruppe ins Training einbinden können. 
 
-      * Kein langweiliges Lernen auf dem Hundeplatz sondern **Training mitten im Leben**
+      * **Kein langweiliges Lernen auf dem Hundeplatz** - in der Regel trainieren wir mitten im Leben, je nach Thema in Feld, Wald, Wiese oder in der Stadt
 
-      * **Flexible Trainingszeiten** - du entscheidest an welchem Termin du teilnimmst
+      * **Flexible Trainingszeiten** - du hast die Wahl zwischen flexibler 5er- oder 10er-Karten statt fester Kurse
 
-      * **Intensive Betreuung** auch außerhalb des Trainings
+      * **Intensive Betreuung**  - auch außerhalb des Trainings profitierst du von meiner intensiven Betreuung z. B. während der Sprechstunden oder in meiner Facebook Gruppe
   - type: text
     width: 1/2
     headingLevel: "3"
