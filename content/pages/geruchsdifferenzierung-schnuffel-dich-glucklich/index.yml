@@ -76,7 +76,7 @@ buildingBlocks:
 
       * **Einstieg jederzeit möglich** - durch die kleine Gruppengröße und abwechslungsreichen Aufgaben ist es möglich die Übungen individuell anzupassen. Somit ist ein Einstieg auch für Anfänger jederzeit möglich
 
-      * **Flexibles Termine statt fester Kurse** - du hast die Wahl zwischen flexiblen 5er- oder 10er-Karten
+      * **Flexible Termine statt fester Kurse** - du hast die Wahl zwischen flexiblen 5er- oder 10er-Karten
 
       * **Angebote** **für Mehrhundehalter** - hast Du mehr als einen Hund sieht dein Alltag natürlich anders aus. Sprich mich gerne an und wir schauen wie wir deine Hundegruppe ins Training einbinden können.
 
@@ -85,7 +85,7 @@ buildingBlocks:
     headingSize: "3"
   - type: image
     width: 1/2
-    innerWidth: 3/4
+    innerWidth: 1/2
     isBanner: false
     image: tea-time.jpg
   - type: text
