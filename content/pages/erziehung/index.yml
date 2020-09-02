@@ -34,14 +34,14 @@ buildingBlocks:
     width: 1/3
     innerWidth: null
     image: img_4101finish.jpg
-    heading: Einzeltraining & Verhaltensberatung
+    heading: Einzelcoaching & Beratung
     button: Mehr erfahren
     buttonLink: "Einzeltraining "
   - type: card
     width: 1/3
     innerWidth: null
     image: gruppentraining.jpg
-    heading: Alltagstraining
+    heading: Grunderziehung & Alltagstraining
     button: Mehr erfahren
     buttonLink: Alltagstraining
   - type: card
