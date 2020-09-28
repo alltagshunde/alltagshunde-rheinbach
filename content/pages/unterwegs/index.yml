@@ -15,8 +15,23 @@ buildingBlocks:
     text: (Reinhold Messner)
     heading: '"Welch Quelle der Freude, wenn man die Natur liebt."'
     isColored: true
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    isColored: false
+    text: >-
+      Bei allem Training und aller Freude an der gemeinsamen Beschäftigung gibt
+      es doch nichts schöneres als gemeinsam mit dem Hund in der Natur unterwegs
+      zu sein. 
+
+
+      Regelmäßig veranstalte ich daher für euch und eure Hunde spannende Ausflüge ins Grüne. Gemeinsam erkunden wir dabei die herrliche Natur rund um Rheinbach, die Voreifel und das Vorgebirge, beobachten die Vierbeiner untereinander und fachsimpeln über Hundeverhalten. 
+
+
+      Gerne gebe ich bei dieser Gelegenheit natürlich auch Antworten auf deine Fragen und unterstütze bei evtl. Unsicherheiten.
   - type: image
-    width: 1/2
+    width: 1/3
     innerWidth: null
     image: dscf1661.jpg
   - type: text
@@ -25,38 +40,37 @@ buildingBlocks:
     headingCentered: true
     headingColorPrimary: false
     text: >-
-      Bei allem Training und aller Freude an der gemeinsamen Beschäftigung gibt
-      es doch nichts schöneres als zusammen mit dem Hund in der Natur unterwegs
-      zu sein. 
+      **Neben den regelmäßigen Hundewanderungen finden je nach Saison und
+      Nachfrage auch weitere Spaziergänge mit folgenden Themenschwerpunkten
+      statt:** 
 
 
-      Regelmäßig veranstalte ich für euch gemeinsame Ausflüge ins Grüne. Gemeinsam erkunden wir dabei die herrliche Natur rund um Rheinbach und das Vorgebirge, beobachten die Vierbeiner untereinander und fachsimpeln über Hundeverhalten. Gerne gebe ich bei dieser Gelegenheit Antworten auf deine Fragen und unterstütze bei Unsicherheiten.
+      **Sozialtour**
 
-
-      **Neben den regelmäßigen Hundewanderungen finden je nach Saison und Nachfrage auch Spaziergänge mit folgenden Themenschwerpunkten statt:** 
-
-
-      **Sozialtour**\
 
       Bei diesem Spaziergang liegt der Schwerpunkt auf dem kontrollierten Kontakt zu Hund und Mensch. Es sind daher auch ausdrücklich Hunde willkommen, die Schwierigkeiten im Kontakt mit Artgenossen haben. Das Ziel dieses Spaziergangs in kleiner Runde ist es, kontrollierte Begegnungen zwischen den einzelnen Hunden zuzulassen und sie dabei zu unterstützen, angemessen mit ihren Artgenossen zu kommunizieren. Dabei sollen vor allem auch die Besitzer die Möglichkeit haben, ihren Hund immer wieder einzuschätzen, die Kommunikation der Hunde zu erleben und ihre Vierbeiner vielleicht auch neu kennenzulernen.
 
 
-      **Schnüffeltour**\
+      **Schnüffeltour**
+
 
       Wenn es um den Einsatz ihrer Nase geht sind unsere Vierbeiner meist mit großem Eifer bei der Sache.  Leider nicht immer zu unserer Freude, schalten sie die Ohren dabei doch oft auf Durchzug. Auf diesem Spaziergang zeige ich dir, wie du deinen Hund unterwegs mit verschiedenen Schnüffelspielen auf unterschiedlichen Ebenen beschäftigen und auslasten kannst und trotzdem seine Aufmerksamkeit behältst. 
 
 
-      **Erlebniswanderung**\
+      **Erlebniswanderung**
+
 
       Mit verschiedenen Tricks und Übungen zeige ich dir, wie du ohne langes Training und große Vorbereitung den Spaziergang für dich und deinen Hund abwechslungsreich und interessant gestalten und ganz nebenbei auch noch eure Bindung festigen kannst. Die Übungen kannst Du natürlich leicht zuhause in deinen Alltag übertragen und immer mal wieder variieren. 
 
 
-      **Kräuterwanderung**\
+      **Kräuterwanderung**
+
 
       Auf diesem besonderen Spaziergang widmen wir uns der heimischen Natur und ihren Geschenken. Keine Angst -  Du musst kein Freizeitdiplom in der Botanik vorweisen. Beim Suchen, Bestimmen und Verwenden der Pflanzen konzentrieren wir uns auf die Exemplare, die eigentlich jeder von uns regelmäßig sieht und kennt. Am Ende erhältst Du auch noch ein hübsches Handout mit entsprechenden Verwendungstipps und Rezepten für Leckerchen & Co.
 
 
-      **Krimiwanderung** \
+      **Krimiwanderung** 
+
 
       Die teilnehmenden Mensch-Hund-Teams müssen einen Kriminalfall lösen. Um Hinweise zu erhalten müssen knifflige Aufgaben mit den Vierbeinern gemeistert werden. Eine "Mordsgaudi" für alle!\
 
