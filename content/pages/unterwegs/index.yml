@@ -29,7 +29,7 @@ buildingBlocks:
       Regelmäßig veranstalte ich daher für euch und eure Hunde spannende Ausflüge ins Grüne. Gemeinsam erkunden wir dabei die herrliche Natur rund um Rheinbach, die Voreifel und das Vorgebirge, beobachten die Vierbeiner untereinander und fachsimpeln über Hundeverhalten. Gerne gebe ich bei dieser Gelegenheit Antworten auf deine Fragen und unterstütze dich bei evtl. Unsicherheiten.
   - type: image
     width: 1/2
-    innerWidth: null
+    innerWidth: 3/4
     image: dscf1661.jpg
   - headingColorPrimary: false
     heading: Termine 2020
@@ -60,9 +60,7 @@ buildingBlocks:
       15,00 Euro pro Mensch-Hund-Team; 10,00 Euro pro Begleitperson
 
 
-
-
-      ### Nikolauswanderung 
+      ### Nikolauswanderung
 
 
       ### Sonntag 6. Dezember 2020, 14:00 Uhr (Dauer ca. 2,5 Stunden)
@@ -119,7 +117,7 @@ buildingBlocks:
     headingColorPrimary: false
     text: >-
       ### Neben den Hundewanderungen finden je nach Saison und Nachfrage auch
-      weitere Spaziergänge mit folgenden Themenschwerpunkten statt: 
+      weitere Spaziergänge mit folgenden Themenschwerpunkten statt:
 
 
       **Sozialtour**
@@ -149,11 +147,10 @@ buildingBlocks:
       **Krimiwanderung** 
 
 
-      Die teilnehmenden Mensch-Hund-Teams müssen einen Kriminalfall lösen. Um Hinweise zu erhalten müssen knifflige Aufgaben mit den Vierbeinern gemeistert werden. Eine "Mordsgaudi" für alle!\
+      Die teilnehmenden Mensch-Hund-Teams müssen einen Kriminalfall lösen. Um Hinweise zu erhalten müssen knifflige Aufgaben mit den Vierbeinern gemeistert werden. Eine "Mordsgaudi" für alle!
 
-      \
 
-      **Termine und Preise werden jeweils kurzfristig bekannt gegeben.**
+      ### **Termine und Preise werden jeweils kurzfristig bekannt gegeben.**
     isColored: false
   - type: text
     width: "1"
