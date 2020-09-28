@@ -16,7 +16,7 @@ buildingBlocks:
     heading: '"Welch Quelle der Freude, wenn man die Natur liebt."'
     isColored: true
   - type: text
-    width: 1/3
+    width: 1/2
     headingLevel: "2"
     headingCentered: false
     isColored: false
@@ -28,7 +28,7 @@ buildingBlocks:
 
       Regelmäßig veranstalte ich daher für euch und eure Hunde spannende Ausflüge ins Grüne. Gemeinsam erkunden wir dabei die herrliche Natur rund um Rheinbach, die Voreifel und das Vorgebirge, beobachten die Vierbeiner untereinander und fachsimpeln über Hundeverhalten. Gerne gebe ich bei dieser Gelegenheit Antworten auf deine Fragen und unterstütze dich bei evtl. Unsicherheiten.
   - type: image
-    width: 2/3
+    width: 1/2
     innerWidth: null
     image: dscf1661.jpg
   - headingColorPrimary: false
@@ -37,15 +37,14 @@ buildingBlocks:
     headingSize: "1"
     width: "1"
     text: >-
-      ### Hundewanderung durch den Rheinbacher Wald. 
+      ### Herbstwanderung durch den Rheinbacher Wald
 
 
       ### Sonntag 11. Oktober 2020, 14:00 Uhr  (Dauer ca. 2 Stunden)
 
 
-      Gemeinsam erkunden wir den herbstlichen Wald, beobachten die Vierbeiner und fachsimpeln über Hundeverhalten. Zum Spaß streuen wir natürlich auch ein paar kleine Übungen ein. \
+      Gemeinsam erkunden wir den herbstlichen Wald, beobachten die Vierbeiner und fachsimpeln über Hundeverhalten. Zum Spaß streuen wir natürlich auch ein paar kleine Übungen ein.
 
-      \
 
       **Teilnahmevoraussetzung:** 
 
@@ -59,6 +58,8 @@ buildingBlocks:
 
 
       15,00 Euro pro Mensch-Hund-Team; 10,00 Euro pro Begleitperson
+
+
 
 
       ### Nikolauswanderung 
@@ -87,9 +88,7 @@ buildingBlocks:
       25,00 Euro pro Mensch-Hund-Team; 10,00 Euro pro Begleitperson
 
 
-
-
-      ### Krimiwanderung 
+      ### Krimiwanderung
 
 
       ### Donnerstag 31. Dezember 2020, 12:00 Uhr (Dauer ca. 2,5 Stunden)
@@ -119,9 +118,8 @@ buildingBlocks:
     headingCentered: true
     headingColorPrimary: false
     text: >-
-      **Neben den regelmäßigen Hundewanderungen finden je nach Saison und
-      Nachfrage auch weitere Spaziergänge mit folgenden Themenschwerpunkten
-      statt:** 
+      ### Neben den Hundewanderungen finden je nach Saison und Nachfrage auch
+      weitere Spaziergänge mit folgenden Themenschwerpunkten statt: 
 
 
       **Sozialtour**
