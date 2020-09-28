@@ -23,7 +23,8 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      * freundlich mit anderen Hunden Kontakt aufzunehmen
+      * freundlich und höflich Kontakt zu anderen Hunden und Menschen
+      aufzunehmen
 
       * locker an der Leine zu laufen
 
@@ -104,7 +105,7 @@ buildingBlocks:
     innerWidth: "1"
     isBanner: false
     isColored: false
-    image: 3-4-monate-andere-tiere-pferde.jpg
+    image: dog-4608266_1920.jpg
   - type: text
     width: 1/2
     headingLevel: "3"
