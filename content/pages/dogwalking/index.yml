@@ -90,10 +90,16 @@ buildingBlocks:
     headingSize: "3"
     width: 1/2
     text: >-
-      * 25,00 € pro Spaziergang (inkl. Fahrtkosten in Wachtberg, Meckenheim,
-      Rheinbach)
+      * Spaziergang in der Gruppe: 25,00 € pro Hund 
 
-      * Monats-Abonnement auf Anfrage möglich.  
+      * Einzelspaziergang: 30,00 € pro Hund 
+
+      * Tagesbetreuung: 35,00 € pro Hund
+
+
+      Preise inkl. Fahrtkosten für Abholen & Bringen in Wachtberg, Meckenheim, Rheinbach.
+
+      Monats-Abonnement auf Anfrage möglich.   
 
 
       ### **Der Gassiservice beinhaltet folgende Leistungen:**
@@ -101,7 +107,7 @@ buildingBlocks:
 
       * Abhol- & Bring-Dienst im Umkreis von Rheinbach, Meckenheim, Wachtberg
 
-      * Ca. 1,5 – 2-stündiger Spaziergang mit der Hundegruppe im Grünen und bei jedem Wetter.
+      * Ca. 1,5-stündiger Spaziergang mit der Hundegruppe im Grünen und bei jedem Wetter.
 
       * Bei Bedarf Betreuung im Haus (z. B. Füttern, Medikamente verabreichen o. ä.)
     headingCentered: false
