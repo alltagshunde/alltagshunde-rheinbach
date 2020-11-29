@@ -61,16 +61,17 @@ buildingBlocks:
     headingCentered: false
     isColored: false
     heading: Wozu
-    text: Vor dem Spaziergang aufgetragen, schützt der Balsam vor Streusalz und
+    text: >-
+      Vor dem Spaziergang aufgetragen, schützt der Balsam vor Streusalz und
       anderen Einflüssen. Besonders bei gefrorenem Boden, profitieren die Pfoten
       auch im Anschluss von der Salbe.
-  - type: text
-    width: 1/2
-    headingLevel: "3"
-    headingCentered: false
-    isColored: false
-    heading: Zutaten
-    text: >-
+
+
+
+
+      ### Zutaten
+
+
       * 200 ml Kokosöl
 
       * 1 EL getrocknete Ringelblumenblätter (online oder in der Apotheke erhältlich)
