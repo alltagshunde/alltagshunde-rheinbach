@@ -8,7 +8,7 @@ buildingBlocks:
     isColored: false
     heading: Adventsspecial
   - type: text
-    width: "1"
+    width: 3/4
     headingLevel: "2"
     headingCentered: false
     isColored: false
@@ -27,6 +27,12 @@ buildingBlocks:
 
 
       Damit auch Ihr ein paar Ideen bekommt, wie Ihr die Zeit nutzen und etwas für oder mit euren Hunden unternehmen könnt, habe ich mir in diesem Jahr ein kleines Adventsspecial für euch ausgedacht. Jede Woche gibt es hier eine neue Überraschung für euch. Ihr dürft also gespannt sein ...
+  - type: image
+    width: 1/4
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: hot-chocolate-1782623_960_720.jpg
   - type: text
     width: "1"
     headingLevel: "3"
