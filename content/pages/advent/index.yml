@@ -36,7 +36,7 @@ buildingBlocks:
 
       Ich wünsche euch und euren Familien allen eine schöne Adventszeit - bleibt gesund und munter!
   - type: text
-    width: 1/2
+    width: "1"
     headingLevel: "3"
     headingCentered: false
     isColored: false
