@@ -70,7 +70,7 @@ buildingBlocks:
   - type: text
     width: 1/2
     headingLevel: "3"
-    headingCentered: true
+    headingCentered: false
     isColored: false
     heading: Zutaten
     text: >-
