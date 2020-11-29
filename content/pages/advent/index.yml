@@ -7,12 +7,6 @@ buildingBlocks:
     headingCentered: true
     isColored: false
     heading: Adventsspecial
-  - type: image
-    width: "1"
-    innerWidth: "1"
-    isBanner: true
-    isColored: false
-    image: 1.-advent.webp
   - type: text
     width: "1"
     headingLevel: "2"
@@ -41,12 +35,6 @@ buildingBlocks:
       \
 
       Ich wünsche euch und euren Familien allen eine schöne Adventszeit - bleibt gesund und munter!
-  - type: image
-    width: 1/2
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: hundepfote.jpg
   - type: text
     width: 1/2
     headingLevel: "3"
@@ -64,8 +52,14 @@ buildingBlocks:
 
 
       Das Pfotenbalsam kannst du nicht nur für den Hund nutzen, auch deine Haut profitiert davon, denn Kokosöl spendet langfristig Feuchtigkeit und ist zudem noch vegan. Keine Tierversuche, keine versteckten Zusatzstoffe. Die enthaltenen Ringelblumen fördern die Wundheilung und wirken entzündungshemmend, Kamillenblüten wirken außerdem antibakteriell und krampflösend. Viele gute Gründe also, sich und seinem Hund diese Salbe zu gönnen.
+  - type: image
+    width: 1/2
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: hundepfote.jpg
   - type: text
-    width: "1"
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
     isColored: false
@@ -74,7 +68,7 @@ buildingBlocks:
       anderen Einflüssen. Besonders bei gefrorenem Boden, profitieren die Pfoten
       auch im Anschluss von der Salbe.
   - type: text
-    width: "1"
+    width: 1/2
     headingLevel: "3"
     headingCentered: true
     isColored: false
@@ -105,3 +99,9 @@ buildingBlocks:
 
 
       **Viel Spaß beim Zubereiten und einen schönen ersten Advent!**
+  - type: image
+    width: "1"
+    innerWidth: "1"
+    isBanner: true
+    isColored: false
+    image: 1.-advent.webp
