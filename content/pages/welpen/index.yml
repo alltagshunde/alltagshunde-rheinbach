@@ -14,11 +14,8 @@ buildingBlocks:
     headingCentered: true
     headingColorPrimary: false
     heading: Erste praktische Übungen & soziale Interaktion mit Artgenossen
-    text: >-
-      ### Für Welpen ab 9 Wochen 
-
-
-      Profitiere von meiner jahrelangen Erfahrung in der Ausbildung von Welpen und Junghunden.
+    text: Profitiere von meiner jahrelangen Erfahrung in der Ausbildung von Welpen
+      und Junghunden.
     isColored: true
   - type: text
     width: 2/3
@@ -42,8 +39,8 @@ buildingBlocks:
       körpersprachlichen Signale deines Hundes richtig zu verstehen und
       einzuschätzen, wann dein Hund deine Unterstützung benötigt oder Du ihn
       eher begrenzen solltest. "
-    heading: Die ersten Wochen im Leben eines Welpen sind wegweisend für seine
-      Entwicklung
+    heading: Die ersten Wochen im Leben deines Welpen sind wegweisend für seine
+      weitere Entwicklung
   - type: image
     width: 1/3
     innerWidth: "1"
@@ -51,7 +48,7 @@ buildingBlocks:
     image: dog-4372036_1920.jpg
     isColored: true
   - type: text
-    width: 1/2
+    width: 1/3
     headingLevel: "3"
     headingCentered: false
     isColored: false
@@ -67,7 +64,7 @@ buildingBlocks:
       * Tierarztbesuche geduldig und ohne Angst zu ertragen
       * verschiedene Umweltreize
   - type: text
-    width: 1/2
+    width: 2/3
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
