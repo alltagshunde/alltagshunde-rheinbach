@@ -7,13 +7,14 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Vorbereitung aufs Leben
+    heading: Welpenzeit - Vorbereitung aufs Leben
   - type: text
     width: "1"
     headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
-    heading: "Grunderziehung für Welpen und Junghunde "
+    heading: Erste praktische Übungen & soziale Interaktion mit Artgenossen für
+      Welpen ab 9 Wochen
     text: Profitiere von meiner jahrelangen Erfahrung in der Ausbildung von Welpen
       und Junghunden.
     isColored: true
@@ -22,25 +23,23 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
-    text: >-
-      * freundlich und höflich Kontakt zu anderen Hunden und Menschen
-      aufzunehmen
+    text: "In moderierten Spielsequenzen mit Gleichaltrigen und souveränen
+      erwachsenen Hunden lernen die Welpen den korrekten Einsatz und die Wirkung
+      der eigenen Körpersprache, sowie in verschiedenen Situationen angemessen
+      zu reagieren.\r
 
-      * locker an der Leine zu laufen
 
-      * zuverlässig zu dir zurückzukommen
-
-      * auch im Freilauf auf dich zu achten und in deiner Nähe zu bleiben 
-
-      * Ablenkungen zu widerstehen und nicht jedem Radfahrer oder Jogger hinterherzulaufen 
-
-      * auf seinem Platz zu bleiben, wenn es an der Tür klingelt
-    heading: Ich zeige dir, wie Du deinem jungen Hund beibringst ...
+      Du als Hundehalter wirst dabei geschult und angeleitet, die
+      körpersprachlichen Signale deines Hundes richtig zu verstehen und
+      einzuschätzen, wann dein Hund deine Unterstützung benötigt oder Du ihn
+      eher begrenzen solltest. "
+    heading: In der Welpengruppe schaffen wir die Basis, damit dein kleiner Hund
+      später ein ausgeglichener und zuverlässiger Alltagsbegleiter wird ...
   - type: image
     width: 1/3
     innerWidth: "1"
     isBanner: false
-    image: puppy-4095481_1920.jpg
+    image: dog-4372036_1920.jpg
     isColored: true
   - type: text
     width: "1"
@@ -60,20 +59,19 @@ buildingBlocks:
       **Lernen von und mit erwachsenen Hunden**
 
       Das soziale Spiel der jungen Hunde untereinander ist zwar wichtig und nebenbei noch herrlich anzusehen, adäquates Sozialverhalten lernt sich jedoch nicht nur unter gleichaltrigen. Ab und an unterstützen mich daher auch meine eigenen bzw. mir langjährig bekannte sozialkompetente erwachsene Hunde in den Trainingsstunden. 
-      
+
       **Kein langweiliges Lernen auf dem Hundeplatz**
 
-      Mit zunehmendem Alter und Konzentrationsfähigkeit der Hunde trainieren wir vermehrt dort, wo auch dein Alltag stattfindet: \
-      Das bedeutet also je nach Thema und Wetter mal in Feld, Wald oder Wiese aber auch mal in der Stadt oder im Park. So bleibt das Training für dich und deinen Hund immer abwechslungsreich. 
-      
+      Mit zunehmendem Alter und Konzentrationsfähigkeit der Hunde trainieren wir vermehrt dort, wo auch dein Alltag stattfindet: \ Das bedeutet also je nach Thema und Wetter mal in Feld, Wald oder Wiese aber auch mal in der Stadt oder im Park. So bleibt das Training für dich und deinen Hund immer abwechslungsreich. 
+
       **Flexible Termine statt fester Kurse** 
 
       Du hast die Wahl zwischen Gruppenstunden über flexible 5er- bzw. 10er-Karten, individuellem Einzelcoaching oder einem Mix aus beidem. 
-      
+
       **Angebote für Mehrhundehalter** 
 
       Teilst Du dein Zuhause mit mehr als einem Hund, sieht dein Alltag natürlich anders aus. Sprich mich gerne an und wir schauen, wie wir deine Hundegruppe ins Training einbinden können. 
-      
+
       **Intensive Betreuung**  
 
       Auch außerhalb des Trainings profitierst du von meiner intensiven Betreuung z. B. während der Sprechstunden oder in meiner internen [Facebook-Gruppe](https://www.facebook.com/groups/2743777579283949).
@@ -87,7 +85,7 @@ buildingBlocks:
     width: 1/3
     innerWidth: "1"
     isBanner: false
-    image: dog-4372036_1920.jpg
+    image: 3-4-monate-andere-tiere-pferde.jpg
     text: |-
       **Das Paket beinhaltet folgende Leistungen:** 
 
@@ -182,9 +180,9 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
-    heading: "Angebot:"
+    heading: Rundum-Sorglos-Paket "Das kleine 1x1"
     text: >-
-      ### Rundum-Sorglos-Paket "Das kleine 1x1"
+      ### Das Paket beinhaltet:
 
 
       1x Einzeltraining / Hausbesuch 
@@ -196,16 +194,16 @@ buildingBlocks:
       8 x Theorieeinheiten Online via Zoom
 
 
-      &<43 wöchentliche Online-Video-Sprechstunde via Zoom
+      &#43 wöchentliche Online-Video-Sprechstunde via Zoom
 
 
-      **Preis: 349,- Euro**
+      ### Preis: 349,- Euro
 
 
       Das Praxis-Training findet in kleinen Gruppen (4-5 Mensch-Hund-Teams) auf dem Trainingsgelände in 53340 Meckenheim und mit zunehmendem Alter und Konzentrationsfähigkeit der Hunde auch in der näheren Umgebung (Feld, Wald Wiese und auch mal in der Stadt) statt.
 
 
-      ### Mitzubringen sind: 
+      ### Mitzubringen sind:
 
 
       * ein gut sitzendes Halsband oder Geschirr
