@@ -48,11 +48,11 @@ buildingBlocks:
     image: dog-4372036_1920.jpg
     isColored: true
   - type: text
-    width: 1/3
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
     isColored: false
-    heading: Dein Welpe lernt im Kurs ...
+    heading: In der Welpengruppe lernt dein kleiner Hund ...
     text: |-
       * freundlich Kontakt mit anderen Hunden aufzunehmen
       * auf seinen Namen zu hören
@@ -64,33 +64,43 @@ buildingBlocks:
       * Tierarztbesuche geduldig und ohne Angst zu ertragen
       * verschiedene Umweltreize
   - type: text
-    width: 2/3
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
-    headingColorPrimary: false
-    heading: "Deine Vorteile auf einen Blick:"
+    isColored: false
+    heading: Rundum-Sorglos-Paket "Das kleine 1 x 1"
     text: >-
-      * **Keine klassische Welpengruppe** 
+      ### Das Paket beinhaltet:
 
-        Im Training lege ich besonders viel Wert auf ausgewählte Hundekontakte in kontrolliertem Rahmen. Frei nach dem Motto "*weniger ist manchmal mehr*" bedeutet dies, dass dein Hund zwar die wichtige Möglichkeit erhält, andere Hunde kennenzulernen und ein adäquates Sozialverhalten zu entwickeln. Dies jedoch nicht "auf Teufel komm raus", sondern in einem adäquaten Rahmen und mit Hunden denen er von Temperament und Körperbau gewachsen ist. 
-      * **Training in Kleingruppen** 
 
-        Damit ich optimal und individuell auf jedes Team eingehen kann, arbeiten wir in kleinen Gruppen von 4 - 5 Mensch-Hund-Teams.
-      * **Lernen von und mit erwachsenen Hunden** 
+      1x Einzeltraining / Hausbesuch 
 
-        Das soziale Spiel der jungen Hunde untereinander ist zwar wichtig und nebenbei noch herrlich anzusehen, adäquates Sozialverhalten entwickelt sich jedoch nicht nur unter Gleichaltrigen. Daher unterstützen mich in den Trainingsstunden auch meine eigenen sowie mir langjährig bekannte sozialkompetente erwachsene Hunde
-      * **Kein langweiliges Lernen auf dem Hundeplatz** 
 
-        Mit zunehmendem Alter und Konzentrationsfähigkeit der Hunde trainieren wir vermehrt dort, wo auch dein Alltag stattfindet:
+      8 x Praxisstunden in der Kleingruppe
 
-        Das bedeutet also je nach Thema und Wetter mal in Feld, Wald oder Wiese aber auch mal in der Stadt oder im Park. So bleibt das Training für dich und deinen Hund immer abwechslungsreich. 
-      * **Intensive Betreuung**
 
-        Eine intensive Betreuung ist mir sehr wichtig. Insbesondere in der spannenden Zeit des Heranwachsens ergeben sich für die frischgebackenen Hundebesitzer viele Fragen und manchmal auch Sorgen und Nöte.  
+      8 x Theorieeinheiten Online via Zoom
 
-        Um ausreichend Raum für deine individuellen Fragen zu schaffen und das nötige theoretische Hintergrundwissen vermitteln zu können, besteht der Kurs aus einem Praxis- und einem Theorieteil. Der Theorieteil findet einmal wöchentlich über die Online-Plattform *Zoom* statt. 
 
-        Zusätzlich stehe ich dir während meiner wöchentlichen Online-Sprechstunde (ebenfalls über *Zoom*) auch zwischen den Terminen für Fragen zur Verfügung. Während der Kurslaufzeit profitierst also von einer Rundum-Betreuung.
+      &#43 wöchentliche Online-Video-Sprechstunde via Zoom
+
+
+      ### Preis: 349,- Euro
+
+
+      Das Praxis-Training findet in kleinen Gruppen (4-5 Mensch-Hund-Teams) auf dem Trainingsgelände in 53340 Meckenheim und mit zunehmendem Alter und Konzentrationsfähigkeit der Hunde auch in der näheren Umgebung (Feld, Wald Wiese und auch mal in der Stadt) statt.
+
+
+      ### Mitzubringen sind:
+
+
+      * ein gut sitzendes Halsband oder Geschirr
+
+      * eine handelsübliche Leine (**keine** Flexileine oder Schleppleine)
+
+      * kleine, weiche Leckerlis
+
+      * Impfpass (nur zur ersten Trainingsstunde)
   - type: image
     width: 1/3
     innerWidth: "1"
@@ -131,7 +141,35 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
-    heading: "In Theorie & Praxis erarbeiten wir die folgenden Inhalte:"
+    heading: "Deine Vorteile auf einen Blick:"
+    text: >-
+      * **Keine klassische Welpengruppe** 
+
+        Im Training lege ich besonders viel Wert auf ausgewählte Hundekontakte in kontrolliertem Rahmen. Frei nach dem Motto "*weniger ist manchmal mehr*" bedeutet dies, dass dein Hund zwar die wichtige Möglichkeit erhält, andere Hunde kennenzulernen und ein adäquates Sozialverhalten zu entwickeln. Dies jedoch nicht "auf Teufel komm raus", sondern in einem adäquaten Rahmen und mit Hunden denen er von Temperament und Körperbau gewachsen ist. 
+      * **Training in Kleingruppen** 
+
+        Damit ich optimal und individuell auf jedes Team eingehen kann, arbeiten wir in kleinen Gruppen von 4 - 5 Mensch-Hund-Teams.
+      * **Lernen von und mit erwachsenen Hunden** 
+
+        Das soziale Spiel der jungen Hunde untereinander ist zwar wichtig und nebenbei noch herrlich anzusehen, adäquates Sozialverhalten entwickelt sich jedoch nicht nur unter Gleichaltrigen. Daher unterstützen mich in den Trainingsstunden auch meine eigenen sowie mir langjährig bekannte sozialkompetente erwachsene Hunde
+      * **Kein langweiliges Lernen auf dem Hundeplatz** 
+
+        Mit zunehmendem Alter und Konzentrationsfähigkeit der Hunde trainieren wir vermehrt dort, wo auch dein Alltag stattfindet:
+
+        Das bedeutet also je nach Thema und Wetter mal in Feld, Wald oder Wiese aber auch mal in der Stadt oder im Park. So bleibt das Training für dich und deinen Hund immer abwechslungsreich. 
+      * **Intensive Betreuung**
+
+        Eine intensive Betreuung ist mir sehr wichtig. Insbesondere in der spannenden Zeit des Heranwachsens ergeben sich für die frischgebackenen Hundebesitzer viele Fragen und manchmal auch Sorgen und Nöte.  
+
+        Um ausreichend Raum für deine individuellen Fragen zu schaffen und das nötige theoretische Hintergrundwissen vermitteln zu können, besteht der Kurs aus einem Praxis- und einem Theorieteil. Der Theorieteil findet einmal wöchentlich über die Online-Plattform *Zoom* statt. 
+
+        Zusätzlich stehe ich dir während meiner wöchentlichen Online-Sprechstunde (ebenfalls über *Zoom*) auch zwischen den Terminen für Fragen zur Verfügung. Während der Kurslaufzeit profitierst also von einer Rundum-Betreuung.
+  - type: text
+    width: 1/2
+    headingLevel: "3"
+    headingCentered: false
+    headingColorPrimary: false
+    heading: "Inhalte in Theorie & Praxis:"
     text: >-
       **Beratung zu typischen Themen, z. B.**
 
@@ -194,7 +232,7 @@ buildingBlocks:
 
       * Den eigenen Hund richtig einschätzen - Erkennen von Spiel und Ernst im Freispiel
   - type: text
-    width: 1/2
+    width: "1"
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
