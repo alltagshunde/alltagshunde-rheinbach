@@ -12,10 +12,10 @@ buildingBlocks:
     headingLevel: "2"
     headingCentered: false
     isColored: false
-    heading: Einen schönen ersten Advent!
+    heading: Einen schönen zweiten Advent!
     text: >-
-      Die Adventszeit ist eine schöne Zeit. In diesem Jahr vielleicht sogar eine
-      ganz besondere Zeit. In anderen Jahren haben wir uns jetzt auf den
+      Die Adventszeit ist so eine schöne Zeit. In diesem Jahr vielleicht sogar
+      eine ganz besondere Zeit. In anderen Jahren haben wir uns jetzt auf den
       zahlreichen Weihnachtsmärkten rumgetrieben, Weihnachtsgeschenke gekauft
       Glühwein getrunken, und und und ...
 
@@ -38,7 +38,46 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     isColored: false
-    heading: Wellness - Pfotenbalsam
+    heading: 2. Advent - Ideen für einen Abenteuerspaziergang
+    text: >-
+      Zugegeben, das Wetter ist an diesem Wochenende nicht gerade einladend.
+      Doch so ein langer Winterspaziergang kann Wellness für Hund und Mensch
+      bedeuten. Ganz besonders dann, wenn unterwegs ein paar schöne Spiele
+      eingebunden werden. Und wer braucht da schon schönes Wetter? 
+
+
+      Leider dürfen wir Hundeschulen in NRW ja aktuell auch nicht arbeiten. Das bedeutet für viele von euch natürlich auch, dass regelmäßige Aktivitäten wie Mantrailing, Agility etc. gerade nicht möglich sind. Grund genug also einfach mal ein wenig Abwechslung in den Spaziergang einzubauen. 
+
+
+      Viele Dinge sind möglich. Probiere doch einfach mal aus, was dir und deinem Hund am besten gefällt. Hier sind einige Beispiele, wie ihr euch unterwegs näherkommt ...
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    text: >-
+      ### **Suchspiele**
+
+
+      **Immer wieder spannend -** Der Klassiker unter den Spielen für unterwegs sind Futtersuchspiele. Alternativ kann natürlich auch ein Spielzeug versteckt werden. Erfahrungsgemäß ist im Außenbereich die Motivation dafür jedoch nicht ganz so hoch. Wie dem auch sei, beginne damit, den Hund abzusetzen und ein Futterstück ein paar Schritte entfernt auf den Boden zu legen. Dann kehre zu deinem Hund zurück, belohne ihn für das Sitzenbleiben (wichtig!) und schicke ihn los. Klappt das gut, kannst du es auch hinter einem Baum auf den Boden legen oder unter einigen Blättern vergraben. Der Ablauf mit dem Sitzenbleiben, bis der Hund losgeschickt wird, bleibt jedoch. Das Suchen von Futter auf dem Boden fällt den meisten Hunden nicht besonders schwer, anstrengender wird es, wenn das Futter eine Ebene höher liegt, z. B. auf einem Baumstamm oder in Baumrinde gedrückt.
+
+
+      ### **Drumherum**
+
+
+      **Abwechslung wo immer es geht -** Stelle dich mit dem Gesicht vor einen Baum und locke den Hund auf deine linke Seite. In der rechten Hand hältst du ein Leckerchen. Nun strecke den rechten Arm aus, bis links neben den Baum und lasse den Hund der Hand folgen. Im rechten Moment wechselt die Hand auf die andere Seite des Baumes und der Hund muss diesen umrunden. Die Belohnung bekommt er, wenn er wieder bei dir angelangt ist. Schon bald kann er auf ein reines Sichtzeichen hin einen Baum oder auch andere Gegenstände (z. B. den Regenschirm) umrunden.
+
+
+      ### **Apportspiele**
+
+
+      **Hilfreich und lustig zugleich -**Hier ein lustiges Spiel, das die Aufmerksamkeit deines Hundes beim Spaziergang erhöhen kann. Nimm ganz besondere Leckerchen in die Hand und lasse unterwegs beispielsweise eine Packung Papiertaschentücher fallen. Nun motiviere deinen Hund, es aufzunehmen und dir in die Hand zu geben. Hierfür wird er überschwänglich belohnt. Nun versuche es erneut, gehe aber beim „Verlieren“ ein paar Schritte weiter. Motiviere auch diesmal sogleich den Hund, es aufzunehmen und zu dir zu bringen. Dabei solltest du jedoch nicht stehen bleiben, sondern es im Lauf annehmen. Schließlich soll er es in Zukunft so lange hinterhertragen, bis du es annimmst. Nach vielen Wiederholungen ist schlussendlich kein Wortkommando mehr nötig. Der Hund hebt einfach alles auf, was dir herunterfällt.
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    heading: 1. Advent - Pfotenbalsam selber machen
     text: >-
       Pünktlich zum ersten Adventswochenende beschert uns das Wetter ja recht
       eisige Temperaturen und frostige Nächte. Höchste Zeit für die richtig
@@ -61,13 +100,12 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     isColored: false
-    heading: Wozu
+    heading: Anleitung
     text: >-
-      Vor dem Spaziergang aufgetragen, schützt der Balsam vor Streusalz und
-      anderen Einflüssen. Besonders bei gefrorenem Boden, profitieren die Pfoten
-      auch im Anschluss von der Salbe.
+      ### Wozu
 
 
+      Vor dem Spaziergang aufgetragen, schützt der Balsam vor Streusalz und anderen Einflüssen. Besonders bei gefrorenem Boden, profitieren die Pfoten auch im Anschluss von der Salbe.
 
 
       ### Zutaten
@@ -78,27 +116,18 @@ buildingBlocks:
       * 1 EL getrocknete Ringelblumenblätter (online oder in der Apotheke erhältlich)
 
       * 1 EL Kamillenblüten (online oder in der Apotheke erhältlich)
-  - type: text
-    width: "1"
-    headingLevel: "3"
-    headingCentered: false
-    isColored: false
-    heading: Herstellung
-    text: >-
-      Warum kompliziert, wenn es auch einfach geht! -Erhitze das Kokosöl in
-      einem Wasserbad. Sobald es sich verflüssigt hat, gib die Blüten hinzu und
-      vermenge es gut. Fülle das Gemisch um, wenn du es nicht eh schon in einem
-      passenden Schraubglas angerührt hast. Lasse den Balsam aushärten und
-      verschließe das Gefäß. Lagere es kühl.
+
+
+      ### Herstellung 
+
+
+      Warum kompliziert, wenn es auch einfach geht! -Erhitze das Kokosöl in einem Wasserbad. Sobald es sich verflüssigt hat, gib die Blüten hinzu und vermenge es gut. Fülle das Gemisch um, wenn du es nicht eh schon in einem passenden Schraubglas angerührt hast. Lasse den Balsam aushärten und verschließe das Gefäß. Lagere es kühl.
 
 
       Bedenke, dass selbstgemachte Cremes nicht besonders lange haltbar sind. Stelle am besten immer nur kleinere Mengen her und versehe das Gefäß mit einem Herstellungsdatum.
 
 
-      **Viel Spaß beim Zubereiten!!!** 
-
-
-      **Euch und euren Lieben wünsche ich allen eine schöne Adventszeit!**
+      **Viel Spaß beim Zubereiten!!!**
   - type: image
     width: "1"
     innerWidth: "1"
