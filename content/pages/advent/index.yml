@@ -51,7 +51,7 @@ buildingBlocks:
     innerWidth: "1"
     isBanner: false
     isColored: false
-    image: braunes-instagram-post-weihnachten-advent.png
+    image: braunes-instagram-post-weihnachten-advent_webseite.png
   - type: text
     width: 2/3
     headingLevel: "3"
