@@ -12,7 +12,7 @@ buildingBlocks:
     headingLevel: "2"
     headingCentered: false
     isColored: false
-    heading: Einen schönen zweiten Advent!
+    heading: Ich wünsche euch einen schönen dritten Advent!
     text: >-
       Die Adventszeit ist so eine schöne Zeit. In diesem Jahr vielleicht sogar
       eine ganz besondere Zeit. In anderen Jahren haben wir uns jetzt auf den
@@ -33,6 +33,55 @@ buildingBlocks:
     isBanner: false
     isColored: false
     image: hot-chocolate-1782623_960_720.jpg
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    heading: 3. Advent - Schmuddelwetter ... Zeit für ein wenig Indoor-Spaß
+    text: >-
+      Das Weihnachtsfest rückt näher und langsam nimmt auch das Wetter wieder
+      die üblichen Schmuddelformen an. Na gut, dann wird es eben Zeit für ein
+      bisschen Indoor-Beschäftigung mit deinem Hund! 
+
+
+      Wenn Du schon immer mal süsse Weihnachtskarten mit deinem Hund unterm Tannenbaum versenden wolltest, ist jetzt noch genug Zeit den passenden Trick dafür einzustudieren. Hier bekommst Du eine Anleitung, wie Du deinem Hund beibringst auf dein Signal hin seinen Kopf auf deiner Hand oder auf einem Gegenstand abzulegen. Timmi und Maja machen es vor ...
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: braunes-instagram-post-weihnachten-advent.png
+  - type: text
+    width: 2/3
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    heading: Aufbau
+    text: >-
+      Beginnen wollen wir mit dem Signal „leg ab“ auf der Hand des Hundehalters.
+      Das ist denkbar einfach beizubringen und ein guter Einstieg in diesen
+      Trick. Begib dich auf Augenhöhe des Hundes und halte ihm die flache Hand
+      vor den Fang. Mit der Futterhand locke ihn ein wenig zu dir. Wichtig sind
+      langsame Bewegungen, damit dein Hund nicht aufsteht. Locke also die
+      Schnauze des Hundes mit dem Leckerchen über deine flache Hand hinweg, mit
+      Tendenz nach unten. Sobald der Fang auf deiner flachen Hand aufliegt oder
+      sich zumindest schon mal über der Hand befindet, bekommt er die Belohnung
+      aus der anderen Hand. 
+
+
+      Nach und nach wird der Hund diese Handlung immer sicherer zeigen. Ab diesem Zeitpunkt nenne erst das Wortsignal und beginne danach, den Hund in Position zu locken. So wird er auf dieses Wort konditioniert und ist später nicht abhängig von deiner Hand. Belohnt wird nur noch, wenn der Fang tatsächlich in der Hand liegt. 
+
+
+      Damit dein Hund dieses „Kopf ablegen“ nun auch an anderen Dingen zeigt, lege zunächst einen kleinen Gegenstand, z.B. ein Tuch auf deine Hand und frage das Verhalten ab. Immer mehr andere Gegenstände kommen hinzu. Hat der Hund endgültig verstanden, was „leg ab“ bedeutet, kann der Gegenstand zunächst tiefer gehalten werden, bis er schlussendlich auf den Boden gelegt werden kann.
+
+
+
+
+      ### Alternative
+
+
+      Lernen durch „freies Formen“ ist eine beliebte Alternative, die den Hund mental noch mehr fordert. Nimm hierzu Futter in die rechte Hand und lege sie an deine Brust. Die linke Hand hältst du deinem Hund entgegen, allerdings hoch genug, damit es den Hund nicht ans Pfötchen geben erinnert. Vermutlich wird der Hund ein Verhalten zeigen, dass dem Kopf ablegen schon sehr nahekommt, z.B. das Berühren deiner Fingerspitzen. Dieses Verhalten belohnst du und näherst dich Step by Step dem Kopfablegen. Auch hier kommt das Wortsignal erst später, wenn die Handlung verstanden ist.
   - type: text
     width: "1"
     headingLevel: "3"
