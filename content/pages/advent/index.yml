@@ -12,7 +12,7 @@ buildingBlocks:
     headingLevel: "2"
     headingCentered: false
     isColored: false
-    heading: Ich wünsche euch einen schönen dritten Advent!
+    heading: Ich wünsche euch einen schönen Advent!
     text: >-
       Die Adventszeit ist so eine schöne Zeit. In diesem Jahr vielleicht sogar
       eine ganz besondere Zeit. In anderen Jahren haben wir uns jetzt auf den
@@ -33,6 +33,51 @@ buildingBlocks:
     isBanner: false
     isColored: false
     image: hot-chocolate-1782623_960_720.jpg
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    heading: 4. Advent - Die Vorfreude steigt
+    text: >-
+      Zugegeben, in diesem Jahr ist ja alles ein wenig anders: Weihnachten wird
+      wohl in den meisten Haushalten insgesamt etwas ruhiger ausfallen. Weniger
+      Gäste, weniger Termine, vielleicht auch weniger aufwändiges Essen und
+      weniger Geschenke. \
+
+      \
+
+      Wer vor dem großen Fest dennoch in Stress gerät, für den ist unsere Anleitung zur Hundemassage genau das Richtige: Quasi Wellness für Hund und Herrchen (Frauchen). Viel Spaß dabei!
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: massage_timmi.jpg
+  - type: text
+    width: 2/3
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    text: >-
+      Bei einer Massage wird die Durchblutung des Hundes angeregt, die Nerven
+      stimuliert und Schmerzen gelindert. Je mehr Übung du hast, desto schneller
+      wirkt die Entspannung. Wichtig ist ein ebenso entspanntes Umfeld. Es
+      sollte nicht zu warm oder zu kalt, das Telefon und der Fernseher
+      ausgeschaltet und die Kids, aus dem Raum geschickt worden sein.
+
+
+      ### **So wird es gemacht** 
+
+
+      Beginne mit sanften Streicheleinheiten an den Hinterbeinen. Entspannt sich der Hund sichtbar, kann der Druck der Massage Stück für Stück erhöht werden. Deine Hände wandern dann langsam zum Becken, über den Rücken zu den Vorderläufen. Massiere in langsamen, kreisenden Bewegungen und werde niemals hektisch dabei. Eine Hand sollte immer am Hund bleiben, so dass ihr den Kontakt nicht verliert. Bist du an den Vorderpfoten angekommen, lasse deinen Hund langsam aufstehen und sich auf die andere Seite legen. Dort beginnst du wieder an den Hinterbeinen.
+
+
+      ### **Tipp**
+
+
+      Hilfreich ist, das Massieren mit einem bestimmten Ritual zu beginnen. So könntest du eine bestimmte Decke an immer ein und demselben Ort auslegen. Nach einigen Wiederholungen fängt für den Hund die Entspannung schon an, sobald du die Decke rausholst. Auch wäre es denkbar, dem Hund ein bestimmtes Tuch umzubinden. Dann geht es schon in die Richtung „konditionierte Entspannung“. Das heißt, dass nach einer geraumen Zeit schon das Umbinden des Tuches sichtliche Entspannung beim Hund auslöst. Dies könnte später für stressige Situationen genutzt werden.
+    heading: Los geht's
   - type: text
     width: "1"
     headingLevel: "3"
