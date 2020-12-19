@@ -43,11 +43,13 @@ buildingBlocks:
       Zugegeben, in diesem Jahr ist ja alles ein wenig anders: Weihnachten wird
       wohl in den meisten Haushalten insgesamt etwas ruhiger ausfallen. Weniger
       Gäste, weniger Termine, vielleicht auch weniger aufwändiges Essen und
-      weniger Geschenke. \
+      weniger Geschenke. 
 
-      \
 
-      Wer vor dem großen Fest dennoch in Stress gerät, für den ist unsere Anleitung zur Hundemassage genau das Richtige: Quasi Wellness für Hund und Herrchen (Frauchen). Viel Spaß dabei!
+      Wer vor dem großen Fest dennoch in Stress gerät, für den ist unsere Anleitung zur Hundemassage genau das Richtige: 
+
+
+      Bei einer Massage wird die Durchblutung des Hundes angeregt, die Nerven stimuliert und Schmerzen gelindert. Je mehr Übung du hast, desto schneller wirkt die Entspannung. Wichtig ist aber ein ebenso entspanntes Umfeld. Es sollte weder zu warm noch zu kalt, das Telefon und der Fernseher ausgeschaltet und die Kids, aus dem Raum geschickt worden sein. So wirkt die Massage nicht nur entspannend auf deinen Hund, sondern zu kannst dabei ebenso abschalten. Quasi gemeinsame Wellness für Hund und Herrchen (Frauchen). Viel Spaß dabei!
   - type: image
     width: 1/3
     innerWidth: "1"
@@ -59,25 +61,29 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     isColored: false
-    text: >-
-      Bei einer Massage wird die Durchblutung des Hundes angeregt, die Nerven
-      stimuliert und Schmerzen gelindert. Je mehr Übung du hast, desto schneller
-      wirkt die Entspannung. Wichtig ist ein ebenso entspanntes Umfeld. Es
-      sollte nicht zu warm oder zu kalt, das Telefon und der Fernseher
-      ausgeschaltet und die Kids, aus dem Raum geschickt worden sein.
-
-
-      ### **So wird es gemacht** 
-
-
-      Beginne mit sanften Streicheleinheiten an den Hinterbeinen. Entspannt sich der Hund sichtbar, kann der Druck der Massage Stück für Stück erhöht werden. Deine Hände wandern dann langsam zum Becken, über den Rücken zu den Vorderläufen. Massiere in langsamen, kreisenden Bewegungen und werde niemals hektisch dabei. Eine Hand sollte immer am Hund bleiben, so dass ihr den Kontakt nicht verliert. Bist du an den Vorderpfoten angekommen, lasse deinen Hund langsam aufstehen und sich auf die andere Seite legen. Dort beginnst du wieder an den Hinterbeinen.
-
-
-      ### **Tipp**
-
-
-      Hilfreich ist, das Massieren mit einem bestimmten Ritual zu beginnen. So könntest du eine bestimmte Decke an immer ein und demselben Ort auslegen. Nach einigen Wiederholungen fängt für den Hund die Entspannung schon an, sobald du die Decke rausholst. Auch wäre es denkbar, dem Hund ein bestimmtes Tuch umzubinden. Dann geht es schon in die Richtung „konditionierte Entspannung“. Das heißt, dass nach einer geraumen Zeit schon das Umbinden des Tuches sichtliche Entspannung beim Hund auslöst. Dies könnte später für stressige Situationen genutzt werden.
-    heading: Los geht's
+    text: Beginne mit sanften Streicheleinheiten an den Hinterbeinen. Entspannt sich
+      der Hund sichtbar, kann der Druck der Massage Stück für Stück erhöht
+      werden. Deine Hände wandern dann langsam zum Becken, über den Rücken zu
+      den Vorderläufen. Massiere in langsamen, kreisenden Bewegungen und werde
+      niemals hektisch dabei. Eine Hand sollte immer am Hund bleiben, so dass
+      ihr den Kontakt nicht verliert. Bist du an den Vorderpfoten angekommen,
+      lasse deinen Hund langsam aufstehen und sich auf die andere Seite legen.
+      Dort beginnst du wieder an den Hinterbeinen.
+    heading: "So wird es gemacht "
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    text: Hilfreich ist, das Massieren mit einem bestimmten Ritual zu beginnen. So
+      könntest du eine bestimmte Decke an immer ein und demselben Ort auslegen.
+      Nach einigen Wiederholungen fängt für den Hund die Entspannung schon an,
+      sobald du die Decke rausholst. Auch wäre es denkbar, dem Hund ein
+      bestimmtes Tuch umzubinden. Dann geht es schon in die Richtung
+      „konditionierte Entspannung“. Das heißt, dass nach einer geraumen Zeit
+      schon das Umbinden des Tuches sichtliche Entspannung beim Hund auslöst.
+      Dies könnte später für stressige Situationen genutzt werden.
+    heading: Tipp
   - type: text
     width: "1"
     headingLevel: "3"
