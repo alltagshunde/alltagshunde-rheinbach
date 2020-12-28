@@ -121,20 +121,26 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     heading: Intensiv Paket
-    text: |-
+    text: >-
       **Das Intensiv Paket beinhaltet folgende Leistungen:** 
 
-      1 x ausführliches Erstgespräch (75 Min.)
 
-      5 x Einzeltraining (60 Min.)
+      1 x ausführliches Erstgespräch (auf Wunsch auch Hausbesuch)
 
-      1 x Nachkontrolle (60 Min.)
+
+      5 x Einzeltraining an unterschiedlichen Orten oder auf dem Hundeplatz, je nach Trainingsziel
+
+
+      1 x Nachkontrolle mit ca. 4-5 Wochen Abstand, zur Überprüfung deines Erfolgs
+
 
       &#43; wöchentliche Online-Sprechstunde über Zoom
 
+
       &#43; intensive Betreuung auch zwischen den Terminen
 
-      &#43; Kosten: 499,- Euro
+
+      ### &#43; Kosten: 499,- Euro (inkl. 19% MwSt.)
     isColored: false
   - type: text
     width: 2/3
