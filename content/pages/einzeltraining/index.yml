@@ -20,7 +20,7 @@ buildingBlocks:
       herausarbeiten und lösen.
     isColored: true
   - type: text
-    width: 1/2
+    width: 2/3
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
@@ -43,18 +43,18 @@ buildingBlocks:
       * dass dein Hund **in deiner Abwesenheit entspannt bleibt,** statt zu bellen oder Dinge zu zerstören.
     heading: Ich unterstütze dich und zeige dir, wie du es schaffst ...
   - type: image
-    width: 1/2
+    width: 1/3
     innerWidth: "1"
     isBanner: false
     isColored: false
     image: img_4087finish.jpg
   - type: image
-    width: 1/2
+    width: 1/3
     innerWidth: "1"
     isBanner: false
     image: img_4432finish.jpg
   - type: text
-    width: 1/2
+    width: 2/3
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
@@ -69,38 +69,6 @@ buildingBlocks:
 
       In der Regel sind *ca. 3 - 6 Einzelstunden* ausreichend, um dir und deinem Hund eine Basis für das weitere Miteinander zu geben und Gelerntes zu vertiefen.
     heading: "Ablauf:"
-  - type: text
-    width: 2/3
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    heading: "Deine Vorteile auf einen Blick:"
-    text: >-
-      * **Keine festen Kurse** - die Termine legen wir ganz individuell in
-      Absprache miteinander fest
-
-      * **Individuelles Training** - wir arbeiten an den Themen, die für dich und deinen Alltag wichtig sind
-
-      * **Alltagsnahes Training** - wir trainieren entweder auf dem Hundeplatz, bei dir zuhause oder in alltagsnahen Situationen, je nach Problemstellung und Trainingsziel
-
-      * **Maximale Effizienz** - du ganz allein bestimmst wie schnell du deine Ziele erreichen willst, ich biete dir den passenden Rahmen. Durch kontinuierliche und intensive Betreuung wird das Training für dich und deinen Hund maximal effektiv und nachhaltig.
-
-      * **Festigung des Erlernten** - Im Anschluss an das Einzeltraining biete ich dir die Möglichkeit, deine neu erlernten Fähigkeiten unter meiner fachlichen Leitung in Kleingruppen mit anderen Hundehaltern und in alltagsnahen Situationen weiter zu festigen und auszubauen
-    isColored: true
-  - type: text
-    width: 1/3
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    text: >-
-      **Erstgespräch (60-90 Min.):** 75,- Euro
-
-
-      **Einzeltraining (60 Min.):** 75,- Euro
-
-
-      jeweils inkl. 20 km Anfahrt, darüber hinaus zzgl. 0,50 Euro Fahrtkosten je km
-    heading: "Einzelpreise:"
   - type: text
     width: "1"
     headingLevel: "3"
@@ -167,4 +135,37 @@ buildingBlocks:
       &#43; intensive Betreuung auch zwischen den Terminen
 
       &#43; Kosten: 499,- Euro
+    isColored: false
+  - type: text
+    width: 2/3
+    headingLevel: "3"
+    headingCentered: false
+    headingColorPrimary: false
+    heading: "Deine Vorteile auf einen Blick:"
+    text: >-
+      * **Keine festen Kurse** - die Termine legen wir ganz individuell in
+      Absprache miteinander fest
+
+      * **Individuelles Training** - wir arbeiten an den Themen, die für dich und deinen Alltag wichtig sind
+
+      * **Alltagsnahes Training** - wir trainieren entweder auf dem Hundeplatz, bei dir zuhause oder in alltagsnahen Situationen, je nach Problemstellung und Trainingsziel
+
+      * **Maximale Effizienz** - du ganz allein bestimmst wie schnell du deine Ziele erreichen willst, ich biete dir den passenden Rahmen. Durch kontinuierliche und intensive Betreuung wird das Training für dich und deinen Hund maximal effektiv und nachhaltig.
+
+      * **Festigung des Erlernten** - Im Anschluss an das Einzeltraining biete ich dir die Möglichkeit, deine neu erlernten Fähigkeiten unter meiner fachlichen Leitung in Kleingruppen mit anderen Hundehaltern und in alltagsnahen Situationen weiter zu festigen und auszubauen
+    isColored: true
+  - type: text
+    width: 1/3
+    headingLevel: "3"
+    headingCentered: false
+    headingColorPrimary: false
+    text: >-
+      **Erstgespräch (60-90 Min.):** 75,- Euro
+
+
+      **Einzeltraining (60 Min.):** 75,- Euro
+
+
+      jeweils inkl. 20 km Anfahrt, darüber hinaus zzgl. 0,50 Euro Fahrtkosten je km
+    heading: "Einzelpreise:"
     isColored: false
