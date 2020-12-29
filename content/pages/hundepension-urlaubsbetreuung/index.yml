@@ -68,8 +68,12 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     text: |-
-      * 39,00 € pro Tag; 
-      * Zweithund 29,00 € pro Tag
-      * Abgabe- und Abholtag werden in vollem Umfang berechnet.
+      **Übernachtung pro Hund und Tag:** 39,00 € 
+
+      **Zweithund pro Hund und Tag:** 29,00 €
+
+      **Abgabe- und Abholtag werden in vollem Umfang berechnet.** 
+
+      **Alle Preise verstehen sich inkl. 19% MwSt.**
     heading: "Preise: "
     headingSize: "3"
