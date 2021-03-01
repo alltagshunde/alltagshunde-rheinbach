@@ -81,7 +81,7 @@ buildingBlocks:
     headingColorPrimary: false
     heading: Exklusives Einzelcoaching Paket
     text: >-
-      **Das Basis Paket beinhaltet folgende Leistungen:** 
+      **Das Paket beinhaltet folgende Leistungen:** 
 
 
       1 x ausführliches Erstgespräch (auf Wunsch auch als Hausbesuch)
@@ -101,7 +101,7 @@ buildingBlocks:
       &#43; wöchentliche Online-Sprechstunde über Zoom
 
 
-      #### **Kosten: 499,- Euro (inkl. 19% MwSt.)**
+      ### **Kosten: 499,- Euro (inkl. 19% MwSt.)**
     isColored: true
   - type: text
     width: 2/3
