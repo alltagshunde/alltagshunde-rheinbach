@@ -128,13 +128,13 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      **Erstgespräch (ca. 60-90 Min.):** 89,- Euro
+      **Erstgespräch:** **89,- Euro (60-90 Min.)**
 
 
-      **Einzeltraining (ca. 60 Min.):** 79,- Euro
+      **Folgetermin:** **79,- Euro (60 Min.)**
 
 
-      **Alle Preise verstehen sich inkl. 19% MwSt. Ebenfalls enthalten sind die Fahrtkosten bis zu 20 km Anfahrt ab 53343 Wachtberg. Darüber hinaus werden zzgl. 0,50 Euro Fahrtkosten je entstandenen km berechnet.**
+      Alle Preise verstehen sich inkl. 19% MwSt. Ebenfalls enthalten sind die Fahrtkosten bis zu 20 km Anfahrt ab 53343 Wachtberg. Darüber hinaus werden zzgl. 0,50 Euro Fahrtkosten je entstandenen km berechnet.
     heading: Einzelpreise
     isColored: false
   - type: text
