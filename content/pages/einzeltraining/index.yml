@@ -108,7 +108,7 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: true
     isColored: false
-    heading: Deine Vorteile auf einen Blick
+    heading: Bessere Ergebnisse durch intensive Betreuung, auch zwischen den Terminen
     text: >-
       Bei Buchung eines Trainingspakets profitierst Du von der (optionalen)
       Teilnahme an meiner **wöchentlichen Online-Video-Sprechstunde.** Hier hast
@@ -127,7 +127,7 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
-    heading: Ich biete dir ...
+    heading: Deine Vorteile auf einen Blick
     text: >-
       * **Keine festen Kurse** - die Termine legen wir ganz individuell in
       Absprache miteinander fest
