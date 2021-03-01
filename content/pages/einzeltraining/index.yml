@@ -13,11 +13,12 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
-    heading: Wer bist du & Wer ist dein Hund? - Eine Frage der Persönlichkeit
+    heading: Wer bist du & Wer ist dein Hund? Was macht eure Beziehung aus?
     text: Zeigt dein Hund im Alltag unerwünschtes oder problematisches Verhalten,
       kann das ganz unterschiedliche Gründe haben.<br/>Die Ursachen hierfür
       lassen sich daher in der Regel am effektivsten in der Einzelberatung
-      herausarbeiten und lösen.
+      herausarbeiten und lösen. Im Fokus steht dabei der Aufbau einer
+      vertrauensvollen und belastbaren Mensch-Hund-Beziehung.
     isColored: true
   - type: text
     width: 2/3
