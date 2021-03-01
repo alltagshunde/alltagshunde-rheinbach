@@ -108,7 +108,7 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: true
     isColored: false
-    heading: Bessere Ergebnisse durch intensive Betreuung, auch zwischen den Terminen
+    heading: Bessere Ergebnisse durch intensive Betreuung
     text: >-
       Bei Buchung eines Trainingspakets profitierst Du von der (optionalen)
       Teilnahme an meiner **wöchentlichen Online-Video-Sprechstunde.** Hier hast
@@ -122,6 +122,21 @@ buildingBlocks:
 
 
       Durch die kontinuierliche und intensive Betreuung wird das Training für dich und deinen Hund also maximal effektiv und nachhaltig.
+  - type: text
+    width: 1/3
+    headingLevel: "3"
+    headingCentered: false
+    headingColorPrimary: false
+    text: >-
+      **Erstgespräch (ca. 60-90 Min.):** 89,- Euro
+
+
+      **Einzeltraining (ca. 60 Min.):** 79,- Euro
+
+
+      **Alle Preise verstehen sich inkl. 19% MwSt. Ebenfalls enthalten sind die Fahrtkosten bis zu 20 km Anfahrt ab 53343 Wachtberg. Darüber hinaus werden zzgl. 0,50 Euro Fahrtkosten je entstandenen km berechnet.**
+    heading: Einzelpreise
+    isColored: false
   - type: text
     width: 2/3
     headingLevel: "3"
@@ -140,18 +155,3 @@ buildingBlocks:
 
       * **Festigung des Erlernten** - im Anschluss an das Einzeltraining biete ich dir die Möglichkeit, deine neu erlernten Fähigkeiten unter meiner fachlichen Leitung in Kleingruppen mit anderen Hundehaltern und in alltagsnahen Situationen weiter zu festigen und auszubauen
     isColored: true
-  - type: text
-    width: 1/3
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    text: >-
-      **Erstgespräch (ca. 60-90 Min.):** 89,- Euro
-
-
-      **Einzeltraining (ca. 60 Min.):** 79,- Euro
-
-
-      **Alle Preise verstehen sich inkl. 19% MwSt. Ebenfalls enthalten sind die Fahrtkosten bis zu 20 km Anfahrt ab 53343 Wachtberg. Darüber hinaus werden zzgl. 0,50 Euro Fahrtkosten je entstandenen km berechnet.**
-    heading: Einzelpreise
-    isColored: false
