@@ -75,7 +75,7 @@ buildingBlocks:
       In der Regel sind nach einem ausführlichen Kennenlernen ca. 4 - 6 Einzelstunden ausreichend, um dir und deinem Hund eine Basis für das weitere Miteinander zu geben und Gelerntes zu vertiefen. Veränderung braucht jedoch Zeit und jedes neu erlernte Verhalten - sowohl beim Menschen als auch beim Hund - entsprechende Wiederholungen, um zu reifen und sich im Alltag zu festigen. Daher möchte ich dir insbesondere meine Trainingspakete ans Herz legen.
     heading: "Ablauf:"
   - type: text
-    width: 1/2
+    width: 1/3
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
@@ -87,23 +87,28 @@ buildingBlocks:
       1 x ausführliches Erstgespräch (auf Wunsch auch als Hausbesuch)
 
 
-      4 x Einzeltraining an unterschiedlichen Orten oder auf dem Hundeplatz, je nach Trainingsziel
+      5 x Einzeltraining an unterschiedlichen Orten oder auf dem Hundeplatz, \
+
+      je nach individuellem Trainingsziel
 
 
-      &#43; wöchentliche Online-Sprechstunde über Zoom
+      1 x Check-up Termin in ca. 4-5 Wochen Abstand, zur Überprüfung deines Erfolgs
 
 
       &#43; intensive Betreuung auch zwischen den Terminen
 
 
-      ### **&#43; Kosten: 399,- Euro (inkl. 19% MwSt.)**
+      &#43; wöchentliche Online-Sprechstunde über Zoom
+
+
+      #### **Kosten: 499,- Euro (inkl. 19% MwSt.)**
     isColored: true
   - type: text
-    width: 1/2
+    width: 2/3
     headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    heading: ""
+    headingCentered: true
+    isColored: false
+    heading: Deine Vorteile auf einen Blick
     text: >-
       Bei Buchung eines Trainingspakets profitierst Du von der (optionalen)
       Teilnahme an meiner **wöchentlichen Online-Video-Sprechstunde.** Hier hast
@@ -117,13 +122,12 @@ buildingBlocks:
 
 
       Durch die kontinuierliche und intensive Betreuung wird das Training für dich und deinen Hund also maximal effektiv und nachhaltig.
-    isColored: false
   - type: text
     width: 2/3
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
-    heading: "Deine Vorteile auf einen Blick:"
+    heading: Ich biete dir ...
     text: >-
       * **Keine festen Kurse** - die Termine legen wir ganz individuell in
       Absprache miteinander fest
@@ -132,9 +136,9 @@ buildingBlocks:
 
       * **Alltagsnahes Training** - wir trainieren entweder auf dem Hundeplatz, bei dir zuhause oder in alltagsnahen Situationen, je nach Problemstellung und Trainingsziel
 
-      * **Maximale Effizienz** - du ganz allein bestimmst wie schnell du deine Ziele erreichen willst, ich biete dir den passenden Rahmen. Durch kontinuierliche und intensive Betreuung wird das Training für dich und deinen Hund maximal effektiv und nachhaltig.
+      * **Maximale Effizienz** - du ganz allein bestimmst wie schnell du deine Ziele erreichen willst, ich biete dir den passenden Rahmen. Durch kontinuierliche und intensive Betreuung wird das Training für dich und deinen Hund maximal effektiv und nachhaltig
 
-      * **Festigung des Erlernten** - Im Anschluss an das Einzeltraining biete ich dir die Möglichkeit, deine neu erlernten Fähigkeiten unter meiner fachlichen Leitung in Kleingruppen mit anderen Hundehaltern und in alltagsnahen Situationen weiter zu festigen und auszubauen
+      * **Festigung des Erlernten** - im Anschluss an das Einzeltraining biete ich dir die Möglichkeit, deine neu erlernten Fähigkeiten unter meiner fachlichen Leitung in Kleingruppen mit anderen Hundehaltern und in alltagsnahen Situationen weiter zu festigen und auszubauen
     isColored: true
   - type: text
     width: 1/3
@@ -149,5 +153,5 @@ buildingBlocks:
 
 
       **Alle Preise verstehen sich inkl. 19% MwSt. Ebenfalls enthalten sind die Fahrtkosten bis zu 20 km Anfahrt ab 53343 Wachtberg. Darüber hinaus werden zzgl. 0,50 Euro Fahrtkosten je entstandenen km berechnet.**
-    heading: "Einzelpreise:"
+    heading: Einzelpreise
     isColored: false
