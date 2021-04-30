@@ -24,33 +24,68 @@ buildingBlocks:
     heading: Ich zeige dir, wie Du deinem Hund auch während der Corona-Pandemie
       einen optimalen Start ins Leben ermöglichst
     text: >-
-      Während der sogn. Sozialisierungsphase (4.-12. Lebenswoche) sind die
-      Welpen besonders offen für Umweltreize und neue Erfahrungen. 
+      Gerade jetzt, während der Corona-Pandemie kommen viele Menschen auf den
+      Hund, da Home-Office und Kontaktbeschränkungen es ihnen gerade jetzt
+      ermöglichen, viel Zeit mit dem Hund zu verbringen. Leider bringen die
+      aktuellen Zeiten jedoch nicht nur Vorteile für Hundebesitzer mit sich. So
+      ist hier in NRW z. B. bereits seit November jegliches Training in Gruppen
+      und somit auch unsere Welpengruppe untersagt. 
 
 
-      Es ist daher wichtig, dass dein Welpe auch in seinem neuen Zuhause mit gut sozialisierten Hunden jeder Altersstufe Kontakt hat. Das bedeutet jedoch keinesfalls, dass Welpen zwingend einmal pro Woche in die Welpengruppe kommen MÜSSEN, weil sie sonst nicht gesellschaftsfähig werden können. \
-
-      \
-
-      Für die Sozialisierung deines Welpen ist es zum Einen wichtig, dass er Artgenossen verschiedenster Rassen und deren Körpersprache kennenlernt:  Also große Hunde, kleine Hunde, solche mit langem oder kurzen Fell, mit platter Nase oder faltiger Stirn etc. 
+      Das heißt jedoch keinesfalls, dass dein kleiner Liebling nun total verwahrlost, ohne soziale Kontakte zu einem gestörten Hund heranwachsen wird. Bitte lass dir so etwas nicht einreden! 
 
 
-      Zum anderen ist es wichtig, dass er Kontakt zu Artgenossen hat, um seine sozialen Fähigkeiten zu verfeienern: Er muss also verstehen lernen, wann man eher klein beigibt und sich demütig zeigt, weil das Gegenüber die Drohung ernst gemeint hat und wann man vielleicht auch mit einer Spielaufforderung aus der Nummer rauskommen könnte. Ebenso sollte dein Welpe aber lernen, selbst zu kommunizieren, wann es ihmeinmal zuviel wird und wieviel hierbei angemessen ist bzw. wann er vielleicht auch mal überreagiert hat. Gerade beim Erlernen der sozialen Fähigkeiten, ist der Kontakt zu souveränen erwachsenen Hunden in meinen Augen nicht zu unterschätzen. 
-
-
-      Last but not least ist es natürlich auch wichtig, dass ein Welpe angemessene Spielpartner hat (die jedoch nicht zwingend gleichaltrig sein müssen). Denn Spielen macht nicht nur Spaß und Freude, es ermöglicht auch sich auszuprobieren und fördert die Kreativität und Mobilität. 
-
-
-      Bei all diesen Prozessen sollte der Mensch natürlich stets ein wachsames Auge auf die beteiligten Charaktere haben, um im Zweifelsfall moderierend eingreifen zu können.  
-
-
-      Hierbei möchte ich dir gerne unterstützend zur Seite stehen!
+      Es gibt dennoch - auch ohne Gruppentraining - soviel was du deinem jungen Hund beibringen solltest und auch vielerlei Möglichkeiten ihm ausreichend soziale Kontakte zu ermöglichen. Gerne stehe ich dir in dieser Zeit - gerade als Ersthundehalter - beratend und uterstützend zur Seite. Mit meinem Welpen-Angebot **"Das kleine 1x1"** biete ich dir ein **Rundum-Sorglos-Paket für die ersten 8 Wochen** mit deinem neuen Familienmitglied. Damit dein Welpe auch in diesen Zeiten einen optimalen Start ins Leben erhält.
   - type: image
     width: 1/3
     innerWidth: "1"
     isBanner: false
     isColored: false
     image: dog-4372036_1920.jpg
+  - type: text
+    width: 1/2
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    heading: "Welpen-Paket: Das kleine 1x1"
+    text: >-
+      für Welpen ab 9 Wochen
+
+
+      #### Das Paket beinhaltet: 
+
+
+      1 x Erstgespräch / Hausbesuch 
+
+
+      5 x Praxisstunden auf dem Hundeplatz (coronabedingt derzeit als Einzeltraining)
+
+
+      1 x begleiteter Spaziergang mit mehreren Hunden (coronabedingt derzeit als Einzeltraining)
+
+
+      1 x "Stadtbesuch" in Rheinbach oder Bad Godesberg (coronabedingt derzeit als Einzeltraining)
+
+
+      Zusätzlich wöchentliche Online-Video-Sprechstunde via Zoom für deine Fragen zwischen als Terminen
+
+
+      #### Preis: 379,- Euro (inkl. 19 % MwSt.)
+
+
+      Das Praxis-Training findet auf dem Trainingsgelände in 53340 Meckenheim und mit zunehmendem Alter und Konzentrationsfähigkeit der Hunde auch in der näheren Umgebung (Feld, Wald Wiese und auch mal in der Stadt) statt.
+
+
+      #### Mitzubringen sind:
+
+
+      * ein gut sitzendes Halsband oder Geschirr
+
+      * eine handelsübliche Leine (**keine** Flexileine oder Schleppleine)
+
+      * kleine, weiche Leckerlis
+
+      * Impfpass (nur zur ersten Trainingsstunde)
   - type: text
     width: 1/2
     headingLevel: "3"
@@ -97,50 +132,6 @@ buildingBlocks:
       * Zahnwechsel, Ernährung, Gesundheit
 
       * ...
-  - type: text
-    width: 1/2
-    headingLevel: "3"
-    headingCentered: false
-    isColored: false
-    heading: "Welpen-Paket: Das kleine 1x1"
-    text: >-
-      für Welpen ab 9 Wochen
-
-
-      #### Das Paket beinhaltet: 
-
-
-      1 x Erstgespräch / Hausbesuch 
-
-
-      5 x Praxisstunden auf dem Hundeplatz (coronabedingt derzeit als Einzeltraining)
-
-
-      1 x begleiteter Spaziergang mit mehreren Hunden (coronabedingt derzeit als Einzeltraining)
-
-
-      1 x "Stadtbesuch" in Rheinbach oder Bad Godesberg (coronabedingt derzeit als Einzeltraining)
-
-
-      Zusätzlich wöchentliche Online-Video-Sprechstunde via Zoom für deine Fragen zwischen als Terminen
-
-
-      #### Preis: 379,- Euro (inkl. 19 % MwSt.)
-
-
-      Das Praxis-Training findet auf dem Trainingsgelände in 53340 Meckenheim und mit zunehmendem Alter und Konzentrationsfähigkeit der Hunde auch in der näheren Umgebung (Feld, Wald Wiese und auch mal in der Stadt) statt.
-
-
-      #### Mitzubringen sind:
-
-
-      * ein gut sitzendes Halsband oder Geschirr
-
-      * eine handelsübliche Leine (**keine** Flexileine oder Schleppleine)
-
-      * kleine, weiche Leckerlis
-
-      * Impfpass (nur zur ersten Trainingsstunde)
   - type: image
     width: 1/4
     innerWidth: "1"
@@ -165,3 +156,30 @@ buildingBlocks:
     isBanner: false
     isColored: false
     image: labbi-schwarz-an-leine.jpg
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    text: >-
+      Während der sogn. Sozialisierungsphase (4.-12. Lebenswoche) sind die
+      Welpen besonders offen für Umweltreize und neue Erfahrungen. 
+
+
+      Die ersten Wochen dieser Phase verbringen die Kleinen optimalerweise gemeinsam mit ihrer Mutter und ggf. weiteren (verwandten) Hunden im Züchterhaushalt, im Tierheim oder im Schutz ihrer sozialen Gruppe (z. B. Straßenhunde). Zu Beginn der Sozialisierungsphase mit etwa 4 Wochen werden die Kleinen nicht nur deutlich mobiler, auch die Interaktionen der Geschister untereinander, sowie Reaktionen auf die Umwelt nehmen massiv zu. 
+
+
+      Zum einen ist es jetzt wichtig, die Welpen in angemessenem Maße mit unterschiedlichen Umweltreize zu konfrontieren. Dieser milde Stress sorgt für eine intensive Ausbildung und Vernetzung von Nervenzellen im Gehirn des Welpen. Der Hund kann dadurch ein Leben lang besser lernen und wird in der Lage sein, sich besser auf wechselnde Lebensbedingungen und Stress jeder Art einzustellen. Zum anderen benötigen Welpen in dieser Phase entsprechende Kontakte zu Artgenossen um ein artgerechtes Sozialverhalten zu entwicklen. Die körperlichen Signale an sich wie z. B. Spielaufforderungen, Unterwerfungsgesten und Drohgebärden sind den Hunden zwar angeboren - die Fähigkeit, diese in den sozialen Kontext einzuordnen, also beim Sozialpartner zu erkennen und korrekt darauf zu antworten, aber nicht. Genau dieses Lernen wird als **Sozialisation** bezeichnet. 
+
+
+      **Damit ist klar, dass die Sozialisierung eines Welpen nicht ausschließlich in der Welpengruppe erfolgt!**
+
+
+      Dennoch ist es natürlich wichtig, dass dein Welpe auch in seinem neuen Zuhause Kontakte zu gut sozialisierten Hunden verschiedener Altersstufen bekommt. Dies jedoch alles in einem angemessenen Rahmen und ohne Druck - frei nach dem Motto **"Qualität vor Quantität"**. Gerade beim Erlernen der sozialen Fähigkeiten ist der Kontakt zu souveränen erwachsenen Hunden in meinen Augen nicht zu unterschätzen und in einigen Fällen sogar dem mit Gleichaltrigen vorzuziehen. 
+
+
+      Bei all diesen Lernerfahrungen sollte der Mensch natürlich stets ein wachsames Auge auf die beteiligten Charaktere haben, um im Zweifelsfall moderierend eingreifen zu können.  
+
+
+      Hierbei stehe ich dir - gerade als unerfahrener Hundehalter - gerne unterstützend zur Seite. Du als Hundehalter wirst dabei geschult und angeleitet, die körpersprachlichen Signale deines Hundes richtig zu verstehen und einzuschätzen, wann dein Hund deine Unterstützung benötigt oder Du ihn eher begrenzen solltest.
+    heading: Sozialisierungsphase - Was bedeutet das überhaupt?
