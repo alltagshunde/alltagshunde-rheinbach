@@ -9,6 +9,14 @@ buildingBlocks:
     heading: Hundetraining für den Alltag
     headingSize: "1"
     text: ""
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    isColored: false
+    heading: URLAUB VOM 24.5.- 4.6.2021
+    text: "### Ab Juni dürfen wir auch endlich wieder mit dem Gruppentraining
+      starten. Infos zu Kursen und Terminen folgen in Kürze."
   - type: image
     image: img_4201finish.jpg
     width: 1/2
