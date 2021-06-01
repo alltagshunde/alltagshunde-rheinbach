@@ -99,12 +99,27 @@ buildingBlocks:
       &#43; wöchentliche Online-Sprechstunde über Zoom
 
       ### **Kosten: 299,- Euro (inkl. 19% MwSt.)**
-  - type: image
-    width: 1/4
-    innerWidth: "1"
-    isBanner: false
+  - type: text
+    width: "1"
+    headingLevel: "4"
+    headingCentered: false
     isColored: false
-    image: labbi-leine.jpg
+    text: >-
+      Das Training findet je nach Thema und zunehmendem Alter der Welpen auf dem
+      Trainingsgelände in 53340 Meckenheim oder unterschiedlichen Orten in der
+      nahen Umgebung (Wald, Feld, Stadtbesuch etc.) statt.
+
+
+
+
+      **Mitzubringen sind:** 
+
+
+      * Der Impfpass Ihres Welpen (als Nachweis für die erste Impfung im Alter von ca. 8 Wochen)
+
+      * Eine handelsübliche verstellbare Leine (bitte **keine** Flexi- oder Schleppleine)
+
+      * Einige kleine und weiche Leckerchen (gut eignet sich z. B. auch klein geschnittene Wurst oder Käse)
   - type: image
     width: 1/4
     innerWidth: "1"
@@ -133,7 +148,7 @@ buildingBlocks:
     innerWidth: "1"
     isBanner: false
     isColored: false
-    image: playing-puppies-790638_1920.jpg
+    image: labbi-leine.jpg
   - type: image
     width: 1/4
     innerWidth: "1"
@@ -175,6 +190,12 @@ buildingBlocks:
       * kleine, weiche Leckerlis (gut eignet sich z. B. auch ganz klein geschnittene Fleischwurst oder Käse)
 
       * Impfpass (nur zur ersten Trainingsstunde)
+  - type: image
+    width: 1/4
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: playing-puppies-790638_1920.jpg
   - type: text
     width: 1/2
     headingLevel: "3"
@@ -286,24 +307,3 @@ buildingBlocks:
 
 
       Zusätzlich stehe ich dir während meiner wöchentlichen Online-Sprechstunde (ebenfalls über *Zoom*) auch zwischen den Terminen für Fragen zur Verfügung. Während der Kurslaufzeit profitierst also von einer Rundum-Betreuung.
-  - type: text
-    width: "1"
-    headingLevel: "4"
-    headingCentered: false
-    isColored: false
-    text: >-
-      Das Training findet je nach Thema und zunehmendem Alter der Welpen auf dem
-      Trainingsgelände in 53340 Meckenheim oder unterschiedlichen Orten in der
-      nahen Umgebung (Wald, Feld, Stadtbesuch etc.) statt.
-
-
-
-
-      **Mitzubringen sind:** 
-
-
-      * Der Impfpass Ihres Welpen (als Nachweis für die erste Impfung im Alter von ca. 8 Wochen)
-
-      * Eine handelsübliche verstellbare Leine (bitte **keine** Flexi- oder Schleppleine)
-
-      * Einige kleine und weiche Leckerchen (gut eignet sich z. B. auch klein geschnittene Wurst oder Käse)
