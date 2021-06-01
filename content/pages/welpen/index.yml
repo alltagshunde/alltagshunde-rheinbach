@@ -18,6 +18,12 @@ buildingBlocks:
       und Junghunden.
     isColored: true
   - type: text
+    width: "1"
+    headingLevel: "2"
+    headingCentered: false
+    isColored: false
+    heading: Die neuen Welpenkurse starten am 19. Juni & 10. Juli 2021
+  - type: text
     width: 2/3
     headingLevel: "3"
     headingCentered: false
