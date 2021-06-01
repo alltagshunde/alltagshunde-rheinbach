@@ -50,23 +50,7 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     isColored: false
-    heading: "Welpenkurs:"
-    text: |-
-      * freundlich Kontakt mit anderen Hunden aufzunehmen
-      * auf seinen Namen zu hören
-      * auf dich zu achten und dir gerne zu folgen
-      * auf Rückruf zu dir zu kommen
-      * die Grundkommandos Sitz, Platz, Bleib auszuführen
-      * geduldig zu warten wenn er mal nicht dran ist
-      * die Bedeutung der Signale "Aus" & "Nein"
-      * Tierarztbesuche geduldig und ohne Angst zu ertragen
-      * verschiedene Umweltreize kennenlernen
-  - type: text
-    width: 1/2
-    headingLevel: "3"
-    headingCentered: false
-    isColored: false
-    heading: Rundum-Sorglos-Paket "Das kleine 1 x 1"
+    heading: Welpenkurs
     text: >-
       für Welpen ab 9 Wochen 
 
@@ -94,6 +78,42 @@ buildingBlocks:
       * Tierarztbesuche geduldig und ohne Angst zu ertragen
 
       * verschiedene Umweltreize kennenlernen
+
+
+      ### Preis: 179,- Euro (inkl. 19 % MwSt.)
+  - type: text
+    width: 1/2
+    headingLevel: "3"
+    headingCentered: true
+    isColored: false
+    heading: RUNDUM-SORGLOS-PAKET "DAS KLEINE 1 X 1"
+    text: >-
+      für Welpen ab 9 Wochen 
+
+
+      #### In unserem Welpenkurs lernt dein kleiner Hund u. a.:
+
+
+      * freundlich Kontakt mit anderen Hunden aufzunehmen
+
+      * auf seinen Namen zu hören
+
+      * auf dich zu achten und dir gerne zu folgen
+
+      * auf Rückruf zu dir zu kommen
+
+      * die Grundkommandos Sitz, Platz, Bleib auszuführen
+
+      * geduldig zu warten wenn er mal nicht dran ist
+
+      * die Bedeutung der Signale "Aus" & "Nein"
+
+      * Tierarztbesuche geduldig und ohne Angst zu ertragen
+
+      * verschiedene Umweltreize kennenlernen
+
+
+      #### 8 x Praxisstunden in der Kleingruppe auf dem Hundeplatz oder umliegenden Gelände
 
 
       ### Preis: 179,- Euro (inkl. 19 % MwSt.)
@@ -284,3 +304,23 @@ buildingBlocks:
 
 
       Zusätzlich stehe ich dir während meiner wöchentlichen Online-Sprechstunde (ebenfalls über *Zoom*) auch zwischen den Terminen für Fragen zur Verfügung. Während der Kurslaufzeit profitierst also von einer Rundum-Betreuung.
+  - type: text
+    width: "1"
+    headingLevel: "4"
+    headingCentered: false
+    isColored: false
+    text: >-
+      Das Training findet je nach Thema und zunehmendem Alter der Welpen auf dem
+      Trainingsgelände in 53340 Meckenheim oder der umliegenden Umgebung (Wald,
+      Feld, städtische Umgebung) statt. \
+
+      \
+
+      **Mitzubringen sind:** 
+
+
+      * Der Impfpass Ihres Welpen (als Nachweis für die erste Impfung im Alter von ca. 8 Wochen)
+
+      * Eine handelsübliche verstellbare Leine (bitte **keine** Flexi- oder Schleppleine)
+
+      * Einige kleine und weiche Leckerchen (gut eignet sich z. B. auch klein geschnittene Wurst oder Käse)
