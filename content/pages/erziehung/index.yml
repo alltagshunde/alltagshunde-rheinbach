@@ -40,14 +40,14 @@ buildingBlocks:
   - type: card
     width: 1/3
     innerWidth: null
-    image: gruppentraining.jpg
-    heading: Grunderziehung & Alltagstraining
-    button: Mehr erfahren
-    buttonLink: Alltagstraining
-  - type: card
-    width: 1/3
-    innerWidth: null
     image: canva-shallow-focus-photo-of-short-coated-black-puppy-head.jpg
     heading: Ein Welpe zieht ein
     button: Mehr erfahren
     buttonLink: Welpen
+  - type: card
+    width: 1/3
+    innerWidth: null
+    image: gruppentraining.jpg
+    heading: Grunderziehung & Alltagstraining
+    button: Mehr erfahren
+    buttonLink: Alltagstraining
