@@ -37,7 +37,7 @@ buildingBlocks:
     innerWidth: "1"
     isBanner: false
     isColored: false
-    image: boxer-mix-jh.jpg
+    image: small-and-large-1731513_1920.jpg
   - type: text
     width: 1/2
     headingLevel: "4"
@@ -46,12 +46,6 @@ buildingBlocks:
     heading: Junghundekurs I
     text: >-
       für Hunde ab 5 Monaten
-
-
-      #### 8 x Praxisstunden in der Kleingruppe (5-6 Hunde)
-
-
-      #### 1 x Einzelstunde (45 Min.) in der die Leinenführigkeit erarbeitet wird.
 
 
       #### In unserem Junghundekurs lernt dein junger Hund z. B.:
@@ -80,7 +74,13 @@ buildingBlocks:
       * Wie lernt mein Hund?
 
 
-      ### Preis: 229,- Euro (inkl. 19 % MwSt.)
+      #### 8 x Praxisstunden in der Kleingruppe (5-6 Hunde)
+
+
+      #### 1 x Einzelstunde (45 Min.) in der die Leinenführigkeit erarbeitet wird.
+
+
+      #### Preis: 229,- Euro (inkl. 19 % MwSt.)
   - type: text
     width: 1/2
     headingLevel: "4"
@@ -115,7 +115,10 @@ buildingBlocks:
       * Wie lernt mein Hund?
 
 
-      ### Preis: 179,- Euro (inkl. 19 % MwSt.)
+      #### 8 x Praxisstunden in der Kleingruppe (5-6 Hunde)
+
+
+      #### Preis: 179,- Euro (inkl. 19 % MwSt.)
   - type: text
     width: "1"
     headingLevel: "4"
@@ -140,7 +143,7 @@ buildingBlocks:
     innerWidth: "1"
     isBanner: false
     isColored: false
-    image: boerboel-672749_1920.jpg
+    image: welpen-buddeln.jpg
   - type: image
     width: 1/4
     innerWidth: "1"
@@ -152,10 +155,10 @@ buildingBlocks:
     innerWidth: "1"
     isBanner: false
     isColored: false
-    image: labbi-pfote.jpg
+    image: puppy-4095481_1920.jpg
   - type: image
     width: 1/4
     innerWidth: "1"
     isBanner: false
     isColored: false
-    image: french-bulldog-4301672_1920.jpg
+    image: boxer-mix-jh.jpg
