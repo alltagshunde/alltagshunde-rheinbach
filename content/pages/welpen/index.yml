@@ -8,6 +8,7 @@ buildingBlocks:
     headingCentered: true
     headingColorPrimary: false
     heading: Welpenzeit - Vorbereitung aufs Leben
+    text: "### Neue Kurse ab 19. Juni & 10. Juli 2021"
   - type: text
     width: "1"
     headingLevel: "3"
@@ -22,7 +23,7 @@ buildingBlocks:
     headingLevel: "2"
     headingCentered: false
     isColored: false
-    heading: Die neuen Welpenkurse starten am 19. Juni & 10. Juli 2021
+    heading: Neue Kurse ab 19. Juni & 10. Juli 2021
   - type: text
     width: 2/3
     headingLevel: "3"
