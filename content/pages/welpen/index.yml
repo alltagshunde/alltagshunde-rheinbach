@@ -22,23 +22,19 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
-    text: "In moderierten Spielsequenzen mit Gleichaltrigen und souveränen
+    text: >-
+      In moderierten Spielsequenzen mit Gleichaltrigen und souveränen
       erwachsenen Hunden lernen die Welpen den korrekten Einsatz und die Wirkung
       der eigenen Körpersprache, sowie in verschiedenen Situationen angemessen
-      zu reagieren.\r Wir erkennen die individuellen Tendenzen, rassespezifische
+      zu reagieren.  Wir erkennen die individuellen Tendenzen, rassespezifische
       Eigenschaften und Vorlieben der Hunde und lenken sie in die gewünschten
       Bahnen.
 
 
-      Im Vordergrund steht dabei die Entwicklung eines guten
-      Sozialverhaltens, die an unterschiedliche Umweltreize und nicht zuletzt
-      der Beziehungsaufbau zwischen Mensch und Hund.\ 
+      Im Vordergrund steht dabei die Entwicklung eines guten Sozialverhaltens, die Gewöhnung an unterschiedliche Umweltreize und nicht zuletzt der Beziehungsaufbau zwischen Mensch und Hund. 
 
 
-      Du als Hundehalter wirst dabei geschult und angeleitet, die
-      körpersprachlichen Signale deines Hundes richtig zu verstehen und
-      einzuschätzen, wann dein Hund deine Unterstützung benötigt oder Du ihn
-      eher begrenzen solltest. "
+      Du als Hundehalter wirst dabei geschult und angeleitet, die körpersprachlichen Signale deines Hundes richtig zu verstehen und einzuschätzen, wann dein Hund deine Unterstützung benötigt oder Du ihn eher begrenzen solltest.
     heading: Die ersten Wochen im Leben deines Welpen sind wegweisend für seine
       weitere Entwicklung
   - type: image
@@ -52,17 +48,17 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     isColored: false
-    heading: Im Welpenkurs lernt dein kleiner Hund ...
+    heading: Im Welpenkurs lernt dein kleiner Hund z. B. ...
     text: |-
       * freundlich Kontakt mit anderen Hunden aufzunehmen
       * auf seinen Namen zu hören
       * auf dich zu achten und dir gerne zu folgen
       * auf Rückruf zu dir zu kommen
       * die Grundkommandos Sitz, Platz, Bleib auszuführen
-      * geduldig auf seinem Platz zu warten 
-      * Signale "Aus" & "Nein"
+      * geduldig zu warten wenn er mal nicht dran ist
+      * die Bedeutung der Signale "Aus" & "Nein"
       * Tierarztbesuche geduldig und ohne Angst zu ertragen
-      * verschiedene Umweltreize
+      * verschiedene Umweltreize kennenlernen
   - type: text
     width: 1/2
     headingLevel: "3"
@@ -76,19 +72,16 @@ buildingBlocks:
       ### Das Paket beinhaltet:
 
 
-      1x Einzeltraining / Hausbesuch 
+      1x ausführliche Beratung bzw. Einzelcoaching (auf Wunsch auch als Hausbesuch) 
 
 
-      6 x Praxisstunden in der Kleingruppe auf dem Hundeplatz oder umliegenden Gelände
-
-
-      6 x Theorieeinheiten Online via Zoom
+      8 x Praxisstunden in der Kleingruppe auf dem Hundeplatz oder umliegenden Gelände
 
 
       &#43 wöchentliche Online-Video-Sprechstunde via Zoom für deine Fragen zwischen den Terminen
 
 
-      ### Preis: 349,- Euro (inkl. 19 % MwSt.)
+      ### Preis: 299,- Euro (inkl. 19 % MwSt.)
 
 
       Das Praxis-Training findet in kleinen Gruppen (4-5 Mensch-Hund-Teams) auf dem Trainingsgelände in 53340 Meckenheim und mit zunehmendem Alter und Konzentrationsfähigkeit der Hunde auch in der näheren Umgebung (Feld, Wald Wiese und auch mal in der Stadt) statt.
@@ -99,9 +92,9 @@ buildingBlocks:
 
       * ein gut sitzendes Halsband oder Geschirr
 
-      * eine handelsübliche Leine (**keine** Flexileine oder Schleppleine)
+      * eine handelsübliche, verstellbare Leine (**keine** Flexileine oder Schleppleine)
 
-      * kleine, weiche Leckerlis
+      * kleine, weiche Leckerlis (gut eignet sich z. B. auch ganz klein geschnittene Fleischwurst oder Käse)
 
       * Impfpass (nur zur ersten Trainingsstunde)
   - type: image
