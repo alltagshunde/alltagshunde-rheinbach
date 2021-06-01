@@ -1,0 +1,161 @@
+title: Junghunde
+isLandingPage: false
+parentPage: Erziehung
+buildingBlocks:
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    isColored: false
+    heading: "Junghundezeit - Leben am Limit? "
+    text: "#### Endlich - neue Kurse ab Juni & Juli! Gleich Termin vereinbaren
+      unter: 0176 61711772"
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: true
+    isColored: false
+    text: Profitiere von meiner jahrelangen Erfahrung in der Ausbildung von Welpen
+      und Junghunden.
+    heading: Erziehung durch Beziehung schafft Bindung und Vertrauen
+  - type: text
+    width: 2/3
+    headingLevel: "3"
+    headingCentered: true
+    isColored: false
+    heading: Die Konzentrationsfähigkeit steigern und Orientierung am Menschen ausbauen
+    text: >-
+      Dein kleiner Welpe hat sich zu einem fröhlichen Jungspund gemausert. Stets
+      gut gelaunt und fröhlich scheint er ganz zufrieden mit sich und der Welt,
+      Sorgen kennt er keine. Du dagegen umso mehr? \
+
+      \
+
+      Keine Angst! Auch in dieser aufregenden und spannenden Zeit lasse ich dich nicht allein. Im Junghundekurs geht es nun darum, die in der Welpenzeit erlernten Fertigkeiten weiter auszubauen und zu festigen. Gespielt wird immer noch aber die Zeiten in denen die jungen Hunde sich konzentrieren sollen werden langsam gesteigert. Die Inhalte variieren und richten sich nach dem Bedürfnis der Menschen und dem Entwicklungsstand der Junghunde. Besonderer Augenmerk liegt in dieser Zeit jedoch auf der Gestaltung der Beziehungsstruktur der teilnehmenden Mensch-Hund-Teams, sowie der Entwicklung gesunder Selbstregulationsmechanismen (Frustrationstoleranz und Impulskontrolle) der jungen Hunde.
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: boxer-mix-jh.jpg
+  - type: text
+    width: 1/2
+    headingLevel: "4"
+    headingCentered: true
+    isColored: false
+    heading: Junghundekurs I
+    text: >-
+      für Hunde ab 5 Monaten
+
+
+      #### 8 x Praxisstunden in der Kleingruppe (5-6 Hunde)
+
+
+      #### 1 x Einzelstunde (45 Min.) in der die Leinenführigkeit erarbeitet wird.
+
+
+      #### In unserem Junghundekurs lernt dein junger Hund z. B.:
+
+
+      * Orientierung am Menschen mit und ohne Leine
+
+      * Übungen zu Bindung und Vertrauen werden weiter ausgebaut
+
+      * richtiger Einsatz von Körpersprache im Umgang mit dem Junghund
+
+      * Gewöhnung an unterschiedliche Umweltreize (andere Tiere, Geräusche, Gegenstände etc.)
+
+      * Beziehungsstruktur gestalten
+
+      * Aufbau von Toleranz gegenüber Pflegemaßnahmen, Hinlegen
+
+      * Rückruftraining in unterschiedlichen Varianten
+
+      * Zuverlässiges Sitz & Platz in unterschiedlichen Situationen
+
+      * Übungen für die Selbstregulation (Frustrationstoleranz und Impulskontrolle)
+
+      * Aufbau von Nein & Aus im Nahbereich
+
+      * Wie lernt mein Hund?
+
+
+      ### Preis: 229,- Euro (inkl. 19 % MwSt.)
+  - type: text
+    width: 1/2
+    headingLevel: "4"
+    headingCentered: true
+    isColored: false
+    heading: Pubertiere (Junghundekurs II)
+    text: >-
+      für Hunde ab ca. 8 Monaten
+
+
+      #### In unserem Junghundekurs II lernt dein junges Pubertier z. B.:
+
+
+      * zuverlässige Orientierung am Menschen mit und ohne Leine
+
+      * Übungen zu Bindung und Vertrauen werden weiter ausgebaut
+
+      * richtiger Einsatz von Körpersprache im Umgang mit dem Junghund
+
+      * Beziehungsstruktur gestalten
+
+      * Toleranz gegenüber Pflegemaßnahmen, Hinlegen etc.
+
+      * Rückruftraining in unterschiedlichen Varianten und unter steigender Ablenkung
+
+      * Sitz & Platz auf Distanz wird aufgebaut
+
+      * Übungen zur Entwicklung von Frustrationstoleranz und Impulskontrolle
+
+      * Zuverlässiges Nein & Aus im Nahbereich und auf Distanz
+
+      * Wie lernt mein Hund?
+
+
+      ### Preis: 179,- Euro (inkl. 19 % MwSt.)
+  - type: text
+    width: "1"
+    headingLevel: "4"
+    headingCentered: true
+    isColored: false
+    text: >-
+      **Das Training findet je nach Thema und zunehmendem Alter der Junghunde
+      auf dem Trainingsgelände in 53340 Meckenheim oder unterschiedlichen Orten
+      in der nahen Umgebung (Wald, Feld, Stadtbesuch etc.) statt.**
+
+
+      **Mitzubringen sind:**
+
+
+      * Impfpass als Nachweis für die erste Impfung (S/H/P) im Alter von ca. 8 Wochen (für Neukunden)
+
+      * Eine handelsübliche verstellbare Leine (bitte **keine** Flexi- oder Schleppleine)
+
+      * Einige kleine und weiche Leckerchen die der Welpe nicht lange kauen muss (gut eignet sich z. B. auch klein geschnittene Wurst oder Käse)
+  - type: image
+    width: 1/4
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: boerboel-672749_1920.jpg
+  - type: image
+    width: 1/4
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: goldie-stibitzt-essen.jpg
+  - type: image
+    width: 1/4
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: labbi-pfote.jpg
+  - type: image
+    width: 1/4
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: french-bulldog-4301672_1920.jpg
