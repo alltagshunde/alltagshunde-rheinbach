@@ -278,6 +278,121 @@ buildingBlocks:
       **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
   - type: text
     width: "1"
+    headingLevel: "2"
+    headingCentered: false
+    isColored: false
+    text: >-
+      ### Krimiwanderung
+
+
+      ### Sonntag 14. November 2021, 14:30 Uhr (Dauer ca. 2,5 Stunden)
+
+
+      **Start: Parkplatz "Steinbruch", 53359 Rheinbach**
+
+
+      Gemeinsam werden wir durch den herbstlichen Wald wandern und mit tatkräftiger Unterstützung unserer Hunde dabei einen spannenden Kriminalfall lösen. Knifflige Aufgaben und lustige Spiele sorgen unterwegs für gute Laune und zusätzliche Auslastung der Hunde.
+
+
+      **Teilnahmevoraussetzung:**
+
+
+      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
+
+
+      **Kosten: 25,00 Euro pro Mensch-Hund-Team oder ein Feld auf Eurer 10er-Karte, Begleitperson gratis**
+
+
+      **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
+  - type: text
+    width: "1"
+    headingLevel: "2"
+    headingCentered: false
+    isColored: false
+    text: >-
+      ### Nikolauswanderung
+
+
+      ### Sonntag 5. Dezember 2021, 14:30 Uhr (Dauer ca. 2,5 Stunden)
+
+
+      **Start: Parkplatz "Jägerhäuschen", 53125 Bonn-Röttgen**
+
+
+      Weihnachten ist bunt, schnell, anstrengend und manchmal auch ein wenig laut. Auf unserer Nikolauswanderung wollen wir daher dem üblichen Adventswahnsinn mal für einen Nachmittag entfliehen und in gemütlicher Runde Zeit mit unseren Hunden verbringen.
+
+
+      Wir lesen die Mitmachgeschichte „Ein ganz besonderes Weihnachtsfest“ und wie gewohnt gibt es dazu eine passende Spielaktion. Dabei könnt Ihr euch Futternetze für Vögel erspielen, mit denen wir im Anschluss gemeinsam einen Tannenbaum im Wald schmücken. Ausklingen lassen wir den Nachmittag bei Tee, Punsch und Plätzchen. Und vielleicht kommt ja sogar der Nikolaus noch auf einen Besuch vorbei… ;-)
+
+
+      **Teilnahmevoraussetzung:**
+
+
+      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
+
+
+      **Kosten: 25,00 Euro pro Mensch-Hund-Team oder ein Feld auf Eurer 10er-Karte, Begleitperson gratis**
+
+
+      **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
+  - type: text
+    width: "1"
+    headingLevel: "2"
+    headingCentered: false
+    isColored: false
+    text: >-
+      ### Adventswanderung - Social Walk
+
+
+      ### Sonntag 19. Dezember 2021, 14:30 Uhr (Dauer ca. 2 Stunden)
+
+
+      **Start: Parkplatz "Forthaus Buschhoven", 53913 Swisttal-Buschhoven**
+
+
+      Bei diesem Spaziergang liegt der Schwerpunkt auf dem kontrollierten Kontakt zu Hund und Mensch. Es sind daher auch ausdrücklich Hunde willkommen, die Schwierigkeiten im Kontakt mit Artgenossen haben. Das Ziel dieses Spaziergangs in kleiner Runde ist es, kontrollierte Begegnungen zwischen den einzelnen Hunden zuzulassen und sie dabei zu unterstützen, angemessen mit ihren Artgenossen zu kommunizieren. Dabei sollen vor allem auch die Besitzer die Möglichkeit haben, ihren Hund immer wieder einzuschätzen, die Kommunikation der Hunde zu erleben und ihre Vierbeiner vielleicht auch neu kennenzulernen.
+
+
+      **Teilnahmevoraussetzung:**
+
+
+      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Hunde mit sozialen Unverträglichkeiten sind ebenfalls und ausdrücklich willkommen, müssen jedoch mit einem gut sitzenden Maulkorb gesichert werden. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
+
+
+      **Kosten: 25,00 Euro pro Mensch-Hund-Team oder ein Feld auf Eurer 10er-Karte, Begleitperson gratis**
+
+
+      **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
+  - type: text
+    width: "1"
+    headingLevel: "2"
+    headingCentered: false
+    isColored: false
+    text: >-
+      ### Krimiwanderung
+
+
+      ### Freitag 31. Dezember 2021, 11:00 Uhr (Dauer ca. 2,5 Stunden)
+
+
+      **Start: Parkplatz "Waldkapelle", 53359 Rheinbach**
+
+
+      Gemeinsam werden wir durch den winterlichen Wald wandern und mit tatkräftiger Unterstützung unserer Hunde dabei einen spannenden Kriminalfall lösen. Knifflige Aufgaben und lustige Spiele sorgen unterwegs für gute Laune und zusätzliche Auslastung der Hunde, so daß hoffentlich alle einem entspannten Silvesterabend entgegenblicken können. Denn ein müder Hund ist ein guter Hund! ;-)
+
+
+      **Teilnahmevoraussetzung:**
+
+
+      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
+
+
+      **Kosten: 25,00 Euro pro Mensch-Hund-Team oder ein Feld auf Eurer 10er-Karte, Begleitperson gratis**
+
+
+      **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
+  - type: text
+    width: "1"
     headingLevel: "3"
     headingCentered: true
     headingColorPrimary: false
