@@ -41,7 +41,7 @@ buildingBlocks:
   - type: text
     width: 1/2
     headingLevel: "4"
-    headingCentered: true
+    headingCentered: false
     isColored: false
     heading: Junghundekurs I
     text: >-
@@ -82,14 +82,14 @@ buildingBlocks:
   - type: text
     width: 1/2
     headingLevel: "4"
-    headingCentered: true
+    headingCentered: false
     isColored: false
     heading: Pubertiere (Junghundekurs II)
     text: >-
       für Hunde ab ca. 8 Monaten
 
 
-      #### In unserem Junghundekurs II lernt dein junges Pubertier z. B.:
+      #### In unserem Junghundekurs II lernt dein junger Hund z. B.:
 
 
       * zuverlässige Orientierung am Menschen mit und ohne Leine in unterschiedlicher Umgebung und mit steigender Ablenkung für den Hund
