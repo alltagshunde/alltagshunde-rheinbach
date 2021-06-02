@@ -40,7 +40,7 @@ buildingBlocks:
     image: small-and-large-1731513_1920.jpg
   - type: text
     width: 1/2
-    headingLevel: "4"
+    headingLevel: "3"
     headingCentered: false
     isColored: false
     heading: Junghundekurs I
@@ -48,7 +48,7 @@ buildingBlocks:
       für Hunde ab 5 Monaten
 
 
-      #### In unserem Junghundekurs lernt dein junger Hund z. B.:
+      ### In unserem Junghundekurs lernt dein junger Hund z. B.:
 
 
       * Orientierung am Menschen mit und ohne Leine
@@ -72,16 +72,16 @@ buildingBlocks:
       * Ausbau der sozialen, kommunikativen und motorischen Fähigkeiten im Freispiel mit Artgenossen
 
 
-      #### 8 x Praxisstunden in der Kleingruppe (4 -5 Hunde)
+      ### 8 x Praxisstunden in der Kleingruppe (4 -5 Hunde)
 
 
-      #### 1 x Einzelstunde (45 Min.) in der die Leinenführigkeit erarbeitet wird.
+      ### 1 x Einzelstunde (45 Min.) in der die Leinenführigkeit erarbeitet wird.
 
 
-      #### Preis: 239,- Euro (inkl. 19 % MwSt.)
+      ### Preis: 239,- Euro (inkl. 19 % MwSt.)
   - type: text
     width: 1/2
-    headingLevel: "4"
+    headingLevel: "3"
     headingCentered: false
     isColored: false
     heading: Pubertiere (Junghundekurs II)
@@ -89,7 +89,7 @@ buildingBlocks:
       für Hunde ab ca. 8 Monaten
 
 
-      #### In unserem Junghundekurs II lernt dein junger Hund z. B.:
+      ### In unserem Junghundekurs II lernt dein junger Hund z. B.:
 
 
       * zuverlässige Orientierung am Menschen mit und ohne Leine in unterschiedlicher Umgebung und mit steigender Ablenkung für den Hund
@@ -111,10 +111,10 @@ buildingBlocks:
       * Wie lernt mein Hund?
 
 
-      #### 8 x Praxisstunden in der Kleingruppe (4 - 5 Hunde)
+      ### 8 x Praxisstunden in der Kleingruppe (4 - 5 Hunde)
 
 
-      #### Preis: 189,- Euro (inkl. 19 % MwSt.)
+      ### Preis: 189,- Euro (inkl. 19 % MwSt.)
   - type: text
     width: "1"
     headingLevel: "4"
