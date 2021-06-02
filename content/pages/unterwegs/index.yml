@@ -36,8 +36,17 @@ buildingBlocks:
     headingLevel: "2"
     headingSize: "1"
     width: "1"
-    text: >
-      ### Kräuterwanderung ###
+    text: ""
+    headingCentered: true
+    isColored: true
+    type: text
+  - type: text
+    width: "1"
+    headingLevel: "2"
+    headingCentered: false
+    isColored: false
+    text: >-
+      ### Kräuterwanderung
 
 
       ### Sonntag 27. Juni 2021, 14:30 Uhr (Dauer ca. 2 Stunden)
@@ -62,9 +71,6 @@ buildingBlocks:
 
 
       **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
-    headingCentered: true
-    isColored: true
-    type: text
   - type: text
     width: "1"
     headingLevel: "1"
