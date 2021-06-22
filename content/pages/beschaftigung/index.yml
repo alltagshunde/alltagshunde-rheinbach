@@ -51,9 +51,9 @@ buildingBlocks:
   - type: card
     width: 1/4
     image: vizsla-geruchsdifferenzierung.jpg
-    heading: Schnüffel dich glücklich
+    heading: Querbeet
     button: Mehr erfahren
-    buttonLink: Geruchsdifferenzierung
+    buttonLink: Querbeet
     innerWidth: null
   - type: card
     width: 1/4
