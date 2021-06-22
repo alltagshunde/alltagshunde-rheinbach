@@ -1,7 +1,13 @@
-title: AlltagsHunde-Knigge
+title: Alltags-Knigge
 isLandingPage: false
 parentPage: Beschäftigung
 buildingBlocks:
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    isColored: false
+    heading: Alltags-Knigge
   - type: text
     width: "1"
     headingLevel: "3"
