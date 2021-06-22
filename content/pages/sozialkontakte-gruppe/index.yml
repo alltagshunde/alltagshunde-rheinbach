@@ -1,13 +1,13 @@
-title: Sozialkontakte Gruppe
+title: AlltagsHunde-Knigge
 isLandingPage: false
 parentPage: Beschäftigung
 buildingBlocks:
   - type: text
     width: "1"
-    headingLevel: "2"
+    headingLevel: "3"
     headingCentered: true
     isColored: false
-    heading: ""
+    heading: "Die Gruppe für hündische Umgangsformen "
     text: >-
       In dieser Gruppe geht es um das Sozialverhalten deines Hundes und deine
       Fähigkeit als souveräner Hundeführer deinen Hund einschätzen und ggf.
