@@ -50,7 +50,7 @@ buildingBlocks:
     innerWidth: null
   - type: card
     width: 1/4
-    image: tea-time.jpg
+    image: apportieren.jpg
     heading: Querbeet
     button: Mehr erfahren
     buttonLink: Querbeet
