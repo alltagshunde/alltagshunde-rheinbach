@@ -1,4 +1,4 @@
-title: Alltags-Knigge
+title: Kläff-Treff
 isLandingPage: false
 parentPage: Beschäftigung
 buildingBlocks:
@@ -7,13 +7,13 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     isColored: false
-    heading: Alltags-Knigge
+    heading: Kläff-Treff
   - type: text
     width: "1"
     headingLevel: "3"
     headingCentered: true
     isColored: false
-    heading: "Die Gruppe für hündische Umgangsformen "
+    heading: Die Gruppe für gute Umgangsformen unter Hunden
     text: >-
       In dieser Gruppe geht es um das Sozialverhalten deines Hundes und deine
       Fähigkeit als souveräner Hundeführer deinen Hund einschätzen und ggf.
@@ -23,10 +23,10 @@ buildingBlocks:
       Dazu gehört ein gutes Verständnis für Körpersprache und Hundeverhalten. Beim Analysieren und Einschätzen der hündischen Begegnungen stehe ich euch selbstverständlich mit Rat und Tat zur Seite.
 
 
-      Die Stunde wird unterteilt in freies Spiel und Ruhephasen, ggf. mit entsprechenden Übungen. Insbesondere die Freilaufphasen dienen zum Beobachten und Lernen für alle Anwesenden. Dabei müssen nicht immer alle Hunde gemeinsam laufen. Dies richtet sich je nach Zusammenstellung der Gruppe. Somit sind Hunde aller Größen und Altersklassen willkommen.
+      Die Stunde wird unterteilt in freies Spiel und Ruhephasen mit entsprechenden Übungen. Insbesondere die Freilaufphasen dienen zum Beobachten und Lernen für alle Anwesenden. Dabei müssen nicht immer alle Hunde gemeinsam laufen. Dies richtet sich je nach Zusammenstellung der Gruppe. Somit sind Hunde aller Größen und Altersklassen willkommen und egal ob Rowdy oder Angsthase.
 
 
-      Wo eingegriffen wird und was laufen gelassen wird und warum, klären wir in Abhängigkeit der involvierten Charaktere. Kleine und schüchterne Hunde solle die Möglichkeit erhalten an ihrem Selbstvertrauen und ihrer Kommunikation zu arbeiten. (Junge) Hunde, die (altersgemäß) gerade etwas Oberwasser haben oder gerne aus der Jacke springen, sollen aber auch lernen sich mit Konflikten auseinander zu setzen. Das bedeutet z. B. auch, wenn es einmal Streit zwischen zwei Hunden gibt, dass der eine Hund lernt nachzugeben und sich abzuwenden, während der andere Hund lernt sich durchzusetzen und zu wehren, es dann aber auch gut sein zu lassen.
+      Wo eingegriffen wird und was laufen gelassen wird und warum, klären wir in Abhängigkeit der involvierten Charaktere. Kleine und schüchterne Hunde sollen vor allem die Möglichkeit erhalten an ihrem Selbstvertrauen und ihrer Kommunikation zu arbeiten. (Junge) Hunde, die (altersgemäß) gerade etwas Oberwasser haben oder gerne mal aus der Jacke springen, sollen aber auch lernen sich mit Konflikten auseinander zu setzen. Das bedeutet z. B. auch, wenn es einmal Streit zwischen zwei Hunden gibt, dass der eine Hund lernt nachzugeben und sich abzuwenden, während der andere Hund lernt sich durchzusetzen und zu wehren, es dann aber auch gut sein zu lassen.
   - type: text
     width: "1"
     headingLevel: "3"
