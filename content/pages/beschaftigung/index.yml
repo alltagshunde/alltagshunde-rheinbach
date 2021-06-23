@@ -58,9 +58,9 @@ buildingBlocks:
   - type: card
     width: 1/4
     image: 2015-02-15-03866_mini.jpg
-    heading: Apport for Fun
+    heading: Kläff-Treff
     button: Mehr erfahren
-    buttonLink: Apport for Fun
+    buttonLink: Kläff-Treff
     innerWidth: null
   - type: card
     width: 1/4
