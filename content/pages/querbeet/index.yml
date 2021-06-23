@@ -12,11 +12,9 @@ buildingBlocks:
     width: "1"
     headingLevel: "3"
     headingCentered: true
-    isColored: false
+    isColored: true
     heading: Die Gruppe für alle die Abwechslung mögen und sich nicht festlegen wollen
-    text: In dieser Gruppe stelle ich dir verschiedene Möglichkeiten vor, deinen
-      Hund sinnvoll zu beschäftigen und dabei immer wieder für Abwechslung zu
-      sorgen.
+    text: Spaß und artgerechte Beschäftigung für Jederhund.
   - type: text
     width: 2/3
     headingLevel: "3"
@@ -24,7 +22,7 @@ buildingBlocks:
     isColored: false
     text: >-
       In dieser Gruppe stelle ich dir verschiedene Möglichkeiten vor, deinen
-      Hund abwechslungsreich zu beschäftigen und sinnvoll auszulasten. 
+      Hund sinnvoll und gleichzeitig abwechslungsreich zu beschäftigen. 
 
 
       Ein Schwerpunkt der Gruppe ist das Thema Nasenarbeit in all seinen Facetten (einfache Schnüffelaufgaben, Geruchsdifferenzierung, Fährten- und Schleppenarbeit, Verlorensuche, Mantrailing, ZOS etc.). Allein in diesem Themenfeld bieten sich unendliche Möglichkeiten immer wieder für Abwechslung zu sorgen. 
