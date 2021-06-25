@@ -42,35 +42,35 @@ buildingBlocks:
     heading: Du bist unsicher, was dir und deinem Hund Spaß machen könnte?
     isColored: true
   - type: card
-    width: 1/4
+    width: 1/3
     heading: Mantrailing
     button: Mehr erfahren
     image: mantrailing.jpg
     buttonLink: Mantrailing
     innerWidth: null
   - type: card
-    width: 1/4
+    width: 1/3
     image: apportieren.jpg
     heading: Querbeet
     button: Mehr erfahren
     buttonLink: Querbeet
     innerWidth: null
   - type: card
-    width: 1/4
-    image: 2015-02-15-03866_mini.jpg
-    heading: Kläff-Treff
-    button: Mehr erfahren
-    buttonLink: Kläff-Treff
-    innerWidth: null
-  - type: card
-    width: 1/4
+    width: 1/3
     image: nele-und-rudi.jpg
     heading: "K3DogParkour® "
     button: Mehr erfahren
     buttonLink: K3 Dog Parkour
     innerWidth: null
   - type: card
-    width: 1/4
+    width: 1/3
+    image: 2015-02-15-03866_mini.jpg
+    heading: Kläff-Treff
+    button: Mehr erfahren
+    buttonLink: Kläff-Treff
+    innerWidth: null
+  - type: card
+    width: 1/3
     innerWidth: null
     isColored: false
     image: pfotchen-geben.jpg
@@ -95,3 +95,11 @@ buildingBlocks:
     headingCentered: false
     isColored: true
     type: text
+  - type: card
+    width: 1/3
+    innerWidth: "1"
+    isColored: false
+    button: Mehr erfahren
+    heading: Hundewanderungen
+    buttonLink: Unterwegs
+    image: leinenfuhrigkeit.jpg
