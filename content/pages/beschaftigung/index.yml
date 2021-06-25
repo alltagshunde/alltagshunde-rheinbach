@@ -69,6 +69,14 @@ buildingBlocks:
     button: Mehr erfahren
     buttonLink: K3 Dog Parkour
     innerWidth: null
+  - type: card
+    width: 1/4
+    innerWidth: null
+    isColored: false
+    image: pfotchen-geben.jpg
+    heading: Let's talk about ...
+    button: Mehr erfahren
+    buttonLink: Let's talk about ...
   - headingColorPrimary: false
     heading: ""
     headingLevel: "6"
