@@ -77,6 +77,14 @@ buildingBlocks:
     heading: Let's talk about ...
     button: Mehr erfahren
     buttonLink: Let's talk about ...
+  - type: card
+    width: 1/3
+    innerWidth: "1"
+    isColored: false
+    button: Mehr erfahren
+    heading: Hundewanderungen
+    buttonLink: Unterwegs
+    image: leinenfuhrigkeit.jpg
   - headingColorPrimary: false
     heading: ""
     headingLevel: "6"
@@ -95,11 +103,3 @@ buildingBlocks:
     headingCentered: false
     isColored: true
     type: text
-  - type: card
-    width: 1/3
-    innerWidth: "1"
-    isColored: false
-    button: Mehr erfahren
-    heading: Hundewanderungen
-    buttonLink: Unterwegs
-    image: leinenfuhrigkeit.jpg
