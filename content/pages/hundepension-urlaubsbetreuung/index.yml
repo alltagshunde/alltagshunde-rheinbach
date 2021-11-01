@@ -24,14 +24,6 @@ buildingBlocks:
     image: 2015-08-14-17979.jpg
   - type: text
     width: "1"
-    headingLevel: "3"
-    headingCentered: true
-    isColored: false
-    heading: Ich bitte um Verständnis, daß ich eine Urlaubsbetreuung aktuell nur für
-      mir aus dem Gassiservice und / oder dem Training bekannte Hunde anbieten
-      kann!
-  - type: text
-    width: "1"
     headingLevel: "2"
     headingCentered: false
     headingColorPrimary: false
