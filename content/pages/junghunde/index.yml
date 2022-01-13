@@ -1,6 +1,6 @@
 title: Junghunde 2022
 isLandingPage: false
-parentPage: Erziehung
+parentPage: Welpen & Junghunde 2022
 buildingBlocks:
   - type: text
     width: "1"
@@ -35,12 +35,6 @@ buildingBlocks:
       \
 
       Keine Angst! Auch in dieser aufregenden und spannenden Zeit lasse ich dich nicht allein. Im Junghundekurs geht es nun darum, die in der Welpenzeit erlernten Fertigkeiten weiter auszubauen und zu festigen. Gespielt wird immer noch aber die Zeiten in denen die jungen Hunde sich konzentrieren sollen werden langsam gesteigert. Die Inhalte variieren und richten sich nach dem Bedürfnis der Menschen und dem Entwicklungsstand der Junghunde. Besonderer Augenmerk liegt in dieser Zeit jedoch auf der Gestaltung der Beziehungsstruktur der teilnehmenden Mensch-Hund-Teams, sowie der Entwicklung gesunder Selbstregulationsmechanismen (Frustrationstoleranz und Impulskontrolle) der jungen Hunde.
-  - type: image
-    width: 1/3
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: small-and-large-1731513_1920.jpg
   - type: text
     width: 1/2
     headingLevel: "3"
@@ -140,27 +134,3 @@ buildingBlocks:
       * Eine handelsübliche verstellbare Leine (bitte **keine** Flexi- oder Schleppleine)
 
       * Einige kleine und weiche Leckerchen die der Hund gerne frisst.
-  - type: image
-    width: 1/4
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: welpen-buddeln.jpg
-  - type: image
-    width: 1/4
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: goldie-stibitzt-essen.jpg
-  - type: image
-    width: 1/4
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: puppy-4095481_1920.jpg
-  - type: image
-    width: 1/4
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: boxer-mix-jh.jpg
