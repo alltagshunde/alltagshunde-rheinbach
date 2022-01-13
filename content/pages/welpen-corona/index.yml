@@ -1,4 +1,43 @@
 title: Welpen 2022
 isLandingPage: false
 parentPage: Welpen & Junghunde 2022
-buildingBlocks: []
+buildingBlocks:
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    isColored: false
+    heading: Welpenzeit
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    isColored: false
+    heading: Vorbereitung aufs Leben
+  - type: text
+    width: "1"
+    headingLevel: "4"
+    headingCentered: false
+    isColored: false
+    text: "Ein Welpe zieht ein und stellt deine Welt damit erstmal ordentlich auf
+      den Kopf. Alle sind total aufgeregt und freuen sich. Natürlich möchtest Du
+      von Beginn an alles richtig machen. Doch bald tauchen erste Fragezeichen
+      auf: \r
+
+
+      * Was sollte mein Welpe für den Alltag lernen und wie konfrontiere
+      ich ihn damit?\r
+
+      * Wann kann ich mit dem Training starten? Was übe ich als erstes?\r
+
+      * Wie wird mein Welpe stubenrein?\r
+
+      * Wie reagiere ich richtig, wenn mein Welpe ständig seine
+      Welpenzähnchen einsetzt?\r
+
+      * Wie viel Ruhe und Schlaf braucht mein Welpe am Tag und wie bekomme
+      ich ihn überhaupt dazu, auch mal auszuruhen?\r
+
+
+      In meinem Welpenpaket erhältst Du Antworten auf alle Deine Fragen
+      für die aktuelle Lebensphase deines kleinen Hundes.\r\n"
