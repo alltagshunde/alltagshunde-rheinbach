@@ -1,53 +1,28 @@
-title: Erziehung
+title: Welpen & Junghunde 2022
 buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Erziehung
+    heading: Welpen & Junghunde
     isColored: false
   - type: text
     width: "1"
     headingLevel: "3"
     headingCentered: true
-    heading: Grunderziehung und Verhaltensberatung
-    text: "**für Welpen, Junghunde und erwachsene Hunde**"
-    isColored: true
-  - type: text
-    width: "1"
-    headingLevel: "2"
-    headingCentered: true
-    headingColorPrimary: false
-    text: >-
-      Unabhängig davon, ob gerade ein Welpe oder Junghund bei dir eingezogen ist
-      oder dein bereits erwachsener Hund Nachhilfe in Sachen Erziehung benötigt,
-      gerne biete ich dir meine professionelle Hilfe an. 
-
-
-      Dein Hund stellt dich durch sein Verhalten immer wieder vor große Herausforderungen? Er zerrt und pöbelt an der Leine, verhält sich aggressiv, zeigt übersteigertes Jagdverhalten oder ist extrem ängstlich und unsicher? Auch in diesen Fällen lasse ich dich nicht allein! 
-
-
-      Ich berate dich umfassend zu möglichen Lösungswegen, helfe dir bei deiner Zielsetzung und unterstütze dich Schritt für Schritt bei der anschließenden Umsetzung im Training mit deinem Hund.
+    heading: Das erste Jahr im Leben deines Hundes
+    text: "Lass dich von mir begleiten und profitiere von meiner langjährigen
+      Erfahrung in der Ausbildung von Welpen und Junghunden zu angenehmen
+      Alltagsbegleitern.  "
     isColored: true
   - type: card
-    width: 1/3
-    innerWidth: null
-    image: img_4101finish.jpg
-    heading: Einzelcoaching & Beratung
-    button: Mehr erfahren
-    buttonLink: "Einzeltraining "
+    width: 1/2
+    innerWidth: "1"
+    isColored: true
+    heading: Angebote für Welpen
   - type: card
-    width: 1/3
-    innerWidth: null
-    image: canva-shallow-focus-photo-of-short-coated-black-puppy-head.jpg
-    heading: Ein Welpe zieht ein
-    button: Mehr erfahren
-    buttonLink: Welpen
-  - type: card
-    width: 1/3
-    innerWidth: null
-    image: gruppentraining.jpg
-    heading: Junghundezeit
-    button: Mehr erfahren
-    buttonLink: Junghunde
+    width: 1/2
+    innerWidth: "1"
+    isColored: true
+    heading: Angebote für Junghunde
