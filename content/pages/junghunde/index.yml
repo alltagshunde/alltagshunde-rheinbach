@@ -7,26 +7,37 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     isColored: false
-    heading: "Junghundezeit - Leben am Limit? "
-    text: >-
-      ### Endlich!!! Ab sofort ist auch Gruppentraining wieder möglich!
-
-
-      ### Sichere dir jetzt deinen Platz - telefonisch bzw. per WhatsApp unter 0176 / 61711772 oder per E-Mail an: [caro@alltagshunde-rheinbach.de](mailto:caro@alltagshunde-rheinbach.de)
+    heading: Junghundezeit
+    text: ""
   - type: text
     width: "1"
     headingLevel: "3"
     headingCentered: true
     isColored: false
-    text: Profitiere von meiner jahrelangen Erfahrung in der Ausbildung von Welpen
-      und Junghunden.
-    heading: Erziehung durch Beziehung schafft Bindung und Vertrauen
+    heading: "Junghundealter und Pubertät ... Leben am Limit? "
+    text: >-
+      Dein kleiner Welpe hat sich inzwischen zu einem fröhlichen Jungspund
+      gemausert. Stets gut gelaunt und fröhlich scheint er ganz zufrieden mit
+      sich und der Welt, Sorgen kennt er jedenfalls keine. Du dagegen
+      betrachtest sorgenvoll, wie sich der Radius deines Jungspundes vergrößert
+      und der Rückruf hat auch schonmal besser geklappt?
+
+
+      Kein Grund zur Panik! 
+
+      Ich unterstütze dich auch in dieser wilden Zeit und zeige dir, wie Du trotzt temporärem Durchzug im Kopf deines Hundes konsequent bleibst und deinem kleinen Flegel sinnvolle Grenzen setzt. 
+
+
+      In meinen Junghundekursen geht es nun darum, die Konzentrationsfähigkeit der jungen Hunde langsam zu steigern und die während der Welpenzeit erlernten Fertigkeiten weiter auszubauen, sowie die Grundkommandos (Sitz, Platz, Nein, Aus etc.) zu festigen und zunehmende Verbindlichkeit zu verleihen. 
+
+
+      Ein besonderer Augenmerk liegt daher auf der Gestaltung einer belastbaren Beziehungsstruktur der teilnehmenden Mensch-Hund-Teams, hin zu einem respektvollem Miteinander und einer immer vertrauensvolleren Orientierung der jungen Hunde an ihren Menschen. Besonders am Herzen liegt es mir außerdem, die Hunde in der Entwicklung gesunder Selbstregulationsmechanismen (Frustrationstoleranz und Impulskontrolle) zu unterstützen.
   - type: text
-    width: 2/3
+    width: 1/3
     headingLevel: "3"
-    headingCentered: true
+    headingCentered: false
     isColored: false
-    heading: Die Konzentrationsfähigkeit steigern und Orientierung am Menschen ausbauen
+    heading: Junghundekurs I
     text: >-
       Dein kleiner Welpe hat sich zu einem fröhlichen Jungspund gemausert. Stets
       gut gelaunt und fröhlich scheint er ganz zufrieden mit sich und der Welt,
@@ -35,102 +46,3 @@ buildingBlocks:
       \
 
       Keine Angst! Auch in dieser aufregenden und spannenden Zeit lasse ich dich nicht allein. Im Junghundekurs geht es nun darum, die in der Welpenzeit erlernten Fertigkeiten weiter auszubauen und zu festigen. Gespielt wird immer noch aber die Zeiten in denen die jungen Hunde sich konzentrieren sollen werden langsam gesteigert. Die Inhalte variieren und richten sich nach dem Bedürfnis der Menschen und dem Entwicklungsstand der Junghunde. Besonderer Augenmerk liegt in dieser Zeit jedoch auf der Gestaltung der Beziehungsstruktur der teilnehmenden Mensch-Hund-Teams, sowie der Entwicklung gesunder Selbstregulationsmechanismen (Frustrationstoleranz und Impulskontrolle) der jungen Hunde.
-  - type: text
-    width: 1/2
-    headingLevel: "3"
-    headingCentered: false
-    isColored: false
-    heading: Junghundekurs I
-    text: >-
-      für Hunde ab 5 Monaten
-
-
-      ### In unserem Junghundekurs lernt dein junger Hund z. B.:
-
-
-      * Orientierung am Menschen mit und ohne Leine
-
-      * richtiger Einsatz von Körpersprache im Umgang mit dem Junghund
-
-      * Gewöhnung an unterschiedliche Umweltreize (andere Tiere, Geräusche, Gegenstände etc.)
-
-      * Aufbau von Toleranz gegenüber Pflegemaßnahmen, Hinlegen
-
-      * Rückruftraining in unterschiedlichen Varianten
-
-      * Zuverlässiges Sitz & Platz in unterschiedlichen Situationen
-
-      * Übungen zur Entwicklung von Frustrationstoleranz und Impulskontrolle
-
-      * Aufbau von Nein & Aus im Nahbereich
-
-      * Wie lernt mein Hund?
-
-      * Ausbau der sozialen, kommunikativen und motorischen Fähigkeiten im Freispiel mit Artgenossen
-
-
-      **8 x Praxisstunden in der Kleingruppe (4-6 Hunde)**
-
-
-      **&#43; 1x Einzelstunde in der u.a. die Leinenführigkeit erarbeitet wird**
-
-
-      **&#43; 1 x Online-Vortrag "Was braucht ein Hund zum Glücklichsein?" via Zoom**
-
-
-      ### Kosten: 249,- Euro (inkl. 19 % MwSt.)
-  - type: text
-    width: 1/2
-    headingLevel: "3"
-    headingCentered: false
-    isColored: false
-    heading: Pubertiere (Junghundekurs II)
-    text: >-
-      für Hunde ab ca. 8 Monaten
-
-
-      ### In unserem Junghundekurs II lernt dein junger Hund z. B.:
-
-
-      * zuverlässige Orientierung am Menschen mit und ohne Leine in unterschiedlicher Umgebung und mit steigender Ablenkung für den Hund
-
-      * gezielter Einsatz von Körpersprache im Umgang mit dem Junghund
-
-      * Beziehungsstruktur gestalten
-
-      * Toleranz gegenüber Pflegemaßnahmen, Hinlegen etc.
-
-      * Rückruftraining aus unterschiedlichen Situationen und unter steigender Ablenkung für den Hund
-
-      * Sitz & Platz auf Distanz wird aufgebaut
-
-      * Übungen zur Steigerung von Frustrationstoleranz und Impulskontrolle
-
-      * Zuverlässiges Nein & Aus im Nahbereich und auf Distanz
-
-      * Wie lernt mein Hund?
-
-
-      **8 x Praxisstunden in der Kleingruppe (4-6 Hunde)**
-
-
-      ### Kosten: 189,- Euro (inkl. 19 % MwSt.)
-  - type: text
-    width: "1"
-    headingLevel: "4"
-    headingCentered: true
-    isColored: false
-    text: >-
-      **Das Training findet je nach Thema und zunehmendem Alter der Junghunde
-      auf dem Trainingsgelände in 53340 Meckenheim oder unterschiedlichen Orten
-      in der nahen Umgebung (Wald, Feld, Stadtbesuch etc.) statt.**
-
-
-      **Mitzubringen sind:**
-
-
-      * Impfpass als Nachweis für die ersten Impfungen (S/H/P) im Alter von ca. 8 und ca. 12 Wochen (für Neukunden!)
-
-      * Eine handelsübliche verstellbare Leine (bitte **keine** Flexi- oder Schleppleine)
-
-      * Einige kleine und weiche Leckerchen die der Hund gerne frisst.
