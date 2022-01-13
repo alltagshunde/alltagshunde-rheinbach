@@ -12,9 +12,9 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: true
     heading: Das erste Jahr im Leben deines Hundes
-    text: "Lass dich von mir begleiten und profitiere von meiner langjährigen
+    text: "### Lass dich von mir begleiten und profitiere von meiner langjährigen
       Erfahrung in der Ausbildung von Welpen und Junghunden zu angenehmen
-      Alltagsbegleitern.  "
+      Alltagsbegleitern."
     isColored: true
   - type: card
     width: 1/2
@@ -31,3 +31,4 @@ buildingBlocks:
     heading: Angebote für Junghunde
     buttonLink: Junghunde 2022
     button: Mehr erfahren
+    image: puppy-4095481_1920.jpg
