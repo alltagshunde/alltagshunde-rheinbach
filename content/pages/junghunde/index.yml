@@ -51,6 +51,36 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     isColored: false
+    heading: Junghunde Kläff-Treff
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    text: >-
+      Solltest Du dir weitere Unterstützung während der Junghundezeit wünschen,
+      hast Du als Teilnehmer der Junghundekurse selbstverständlich die
+      Möglichkeit jederzeit weitere Einzelcoachings bei mir vor Ort oder bei dir
+      Zuhause bzw. einem Ort deiner Wahl zu buchen: 
+
+
+      * zusätzliches Einzelcoaching vor Ort (60 Min.): 59,- Euro (inkl. 19% MwSt.)
+
+      * zusätzliches Einzelcoaching als Hausbesuch (60 Min.): 69,- Euro (inkl. 19% MwSt.)
+
+      (in Wachtberg und Meckenheim. Für alle anderen Orte erhebe ich einen Zuschlag i. H. v. 15,- Euro pro Hausbesuch)
+
+
+      Für deine Fragen zwischendurch biete ich darüber hinaus montags abends und mittwochs vormittags Termine für kurze Beratungssessions per Telefon oder via Zoom-Meeting an: 
+
+
+      * Beratung via Telefon / Zoom-Meeting: 10,- Euro je 15 Min. (inkl. 19% MwSt.)
+    heading: Zusätzliche Beratung und Unterstützung
+  - type: text
+    width: 1/2
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
     heading: Junghundekurs II
     text: "für Hunde ab 4-5 Monaten
 
@@ -126,9 +156,3 @@ buildingBlocks:
 
       #### Kosten: 189,- Euro (inkl. 19 % MwSt.)"
     heading: Junghundekurs III
-  - type: text
-    width: 1/2
-    headingLevel: "3"
-    headingCentered: false
-    isColored: false
-    heading: Junghunde Kläff-Treff
