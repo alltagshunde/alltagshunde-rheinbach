@@ -21,8 +21,12 @@ buildingBlocks:
     innerWidth: "1"
     isColored: true
     heading: Angebote für Welpen
+    buttonLink: Welpen 2022
+    button: Mehr erfahren
   - type: card
     width: 1/2
     innerWidth: "1"
     isColored: true
     heading: Angebote für Junghunde
+    buttonLink: Junghunde 2022
+    button: Mehr erfahren
