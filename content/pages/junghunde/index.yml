@@ -33,7 +33,7 @@ buildingBlocks:
 
       Ein besonderer Augenmerk liegt daher auf der Gestaltung einer belastbaren Beziehungsstruktur der teilnehmenden Mensch-Hund-Teams, hin zu einem respektvollem Miteinander und einer immer vertrauensvolleren Orientierung der jungen Hunde an ihren Menschen. Besonders am Herzen liegt es mir außerdem, die Hunde in der Entwicklung gesunder Selbstregulationsmechanismen (Frustrationstoleranz und Impulskontrolle) zu unterstützen.
   - type: text
-    width: 1/3
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
     isColored: false
@@ -47,7 +47,7 @@ buildingBlocks:
 
       Keine Angst! Auch in dieser aufregenden und spannenden Zeit lasse ich dich nicht allein. Im Junghundekurs geht es nun darum, die in der Welpenzeit erlernten Fertigkeiten weiter auszubauen und zu festigen. Gespielt wird immer noch aber die Zeiten in denen die jungen Hunde sich konzentrieren sollen werden langsam gesteigert. Die Inhalte variieren und richten sich nach dem Bedürfnis der Menschen und dem Entwicklungsstand der Junghunde. Besonderer Augenmerk liegt in dieser Zeit jedoch auf der Gestaltung der Beziehungsstruktur der teilnehmenden Mensch-Hund-Teams, sowie der Entwicklung gesunder Selbstregulationsmechanismen (Frustrationstoleranz und Impulskontrolle) der jungen Hunde.
   - type: text
-    width: 1/3
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
     isColored: false
@@ -94,8 +94,8 @@ buildingBlocks:
 
       \r"
   - type: text
-    width: "1"
-    headingLevel: "1"
+    width: 1/2
+    headingLevel: "3"
     headingCentered: true
     isColored: false
     text: "für Hunde ab 8-9 Monaten
@@ -126,3 +126,9 @@ buildingBlocks:
 
       #### Kosten: 189,- Euro (inkl. 19 % MwSt.)"
     heading: Junghundekurs III
+  - type: text
+    width: 1/2
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    heading: Junghunde Kläff-Treff
