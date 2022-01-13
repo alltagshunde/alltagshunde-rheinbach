@@ -10,38 +10,29 @@ buildingBlocks:
     heading: Welpenzeit
   - type: text
     width: "1"
-    headingLevel: "1"
+    headingLevel: "3"
     headingCentered: true
-    isColored: false
-    heading: Vorbereitung aufs Leben
-    text: ""
-  - type: text
-    width: "1"
-    headingLevel: "4"
-    headingCentered: false
-    isColored: false
-    text: "Ein Welpe zieht ein und stellt deine Welt damit erstmal ordentlich auf
-      den Kopf. Alle sind total aufgeregt und freuen sich. Natürlich möchtest Du
-      von Beginn an alles richtig machen. Doch bald tauchen erste Fragezeichen
-      auf: \r
+    isColored: true
+    heading: Der Wunsch von Beginn an alles richtig zu machen ...
+    text: >-
+      #### Ein Welpe zieht ein und stellt deine Welt damit erstmal ordentlich
+      auf den Kopf. Alle sind total aufgeregt und freuen sich. Natürlich
+      möchtest Du von Beginn an alles richtig machen. Doch bald tauchen erste
+      Fragezeichen auf: 
 
 
-      * Was sollte mein Welpe für den Alltag lernen und wie konfrontiere
-      ich ihn damit?\r
+      * Was sollte mein Welpe für den Alltag lernen und wie konfrontiere ich ihn damit?
 
-      * Wann kann ich mit dem Training starten? Was übe ich als erstes?\r
+      * Wann kann ich mit dem Training starten? Was übe ich als erstes?
 
-      * Wie wird mein Welpe stubenrein?\r
+      * Wie wird mein Welpe stubenrein?
 
-      * Wie reagiere ich richtig, wenn mein Welpe ständig seine
-      Welpenzähnchen einsetzt?\r
+      * Wie reagiere ich richtig, wenn mein Welpe ständig seine Welpenzähnchen einsetzt?
 
-      * Wie viel Ruhe und Schlaf braucht mein Welpe am Tag und wie bekomme
-      ich ihn überhaupt dazu, auch mal auszuruhen?\r
+      * Wie viel Ruhe und Schlaf braucht mein Welpe am Tag und wie bekomme ich ihn überhaupt dazu, auch mal auszuruhen?
 
 
-      In meinem Welpenpaket erhältst Du Antworten auf alle Deine Fragen
-      für die aktuelle Lebensphase deines kleinen Hundes.\r\n"
+      #### In meinem Welpenpaket erhältst Du Antworten auf alle Deine Fragen für die aktuelle Lebensphase deines kleinen Hundes.
   - type: text
     width: 1/2
     headingLevel: "3"
@@ -91,77 +82,23 @@ buildingBlocks:
     headingCentered: false
     isColored: false
     heading: Welpentreff
-    text: "\r
-
-      \r
-
-      \r
-
-      \r
-
-      \r
-
-      \r
-
-      ### Hier lernst Du ...\r
-
-      \r
-
-      * ... zu erkennen wann es sich um Spiel handelt und wann nicht mehr
-      bzw.\ 
-
-      * ... wann dein Hund Unterstützung benötigt und wie Du dich dabei
-      richtig verhältst\ 
-
-      * ... wann du deinen Hund besser begrenzen solltest und wie du dies
-      umsetzt\ 
-
-      \ \r
-
-      \r
-
-      \r
-
-      ### Hier lernt dein Hund...\r
-
-      \r
-
-      * ... sich Artgenossen gegenüber angemessen zu verhalten\r
-
-      * ... dass er auch mal nein sagen darf bzw. deine Unterstützung
-      einzufordern, wenn er sich bedrängt fühlt
-
-      * ... wie man das \"nein\" eines anderen Hundes akzeptiert\r
-
-      * ... dass man erst loslaufen darf, wenn man ruhig ist\r
-
-      * ... dass man anderen auch mal beim Spielen zuschauen kann, ohne
-      auszuflippen\r
-
-      * ... dass man nicht immer Vollgas geben muss\r
+    text: >-
+      für Welpen ab 9 Wochen
 
 
-      ### Wann, Wer & Wo\ 
+      #### Das Paket beinhaltet:
 
-      * Immer dienstags um 16:00 Uhr (ca. 30 Min.) auf dem Hundeplatz in
-      53340 Meckenheim\ 
 
-      * Für Welpen im Alter von 9 - 16 Wochen
+      **1 x ausführliche Erstberatung (60 Min.)**  Gerne komme ich für die Erstberatung auch zu dir nach Hause, da es erfahrungsgemäß immer viele Fragen zum häuslichen Umfeld gibt (in Wachtberg und Meckenheim. Für alle anderen Orte erhebe ich einen Zuschlag i. H. v. 15,- Euro pro Hausbesuch). 
 
-      * Nur exklusiv für Kund*innen des \"Welpenpakets\" buchbar.
 
-      * Teilnahme nur nach vorheriger Anmeldung (maximal 4-6 Teams)
+      **8 x Training auf dem Hundeplatz (45 Min.)** Hier zeige ich dir erste praktische Übungen, die du mit deinem Welpen natürlich direkt vor Ort umsetzen und zuhause weiter festigen kannst, damit aus deinem Hund ein toller Alltagsbegleiter wird. 
 
-      \r
 
-      \r
+      **&#43;Exklusiv für dich als Teilnehmer des Welpenpakets erhältst Du "Das Buch zur Welpengruppe"** In diesem kleinen Büchlein bekommst Du hilfreiche Tipps für die ersten Tage mit deinem Welpen bei dir zuhause und natürlich Rat und Antwort auf die häufigsten Fragen und Themen wie Stubenreinheit, Beißhemmung, Alleine bleiben, Spiel und Beschäftigung mit deinem Welpen. Außerdem erhältst Du nochmal ausführliche Trainingsanleitungen für die wichtigsten Übungen aus dem Welpenkurs zum Nachmachen für Zuhause oder falls Du mal eine Stunde verpasst haben sollest. 
 
-      \ \r
 
-      \r
-
-      ### Kosten: 15,00 Euro pro Teilnahme einzeln; 5er-Karte 60,- Euro;
-      10er-Karte 100,- Euro (inkl. 19 % MwSt.) "
+      #### Kosten: 249,- Euro (inkl. 19 % MwSt.)
   - type: text
     width: "1"
     headingLevel: "3"
