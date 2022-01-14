@@ -38,6 +38,12 @@ buildingBlocks:
     isBanner: false
     isColored: false
     image: leni-unterwegs.jpg
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: unterwegs_klein.jpg
   - headingColorPrimary: false
     heading: Termine 2022
     headingLevel: "2"
