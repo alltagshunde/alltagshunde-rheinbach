@@ -19,12 +19,12 @@ buildingBlocks:
       herausarbeiten und im Einzelcoaching lösen. Im Fokus steht dabei der
       Aufbau einer vertrauensvollen und belastbaren Mensch-Hund-Beziehung.
   - type: text
-    width: 1/2
+    width: "1"
     headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
-    heading: "Was wünschst Du dir? Stellt dein Hund dich in eurem Alltag immer
-      wieder vor Herausforderungen? "
+    heading: Was wünschst Du dir? Vor welche Herausforderungen stellt dein Hund dich
+      in eurem Alltag?
     text: >-
       * Hattest Du Dir das gemeinsame Leben mit Deinem Hund oder vielleicht auch
       mehreren Hunden und / oder Tieren entspannter vorgestellt?
