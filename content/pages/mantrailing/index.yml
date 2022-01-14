@@ -131,3 +131,9 @@ buildingBlocks:
     text: Keine Vorkenntnisse nötig! <br/>Dein Hund sollte über einen gewissen
       Grundgehorsam verfügen und **während der Pausen, entspannt im Auto
       warten** können.
+  - type: image
+    width: 1/2
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: mantrailing.jpg
