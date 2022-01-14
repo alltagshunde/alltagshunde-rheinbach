@@ -86,6 +86,34 @@ buildingBlocks:
       **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
   - type: text
     width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    isColored: false
+    text: >-
+      ### Schnüffeltour
+
+
+      ### Sonntag 20. März 2022, 14:30 Uhr (Dauer ca. 2 Stunden)
+
+
+      **Start: Sportplatz FC Pech, Gudenauer Weg 53343 Wachtberg-Pech**
+
+
+      Wenn es um den Einsatz ihrer Nase geht sind unsere Vierbeiner meist mit großem Eifer bei der Sache. Leider nicht immer zu unserer Freude, schalten sie die Ohren dabei doch oft auf Durchzug. Auf diesem Spaziergang zeige ich dir, wie du deinen Hund unterwegs mit verschiedenen Schnüffelspielen auf unterschiedlichen Ebenen beschäftigen und auslasten kannst aber dabei trotzdem seine Aufmerksamkeit behältst.
+
+
+      **Teilnahmevoraussetzung:**
+
+
+      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
+
+
+      **Kosten: 25,00 Euro pro Mensch-Hund-Team oder ein Feld auf deiner 10er-Karte, Begleitperson gratis**
+
+
+      **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
+  - type: text
+    width: "1"
     headingLevel: "3"
     headingCentered: true
     isColored: false
