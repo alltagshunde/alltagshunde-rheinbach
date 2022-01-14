@@ -38,6 +38,12 @@ buildingBlocks:
 
       Das Training erfordert eure Teamarbeit auf höchstem Niveau: <br>deine Unterstützung ist z. B. immer dann gefragt, wenn dein Hund Probleme hat der Geruchsspur zu folgen oder diese verloren hat. Auch wenn Hindernisse (z. B. Straßenüberquerungen, verschlossene Türen etc.) auf dem Weg auftauchen ist dein Hund auf deine Unterstützung angewiesen. Du lernst deinen Hund in diesen Situationen nicht zu korrigieren, sondern ihm stattdessen ganz gezielt deine Hilfestellung anzubieten, so dass er die Spur eigenständig wiederfindet. Dein Hund lernt auf deine Unterstützung zu vertrauen und dich ganz gezielt um Hilfe zu bitten wenn er nicht weiter weiß.
     heading: ""
+  - type: image
+    width: 1/2
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: mantrailing.jpg
   - type: text
     width: 1/2
     headingLevel: "2"
@@ -131,9 +137,3 @@ buildingBlocks:
     text: Keine Vorkenntnisse nötig! <br/>Dein Hund sollte über einen gewissen
       Grundgehorsam verfügen und **während der Pausen, entspannt im Auto
       warten** können.
-  - type: image
-    width: 1/2
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: mantrailing.jpg
