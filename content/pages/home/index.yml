@@ -6,20 +6,33 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Hundetraining für den Alltag
+    heading: Hundetraining für deinen Alltag mit Hund!
     headingSize: "1"
     text: ""
   - type: text
     width: "1"
-    headingLevel: "2"
+    headingLevel: "3"
     headingCentered: true
     isColored: false
-    heading: Wir dürfen endlich wieder mit dem Gruppentraining starten!
+    heading: Aktuelle Informationen
     text: >-
-      ### Genaue Infos zu Kursen und Terminen folgen in Kürze. 
+      ### Coronabedingt findet das Training derzeit unter der 2G Regelung statt.
+      Das bedeutet zusätzlich zu den allgemeinen A-H-A-Regeln, benötigst Du
+      einen gültigen Impfnachweis der nicht älter als 6 Monate sein darf.  
 
 
-      ### Eure Fragen beantworte ich auch gerne telefonisch bzw. per WhatsApp unter 0176 / 61711772 oder per E-Mail an caro@alltagshunde-rheinbach.de
+      ### Ich bitte dich, mir deinen Impfnachweis beim ersten Termin unaufgefordert vorzuzeigen und auch danach stets bei unseren Terminen mitzuführen. 
+
+
+      ### Bei Hausbesuchen und in Innenräumen gilt die 2G+ Regel und ich bitte dich zusätzlich um das Tragen einer Maske. Selbstverständlich werde auch ich eine Maske tragen. \
+
+      \
+
+      Im Freien kann unter Einhaltung des Mindestabstands auf das Tragen einer Maske verzichtet werden. \
+
+      \
+
+      Vielen Dank für dein Verständnis!
   - type: image
     image: img_4201finish.jpg
     width: 1/2
@@ -32,10 +45,10 @@ buildingBlocks:
       Ich freue mich, dass du den Weg auf meine Webseite gefunden hast.
 
 
-      In der Region Wachtberg, Meckenheim, Rheinbach und Umgebung biete ich interessierten Hundehaltern ein umfangreiches Angebot rund um die Erziehung und Beschäftigung mit dem geliebten Vierbeiner. Sicher ist auch für dich und deinen Hund das passende Angebot dabei.  
+      In der Region Wachtberg, Meckenheim, der Grafschaft, Rheinbach und Umgebung biete ich interessierten Hundehaltern ein umfangreiches Angebot rund um die Erziehung und Beschäftigung mit dem geliebten Vierbeiner. Sicher ist auch für dich und deinen Hund das passende Angebot dabei.  
 
 
-      Solltest du Fragen zu meinem Training oder meinem Angebot haben, ruf mich gerne an und wir sprechen darüber, wie ich dich am besten bei der Erreichung deiner Ziele unterstützen kann! Ich freue mich darauf, dich und deinen Hund persönlich kennenzulernen! 
+      Solltest du Fragen zu meinem Training oder meinen Angeboten haben, ruf mich gerne an und wir sprechen darüber, wie ich dich am besten bei der Erreichung deiner Ziele unterstützen kann! Ich freue mich darauf, dich und deinen Hund persönlich kennenzulernen! 
 
 
       Bis dahin, viel Spaß auf meiner Seite!
@@ -71,16 +84,16 @@ buildingBlocks:
     width: 1/4
     innerWidth: null
     image: hund-zieht-an-der-leine.jpg
-    heading: Einzelcoaching & Beratung
+    heading: Einzelcoaching & Verhaltensberatung
     button: Mehr erfahren
     buttonLink: "Einzeltraining "
     isColored: true
   - type: card
     width: 1/4
     innerWidth: null
-    image: gruppentraining.jpg
-    heading: Grunderziehung & Alltagstraining
-    buttonLink: Welpen & Junghunde
+    image: welpen-socke-u.-wallie.jpg
+    heading: Welpen & Junghundekurse
+    buttonLink: Welpen & Junghunde 2022
     button: Mehr erfahren
   - type: card
     width: 1/4
