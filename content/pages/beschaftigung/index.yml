@@ -1,50 +1,31 @@
-title: Kurse & Workshops
+title: Beschäftigung
 buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "1"
     headingCentered: true
-    headingColorPrimary: false
-    heading: Kurse & Workshops
-    headingSize: "1"
-  - headingColorPrimary: false
-    heading: Sinnvolle Beschäftigung, maßvolle Auslastung, Interesse und Freude
-      aneinander
-    headingLevel: "3"
-    headingSize: null
-    width: "1"
-    text: >-
-      In meiner Hundeschule biete ich dir und deinem Hund eine runde Auswahl
-      artgerechter und sinnvoller Beschäftigungsangebote. Im Vordergrund stehen
-      dabei Ruhe, Ausgeglichenheit und die Zusammenarbeit mit dem Menschen,
-      weshalb ich ausdrücklich Abstand nehme von allen aufputschenden Sport- und
-      Beschäftigungsmöglichkeiten die den Hund in meinen Augen zu sehr
-      hochfahren. \
-
-      \
-
-      Ergänzt wird das Angebot durch Workshops und Veranstaltungen, für alle die sich noch intensiver mit ihren Hunden auseinandersetzen und in die Tiefe gehen wollen. So geht es z. B. um die körpersprachliche Kommunikation zwischen Hund und Mensch oder um die Persönlichkeitseinschätzung des eigenen Hundes. \
-
-      \
-
-      Auf den folgenden Seiten stelle ich dir meine Angebote genauer vor. Für mehr Infos klicke auf die einzelnen Kacheln.
-    headingCentered: true
-    isColored: true
-    type: text
-  - headingColorPrimary: false
-    heading: Höher, schneller, weiter?
-    headingLevel: "3"
-    headingSize: "6"
-    width: "1"
-    text: >-
-      Jeder Hund ist einzigartig, daher müssen Talente und Persönlichkeit deines
-      Hundes nicht zwangsläufig seinem Rasseprofil oder deinen eigenen
-      Erwartungen entsprechen. Ebenfalls hält sich hartnäckig das Gerücht, dass
-      Hunde nur mit einem umfangreichen Beschäftigungsprogramm glücklich und
-      ohne dieses regelrecht verhaltensauffällig werden. 
-
-
-      Das Gegenteil ist meiner Erfahrung nach jedoch deutlich häufiger der Fall. Viele Hunde sind heute chronisch überbeschäftigt und dem Burnout nahe. Dabei wären nicht wenige Hunde glücklich, ihre Menschen einfach im Alltag und auf ausgedehnte Spaziergänge begleiten zu dürfen. Manchmal ist weniger eben auch mehr.
-    headingCentered: false
-    isColored: true
-    type: text
+    isColored: false
+  - type: card
+    width: 1/3
+    innerWidth: "1"
+    isColored: false
+    image: apportieren.jpg
+    heading: Apportieren
+    buttonLink: Apport for Fun
+    button: Mehr erfahren
+  - type: card
+    width: 1/3
+    innerWidth: "1"
+    isColored: false
+    image: 138.jpg
+    heading: Crossdogging
+    button: Mehr erfahren
+    buttonLink: Querbeet
+  - type: card
+    width: 1/3
+    innerWidth: "1"
+    isColored: false
+    heading: Hundefitness / K3 DogParkour
+    image: nele-und-rudi.jpg
+    button: Mehr erfahren
+    buttonLink: K3 Dog Parkour
