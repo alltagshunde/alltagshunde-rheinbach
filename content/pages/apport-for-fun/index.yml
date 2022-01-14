@@ -1,4 +1,4 @@
-title: Apport for Fun
+title: Apportieren
 isLandingPage: false
 parentPage: Beschäftigung
 buildingBlocks:
@@ -6,7 +6,7 @@ buildingBlocks:
     width: "1"
     headingLevel: "1"
     headingCentered: true
-    heading: Apport for Fun
+    heading: Apportieren
     text: ""
     headingSize: null
   - headingColorPrimary: false
@@ -14,70 +14,51 @@ buildingBlocks:
     headingLevel: "2"
     headingSize: "3"
     width: "1"
-    text: Die meisten Hunde laufen gerne geworfenen Gegenständen hinter her, bringen
-      sie aber meist ungern zurück. In diesem Kurs widmen wir uns mit viel Spaß
-      und Motivation den unterschiedlichen Möglichkeiten, z.B. einfacher Apport,
-      Apport über Hürden, Apport in Kombination mit Tricks. Im Vordergrund
-      stehen der gemeinsame Spaß und die körperliche und geistige Auslastung des
-      Familienhundes.
+    text: Beim Apportieren widmen wir uns mit viel Spaß und Motivation den
+      unterschiedlichen Möglichkeiten und des Dummytrainings als
+      alltagstaugliche und spannende Beschäftigung für den Familienhund.
     headingCentered: true
     isColored: true
     type: text
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: true
+    isColored: false
+    text: >-
+      Die meisten Hunde laufen gerne geworfenen Gegenständen hinter her. Doch
+      ist das schon Apportieren? Einige Kandidaten nehmen und tragen zwar gerne,
+      geben das Objekt der Begierde aber ungern wieder her. 
+
+
+      In diesem Kurs bekommst du Hilfestellung bei diesen und weiteren Herausforderungen. Gemeinsam gehen wir die ersten Schritte an und du erhältst einen ersten Einblick in die Vielfältigkeit dieser Beschäftigungsform. Ich stelle euch die verschiedenen Grundelemente des Apportierens (Markieren, Einweisen, Freiverlorensuche) vor, die dann natürlich mit den eigenen Hunden ausprobiert werden. Schnell wirst du erkennen, was das Apportieren alles zu bieten hat. \
+
+      \
+
+      **Termin: jeweils 14-tägig samstags 12:00 Uhr (ca. 60 Min.)**
+
+
+      **Start: 12. Februar 2022**
+
+
+      **Kosten: 100,- Euro (inkl. MwSt.)**
+
+
+      Ort: Trainingsgelände Meckenheim und nähere Umgebung (Meckenheim, BN-Röttgen, Wachtberg-Pech)
+    heading: "Schnupperkurs Apportieren "
   - type: image
     width: 1/3
-    innerWidth: null
+    innerWidth: 3/4
     isBanner: true
     image: chihuahua-apport.jpg
-  - type: text
-    width: 2/3
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    text: >-
-      * den gezielten **Aufbau des Apports** über Spaß und Motivation
-
-      * **verschiedene Möglichkeiten** der Apportarbeit
-
-      * wie du **mit mehreren Dummys gleichzeitig** arbeiten und den **Hund gezielt losschicke**n kannst
-
-      * Ausbau der **Impulskontrolle**: <br/>Wie Du es schaffst, dass dein **Hund wartet, bis er starten darf**
-
-      * **Einbauen von Tricks und Geräten** in den Apport: <br/>z. B. das Überspringen von Hürden oder Umrunden einer Tonne mit dem Apportel
-    heading: "In diesem Kurs zeige ich dir:"
-  - headingColorPrimary: false
-    heading: "Deine Vorteile: "
-    headingLevel: "2"
-    headingSize: "3"
-    width: 2/3
-    text: >-
-      * **Training in Kleingruppen** - damit ich optimal und individuell auf
-      jeden einzelnen eingehen kann arbeiten wir in kleinen Gruppen von 4 - 5
-      Mensch-Hund-Teams
-
-      * **Abwechslungsreiches Training** - nach dem Grundaufbau gibt es stets wechselnde Aufgaben, daher kommt keine Langeweile auf
-
-      * **Verschiedene Trainingsorte** - je nach Thema und Wetter trainieren wir mal auf dem Hundeplatz oder in Feld, Wald und Wiese in der näheren Umgebung
-
-      * **Leicht umsetzbar** - ich erkläre detailliert die einzelnen Trainingsschritte und den Aufbau, so dass Du das Training auch leich zuhause umsetzen und in deinen Alltag einbinden kannst
-
-      * **Einstieg jederzeit möglich** - durch die kleine Gruppengröße ist es möglich die Übungen individuell anzupassen, so dass auch Anfänger jederzeit einsteigen können
-
-      * **Flexible Termine statt fester Kurse** - du hast die Wahl zwischen flexiblen 5er- oder 10er-Karten
-
-      * **Angebote** **für Mehrhundehalter** - hast Du mehr als einen Hund sieht dein Alltag natürlich anders aus. Sprich mich gerne an und wir schauen wie wir deine Hundegruppe ins Training einbinden können.
-
-      * **Intensive Betreuung** - auch außerhalb des Trainings profitierst du von meiner intensiven Betreuung z. B. während der Sprechstunden oder in meiner Facebook Gruppe
-    headingCentered: false
-    isColored: true
-    type: text
   - type: image
     width: 1/3
-    innerWidth: null
+    innerWidth: 3/4
     isBanner: false
     image: 2016-06-10-34027.jpg
   - type: image
     width: 1/3
-    innerWidth: null
+    innerWidth: 3/4
     isBanner: false
     image: apportieren.jpg
   - type: text
