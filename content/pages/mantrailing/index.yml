@@ -22,7 +22,7 @@ buildingBlocks:
     type: text
   - type: text
     width: "1"
-    headingLevel: "2"
+    headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
     text: >-
@@ -33,36 +33,17 @@ buildingBlocks:
       "lesen". 
 
 
-      Dies kann dir z. B. auch helfen, die Signale deines Hundes auch beim Spaziergang besser lesen und sein Jagdverhalten dadurch besser kontrollieren zu können. 
+      Dies kann dir z. B. auch helfen, die Signale deines Hundes auch beim Spaziergang besser lesen und sein Jagdverhalten dadurch besser kontrollieren zu können. Dass Hunde weniger jagen würden, weil sie durch Mantrailing beschäftigt werden, ist jedoch ein Gerücht. 
 
 
       Das Training erfordert eure Teamarbeit auf höchstem Niveau: <br>deine Unterstützung ist z. B. immer dann gefragt, wenn dein Hund Probleme hat der Geruchsspur zu folgen oder diese verloren hat. Auch wenn Hindernisse (z. B. Straßenüberquerungen, verschlossene Türen etc.) auf dem Weg auftauchen ist dein Hund auf deine Unterstützung angewiesen. Du lernst deinen Hund in diesen Situationen nicht zu korrigieren, sondern ihm stattdessen ganz gezielt deine Hilfestellung anzubieten, so dass er die Spur eigenständig wiederfindet. Dein Hund lernt auf deine Unterstützung zu vertrauen und dich ganz gezielt um Hilfe zu bitten wenn er nicht weiter weiß.
-    heading: ""
+    heading: Was ist Mantrailing?
   - type: image
     width: 1/2
     innerWidth: "1"
     isBanner: false
     isColored: false
     image: mantrailing.jpg
-  - type: text
-    width: 1/2
-    headingLevel: "2"
-    headingCentered: false
-    text: >-
-      * wie du deinen Hund artgerecht und beschäftigst 
-
-      * wie du eine ganze neue Seite und ungeahnte Talente an deinem Hund entdecken wirst
-
-      * wie du lernst, die körpersprachlichen Signale deines Hundes auf dem Trail richtig zu deuten
-
-      * wie du erkennst, wann du deinem Hund die Führung überlassen und in welchen Situationen du ihn unterstützen solltest
-
-      * wie dein Hund im Verlauf des Trainings lernen kann, sich auch bei starker Ablenkung (z. B. Hundebegegnung) weiter auf seine Aufgabe zu konzentrieren
-
-      * wie dein ängstlicher Hund im Verlauf des Trainings mehr Selbstvertrauen entwickelt und bestehende Unsicherheiten gegenüber der Umwelt oder fremden Menschen überwinden kann
-    heading: Im Training zeige ich dir ...
-    headingSize: "3"
-    isColored: true
   - type: image
     width: 1/2
     innerWidth: "1"
@@ -73,7 +54,7 @@ buildingBlocks:
     headingLevel: "2"
     headingCentered: false
     headingColorPrimary: false
-    heading: Für wen eignet sich Mantrailing?
+    heading: "Deine Vorteile:"
     text: >-
       Ob Aussie oder Yorkie, eine gute Nase haben sie alle! Nahezu jeder Hund
       liebt es, seine Nase zu nutzen und Spuren zu verfolgen. Daher bist du bei
@@ -85,26 +66,6 @@ buildingBlocks:
 
       Ebenso sind aber auch Hunde willkommen, die z. B. **unverträglich mit Artgenossen** sind. Oft sind diese Teams vom Training ausgeschlossen oder Mensch und Hund fühlen sich in den üblichen Gruppenkursen nicht wohl. Beim Mantrailing seid Ihr willkommen! Jeder Hund arbeitet einzeln, daher muss es keine Berührungspunkte mit den anderen teilnehmenden Hunden geben.
     headingSize: "3"
-  - type: text
-    width: 1/2
-    headingLevel: "2"
-    headingCentered: false
-    headingColorPrimary: false
-    text: >-
-      * **Individuelles Training** – ganz auf deinen persönlichen Leistungsstand
-      abgestimmt
-
-      * **Max. 5 Teilnehmer pro Termin** - damit für jeden genug Zeit da ist
-
-      * **Weniger Wartezeiten** - ich bemühe mich die Trails so gut es geht vorzubereiten und die Wartezeiten dadurch so gering wie möglich zu gestalten
-
-      * **Keine festen Gruppen** - die Termine können flexibel gebucht werden. Dadurch bist du freier in deiner Zeitplanung. Die leichte Durchmischung der Gruppen sorgt dafür, dass nicht jedes Mal die gleichen VPs gesucht werden und keine Langeweile für die Hunde aufkommt. 
-
-      * **Fortgeschrittene und Anfänger** - voneinander und miteinander lernen ist die Devise. Wenn die Rahmenbedingungen es hergeben ist es ausdrücklich erwünscht bei den Trails anderer Teams mitzulaufen. Auch dadurch kann man viel lernen. 
-
-      * **Einstieg jederzeit möglich** - keine Vorkenntnisse nötig
-    heading: "Deine Vorteile: "
-    isColored: true
   - type: text
     width: 1/2
     headingLevel: "2"
@@ -125,15 +86,12 @@ buildingBlocks:
       **10er-Karte:** 229,- Euro
 
 
-      Das Training findet an unterschiedlichen Orten in Meckenheim, Rheinbach, Bornheim und Umgebung statt.
-    heading: "Kosten: "
-    isColored: false
-  - type: text
-    width: "1"
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    heading: "Voraussetzungen:"
-    text: Keine Vorkenntnisse nötig! <br/>Dein Hund sollte über einen gewissen
-      Grundgehorsam verfügen und **während der Pausen, entspannt im Auto
-      warten** können.
+      Das Training findet an unterschiedlichen Orten in Meckenheim, Rheinbach, Bornheim und Umgebung statt. 
+
+
+      Es sind grundsätzlich keine Vorkenntnisse nötig!
+
+
+      **Dein Hund sollte jedoch über einen gewissen Grundgehorsam verfügen und zwischen den Einsätzen entspannt im Auto warte können!**
+    heading: "Termine & Kosten: "
+    isColored: true
