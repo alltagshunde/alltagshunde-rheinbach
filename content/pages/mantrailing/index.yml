@@ -44,11 +44,6 @@ buildingBlocks:
     isBanner: false
     isColored: false
     image: mantrailing.jpg
-  - type: image
-    width: 1/2
-    innerWidth: "1"
-    isBanner: false
-    image: mantrailing_gefunden.jpg
   - type: text
     width: "1"
     headingLevel: "2"
@@ -95,3 +90,24 @@ buildingBlocks:
       **Dein Hund sollte jedoch über einen gewissen Grundgehorsam verfügen und zwischen den Einsätzen entspannt im Auto warte können!**
     heading: "Termine & Kosten: "
     isColored: true
+  - type: image
+    width: 1/2
+    innerWidth: "1"
+    isBanner: false
+    image: mantrailing_gefunden.jpg
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: true
+    isColored: false
+    heading: "Für wen eignet sich Mantrailing? "
+    text: >-
+      Ob Aussie oder Yorkie, eine gute Nase haben sie alle! Nahezu jeder Hund
+      liebt es, seine Nase zu nutzen und Spuren zu verfolgen. Daher bist du bei
+      uns willkommen, egal welcher Rasse / Mix dein Hund angehört.
+
+
+      Insbesondere Hunde die zu **Unsicherheiten gegenüber Menschen** oder unter **Umweltängsten** leiden, können jedoch auch darüber hinaus vom Training profitieren. Mantrailing schult deinen Hund im Problemlösen und erfordert von ihm im Laufe des Trainings vermehrt eigenständiges Handeln. Es ist daher ausgesprochen geeignet, das Selbstvertrauen des Hundes nachhaltig auszubauen.
+
+
+      Ebenso sind aber auch Hunde willkommen, die z. B. **unverträglich mit Artgenossen** sind. Oft sind diese Teams vom Training ausgeschlossen oder Mensch und Hund fühlen sich in den üblichen Gruppenkursen nicht wohl. Beim Mantrailing seid Ihr willkommen! Jeder Hund arbeitet einzeln, daher muss es keine Berührungspunkte mit den anderen teilnehmenden Hunden geben.
