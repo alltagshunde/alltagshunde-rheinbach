@@ -13,7 +13,7 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: true
     isColored: true
-    heading: Du willst die Kommunikation zwischen dir und deinem Hund verfeinern?
+    heading: Du willst, dass dein Hund dich besser versteht?
     text: Ich zeige dir, welche Möglichkeiten Du hast, dich auch ohne Worte
       mitzuteilen…
   - type: text
@@ -40,11 +40,20 @@ buildingBlocks:
     headingCentered: true
     isColored: true
     heading: "Kosten:"
-    text: |-
-      **Einzeln: 25,00 Euro pro Termin (45 Min.)**
+    text: >-
+      **Termin:** jeweils 14-tägig dienstags um 18:15 Uhr
 
-      **5er-Karte: 119,- Euro (inkl. 19 % MwSt.)** 
 
-      **10er-Karte: 229,- Euro (inkl. 19 % MwSt.)** 
+      **Einzeln:** 25,00 Euro pro Termin (45 Min.)
 
-      Das Training findet auf dem Trainingsgelände in 53340 Meckenheim statt.
+
+      **5er-Karte:** 119,- Euro (inkl. 19 % MwSt.) 
+
+
+      **10er-Karte:** 229,- Euro (inkl. 19 % MwSt.)
+
+
+      **Teilnehmer:** min. 3 und max. 5 Mensch-Hund-Teams
+
+
+      **Ort:** Das Training findet auf dem Trainingsgelände in 53340 Meckenheim statt.
