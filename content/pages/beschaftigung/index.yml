@@ -70,7 +70,7 @@ buildingBlocks:
     isColored: false
     heading: Hundewanderungen
     image: hundewanderung.jpg
-    buttonLink: Unterwegs
+    buttonLink: Unterwegs 2022
     button: Mehr erfahren
   - type: text
     width: "1"
