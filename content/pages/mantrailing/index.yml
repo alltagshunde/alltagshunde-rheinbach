@@ -44,26 +44,32 @@ buildingBlocks:
     isBanner: false
     isColored: false
     image: mantrailing.jpg
-  - type: text
-    width: "1"
-    headingLevel: "2"
-    headingCentered: false
-    headingColorPrimary: false
+  - type: image
+    width: 1/2
+    innerWidth: "1"
+    isBanner: false
+    image: mantrailing_gefunden.jpg
+  - headingColorPrimary: false
     heading: "Deine Vorteile:"
+    headingLevel: "2"
+    headingSize: "3"
+    width: 1/2
     text: >-
-      * **Individuelles Training** – ganz auf deinen persönlichen Leistungsstand
+      * **Individuelles Training**– ganz auf deinen persönlichen Leistungsstand
       abgestimmt
 
-      * **Max. 5 Teilnehmer pro Termin** - damit für jeden genug Zeit da ist
+      * **Max. 5 Teilnehmer pro Termin**- damit für jeden genug Zeit da ist
 
-      * **Weniger Wartezeiten** - ich bemühe mich die Trails so gut es geht vorzubereiten und die Wartezeiten dadurch so gering wie möglich zu gestalten
+      * **Weniger Wartezeiten**- ich bemühe mich die Trails so gut es geht vorzubereiten und die Wartezeiten dadurch so gering wie möglich zu gestalten
 
-      * **Keine festen Gruppen** - die Termine können flexibel gebucht werden. Dadurch bist du freier in deiner Zeitplanung. Die leichte Durchmischung der Gruppen sorgt dafür, dass nicht jedes Mal die gleichen VPs gesucht werden und keine Langeweile für die Hunde aufkommt. 
+      * **Keine festen Gruppen**- die Termine können flexibel gebucht werden. Dadurch bist du freier in deiner Zeitplanung. Die leichte Durchmischung der Gruppen sorgt dafür, dass nicht jedes Mal die gleichen VPs gesucht werden und keine Langeweile für die Hunde aufkommt.
 
-      * **Fortgeschrittene und Anfänger** - voneinander und miteinander lernen ist die Devise. Wenn die Rahmenbedingungen es hergeben ist es ausdrücklich erwünscht bei den Trails anderer Teams mitzulaufen. Auch dadurch kann man viel lernen. 
+      * **Fortgeschrittene und Anfänger**- voneinander und miteinander lernen ist die Devise. Wenn die Rahmenbedingungen es hergeben ist es ausdrücklich erwünscht bei den Trails anderer Teams mitzulaufen. Auch dadurch kann man viel lernen.
 
-      * **Einstieg jederzeit möglich** - keine Vorkenntnisse nötig
-    headingSize: "3"
+      * **Einstieg jederzeit möglich**- keine Vorkenntnisse nötig
+    headingCentered: false
+    isColored: false
+    type: text
   - type: text
     width: 1/2
     headingLevel: "2"
@@ -93,11 +99,6 @@ buildingBlocks:
       **Dein Hund sollte jedoch über einen gewissen Grundgehorsam verfügen und zwischen den Einsätzen entspannt im Auto warte können!**
     heading: "Termine & Kosten: "
     isColored: true
-  - type: image
-    width: 1/2
-    innerWidth: "1"
-    isBanner: false
-    image: mantrailing_gefunden.jpg
   - type: text
     width: "1"
     headingLevel: "3"
