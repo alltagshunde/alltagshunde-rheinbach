@@ -53,32 +53,17 @@ buildingBlocks:
     image: p1170237.jpg
     isColored: true
   - type: text
-    width: 2/3
+    width: "1"
     headingLevel: "2"
     headingCentered: false
     headingColorPrimary: false
-    heading: "Deine Vorteile: "
-    text: >-
-      * **Hohe Qualität** - K3DogParkour® wird als geschützte Marke und im Sinne
-      einer gleichbleibend hohen Qualität nur von lizenzierten Hundeschulen
-      unterrichtet
-
-      * **von Tierärzten und Tierphysiotherapeuten empfohlen** - in unserem K3DogParkour® Trainernetzwerk arbeite ich mit Spezialisten auf dem Gebiet der Tiermedizin, Physiotherapie, Ostheopathie und Chiropraktik zusammen. Dadurch profitierst du selbstverständlich stets von der Expertise und dem fachlichen Austausch des gesamten Teams
-
-      * **Training in Kleingruppen** - damit ich optimal und individuell auf jeden einzelnen eingehen kann arbeiten wir in kleinen Gruppen von 4 - 5 Mensch-Hund-Teams
-
-      * **Abwechslungsreiches Training** - durch ständig wechselnde Parkours und Aufgaben kommt keine Langeweile auf, es entwickelt sich jedoch sehr wohl eine gewisse Routine der Hunde z. b. beim Balancieren oder Klettern, was ja wünschenswert ist. 
-
-      * **Verschiedene Trainingsorte** - je nach Thema und Wetter kann das Training auch einmal auswärts, z. B. in den Sommermonaten im schattigen Wald stattfinden. 
-
-      * **Einstieg jederzeit möglich** - durch die kleine Gruppengröße ist es möglich die Übungen individuell anzupassen, so dass auch Anfänger jederzeit einsteigen können
-
-      * **Flexible Termine statt fester Kurse** - du hast die Wahl zwischen flexiblen 5er- oder 10er-Karten
-
-      * **Intensive Betreuung** - auch außerhalb des Trainings profitierst du von meiner intensiven Betreuung z. B. während der Sprechstunden oder in meiner Facebook Gruppe
-
-
-
-
-      Mehr Infos unter: [www.k3dogparkour.com](https://www.k3dogparkour.com)
+    heading: Für wen eignet sich das Hundefitnesstraining?
+    text: Das Training eignet sich grundsätzlich für alle Hunde und alle
+      Altersklassen und kann selbstverständlich auch als gemeinsame
+      Beschäftigung fernab von jeglichen Fitnesszielen belegt werden.
+      Insbesondere sind hier jedoch Hunde mit gewissen Einschränkungen des
+      Bewegungsapparats willkommen, bei denen auch eine gewisse gesundheitliche
+      Komponente bzw. Prophylaxe im Vordergrund steht. Und auch für Senioren
+      eignet sich der Kurs hervorragend, um diese körperlich und geistig fit zu
+      halten und auszulasten.
     headingSize: "3"
