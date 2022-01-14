@@ -88,9 +88,11 @@ buildingBlocks:
       * **Individuelles Training** – ganz auf deinen persönlichen Leistungsstand
       abgestimmt
 
-      * **Training in Kleingruppen** - damit für jeden genug Zeit da ist
+      * **Max. 5 Teilnehmer pro Termin** - damit für jeden genug Zeit da ist
 
       * **Weniger Wartezeiten** - ich bemühe mich die Trails so gut es geht vorzubereiten und die Wartezeiten dadurch so gering wie möglich zu gestalten
+
+      * **Keine festen Gruppen** - die Termine können flexibel gebucht werden. Dadurch bist du freier in deiner Zeitplanung. Die leichte Durchmischung der Gruppen sorgt dafür, dass nicht jedes Mal die gleichen VPs gesucht werden und keine Langeweile für die Hunde aufkommt. 
 
       * **Fortgeschrittene und Anfänger** - voneinander und miteinander lernen ist die Devise. Wenn die Rahmenbedingungen es hergeben ist es ausdrücklich erwünscht bei den Trails anderer Teams mitzulaufen. Auch dadurch kann man viel lernen. 
 
@@ -103,20 +105,22 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      **Einzeln:** 25,00 Euro pro Termin (ca. 120 Min.)
+      **Termine:** jeweils mittwochs 18:30 Uhr / samstags 15:00 Uhr (14-tägig) /
+      sonntags 10:30 Uhr (14-tägig) Die Termine können flexibel gebucht werden
+      (keine festen Gruppen).
 
 
-      **5er-Karte:** 120,- Euro
+      **Einzeln:** 25,00 Euro pro Termin (inkl. 19 % MwSt.)
 
 
-      **10er-Karte:** 225,- Euro
+      **5er-Karte:** 129,- Euro
 
 
-      **Alle Preise verstehen sich inkl. 19 % MwSt. Die 5er- und 10er-Karten können flexibel in allen Kursen eingesetzt werden.** 
+      **10er-Karte:** 229,- Euro
 
 
-      Das Training findet an unterschiedlichen Orten in Rheinbach und Umgebung bzw. Bornheim und Umgebung statt (bitte Zeiten erfragen).
-    heading: "Preise: "
+      Das Training findet an unterschiedlichen Orten in Meckenheim, Rheinbach, Bornheim und Umgebung statt.
+    heading: "Kosten: "
     isColored: false
   - type: text
     width: "1"
