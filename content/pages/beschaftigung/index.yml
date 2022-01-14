@@ -61,7 +61,7 @@ buildingBlocks:
     innerWidth: "1"
     isColored: false
     heading: Let's Talk about - Körpersprache Treff
-    buttonLink: Let's talk about ...
+    buttonLink: Let's talk about - Körpersprache Treff
     button: Mehr erfahren
     image: 148.jpg
   - type: card
