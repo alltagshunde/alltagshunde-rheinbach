@@ -39,43 +39,32 @@ buildingBlocks:
     headingCentered: false
     isColored: false
     heading: Welpenpaket - Das kleine 1x1
-    text: "für Welpen ab 9 Wochen\r
-
-      \     \ 
-
-      #### Das Paket beinhaltet:\r
+    text: >-
+      für Welpen ab 9 Wochen
 
 
-      **1 x ausführliche Erstberatung (60 Min.)** \r
-
-      Gerne komme ich für die Erstberatung auch zu dir nach Hause, da es
-      erfahrungsgemäß immer viele Fragen zum häuslichen Umfeld gibt (in
-      Wachtberg und Meckenheim. Für alle anderen Orte erhebe ich einen Zuschlag
-      i. H. v. 15,- Euro pro Hausbesuch). \r
-
-      \     \ 
-
-      **8 x Training auf dem Hundeplatz (45 Min.)**\r
-
-      Hier zeige ich dir erste praktische Übungen, die du mit deinem
-      Welpen natürlich direkt vor Ort umsetzen und zuhause weiter festigen
-      kannst, damit aus deinem Hund ein toller Alltagsbegleiter wird.\ 
+      ### Das Paket beinhaltet:
 
 
-      **&#43; Exklusiv für dich als Teilnehmer des Welpenpakets erhältst
-      Du \"Das Buch zur Welpengruppe\"**\r
+      **1 x ausführliche Erstberatung (60 Min.)**  
 
-      In diesem kleinen Büchlein bekommst Du hilfreiche Tipps für die
-      ersten Tage mit deinem Welpen bei dir zuhause und natürlich Rat und
-      Antwort auf die häufigsten Fragen und Themen wie Stubenreinheit,
-      Beißhemmung, Alleine bleiben, Spiel und Beschäftigung mit deinem Welpen.
-      Außerdem erhältst Du nochmal ausführliche Trainingsanleitungen für die
-      wichtigsten Übungen aus dem Welpenkurs zum Nachmachen für Zuhause oder
-      falls Du mal eine Stunde verpasst haben sollest. \r
 
-      \     \ 
+      Gerne komme ich für die Erstberatung auch zu dir nach Hause, da es erfahrungsgemäß immer viele Fragen zum häuslichen Umfeld gibt (in Wachtberg und Meckenheim. Für alle anderen Orte erhebe ich einen Zuschlag i. H. v. 15,- Euro pro Hausbesuch). 
 
-      #### Kosten: 249,- Euro (inkl. 19 % MwSt.)\r\n"
+
+      **8 x Training auf dem Hundeplatz (45 Min.)** 
+
+
+      Hier zeige ich dir erste praktische Übungen, die du mit deinem Welpen natürlich direkt vor Ort umsetzen und zuhause weiter festigen kannst, damit aus deinem Hund ein toller Alltagsbegleiter wird. 
+
+
+      **&#43; Exklusiv für dich als Teilnehmer des Welpenpakets erhältst Du "Das Buch zur Welpengruppe"** 
+
+
+      In diesem kleinen Büchlein bekommst Du hilfreiche Tipps für die ersten Tage mit deinem Welpen bei dir zuhause und natürlich Rat und Antwort auf die häufigsten Fragen und Themen wie Stubenreinheit, Beißhemmung, Alleine bleiben, Spiel und Beschäftigung mit deinem Welpen. Außerdem erhältst Du nochmal ausführliche Trainingsanleitungen für die wichtigsten Übungen aus dem Welpenkurs zum Nachmachen für Zuhause oder falls Du mal eine Stunde verpasst haben sollest. 
+
+
+      ### Kosten: 249,- Euro (inkl. 19 % MwSt.)
   - type: text
     width: 1/2
     headingLevel: "3"
@@ -112,52 +101,44 @@ buildingBlocks:
       ### Wann, Wer & Wo
 
 
-      * Immer dienstags um 16:00 Uhr (ca. 30 Min.) auf dem Hundeplatz in 53340 Meckenheim 
-
       * Für Welpen im Alter von 9 - 16 Wochen
 
-      * Nur exklusiv für Kund*innen des "Welpenpakets" buchbar.
+      * Exklusiv für Teilnehmer des Welpenpakets buchbar
+
+      * Immer dienstags um 16:00 Uhr auf dem Trainingsgelände in 53340 Meckenheim
 
       * Teilnahme nur nach vorheriger Anmeldung (maximal 4-6 Teams)
 
 
-      ### Kosten: 15,00 Euro pro Teilnahme einzeln; 
+      ### Kosten: 15,00 Euro pro Teilnahme einzeln;
 
 
-      ### 5er-Karte 60,- Euro; 10er-Karte 100,- Euro (inkl. 19 % MwSt.)
+      ### 8er-Karte 80,- Euro (inkl. 19 % MwSt.)
   - type: text
     width: "1"
     headingLevel: "3"
     headingCentered: false
     isColored: false
-    text: "###Das Praxis-Training findet auf dem Trainingsgelände in 53340
-      Meckenheim statt**\r
-
-      \r
-
-
-      ###Mitzubringen sind:\r
-
-      * ein gut sitzendes Halsband oder Geschirr\r
-
-      * eine handelsübliche Leine (bitte **keine** Flexileine oder
-      Schleppleine)\r
-
-      * kleine, weiche Leckerlis die dein Hund gut schlucken kann\r
-
-      * Impfpass des Hundes (nur zur ersten Trainingsstunde)\r
-
-      * Impfnachweis des Halters und ggf. Begleitpersonen\r
-
-      \r
+    text: >-
+      \### Das Praxis-Training findet auf dem Trainingsgelände in 53340
+      Meckenheim statt\*\*
 
 
-      ###Coronabedingt findet das Training derzeit unter der 2G Regelung
-      statt. \r
+      \### Mitzubringen sind:
 
-      Bei Hausbesuchen und in Innenräumen gilt die 2G+ Regel und wir
-      bitten zusätzlich um das Tragen einer Maske. Vielen Dank für dein
-      Verständnis!\r\n"
+
+      * ein gut sitzendes Halsband oder Geschirr
+
+      * eine handelsübliche Leine (bitte **keine** Flexileine oder Schleppleine)
+
+      * kleine, weiche Leckerlis die dein Hund gut schlucken kann
+
+      * Impfpass des Hundes (nur zur ersten Trainingsstunde)
+
+      * Impfnachweis des Halters und ggf. Begleitpersonen
+
+
+      \### Coronabedingt findet das Training derzeit unter der 2G Regelung statt.  Bei Hausbesuchen und in Innenräumen gilt die 2G+ Regel und wir bitten zusätzlich um das Tragen einer Maske. Vielen Dank für dein Verständnis!
   - type: text
     width: "1"
     headingLevel: "3"
