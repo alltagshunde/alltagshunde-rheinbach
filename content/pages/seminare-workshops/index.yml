@@ -1,0 +1,19 @@
+title: Seminare & Workshops
+isLandingPage: false
+buildingBlocks:
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    isColored: false
+    heading: Seminare & Workshops
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    isColored: false
+    heading: Termine 2022
+    text: |-
+      Termine folgen in Kürze. 
+
+      Vielen Dank für dein Verständnis!
