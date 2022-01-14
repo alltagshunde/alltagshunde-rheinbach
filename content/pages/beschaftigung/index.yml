@@ -1,105 +1,50 @@
-title: Beschäftigung
+title: Kurse & Workshops
 buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Beschäftigung
+    heading: Kurse & Workshops
     headingSize: "1"
   - headingColorPrimary: false
-    heading: Artgerechte Beschäftigung - Sinnvolle Auslastung
+    heading: Sinnvolle Beschäftigung, maßvolle Auslastung, Interesse und Freude
+      aneinander
     headingLevel: "3"
     headingSize: null
     width: "1"
-    text: In meiner Hundeschule biete ich dir und deinem Hund eine Auswahl an
-      Beschäftigungsangeboten rund um Nasen- und Teamarbeit.
+    text: >-
+      In meiner Hundeschule biete ich dir und deinem Hund eine runde Auswahl
+      artgerechter und sinnvoller Beschäftigungsangebote. Im Vordergrund stehen
+      dabei Ruhe, Ausgeglichenheit und die Zusammenarbeit mit dem Menschen,
+      weshalb ich ausdrücklich Abstand nehme von allen aufputschenden Sport- und
+      Beschäftigungsmöglichkeiten die den Hund in meinen Augen zu sehr
+      hochfahren. \
+
+      \
+
+      Ergänzt wird das Angebot durch Workshops und Veranstaltungen, für alle die sich noch intensiver mit ihren Hunden auseinandersetzen und in die Tiefe gehen wollen. So geht es z. B. um die körpersprachliche Kommunikation zwischen Hund und Mensch oder um die Persönlichkeitseinschätzung des eigenen Hundes. \
+
+      \
+
+      Auf den folgenden Seiten stelle ich dir meine Angebote genauer vor. Für mehr Infos klicke auf die einzelnen Kacheln.
     headingCentered: true
     isColored: true
     type: text
-  - type: text
-    width: "1"
-    headingLevel: "2"
-    headingCentered: false
-    headingColorPrimary: false
-    text: >-
-      Wenn es um die gemeinsame Beschäftigung geht, ist mir wichtig, dass dein
-      Hund seinen Anlagen entsprechend gefördert und sinnvoll beschäftigt wird,
-      statt einfach nur körperlich „ausgepowert“ zu werden. Sportarten wie
-      Flyball, DogFrisbee etc. wirst du deshalb in meiner Hundeschule nicht
-      finden. 
-
-
-      Stattdessen biete ich dir und deinem Hund verschiedene Angebote rund um die Nasen- und Teamarbeit, bei denen eine ruhige und konzentrierte Arbeit deines Hundes im Vordergrund steht und seine natürlichen Fähigkeiten gefordert werden. Abgerundet wird das Angebot durch K3DogParkour®, einem neuen und abwechslungsreichen Geräteparkour, bei dem die physische Gesundheit deines Hundes, sowie gegenseitiges Vertrauen und Teamwork im Fokus stehen.
-  - type: text
-    width: "1"
-    headingLevel: "3"
-    headingCentered: true
-    headingColorPrimary: false
-    text: Dann ruf mich am besten gleich an! Gerne berate ich dich ausführlich und
-      beantworte deine Fragen zu den verschiedenen Angeboten. <br/>Gemeinsam
-      finden wir mit Sicherheit das Richtige für dich und deinen Hund.
-    heading: Du bist unsicher, was dir und deinem Hund Spaß machen könnte?
-    isColored: true
-  - type: card
-    width: 1/3
-    heading: Mantrailing
-    button: Mehr erfahren
-    image: mantrailing.jpg
-    buttonLink: Mantrailing
-    innerWidth: null
-  - type: card
-    width: 1/3
-    image: apportieren.jpg
-    heading: Querbeet
-    button: Mehr erfahren
-    buttonLink: Querbeet
-    innerWidth: null
-  - type: card
-    width: 1/3
-    image: nele-und-rudi.jpg
-    heading: "K3DogParkour® "
-    button: Mehr erfahren
-    buttonLink: K3 Dog Parkour
-    innerWidth: null
-  - type: card
-    width: 1/3
-    image: 2015-02-15-03866_mini.jpg
-    heading: Kläff-Treff
-    button: Mehr erfahren
-    buttonLink: Kläff-Treff
-    innerWidth: null
-  - type: card
-    width: 1/3
-    innerWidth: null
-    isColored: false
-    image: pfotchen-geben.jpg
-    heading: Let's talk about ...
-    button: Mehr erfahren
-    buttonLink: Let's talk about ...
-  - type: card
-    width: 1/3
-    innerWidth: "1"
-    isColored: false
-    button: Mehr erfahren
-    heading: Hundewanderungen
-    buttonLink: Unterwegs
-    image: leinenfuhrigkeit.jpg
   - headingColorPrimary: false
-    heading: ""
-    headingLevel: "6"
+    heading: Höher, schneller, weiter?
+    headingLevel: "3"
     headingSize: "6"
     width: "1"
-    text: Jeder Hund ist einzigartig, daher müssen Talente und Persönlichkeit deines
+    text: >-
+      Jeder Hund ist einzigartig, daher müssen Talente und Persönlichkeit deines
       Hundes nicht zwangsläufig seinem Rasseprofil oder deinen eigenen
       Erwartungen entsprechen. Ebenfalls hält sich hartnäckig das Gerücht, dass
       Hunde nur mit einem umfangreichen Beschäftigungsprogramm glücklich und
-      ohne dieses regelrecht verhaltensauffällig werden. Das Gegenteil ist
-      meiner Erfahrung nach jedoch deutlich häufiger der Fall. Viele Hunde sind
-      heute chronisch überbeschäftigt und dem Burnout nahe. Dabei wären nicht
-      wenige Hunde glücklich, ihre Menschen einfach im Alltag und auf
-      ausgedehnte Spaziergänge begleiten zu dürfen. Manchmal ist weniger eben
-      auch mehr.
+      ohne dieses regelrecht verhaltensauffällig werden. 
+
+
+      Das Gegenteil ist meiner Erfahrung nach jedoch deutlich häufiger der Fall. Viele Hunde sind heute chronisch überbeschäftigt und dem Burnout nahe. Dabei wären nicht wenige Hunde glücklich, ihre Menschen einfach im Alltag und auf ausgedehnte Spaziergänge begleiten zu dürfen. Manchmal ist weniger eben auch mehr.
     headingCentered: false
     isColored: true
     type: text
