@@ -64,6 +64,14 @@ buildingBlocks:
     heading: Mantrailing
     button: Mehr erfahren
     buttonLink: Mantrailing
+  - type: card
+    width: 1/3
+    innerWidth: "1"
+    isColored: false
+    heading: Hundewanderungen
+    image: hundewanderung.jpg
+    buttonLink: Unterwegs
+    button: Mehr erfahren
   - type: text
     width: "1"
     headingLevel: "3"
