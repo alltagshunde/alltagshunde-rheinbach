@@ -7,151 +7,38 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Einzelcoaching & Beratung
+    heading: Einzelcoaching & Verhaltensberatung
   - type: text
     width: "1"
     headingLevel: "3"
-    headingCentered: true
-    headingColorPrimary: false
-    heading: Wer bist du & Wer ist dein Hund? Was macht eure Beziehung aus?
-    text: Zeigt dein Hund im Alltag unerwünschtes oder problematisches Verhalten,
-      kann das ganz unterschiedliche Gründe haben.<br/>Die Ursachen hierfür
-      lassen sich daher in der Regel am effektivsten in der Einzelberatung
-      herausarbeiten und lösen. Im Fokus steht dabei der Aufbau einer
-      vertrauensvollen und belastbaren Mensch-Hund-Beziehung.
-    isColored: true
-  - type: text
-    width: 2/3
-    headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
+    heading: "Was wünschst Du dir? Stellt dein Hund dich in eurem Alltag immer
+      wieder vor Herausforderungen? "
     text: >-
-      * deinen Hund **ruhig und entspannt an anderen Hunden, Radfahrern Joggern
-      etc. vorbeizuführen**
+      * Hattest Du Dir das gemeinsame Leben mit Deinem Hund oder vielleicht auch
+      mehreren Hunden und / oder Tieren entspannter vorgestellt?
 
-      * deinen Hund auch aus Situationen mit hoher Ablenkung **zuverlässig abrufen zu können**
+      * Besteht Dein Alltag vielleicht aus großen Einschränkungen und Zugeständnissen, weil Du stets viel planen, beachten und Rücksicht auf deine(n) Hund(e) nehmen musst?
 
-      * dass dein Hund **auch im Freilauf zuverlässig in der Nähe** **bleibt** und auf dich achtet
+      * Würdest Du z. B. Deinen Hund gerne entspannt mit ins Büro, mit zu Freunden oder ins Restaurant nehmen? Doch ist das nicht möglich, da dein Hund ständig gestresst ist und somit immer öfter zuhause bleiben muss? Das macht dich traurig?
 
-      * deinem **ängstlichen Hund Halt und Orientierung** zu bieten
+      * Kann Dein Hund vielleicht nicht gut alleine bleiben und verfällt dann aus Verzweiflung und Stress in "Zerstörungswut" oder bellt und heult die ganze Nachbarschaft zusammen? 
 
-      * wieder **entspannt Besuch zu empfangen,** ohne dass dein Hund die Bude abreißt
+      * Vielleicht reagiert dein Hund auch oft ängstlich, gestresst und / oder aggressiv auf Umweltreize und / oder fremde Menschen? 
 
-      * das **Jagdverhalten deines Hundes besser einschätzen und kontrollieren** zu können
+      * Kannst Du mit Deinem Hund nicht entspannt spazieren gehen, weil er durchweg an der Leine zieht oder Begegnungen mit anderen Hunden immer Stress bedeuten?
 
-      * deinen Hund **im Kontakt mit anderen Hunden** besser einschätzen zu können
-
-      * dass dein Hund **in deiner Abwesenheit entspannt bleibt,** statt zu bellen oder Dinge zu zerstören.
-    heading: Ich unterstütze dich und zeige dir, wie du es schaffst ...
+      * Vielleicht hast Du aber auch gerade erst einen Hund aus dem Tierschutz aufgenommen und sein Verhalten entspricht so gar nicht deinen Vorstellungen?
+    isColored: true
   - type: image
-    width: 1/3
+    width: 1/2
     innerWidth: "1"
     isBanner: false
     isColored: false
     image: img_4087finish.jpg
   - type: image
-    width: 1/3
+    width: 1/2
     innerWidth: "1"
     isBanner: false
     image: img_4432finish.jpg
-  - type: text
-    width: 2/3
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    text: >-
-      Am Beginn unserer Zusammenarbeit steht zunächst ein ausführliches
-      Erstgespräch um uns gegenseitig kennenzulernen. Im Rahmen dieses Termins
-      analysieren wir gemeinsam die Themen und Probleme, die den Alltag mit
-      deinem Hund erschweren.  Wer bist du und wer ist dein Hund? Was macht eure
-      Beziehung aus?
-
-
-      Sofern die Chemie zwischen uns stimmt und wir weiter miteinander arbeiten wollen, formulieren wir im nächsten Schritt eure Trainingsziele und einen realistischen Zeitrahmen, um diese zu erreichen. In den folgenden Stunden erarbeiten wir zusammen einen individuellen Lösungsweg, der sich gut in euren Alltag integrieren lässt. Die einzelnen Termine wählen wir in kleineren oder größeren Abständen, abhängig von der individuellen Problemstellung und deinen Trainingszielen.
-
-
-      Wenn wir miteinander trainieren ist es mir wichtig, dich als Hundehalter fit im Umgang mit deinem Hund zu machen. Fünfer- oder Zehnerkarten für Einzeltrainings wirst Du deshalb in meiner Hundeschule nicht finden. Vielmehr verstehe ich unsere gemeinsamen Termine als Hilfe zur Selbsthilfe.
-
-
-      In der Regel sind nach einem ausführlichen Kennenlernen ca. 4 - 6 Einzelstunden ausreichend, um dir und deinem Hund eine Basis für das weitere Miteinander zu geben und Gelerntes zu vertiefen. Veränderung braucht jedoch Zeit und jedes neu erlernte Verhalten - sowohl beim Menschen als auch beim Hund - entsprechende Wiederholungen, um zu reifen und sich im Alltag zu festigen. Daher möchte ich dir insbesondere meine Trainingspakete ans Herz legen.
-    heading: "Ablauf:"
-  - type: text
-    width: 1/3
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    heading: Exklusives Einzelcoaching Paket
-    text: >-
-      ### Das Paket beinhaltet folgende Leistungen: 
-
-
-      * **1 x ausführliches Erstgespräch (auf Wunsch auch als Hausbesuch)**
-
-      * **5 x Einzeltraining an unterschiedlichen Orten oder auf dem Hundeplatz,
-        je nach individuellem Trainingsziel**
-      * **1 x Check-up Termin in ca. 4-5 Wochen Abstand, zur Überprüfung deines Erfolgs**
-
-
-      **&#43; intensive Betreuung zwischen den Terminen**
-
-
-      **&#43; wöchentliche Online-Sprechstunde über Zoom**
-
-
-      ### Kosten: 499,- Euro (inkl. 19% MwSt.)
-    isColored: true
-  - type: text
-    width: 2/3
-    headingLevel: "3"
-    headingCentered: true
-    isColored: false
-    heading: Bessere Ergebnisse durch intensive Betreuung
-    text: >-
-      Bei Buchung eines Trainingspakets profitierst Du von der (optionalen)
-      Teilnahme an meiner **wöchentlichen Online-Video-Sprechstunde.** Hier hast
-      Du stets die Gelegenheit, dich mit mir auszutauschen und mir Fragen zu
-      stellen, wenn mal etwas unklar sein sollte oder die Umsetzung Zuhause
-      Schwierigkeiten bereitet. Außerdem können wir in diesem Rahmen z. B. die
-      nächsten Trainingsschritte abstimmen, bis wir uns wiedersehen.
-
-
-      Nachdem Du dein erwünschtes Ziel erreicht hast, vereinbaren wir noch einen Termin für einen “Check-Up” mit einigen Wochen Abstand. Eine ideale Gelegenheit für den letzten Feinschliff oder falls Du – was ja nur menschlich wäre - die Dinge in der Zwischenzeit ein bisschen schleifen gelassen hast. Denn es ist mir wichtig, dass Du nicht nur dein Trainingsziel erreichst, sondern dein Alltag mit Hund auch dauerhaft entspannter wird.
-
-
-      Durch die kontinuierliche und intensive Betreuung wird das Training für dich und deinen Hund also maximal effektiv und nachhaltig.
-  - type: text
-    width: 1/3
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    text: >-
-      **Erstgespräch:** **89,- Euro (60-90 Min.)**
-
-
-      **Folgetermin:** **79,- Euro (60 Min.)**
-
-
-      **Hausbesuch: zzgl. 15,- Euro** (im Raum Wachtberg, Meckenheim, Grafschaft, Rheinbach, Swisttal & Alfter - andere Orte auf Anfrage)
-
-
-      Alle Preise inkl. 19% MwSt.
-    heading: Einzelpreise
-    isColored: false
-  - type: text
-    width: 2/3
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    heading: Deine Vorteile auf einen Blick
-    text: >-
-      * **Keine festen Kurse** - die Termine legen wir individuell in Absprache
-      miteinander fest
-
-      * **Individuelles Training** - wir arbeiten an den Themen, die für **dich** und **deinen** Alltag wichtig sind
-
-      * **Alltagsnahes Training** - wir trainieren entweder auf dem Hundeplatz, bei dir zuhause oder in alltagsnahen Situationen, je nach Problemstellung und Trainingsziel
-
-      * **Maximale Effizienz** - du ganz allein bestimmst wie schnell du deine Ziele erreichen willst, ich biete dir den passenden Rahmen. Durch kontinuierliche und intensive Betreuung wird das Training für dich und deinen Hund maximal effektiv und nachhaltig
-
-      * **Festigung des Erlernten** - im Anschluss an das Einzeltraining biete ich dir die Möglichkeit, deine neu erlernten Fähigkeiten unter meiner fachlichen Leitung in Kleingruppen mit anderen Hundehaltern und in alltagsnahen Situationen weiter zu festigen und auszubauen
-    isColored: true
