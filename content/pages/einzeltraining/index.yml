@@ -11,6 +11,16 @@ buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "3"
+    headingCentered: true
+    isColored: false
+    text: Zeigt dein Hund im Alltag unerwünschtes oder problematisches Verhalten,
+      kann das ganz unterschiedliche Gründe haben. Die Ursachen hierfür lassen
+      sich daher in der Regel am effektivsten in einer Verhaltensberatung
+      herausarbeiten und im Einzelcoaching lösen. Im Fokus steht dabei der
+      Aufbau einer vertrauensvollen und belastbaren Mensch-Hund-Beziehung.
+  - type: text
+    width: 1/2
+    headingLevel: "3"
     headingCentered: false
     headingColorPrimary: false
     heading: "Was wünschst Du dir? Stellt dein Hund dich in eurem Alltag immer
@@ -42,3 +52,55 @@ buildingBlocks:
     innerWidth: "1"
     isBanner: false
     image: img_4432finish.jpg
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    text: >-
+      Am Beginn unserer Zusammenarbeit steht zunächst ein ausführliches
+      Erstgespräch um uns gegenseitig kennenzulernen und zu erkennen, ob die
+      Chemie zwischen uns stimmt. Im Rahmen dieses Termins analysieren wir
+      gemeinsam die Themen und Probleme, die den Alltag mit deinem Hund
+      erschweren: Wer bist du und wer ist dein Hund? Was macht eure Beziehung
+      aus? Gemeinsam formulieren wir eine (erste) Zielsetzung und erarbeiten die
+      notwendigen Schritte um diese zu erreichen.
+
+
+      In den folgenden Stunden erarbeiten wir zusammen einen individuellen Lösungsweg, der sich gut in euren Alltag integrieren lässt. Die einzelnen Termine wählen wir in kleineren oder größeren Abständen, abhängig von der individuellen Problemstellung und deinen Trainingszielen. Wichtig ist mir dabei, dich als Hundehalter fit im Umgang mit deinem Hund zu machen, so dass Du handlungsfähig wirst und problematische Situationen zukünftig auch ohne meine Hilfe lösen kannst. Unsere gemeinsamen Termine verstehe ich daher sozusagen als "Hilfe zur Selbsthilfe".
+
+
+      In der Regel sind nach einem ausführlichen Kennenlernen ca. 4 - 6 Einzelstunden ausreichend, um dir und deinem Hund eine gute Basis für das weitere Miteinander zu geben und Gelerntes zu vertiefen. Veränderung braucht jedoch Zeit und jedes neu erlernte Verhalten - sowohl beim Menschen als auch beim Hund - entsprechende Wiederholungen, um zu reifen und sich im Alltag zu festigen. Daher kann es durchaus Sinn machen, sich nach einiger Zeit einen Check-up Termin zu vereinbaren, um vielleicht den letzten Feinschliff anzugehen oder auch neue Ziele zu setzen.
+    heading: Ablauf
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    text: >-
+      In der Regel treffen wir uns für das Erstgespräch zu einem gemeinsamen
+      Spaziergang. Hier bekomme ich meist gleich einen Eindruck von den
+      Herausforderungen deines Alltags. Den Ort für den Spaziergang vereinbaren
+      wir individuell, der Problemstellung und unser beider Terminkalender
+      entsprechend. \
+
+      \
+
+      **Erstgespräch (75 - 90 Min.): 90,- Euro (inkl. 19% MwSt.)**
+
+
+      Weitere Termine vereinbaren wir ebenfalls individuell. Generell steht uns ein 5.000 m² großes und eingezäuntes Trainingsgelände zur Verfügung. In den meisten Fällen bietet sich jedoch ein Termin in "freier Wildbahn" eher an, um einen möglichst hohen Alltagsbezug zu gewährleisten.  
+
+
+      **zusätzliches Einzelcoaching (60 - 70 Min.): 80,- Euro (inkl. 19% MwSt.)**\
+
+      \
+
+      **Für Hausbesuche erhebe ich einen pauschalen Zuschlag i. H. v. 15,- Euro pro Hausbesuch**
+
+
+      Für deine Fragen zwischendurch biete ich darüber hinaus montags abends und mittwochs vormittags Termine für kurze Beratungssessions per Telefon oder via Zoom-Meeting an:
+
+
+      **Beratung via Telefon / Zoom-Meeting (15 Min.): 10,- Euro (inkl. 19% MwSt.)**
+    heading: Angebot und Kosten
