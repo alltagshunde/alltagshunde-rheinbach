@@ -32,6 +32,12 @@ buildingBlocks:
     width: 1/3
     innerWidth: "1"
     image: hundewanderung.jpg
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: leni-unterwegs.jpg
   - headingColorPrimary: false
     heading: Termine 2022
     headingLevel: "2"
