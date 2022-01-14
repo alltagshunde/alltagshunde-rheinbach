@@ -30,7 +30,7 @@ buildingBlocks:
     isColored: false
     image: apportieren.jpg
     heading: Apportieren
-    buttonLink: Apport for Fun
+    buttonLink: Apportieren
     button: Mehr erfahren
   - type: card
     width: 1/3
