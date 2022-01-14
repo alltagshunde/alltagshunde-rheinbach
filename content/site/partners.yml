@@ -1,19 +1,25 @@
 partner:
-  - url: 'https://gesunderhundnowak.de'
+  - url: https://www.cdvet.de/hund/?sPartner=ad821137
+    name: Natürliche Futterergänzung und Pflegemittel
+  - name: Tierarztpraxis Dr. Kerstin & Dr. Jörg Mütze
+    url: https://www.tierarztpraxis-buschhoven.de/
+  - url: https://gesunderhundnowak.de
     name: Gesunder Hund Nowak - THP & Physiotherapie
-  - url: 'https://www.der-waldi.de/'
-    name: Der Waldi - Artgerechtes Hundefutter
-  - name: Hundeschule Dogtime - Annette Panz
-    url: www.dogtime.info
+  - name: Chiropraktik & Akupunktur für Hund & Pferd
+    url: https://tierarztpraxis-ionita.de/
+  - name: Naturavetal - Gesundes Hundefutter
+    url: https://www.naturavetal.de/
+  - name: Pfotenglück in Rheinbach - Schönes und nützliches für den Vierbeiner
+    url: https://pfotenglueck-hunde.de/
+  - url: https://www.der-waldi.de/
+    name: "Der Waldi - Artgerechtes Hundefutter "
   - name: Hundeschule 360° Hund - Petra Schauer
     url: www.360-hundeschule.de
   - name: Hundeschule Bornheim - Andrea Fricke
     url: www.hundeschule-bornheim.de
   - name: Hundebande Bonn - Lisa Pinsdorf
     url: www.hundebande-bonn.de
-  - name: 'Hundetagesstätte Rheinrudel '
+  - name: "Hundetagesstätte Rheinrudel "
     url: www.rheinrudel.de
   - name: Dogwalking - Sven Leidendecker
     url: www.rheinland-hunde.de
-  - name: Dogwalking - Inga Robens
-    url: www.vorgebirgsrudel.de
