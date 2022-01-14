@@ -67,3 +67,19 @@ buildingBlocks:
       eignet sich der Kurs hervorragend, um diese körperlich und geistig fit zu
       halten und auszulasten.
     headingSize: "3"
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: true
+    isColored: false
+    heading: "Ablauf & Kosten: "
+    text: |-
+      **Start:** nächster Schnupperkurs ab 8. Februar 2022
+
+      **Termin**: 5 x jeweils 14-tägig dienstags um 18:15 Uhr
+
+      **Kosten:** 100,- Euro (inkl. MwSt.) pro Mensch-Hund-Team
+
+      **Teilnehmer:** min. 3 und max. 5 Mensch-Hund-Teams
+
+      **Ort:** beleuchtetes Trainingsgelände in 53340 Meckenheim
