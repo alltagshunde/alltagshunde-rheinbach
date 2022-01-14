@@ -52,18 +52,18 @@ buildingBlocks:
     width: 1/3
     innerWidth: "1"
     isColored: false
-    heading: Let's Talk about - Körpersprache Treff
-    buttonLink: Let's talk about ...
-    button: Mehr erfahren
-    image: 148.jpg
-  - type: card
-    width: 1/3
-    innerWidth: "1"
-    isColored: false
     image: mantrailing.jpg
     heading: Mantrailing
     button: Mehr erfahren
     buttonLink: Mantrailing
+  - type: card
+    width: 1/3
+    innerWidth: "1"
+    isColored: false
+    heading: Let's Talk about - Körpersprache Treff
+    buttonLink: Let's talk about ...
+    button: Mehr erfahren
+    image: 148.jpg
   - type: card
     width: 1/3
     innerWidth: "1"
