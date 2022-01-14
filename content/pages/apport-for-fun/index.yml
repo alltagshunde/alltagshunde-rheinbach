@@ -45,6 +45,12 @@ buildingBlocks:
 
 
       Ort: Trainingsgelände Meckenheim und nähere Umgebung (Meckenheim, BN-Röttgen, Wachtberg-Pech)
+
+
+      **Vorausgesetzt wird ein gewisser Grundgehorsam des Hundes:**
+
+
+      Dein Hund sollte auch in Anwesenheit von Artgenossen ansprechbar sein und nicht permanent bellen, wenn die anderen Hunde arbeiten.
     heading: "Schnupperkurs Apportieren "
   - type: image
     width: 1/3
@@ -61,35 +67,3 @@ buildingBlocks:
     innerWidth: 3/4
     isBanner: false
     image: apportieren.jpg
-  - type: text
-    width: 1/3
-    headingLevel: "3"
-    headingCentered: true
-    headingColorPrimary: false
-    heading: "Preise: "
-    text: >-
-      **Einzeln:** 25,00 Euro pro Termin (ca. 60 Min.)
-
-
-      **5er-Karte:** 120,- Euro
-
-
-      **10er-Karte:** 225,- Euro
-
-
-      **Alle Preise verstehen sich inkl. 19 % MwSt. Die 5er- und 10er-Karten können flexibel in allen Beschäftigungskursen eingesetzt werden.** 
-
-
-      Das Training findet auf dem Trainingsgelände in 53340 Meckenheim, sowie an unterschiedlichen Orten in Meckenheim, Rheinbach und Umgebung statt.
-  - type: text
-    width: "1"
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
-    heading: "Voraussetzungen:"
-    text: >-
-      * Benötigt werden zwei gängige Futterbeutel und entsprechendes Futter für
-      deinen Hund.
-
-      * Ein gewisser Grundgehorsam des Hundes ist Voraussetzung: <br/>Dein Hund sollte auch in Anwesenheit von Artgenossen ansprechbar sein und nicht permanent bellen, wenn die anderen Hunde arbeiten.
-    isColored: true
