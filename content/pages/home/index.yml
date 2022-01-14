@@ -83,7 +83,7 @@ buildingBlocks:
   - type: card
     width: 1/4
     innerWidth: null
-    image: hund-zieht-an-der-leine.jpg
+    image: beratung.jpg
     heading: Einzelcoaching & Verhaltensberatung
     button: Mehr erfahren
     buttonLink: "Einzeltraining "
@@ -98,14 +98,14 @@ buildingBlocks:
   - type: card
     width: 1/4
     innerWidth: null
-    image: apportieren.jpg
-    heading: Artgerechte Beschäftigung
-    buttonLink: Beschäftigung
+    image: gh2a2859finish.jpg
+    heading: Seminare & Workshops
+    buttonLink: ""
     button: Mehr erfahren
   - type: card
     width: 1/4
     innerWidth: null
-    image: 4-hunde.jpg
-    heading: Gassiservice & Betreuung
-    buttonLink: Betreuung
+    image: apportieren.jpg
+    heading: Sinnvolle Beschäftigung
+    buttonLink: Beschäftigung
     button: Mehr erfahren
