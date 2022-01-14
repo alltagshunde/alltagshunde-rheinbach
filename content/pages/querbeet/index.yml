@@ -13,15 +13,15 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: true
     isColored: true
-    heading: Die Gruppe für alle die Abwechslung mögen und sich nicht festlegen wollen
+    heading: Das Zirkeltraining für alle die Abwechslung lieben
     text: Spaß und artgerechte Beschäftigung für jeden Hund.
   - type: text
-    width: 2/3
+    width: "1"
     headingLevel: "3"
     headingCentered: true
     isColored: false
     text: >-
-      Crossdogging ist ein klassisches Zirkeltraining: 
+      Crossdogging ist aufgebaut wie ein klassisches Zirkeltraining: 
 
 
       Jeweils zu zweit geht es an eine Station. Während der eine 2 Minuten lang die gestellte Aufgabe so häufig wie möglich bewältigt, zählt der andere die Durchläufe. Danach tauscht das Team. Ist die Station von beiden bewältigt, geht es zur nächsten Station etc. 
