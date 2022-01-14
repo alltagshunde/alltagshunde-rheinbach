@@ -61,7 +61,7 @@ buildingBlocks:
     width: 1/2
     innerWidth: "1"
     isBanner: false
-    image: sally-mantrailing.jpg
+    image: mantrailing_gefunden.jpg
   - type: text
     width: "1"
     headingLevel: "2"
