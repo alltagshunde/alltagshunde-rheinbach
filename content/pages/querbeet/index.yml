@@ -52,3 +52,9 @@ buildingBlocks:
 
       Es sind keine Vorkenntnisse nötig. Ein gewisser Grundgehorsam des Hundes wird jedoch vorausgesetzt.
     heading: "Termine & Kosten: "
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: 023.jpg
