@@ -48,3 +48,26 @@ buildingBlocks:
     innerWidth: 3/4
     isBanner: false
     image: apportieren.jpg
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    heading: "Termine & Kosten: "
+    text: >-
+      **Termin: jeweils 14-tägig samstags 12:00 Uhr (ca. 60 Min.)**
+
+
+      **Start: 12. Februar 2022**
+
+
+      **Kosten: 100,- Euro (inkl. MwSt.)**
+
+
+      Ort: Trainingsgelände Meckenheim und nähere Umgebung (Meckenheim, BN-Röttgen, Wachtberg-Pech)
+
+
+      **Vorausgesetzt wird ein gewisser Grundgehorsam des Hundes:**
+
+
+      Dein Hund sollte auch in Anwesenheit von Artgenossen ansprechbar sein und nicht permanent bellen, wenn die anderen Hunde arbeiten.
