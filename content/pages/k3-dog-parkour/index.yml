@@ -21,14 +21,14 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      Wer hier nun an Muckibude und schweißtreibendes Muskeltraining denkt ist
-      definitiv fehl am Platz. 
+      Wer hier an Muckibude und schweißtreibendes Muskeltraining denkt ist
+      definitiv fehl am Platz.
 
 
-      In meinen Fitnesskursen will ich dich darin unterstützen, die körperliche und geistige Fitness deines Hundes zu erhalten und sogar zu verbessern. Schritt für Schritt zeige ich dir, wie Du mit einfachen und alltagstauglichen Übungen die Muskulatur deines Hundes stärkst und nebenbei seine Koordination und Balance förderst. 
+      Mit meinen Fitnesskursen will ich dich darin unterstützen, die körperliche und geistige Fitness deines Hundes zu erhalten bzw. sogar zu verbessern. Schritt für Schritt zeige ich dir, wie Du mit einfachen und alltagstauglichen Übungen die Muskulatur deines Hundes stärkst und nebenbei seine Koordination und Balance förderst. Dabei lernst Du natürlich einiges über die Anatomie und Muskulatur deines Hundes, außerdem wie Du Verletzungen vorbeugen und was du noch alles tun kannst, um die Hundemuskulatur bis ins hohe Alter zu stärken und fit zu erhalten.
 
 
-      Nebenbei lernst Du natürlich einiges über die Anatomie und Muskulatur deines Hundes, wie Du Verletzungen vorbeugen und was du noch tun kannst, um die Hundemuskulatur bis ins hohe Alter stärken.
+      Das Beste ist, für das Training benötigst du kein teuer ausgestattetes Fitnessstudio. Zwar eignen sich viele Geräte z. B. aus dem Gymnastik oder Physiotherapiebedarf etc. alle Übungen sind jedoch auch mit einfachen Mitteln, die in jedem Haushalt vorkommen umsetzbar. So können Wasserfalschen z. B. als Kegel oder ein Besenstiel statt einer Hindernisstande verwendet werden. In der letzten Stunde des Kurses widmen wir uns sogar insbesondere der Frage, wie wir das Training in den Spaziergang mit einbauen können und welche Utensilien und Hindernisse die Umwelt uns dafür quasi frei Haus bietet.
     headingSize: "3"
     heading: "Warum Hundefitnesstraining? "
   - type: image
@@ -58,14 +58,21 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     heading: Für wen eignet sich das Hundefitnesstraining?
-    text: Das Training eignet sich grundsätzlich für alle Hunde und alle
-      Altersklassen und kann selbstverständlich auch als gemeinsame
-      Beschäftigung fernab von jeglichen Fitnesszielen belegt werden.
-      Insbesondere sind hier jedoch Hunde mit gewissen Einschränkungen des
-      Bewegungsapparats willkommen, bei denen auch eine gewisse gesundheitliche
-      Komponente bzw. Prophylaxe im Vordergrund steht. Und auch für Senioren
-      eignet sich der Kurs hervorragend, um diese körperlich und geistig fit zu
-      halten und auszulasten.
+    text: >-
+      Das Training eignet sich grundsätzlich für Hunde aller Größen und
+      Altersklassen. Selbstverständlich kann es fernab von jeglichen
+      Fitnesszielen einfach als gemeinsame Beschäftigung mit dem Hund angesehen
+      werden. Insbesondere bietet es sich jedoch z. B. für Hunde an, die ein
+      eher schlechtes Körpergefühl besitzen (oftmals junge Hunde sehr großer
+      Rassen oder hyperaktive Hunde). Ebenso empfehlenswert ist ein
+      Fitnesstraining für Hunde die unter gewissen körperlichen Einschränkungen
+      des Bewegungsapparats leiden (z. B. HD / ED / Patella Luxation etc.). Hier
+      geht es um eine gute Prophylaxe, also durch ein regelmäßiges Training die
+      Muskulatur zu stärken bzw. zu erhalten, um eine schmerzhafte Veränderung
+      so lange es geht hinauszuzögern.
+
+
+      Insbesondere eignet sich das Hundefitnesstraining auch für Hundesenioren, um diese körperlich und geistig auszulasten und bis ins hohe Alter fit zu halten.
     headingSize: "3"
   - type: text
     width: "1"
