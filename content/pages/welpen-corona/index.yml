@@ -193,3 +193,9 @@ buildingBlocks:
 
 
       ### Coronabedingt findet das Training derzeit unter der 2G Regelung statt.  Bei Hausbesuchen und in Innenräumen gilt die 2G+ Regel und wir bitten zusätzlich um das Tragen einer Maske. Vielen Dank für dein Verständnis!
+  - type: text
+    width: 1/2
+    headingLevel: "3"
+    headingCentered: true
+    isColored: false
+    heading: Welpenpaket - Das kleine 1x1
