@@ -124,6 +124,52 @@ buildingBlocks:
 
       ### 5er-Karte 60,- Euro; 10er-Karte 100,- Euro (inkl. 19 % MwSt.)
   - type: text
+    width: 1/2
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    heading: Junghundekurs II
+    text: >-
+      für Hunde ab 6-7 Monaten
+
+
+      ### Der Kurs beinhaltet:
+
+
+      **8 x Training auf dem Hundeplatz (45 - 60 Min.)** 
+
+
+      In einer kleinen Gruppe von 4-5 Hunden arbeiten wir daran die Konzentrationsfähigkeit der Hunde weiter steigern und trotz Glitzerknete im Kopf und Ablenkung zunehmend verbindlicher auf seinen Menschen zu achten. Im Vordergrund stehen dabei eine gute Leinenführigkeit und der Aufbau eines sicheren Rückrufs. 
+
+
+      Um einen hohen Alltagsbezug zu gewährleisten und die Ablenkung zu steigern, findet das Training nun auch zunehmend außerhalb des Hundeplatzes in Feld & Wald oder auch mal in der City (Meckenheim oder Rheinbach) statt.
+
+
+      ### Kosten: 189,- Euro (inkl. 19 % MwSt.)
+  - type: text
+    width: 1/2
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    text: >-
+      für Hunde ab 8-9 Monaten
+
+
+      ### Der Kurs beinhaltet:
+
+
+      **8 x Training in der Kleingruppe (45 - 60 Min.)** 
+
+
+      Die Hunde haben inzwischen gelernt sich mit und ohne Leine verbindlich an ihren Menschen zu orientieren. Nun schießen die Hormone quer und es gilt Ruhe zu bewahren und konsequent zu bleiben.  Im sicheren Rahmen der Gruppe nutzen wir die Ablenkung um weiter am Rückruf unter höherer Ablenkung und größerer Distanz, sowie der Leinenführigkeit und Freifolge in Gegenwart der anderen Hunde zu arbeiten.  
+
+
+      Um einen hohen Alltagsbezug zu gewährleisten und die Ablenkung zu steigern, findet das Training nun auch zunehmend außerhalb des Hundeplatzes in Feld & Wald oder auch mal in der City (Meckenheim oder Rheinbach) statt.
+
+
+      ### Kosten: 189,- Euro (inkl. 19 % MwSt.)
+    heading: Junghundekurs III (14-tägig)
+  - type: text
     width: "1"
     headingLevel: "3"
     headingCentered: false
@@ -172,49 +218,3 @@ buildingBlocks:
 
       ### 5er-Karte 60,- Euro; 10er-Karte 100,- Euro (inkl. 19 % MwSt.)
     heading: Zusätzliche Beratung und Unterstützung
-  - type: text
-    width: 1/2
-    headingLevel: "3"
-    headingCentered: false
-    isColored: false
-    heading: Junghundekurs II
-    text: >-
-      für Hunde ab 6-7 Monaten
-
-
-      ### Der Kurs beinhaltet:
-
-
-      **8 x Training auf dem Hundeplatz (45 - 60 Min.)** 
-
-
-      In einer kleinen Gruppe von 4-5 Hunden arbeiten wir daran die Konzentrationsfähigkeit der Hunde weiter steigern und trotz Glitzerknete im Kopf und Ablenkung zunehmend verbindlicher auf seinen Menschen zu achten. Im Vordergrund stehen dabei eine gute Leinenführigkeit und der Aufbau eines sicheren Rückrufs. 
-
-
-      Um einen hohen Alltagsbezug zu gewährleisten und die Ablenkung zu steigern, findet das Training nun auch zunehmend außerhalb des Hundeplatzes in Feld & Wald oder auch mal in der City (Meckenheim oder Rheinbach) statt.
-
-
-      ### Kosten: 189,- Euro (inkl. 19 % MwSt.)
-  - type: text
-    width: 1/2
-    headingLevel: "3"
-    headingCentered: false
-    isColored: false
-    text: >-
-      für Hunde ab 8-9 Monaten
-
-
-      ### Der Kurs beinhaltet:
-
-
-      **8 x Training in der Kleingruppe (45 - 60 Min.)** 
-
-
-      Die Hunde haben inzwischen gelernt sich mit und ohne Leine verbindlich an ihren Menschen zu orientieren. Nun schießen die Hormone quer und es gilt Ruhe zu bewahren und konsequent zu bleiben.  Im sicheren Rahmen der Gruppe nutzen wir die Ablenkung um weiter am Rückruf unter höherer Ablenkung und größerer Distanz, sowie der Leinenführigkeit und Freifolge in Gegenwart der anderen Hunde zu arbeiten.  
-
-
-      Um einen hohen Alltagsbezug zu gewährleisten und die Ablenkung zu steigern, findet das Training nun auch zunehmend außerhalb des Hundeplatzes in Feld & Wald oder auch mal in der City (Meckenheim oder Rheinbach) statt.
-
-
-      ### Kosten: 189,- Euro (inkl. 19 % MwSt.)
-    heading: Junghundekurs III (14-tägig)
