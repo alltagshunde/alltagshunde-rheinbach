@@ -21,11 +21,10 @@ buildingBlocks:
     isColored: true
     heading: ""
     text: >-
-      #### Ein Welpe zieht ein und stellt deine Welt damit erstmal ordentlich
-      auf den Kopf. Alle sind total aufgeregt und freuen sich. 
-
-
-      #### Natürlich möchtest Du von Beginn an alles richtig machen. Doch bald tauchen erste Fragezeichen auf:
+      ### Ein Welpe zieht ein und stellt deine Welt damit erstmal ordentlich auf
+      den Kopf. Alle sind total aufgeregt und freuen sich. Natürlich möchtest Du
+      von Beginn an alles richtig machen. Doch bald tauchen erste Fragezeichen
+      auf:
 
 
       * Was sollte mein Welpe für den Alltag lernen und wie konfrontiere ich ihn damit?
@@ -39,7 +38,7 @@ buildingBlocks:
       * Wie viel Ruhe und Schlaf braucht mein Welpe am Tag und wie bekomme ich ihn überhaupt dazu, auch mal auszuruhen?
 
 
-      #### In meinem Welpenkurs erhältst Du Antworten auf alle Deine Fragen für die aktuelle Lebensphase deines kleinen Hundes.
+      ### In meinem Welpenkurs erhältst Du Antworten auf alle Deine Fragen für die aktuelle Lebensphase deines kleinen Hundes.
   - type: image
     width: 1/3
     innerWidth: "1"
