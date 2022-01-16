@@ -13,8 +13,14 @@ buildingBlocks:
     width: "1"
     headingLevel: "3"
     headingCentered: true
-    isColored: false
+    isColored: true
     heading: "Junghundealter und Pubertät ... Leben am Limit? "
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: true
+    isColored: false
+    heading: ""
     text: >-
       Dein kleiner Welpe hat sich inzwischen zu einem fröhlichen Jungspund
       gemausert. Stets gut gelaunt, fröhlich und ohne Sorgen scheint er ganz
