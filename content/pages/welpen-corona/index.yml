@@ -186,13 +186,13 @@ buildingBlocks:
 
       ### Kosten: 299,- Euro (inkl. 19 % MwSt.)
   - type: image
-    width: "1"
+    width: 1/3
     innerWidth: "1"
     isBanner: false
     isColored: false
     image: socke-und-wallie.jpg
   - type: image
-    width: "1"
+    width: 1/3
     innerWidth: "1"
     isBanner: false
     isColored: false
