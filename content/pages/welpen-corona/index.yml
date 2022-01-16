@@ -244,3 +244,9 @@ buildingBlocks:
     isBanner: false
     isColored: false
     image: edda-ruckruf.jpg
+  - type: image
+    width: "1"
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: welpen-socke-u.-wallie.jpg
