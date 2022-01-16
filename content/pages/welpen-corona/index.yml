@@ -238,3 +238,9 @@ buildingBlocks:
     isBanner: false
     isColored: false
     image: edda-und-charly.jpg
+  - type: image
+    width: "1"
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: edda-ruckruf.jpg
