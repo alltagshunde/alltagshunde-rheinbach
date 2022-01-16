@@ -12,7 +12,7 @@ buildingBlocks:
     width: "1"
     headingLevel: "3"
     headingCentered: true
-    isColored: false
+    isColored: true
     heading: Der Wunsch von Beginn an alles richtig zu machen ...
   - type: text
     width: 2/3
