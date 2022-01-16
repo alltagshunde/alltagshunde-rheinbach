@@ -35,6 +35,12 @@ buildingBlocks:
 
 
       Ich bin der festen Überzeugung, dass Erziehung und Beziehung sich gegenseitig bedingen und somit liegt es mir besonders am Herzen, dich in der Gestaltung einer belastbaren Beziehungsstruktur zwischen dir und deinem Hund und hin zu einem respektvollem und vertrauensvollen Miteinander zu begleiten. Wichtig ist es mir außerdem, deinen Hund in der Entwicklung gesunder Selbstregulationsmechanismen (Frustrationstoleranz und Impulskontrolle) zu unterstützen, die ihm helfen werden zufrieden und gelassen durchs Leben zu gehen.
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: fergie.jpg
   - type: text
     width: "1"
     headingLevel: "3"
@@ -205,9 +211,3 @@ buildingBlocks:
 
       ### Kosten: 189,- Euro (inkl. 19 % MwSt.)
     heading: Junghundekurs III (14-tägig)
-  - type: image
-    width: 1/3
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: fergie.jpg
