@@ -185,6 +185,24 @@ buildingBlocks:
 
 
       ### Kosten: 299,- Euro (inkl. 19 % MwSt.)
+  - type: image
+    width: "1"
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: socke-und-wallie.jpg
+  - type: image
+    width: "1"
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: edda-ruckruf.jpg
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: edda-und-charly.jpg
   - type: text
     width: 1/2
     headingLevel: "3"
@@ -232,21 +250,3 @@ buildingBlocks:
 
 
       ### Coronabedingt findet das Training derzeit unter der 2G Regelung statt.  Bei Hausbesuchen und in Innenräumen gilt die 2G+ Regel und wir bitten zusätzlich um das Tragen einer Maske. Vielen Dank für dein Verständnis!
-  - type: image
-    width: 1/3
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: edda-und-charly.jpg
-  - type: image
-    width: "1"
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: edda-ruckruf.jpg
-  - type: image
-    width: "1"
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: welpen-socke-u.-wallie.jpg
