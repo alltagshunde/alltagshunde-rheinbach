@@ -230,3 +230,9 @@ buildingBlocks:
     isBanner: false
     isColored: false
     image: gulliver-und-fergie.jpg
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: manuela-nano.jpg
