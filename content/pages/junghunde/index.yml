@@ -42,27 +42,6 @@ buildingBlocks:
     isColored: false
     image: fergie.jpg
   - type: text
-    width: "1"
-    headingLevel: "3"
-    headingCentered: true
-    isColored: false
-    heading: ""
-    text: >-
-      Dein kleiner Welpe hat sich inzwischen zu einem fröhlichen Jungspund
-      gemausert. Stets gut gelaunt, fröhlich und ohne Sorgen scheint er ganz
-      zufrieden mit sich und der Welt zu sein. Du dagegen betrachtest
-      sorgenvoll, wie sich der Radius deines Jungspundes vergrößert und der
-      Rückruf hat auch schonmal besser geklappt? 
-
-
-      Kein Grund zur Panik!  Ich unterstütze dich auch in dieser wilden Zeit und zeige dir, wie Du trotz temporärem Durchzug im Kopf deines Hundes konsequent bleibst und deinem kleinen Flegel sinnvolle Grenzen setzt. 
-
-
-      In meinen Junghundekursen geht es zum einen darum, die Konzentrationsfähigkeit der jungen Hunde langsam zu steigern und die bereits erlernten Fertigkeiten weiter auszubauen. Die Grundkommandos (Sitz, Platz, Nein, Aus etc.) werden unter steigender Ablenkung weiter gefestigt und zunehmend verbindlich. 
-
-
-      Ich bin der festen Überzeugung, dass Erziehung und Beziehung sich gegenseitig bedingen. Daher liegt es mir besonders am Herzen, dich in der Gestaltung der Beziehung zwischen dir und deinem Hund, hin zu einem respektvollem und vertrauensvollen Miteinander zu begleiten. Wichtig ist mir außerdem, deinen Hund in der Entwicklung gesunder Selbstregulationsmechanismen (Frustrationstoleranz und Impulskontrolle) zu unterstützen, damit er zufrieden und gelassen durchs Leben gehen kann.
-  - type: text
     width: 1/2
     headingLevel: "3"
     headingCentered: false
@@ -149,21 +128,51 @@ buildingBlocks:
     headingCentered: false
     isColored: false
     text: >-
-      Solltest Du dir weitere Unterstützung während der Junghundezeit wünschen,
-      hast Du als Teilnehmer der Junghundekurse selbstverständlich die
-      Möglichkeit jederzeit weitere Einzelcoachings bei mir vor Ort oder bei dir
-      Zuhause bzw. einem Ort deiner Wahl zu buchen: 
+      ### für Welpen ab 9 Wochen
 
 
-      * **zusätzliches Einzelcoaching vor Ort (60 Min.): 60,- Euro (inkl. 19% MwSt.)**
-
-      * **zusätzliches Einzelcoaching als Hausbesuch (60 Min.): 80,- Euro (inkl. 19% MwSt.)** 
+      ### Hier lernst Du ...
 
 
-      Für deine Fragen zwischendurch biete ich darüber hinaus montags abends und mittwochs vormittags Termine für kurze Beratungssessions per Telefon oder via Zoom-Meeting an: 
+      * ... das Spiel unter den Welpen richtig einzuschätzen
+
+      * ... wie du deinem Hund Schutz bietest 
+
+      * ... in welchen Situationen du deinen Hund begrenzen solltest 
 
 
-      * **Beratung via Telefon / Zoom-Meeting: 10,- Euro je 15 Min. (inkl. 19% MwSt.)**
+      ### Hier lernt dein Hund...
+
+
+      * ... sich Artgenossen gegenüber angemessen zu verhalten
+
+      * ... dass er auch mal "Nein" sagen darf bzw. 
+
+      * ... dich um Unterstützung zu bitten, wenn er sich bedrängt fühlt
+
+      * ... wie man das "Nein" eines anderen Hundes akzeptiert
+
+      * ... dass man erst loslaufen darf, wenn man ruhig ist
+
+      * ... dass man anderen auch mal beim Spielen zuschauen kann, ohne auszuflippen
+
+
+      ### Wann, wer & wo? 
+
+
+      * Jeweils dienstags um 16:30 Uhr (ca. 30 Min.), sowie 14-tägig samstags um 11:00 Uhr 
+
+      * Für Junghunde ab 5 Monaten
+
+      * Nur exklusiv für Teilnehmer*innen der Junghundekurse buchbar.
+
+      * Teilnahme nur nach vorheriger Anmeldung (maximal 6 Teams)
+
+
+      ### Kosten: 15,00 Euro pro Teilnahme einzeln;
+
+
+      ### 5er-Karte 60,- Euro; 10er-Karte 100,- Euro (inkl. 19 % MwSt.)
     heading: Zusätzliche Beratung und Unterstützung
   - type: text
     width: 1/2
