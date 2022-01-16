@@ -34,7 +34,7 @@ buildingBlocks:
 
       #### In meinem Welpenpaket erhältst Du Antworten auf alle Deine Fragen für die aktuelle Lebensphase deines kleinen Hundes.
   - type: text
-    width: "1"
+    width: 1/2
     headingLevel: "3"
     headingCentered: true
     isColored: false
@@ -51,14 +51,14 @@ buildingBlocks:
       Hier zeige ich dir erste praktische Übungen, die du mit deinem Welpen natürlich direkt vor Ort umsetzen und zuhause weiter festigen kannst, damit aus deinem Hund ein toller Alltagsbegleiter wird.
 
 
-      **+ Exklusiv für dich als Teilnehmer des Welpenkurs erhältst Du “Das Buch zur Welpengruppe”**
+      **+ Exklusiv für dich als Teilnehmer des Welpenkurs erhältst Du “Das Buch zum Welpenkurs”**
 
 
       In diesem kleinen Büchlein bekommst Du hilfreiche Tipps für die ersten Tage mit deinem Welpen bei dir zuhause und natürlich Rat und Antwort auf die häufigsten Fragen und Themen wie Stubenreinheit, Beißhemmung, Alleine bleiben, Spiel und Beschäftigung mit deinem Welpen. Außerdem erhältst Du nochmal ausführliche Trainingsanleitungen für die wichtigsten Übungen aus dem Welpenkurs zum Nachmachen für Zuhause oder falls Du mal eine Stunde verpasst haben sollest.
 
 
       ### Kosten: 189,- Euro (inkl. 19 % MwSt.)
-    heading: Welpenkurs - Das kleine 1x1
+    heading: Welpenkurs
   - type: text
     width: 1/2
     headingLevel: "3"
