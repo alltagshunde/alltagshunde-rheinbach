@@ -115,6 +115,24 @@ buildingBlocks:
 
 
       ### 8er-Karte 80,- Euro (inkl. 19 % MwSt.)
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: socke-und-wallie.jpg
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: edda-ruckruf.jpg
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: edda-und-charly.jpg
   - type: text
     width: 1/2
     headingLevel: "3"
@@ -185,24 +203,6 @@ buildingBlocks:
 
 
       ### Kosten: 299,- Euro (inkl. 19 % MwSt.)
-  - type: image
-    width: 1/3
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: socke-und-wallie.jpg
-  - type: image
-    width: 1/3
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: edda-ruckruf.jpg
-  - type: image
-    width: 1/3
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: edda-und-charly.jpg
   - type: text
     width: 1/2
     headingLevel: "3"
