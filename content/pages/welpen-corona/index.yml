@@ -39,7 +39,7 @@ buildingBlocks:
     innerWidth: "1"
     isBanner: false
     isColored: false
-    image: welpe-charly-traumt.jpg
+    image: welpengruppe-charly-hort-zu.jpg
   - type: text
     width: 1/2
     headingLevel: "3"
