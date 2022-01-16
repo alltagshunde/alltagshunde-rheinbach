@@ -118,7 +118,7 @@ buildingBlocks:
   - type: text
     width: 1/2
     headingLevel: "3"
-    headingCentered: true
+    headingCentered: false
     isColored: false
     heading: Welpenpaket - Das kleine 1x1
     text: >-
@@ -186,7 +186,7 @@ buildingBlocks:
 
       ### Kosten: 299,- Euro (inkl. 19 % MwSt.)
   - type: text
-    width: "1"
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
     isColored: false
@@ -208,7 +208,7 @@ buildingBlocks:
       * **Beratung via Telefon / Zoom-Meeting: 10,- Euro je 15 Min. (inkl. 19% MwSt.)**
     heading: "Zusätzliche Beratung und Unterstützung:"
   - type: text
-    width: "1"
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
     isColored: false
