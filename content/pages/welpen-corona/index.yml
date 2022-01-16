@@ -9,6 +9,12 @@ buildingBlocks:
     isColored: false
     heading: Welpenzeit
   - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: true
+    isColored: false
+    heading: Der Wunsch von Beginn an alles richtig zu machen ...
+  - type: text
     width: 2/3
     headingLevel: "3"
     headingCentered: true
