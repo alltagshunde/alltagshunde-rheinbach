@@ -53,7 +53,7 @@ buildingBlocks:
     image: p1170237.jpg
     isColored: true
   - type: text
-    width: "1"
+    width: 2/3
     headingLevel: "2"
     headingCentered: false
     headingColorPrimary: false
@@ -77,11 +77,11 @@ buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "3"
-    headingCentered: true
+    headingCentered: false
     isColored: false
     heading: "Ablauf & Kosten: "
     text: |-
-      **Start:** nächster Schnupperkurs ab 8. Februar 2022
+      **Start:** nächster Einsteigerkurs ab 8. Februar 2022
 
       **Termin**: 5 x jeweils 14-tägig dienstags um 18:15 Uhr
 
