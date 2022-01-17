@@ -112,8 +112,8 @@ buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "3"
-    headingCentered: true
-    isColored: false
+    headingCentered: false
+    isColored: true
     heading: ""
     text: >-
       ### Social Walk
@@ -142,7 +142,7 @@ buildingBlocks:
     width: "1"
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     text: >-
       ### Krimiwanderung - Oster Special
 
@@ -170,7 +170,7 @@ buildingBlocks:
     width: "1"
     headingLevel: "2"
     headingCentered: false
-    isColored: false
+    isColored: true
     text: >-
       ### Kräuterwanderung
 
@@ -200,8 +200,8 @@ buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "3"
-    headingCentered: true
-    isColored: false
+    headingCentered: false
+    isColored: true
     text: >-
       ### Social Walk
 
