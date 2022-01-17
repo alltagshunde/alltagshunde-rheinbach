@@ -56,8 +56,8 @@ buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "3"
-    headingCentered: true
-    isColored: false
+    headingCentered: false
+    isColored: true
     text: >-
       ### Social Walk
 
