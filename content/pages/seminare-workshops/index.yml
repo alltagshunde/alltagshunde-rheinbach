@@ -11,13 +11,13 @@ buildingBlocks:
     width: "1"
     headingLevel: "1"
     headingCentered: true
-    isColored: false
+    isColored: true
     heading: Termine 2022
     text: ""
   - type: text
     width: "1"
-    headingLevel: "3"
-    headingCentered: true
+    headingLevel: "2"
+    headingCentered: false
     isColored: false
     text: >-
       In diesem Workshop beschäftigen wir uns intensiv mit der eigenen
@@ -45,9 +45,9 @@ buildingBlocks:
     heading: "Workshop: Kommunikation & Körpersprache Mensch-Hund"
   - type: text
     width: "1"
-    headingLevel: "1"
-    headingCentered: true
-    isColored: false
+    headingLevel: "2"
+    headingCentered: false
+    isColored: true
     heading: "Workshop: Wer ist denn eigentlich mein Hund?"
     text: >-
       Du hast deinen Hund noch nicht so lange oder hast manchmal das Gefühl, als
