@@ -17,22 +17,64 @@ buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "2"
-    headingCentered: false
+    headingCentered: true
     isColored: false
+    heading: Mantrailing Tagesworkshop mit Carolin Henseler & Yvonne Glanzer
     text: >-
-      In diesem Workshop beschäftigen wir uns intensiv mit der eigenen
-      Körpersprache und der unserer Hunde. 
+      Vormittags werden kurze Trails zum Kennenlernen der Teams und des
+      jeweiligen Trainingsstands gearbeitet. Nach der Mittagspause werden wir
+      dann an die Teams angepasste Trails mit unterschiedlichem
+      Schwierigkeitsgrad legen. 
 
 
-      Was haben die Körpersprache von Hunden und Menschen gemeinsam und worin unterscheiden wir uns? Warum ist das überhaupt wichtig? Wie reagiert dein Hund auf deine Körpersprache und welche Signale sendest du ich ihm eigentlich?
+      Bei den Trails versuchen wir an den meist sehr kleinen Fehlerquellen zu arbeiten und werden darauf eingehen, wie die Kommunikationsprobleme zwischen euch und eurem Hund entstehen und wie Ihr im weiteren Verlauf daran arbeiten könnt.
 
 
-      Die Ergebnisse werden wir sofort umsetzen und mit den Hunden spannende „Gespräche" führen“, die sicherlich für das ein oder andere Aha-Erlebnis sorgen werden.  
+      Das Seminar ist sowohl für Anfänger als auch „Profis“ geeignet, die Hunde sollten jedoch bereits angetrailt sein. 
 
 
+      Da die Hunde beim Mantrailing einzeln arbeiten und Zeit zum Verarbeiten brauchen, sollten sie es gewohnt sein zwischen den Trails im Auto zu warten.
 
 
-      **Termin:** Samstag 23. April 2022, 12:00 - 15:00 Uhr (inkl. Pausen)
+      **Termin:** Sonntag 27. März 2022, 9:30 - 17:00 Uhr (inkl. Pause)
+
+
+      **Teilnehmer:** min. 5 und max. 8 Mensch-Hund-Teams
+
+
+      **Kosten:** 120,00 Euro pro Mensch-Hund-Team
+
+
+      **Ort:** Koblenz
+
+
+      **Anmeldung:** telefonisch unter 0176 - 61711772 oder per E-Mail an caro@alltagshunde-rheinbach.de
+  - type: text
+    width: "1"
+    headingLevel: "2"
+    headingCentered: false
+    isColored: true
+    text: >-
+      Du hast deinen Hund noch nicht so lange oder hast manchmal das Gefühl, als
+      könntest Du ihn nicht immer richtig einschätzen? 
+
+
+      In diesem Workshop wirst du ihn (neu) kennenlernen! Wir stellen hier einmal jeden Hund ins Rampenlicht und widmen uns jeder anwesenden Hundepersönlichkeit ganz ausführlich. Dabei werden wir z. B. Fragen klären wie: 
+
+
+      * Wie gesellig ist dein Hund? 
+
+      * Ist er ein Draufgänger oder eher zurückhaltend? 
+
+      * Wie löst er Probleme? 
+
+      * Welche Rolle spielst Du als sein Mensch dabei für ihn? 
+
+
+      Am Ende wagen wir gemeinsam eine Charaktereinschätzung und werden vielleicht überrascht sein. 
+
+
+      **Termin:** Samstag 7. Mai 2022, 12:00 - 15:00 Uhr (inkl. Pausen)
 
 
       **Teilnehmer:** min. 3 und max. 5 Mensch-Hund-Teams
@@ -42,12 +84,15 @@ buildingBlocks:
 
 
       **Ort:** Trainingsgelände in 53340 Meckenheim
+
+
+      **Anmeldung:** telefonisch unter 0176 - 61711772 oder per E-Mail an caro@alltagshunde-rheinbach.de
     heading: "Workshop: Kommunikation & Körpersprache Mensch-Hund"
   - type: text
     width: "1"
     headingLevel: "2"
     headingCentered: false
-    isColored: true
+    isColored: false
     heading: "Workshop: Wer ist denn eigentlich mein Hund?"
     text: >-
       Du hast deinen Hund noch nicht so lange oder hast manchmal das Gefühl, als
@@ -69,8 +114,6 @@ buildingBlocks:
       Am Ende wagen wir gemeinsam eine Charaktereinschätzung und werden vielleicht überrascht sein. 
 
 
-
-
       **Termin:** Samstag 7. Mai 2022, 12:00 - 15:00 Uhr (inkl. Pausen)
 
 
@@ -81,3 +124,6 @@ buildingBlocks:
 
 
       **Ort:** Trainingsgelände in 53340 Meckenheim
+
+
+      **Anmeldung:** telefonisch unter 0176 - 61711772 oder per E-Mail an caro@alltagshunde-rheinbach.de
