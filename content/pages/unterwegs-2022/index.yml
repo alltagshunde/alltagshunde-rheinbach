@@ -112,6 +112,34 @@ buildingBlocks:
       **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
   - type: text
     width: "1"
+    headingLevel: "2"
+    headingCentered: false
+    isColored: true
+    text: >-
+      ### Social Walk 
+
+
+      ### Sonntag 26. Juni 2022, 15:00 Uhr (Dauer ca. 2 Stunden)
+
+
+      **Start: Parkplatz “Waldgaststätte Bahnhof Kottenforst” in 53840 Meckenheim**
+
+
+      Bei diesem Spaziergang liegt der Schwerpunkt auf dem kontrollierten Kontakt zu Hund und Mensch. Es sind daher auch ausdrücklich Hunde willkommen, die Schwierigkeiten im Kontakt mit Artgenossen haben. Das Ziel dieses Spaziergangs in kleiner Runde ist es, kontrollierte Begegnungen zwischen den einzelnen Hunden zuzulassen und sie dabei zu unterstützen, angemessen mit ihren Artgenossen zu kommunizieren. Dabei sollen vor allem auch die Besitzer die Möglichkeit haben, ihren Hund immer wieder einzuschätzen, die Kommunikation der Hunde zu erleben und ihre Vierbeiner vielleicht auch neu kennenzulernen.
+
+
+      **Teilnahmevoraussetzung:**
+
+
+      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Hunde mit sozialen Unverträglichkeiten sind ebenfalls und ausdrücklich willkommen, müssen jedoch mit einem gut sitzenden Maulkorb gesichert werden. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
+
+
+      **Kosten: 25,00 Euro pro Mensch-Hund-Team oder ein Feld auf deiner 10er-Karte**
+
+
+      **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
+  - type: text
+    width: "1"
     headingLevel: "3"
     headingCentered: false
     isColored: true
@@ -163,34 +191,6 @@ buildingBlocks:
 
 
       **Kosten: 25,00 Euro pro Mensch-Hund-Team oder ein Feld auf deiner 10er-Karte, Begleitperson gratis**
-
-
-      **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
-  - type: text
-    width: "1"
-    headingLevel: "2"
-    headingCentered: false
-    isColored: true
-    text: >-
-      ### Social Walk 
-
-
-      ### Sonntag 26. Juni 2022, 15:00 Uhr (Dauer ca. 2 Stunden)
-
-
-      **Start: Parkplatz “Waldgaststätte Bahnhof Kottenforst” in 53840 Meckenheim**
-
-
-      Bei diesem Spaziergang liegt der Schwerpunkt auf dem kontrollierten Kontakt zu Hund und Mensch. Es sind daher auch ausdrücklich Hunde willkommen, die Schwierigkeiten im Kontakt mit Artgenossen haben. Das Ziel dieses Spaziergangs in kleiner Runde ist es, kontrollierte Begegnungen zwischen den einzelnen Hunden zuzulassen und sie dabei zu unterstützen, angemessen mit ihren Artgenossen zu kommunizieren. Dabei sollen vor allem auch die Besitzer die Möglichkeit haben, ihren Hund immer wieder einzuschätzen, die Kommunikation der Hunde zu erleben und ihre Vierbeiner vielleicht auch neu kennenzulernen.
-
-
-      **Teilnahmevoraussetzung:**
-
-
-      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Hunde mit sozialen Unverträglichkeiten sind ebenfalls und ausdrücklich willkommen, müssen jedoch mit einem gut sitzenden Maulkorb gesichert werden. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
-
-
-      **Kosten: 25,00 Euro pro Mensch-Hund-Team oder ein Feld auf deiner 10er-Karte**
 
 
       **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
