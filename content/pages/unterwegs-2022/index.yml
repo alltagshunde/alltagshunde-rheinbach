@@ -86,7 +86,7 @@ buildingBlocks:
     width: "1"
     headingLevel: "3"
     headingCentered: false
-    isColored: true
+    isColored: false
     text: >-
       ### Kräuterwanderung
 
@@ -109,7 +109,7 @@ buildingBlocks:
       **Kosten: 25,00 Euro pro Mensch-Hund-Team oder ein Feld auf deiner 10er-Karte**
 
 
-      **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
+      **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
   - type: text
     width: "1"
     headingLevel: "2"
@@ -142,7 +142,7 @@ buildingBlocks:
     width: "1"
     headingLevel: "3"
     headingCentered: false
-    isColored: true
+    isColored: false
     text: >-
       ### Sommer - Social Walk
 
@@ -221,12 +221,12 @@ buildingBlocks:
       **Kosten: 25,00 Euro pro Mensch-Hund-Team oder ein Feld auf Eurer 10er-Karte, Begleitperson gratis**
 
 
-      **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
+      **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
   - type: text
     width: "1"
     headingLevel: "3"
-    headingCentered: true
-    isColored: false
+    headingCentered: false
+    isColored: true
     text: >-
       ### Social Walk
 
@@ -253,7 +253,7 @@ buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "2"
-    headingCentered: true
+    headingCentered: false
     isColored: false
     text: >-
       ### Nikolauswanderung
@@ -285,7 +285,7 @@ buildingBlocks:
     width: "1"
     headingLevel: "2"
     headingCentered: false
-    isColored: false
+    isColored: true
     text: >-
       ### Krimiwanderung
 
