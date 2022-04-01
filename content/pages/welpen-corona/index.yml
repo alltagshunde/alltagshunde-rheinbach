@@ -19,7 +19,7 @@ buildingBlocks:
     width: 2/3
     headingLevel: "3"
     headingCentered: true
-    isColored: true
+    isColored: false
     heading: ""
     text: >-
       ### So ein kleiner Welpe stellt deine Welt damit erstmal ordentlich auf
@@ -43,7 +43,7 @@ buildingBlocks:
     width: 1/3
     innerWidth: "1"
     isBanner: false
-    isColored: false
+    isColored: true
     image: welpengruppe-charly-hort-zu.jpg
   - type: text
     width: 1/2
@@ -125,19 +125,19 @@ buildingBlocks:
     width: 1/3
     innerWidth: "1"
     isBanner: false
-    isColored: false
+    isColored: true
     image: socke-und-wallie.jpg
   - type: image
     width: 1/3
     innerWidth: "1"
     isBanner: false
-    isColored: false
+    isColored: true
     image: edda-ruckruf.jpg
   - type: image
     width: 1/3
     innerWidth: "1"
     isBanner: false
-    isColored: false
+    isColored: true
     image: edda-und-charly.jpg
   - type: text
     width: 1/2
@@ -207,7 +207,7 @@ buildingBlocks:
     width: 1/2
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     text: >-
       Solltest Du dir weitere Unterstützung während der Junghundezeit wünschen,
       hast Du als Teilnehmer der Junghundekurse selbstverständlich die
@@ -229,7 +229,7 @@ buildingBlocks:
     width: 1/2
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     text: >-
       ### Das Praxis-Training findet auf dem Trainingsgelände in 53340
       Meckenheim statt
