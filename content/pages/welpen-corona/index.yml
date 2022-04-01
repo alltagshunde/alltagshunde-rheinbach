@@ -14,7 +14,7 @@ buildingBlocks:
     headingCentered: true
     isColored: true
     heading: "Ein Welpe zieht ein ... "
-    text: ... und mit ihm der Wunsch, von Beginn an alles richtig zu machen.
+    text: "**... und mit ihm der Wunsch, von Beginn an alles richtig zu machen.**"
   - type: text
     width: 2/3
     headingLevel: "3"
