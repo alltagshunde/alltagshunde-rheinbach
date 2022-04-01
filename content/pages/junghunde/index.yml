@@ -14,7 +14,8 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: true
     isColored: true
-    heading: "Junghundealter und Pubertät ... Leben am Limit? "
+    heading: "Goodbye kleiner Welpe, willkommen Jungspund! "
+    text: "**Pubertät ... Leben am Limit?**"
   - type: text
     width: 2/3
     headingLevel: "3"
