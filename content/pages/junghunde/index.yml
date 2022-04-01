@@ -46,7 +46,7 @@ buildingBlocks:
     width: 1/2
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     heading: Junghundekurs I
     text: >-
       für Hunde ab 4-5 Monaten
@@ -78,7 +78,7 @@ buildingBlocks:
     width: 1/2
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     heading: Junghunde Kläff-Treff
     text: >-
       für Junghunde ab 5 Monaten
@@ -146,7 +146,7 @@ buildingBlocks:
     width: 1/2
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     heading: Junghundekurs II
     text: >-
       ### JUNGHUNDEKURS II
@@ -172,7 +172,7 @@ buildingBlocks:
     width: 1/2
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     text: >-
       ### JUNGHUNDEKURS III (14-TÄGIG)
 
