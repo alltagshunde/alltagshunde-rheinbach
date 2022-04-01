@@ -126,7 +126,7 @@ buildingBlocks:
     width: "1"
     headingLevel: "2"
     headingCentered: false
-    isColored: false
+    isColored: true
     text: >-
       In diesem Workshop beschäftigen wir uns intensiv mit der eigenen
       Körpersprache und der unserer Hunde. Was haben die Körpersprache von
