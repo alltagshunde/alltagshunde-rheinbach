@@ -41,7 +41,7 @@ buildingBlocks:
     isColored: true
     heading: "Termine & Kosten:"
     text: >-
-      **Termin:** jeweils 14-tägig dienstags um 18:15 Uhr
+      **Termin:** jeweils **14-tägig dienstags** um 18:15 Uhr
 
 
       **Einzeln:** 25,00 Euro pro Termin (45-60 Min.)
