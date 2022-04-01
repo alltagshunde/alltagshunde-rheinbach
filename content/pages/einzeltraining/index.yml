@@ -52,7 +52,7 @@ buildingBlocks:
     isBanner: false
     image: img_4432finish.jpg
   - type: text
-    width: "1"
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
     isColored: false
@@ -72,7 +72,7 @@ buildingBlocks:
       In der Regel sind nach einem ausführlichen Kennenlernen ca. 4 - 6 Einzelstunden ausreichend, um dir und deinem Hund eine gute Basis für das weitere Miteinander zu geben und Gelerntes zu vertiefen. Veränderung braucht jedoch Zeit und jedes neu erlernte Verhalten - sowohl beim Menschen als auch beim Hund - entsprechende Wiederholungen, um zu reifen und sich im Alltag zu festigen. Daher kann es durchaus Sinn machen, sich nach einiger Zeit einen Check-up Termin zu vereinbaren, um vielleicht den letzten Feinschliff anzugehen oder auch neue Ziele zu setzen.
     heading: Ablauf
   - type: text
-    width: "1"
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
     isColored: true
