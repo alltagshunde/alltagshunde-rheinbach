@@ -75,7 +75,7 @@ buildingBlocks:
     width: "1"
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     text: >-
       In der Regel treffen wir uns für das Erstgespräch zu einem gemeinsamen
       Spaziergang. Hier bekomme ich meist gleich einen Eindruck von den
