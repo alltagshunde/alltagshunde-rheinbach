@@ -17,7 +17,7 @@ buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "2"
-    headingCentered: true
+    headingCentered: false
     isColored: false
     heading: Mantrailing Tagesworkshop mit Carolin Henseler & Yvonne Glanzer
     text: >-
