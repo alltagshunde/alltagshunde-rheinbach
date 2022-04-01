@@ -12,9 +12,8 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: true
     heading: Das erste Jahr im Leben deines Hundes
-    text: "#### Lass dich von mir begleiten und profitiere von meiner langjährigen
-      Erfahrung in der Ausbildung von Welpen und Junghunden, damit auch aus
-      deinem jungen Hund ein angenehmer und gern gesehener Begleiter wird."
+    text: "#### Lass dich von mir begleiten, damit auch aus deinem jungen Hund ein
+      angenehmer und gern gesehener Begleiter wird."
     isColored: true
   - type: text
     width: "1"
