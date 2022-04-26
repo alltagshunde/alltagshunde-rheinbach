@@ -7,13 +7,13 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     isColored: false
-    heading: Crossdogging
+    heading: Just for Fun
   - type: text
     width: "1"
     headingLevel: "3"
     headingCentered: true
     isColored: true
-    heading: Das Zirkeltraining für alle die Abwechslung lieben
+    heading: Die bunte Stunde für alle die Abwechslung lieben
     text: Spaß und artgerechte Beschäftigung für jeden Hund.
   - type: text
     width: 2/3
@@ -21,14 +21,15 @@ buildingBlocks:
     headingCentered: false
     isColored: false
     text: >-
-      Crossdogging ist aufgebaut wie ein klassisches Zirkeltraining: 
+      Die "Just for Fun" Stunden sind folgendermaßen aufgebaut: 
 
 
-      Jeweils zu zweit geht es an eine Station. Während der eine 2 Minuten lang die gestellte Aufgabe so häufig wie möglich bewältigt, zählt der andere die Durchläufe. Danach tauscht das Team. Ist die Station von beiden bewältigt, geht es zur nächsten Station etc. 
+      Jede Woche gibt es verschiedene Aufgaben mit dem Hund zu bewältigen. Mal alleine, mal zu zweit mit einem anderen Team. Dabei soll es unbedingt einmal nicht um Erziehung gehen, sondern um den Spaß an der gemeinsamen Beschäftigung! Und dennoch wird natürlich ganz nebenbei der Grundgehorsam des Hundes und die Zusammenarbeit mit dem Menschen in Anwesenheit von Artgenossen weiter gefestigt. \
 
+      \
 
-      Die  Aufgaben gehen quer Beet durch alle Hundesportbereiche, mal kniffelig, mal sportlich, von Agi über Apport bis hin zu Longieren & Trickdog – jedes Team kommt auf seine Kosten.
-    heading: Was ist Crossdogging?
+      Die Aufgaben vereinen dabei Elemente aus verschiedene Beschäftigungsarten, mal kniffelig, mal sportlich, mal ernster, mal witzig und von A wie Apport bis hin zu Z wie ZOS (Zielobjektsuche) – jedes Team kommt auf seine Kosten.
+    heading: Was steckt hinter "Just for Fun"?
   - type: text
     width: 1/3
     headingLevel: "3"
@@ -57,16 +58,16 @@ buildingBlocks:
     innerWidth: "1"
     isBanner: false
     isColored: false
-    image: 023.jpg
+    image: 2013_10_24_00053.jpg
   - type: image
     width: 1/3
     innerWidth: "1"
     isBanner: false
     isColored: false
-    image: 138.jpg
+    image: p1160697.jpg
   - type: image
     width: 1/3
     innerWidth: "1"
     isBanner: false
     isColored: false
-    image: 057.jpg
+    image: schnuffel-labbi.jpg
