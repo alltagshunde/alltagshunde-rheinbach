@@ -45,7 +45,7 @@ buildingBlocks:
     innerWidth: "1"
     isColored: false
     heading: K3 DogParkour / Hundefitness
-    image: img_1998.png
+    image: k3.jpg
     button: Mehr erfahren
     buttonLink: Hundefitness / K3
   - type: card
