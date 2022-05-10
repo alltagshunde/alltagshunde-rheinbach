@@ -44,8 +44,8 @@ buildingBlocks:
     width: 1/3
     innerWidth: "1"
     isColored: false
-    heading: Hundefitness
-    image: nele-und-rudi.jpg
+    heading: K3 DogParkour / Hundefitness
+    image: img_1998.png
     button: Mehr erfahren
     buttonLink: Hundefitness / K3
   - type: card
