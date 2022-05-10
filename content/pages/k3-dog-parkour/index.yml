@@ -6,12 +6,12 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Hundefitness Training
+    heading: K3 DogParkour - Hundefitness Training
   - type: text
     width: "1"
     headingLevel: "2"
     headingCentered: true
-    heading: Gesundheit - Teamwork - Geistige Auslastung
+    heading: Teamwork - Gesundheit - Geistige Auslastung
     text: ""
     headingSize: "3"
     isColored: true
@@ -20,33 +20,31 @@ buildingBlocks:
     headingLevel: "2"
     headingCentered: false
     headingColorPrimary: false
-    text: >-
-      Wer hier an Muckibude und schweißtreibendes Muskeltraining denkt ist
-      definitiv fehl am Platz.
-
-
-      Mit meinen Fitnesskursen will ich dich darin unterstützen, die körperliche und geistige Fitness deines Hundes zu erhalten bzw. sogar zu verbessern. Schritt für Schritt zeige ich dir, wie Du mit einfachen und alltagstauglichen Übungen die Muskulatur deines Hundes stärkst und nebenbei seine Koordination und Balance förderst. Dabei lernst Du natürlich einiges über die Anatomie und Muskulatur deines Hundes, außerdem wie Du Verletzungen vorbeugen und was du noch alles tun kannst, um die Hundemuskulatur bis ins hohe Alter zu stärken und fit zu erhalten.
-
-
-      Das Beste ist, für das Training benötigst du kein teuer ausgestattetes Fitnessstudio. Zwar eignen sich viele Geräte z. B. aus dem Gymnastik oder Physiotherapiebedarf etc. alle Übungen sind jedoch auch mit einfachen Mitteln, die in jedem Haushalt vorkommen umsetzbar. So können Wasserfalschen z. B. als Kegel oder ein Besenstiel statt einer Hindernisstande verwendet werden. In der letzten Stunde des Kurses widmen wir uns sogar insbesondere der Frage, wie wir das Training in den Spaziergang mit einbauen können und welche Utensilien und Hindernisse die Umwelt uns dafür quasi frei Haus bietet.
+    text: Im K3 DogParkour - Hundefitness Training zeige ich dir Schritt für Schritt
+      wie Du mit einfachen Übungen die Muskulatur deines Hundes stärkst, sowie
+      seine Koordination und Balance fördern kannst. Den Schwerpunkt bildet
+      dabei der K3 DogParkour - ein mobiler Fitness-, Mental-, und „Mutmach“ -
+      Parkour. Geeignet ist das Training für alle Altersklassen ab ca. 8
+      Monaten, insbesondere jedoch für Hibbelhunde und Senioren, um diese auf
+      ruhige Art sowohl körperlich, als auch geistig zu fordern und auszulasten.
     headingSize: "3"
-    heading: "Warum Hundefitnesstraining? "
+    heading: "Warum K3 DogParkour? "
   - type: image
     width: 1/4
     innerWidth: "1"
-    image: nele-und-rudi.jpg
+    image: p1170237.jpg
     isColored: true
   - type: image
     width: 1/4
     innerWidth: "1"
     isBanner: false
     isColored: false
-    image: img_7711.jpg
+    image: img_7887.jpg
   - type: image
     width: 1/4
     innerWidth: "1"
     isBanner: false
-    image: emil.jpg
+    image: p1160643.jpg
   - type: image
     width: 1/4
     innerWidth: "1"
