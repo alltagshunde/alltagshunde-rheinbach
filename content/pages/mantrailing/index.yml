@@ -74,11 +74,8 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      **Termine:** jeweils **mittwochs** 18:30 Uhr / **(14-tägig) samstags**
-      15:30 Uhr / **(14-tägig) sonntags** 10:30 Uhr.
-
-
-      Die Termine können flexibel gebucht werden (keine festen Gruppen).
+      **Termine:** jeweils **mittwochs** 18:30 Uhr / **freitags** 10:00 Uhr /
+      **(14-tägig) samstags** 15:30 Uhr / **(14-tägig) sonntags** 10:30 Uhr.
 
 
       **Einzeln:** 25,00 Euro pro Termin (inkl. 19 % MwSt.)
@@ -90,13 +87,16 @@ buildingBlocks:
       **10er-Karte:** 229,- Euro
 
 
-      Das Training findet an unterschiedlichen Orten in Meckenheim, Rheinbach, Bornheim und Umgebung statt. 
+      Das Training findet an unterschiedlichen Orten in Meckenheim, Rheinbach und Umgebung statt. 
 
 
-      Es sind grundsätzlich keine Vorkenntnisse nötig!
+      Es sind keine Vorkenntnisse nötig!
 
 
-      **Dein Hund sollte jedoch über einen gewissen Grundgehorsam verfügen und zwischen den Einsätzen entspannt im Auto warte können!**
+      **Da die Hunde einzeln arbeiten und die Zwischenzeiten auch zur Regeneration benötigen, sollte dein Hund zwischen den Einsätzen entspannt im Auto warten können!**
+
+
+      **Da wir uns während des Trainings im öffentlichen Raum bewegen, sollte dein Hund über einen gewissen Grundgehorsam verfügen.**
     heading: "Termine & Kosten: "
     isColored: true
   - type: text
