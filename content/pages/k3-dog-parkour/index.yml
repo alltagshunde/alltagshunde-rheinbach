@@ -6,7 +6,7 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: K3 DogParkour - Hundefitness Training
+    heading: K3DogParkour®
   - type: text
     width: "1"
     headingLevel: "2"
@@ -21,19 +21,29 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      Im K3 DogParkour - Hundefitness Training zeige ich dir Schritt für Schritt
-      wie Du mit einfachen Übungen die Muskulatur deines Hundes stärkst, sowie
-      seine Koordination und Balance fördern kannst. Den Schwerpunkt bildet
-      dabei der K3 DogParkour - ein mobiler Fitness-, Mental-, und „Mutmach“ -
-      Parkour. 
+      K3 DogParkour**®** ist ein ganzheitliches Fitness- und Mentaltraining für
+      „Jederhund“, das auf der innovativen K3-Formel basiert. Die K3-Formel
+      beinhaltet die Elemente **Körper, Kognition und Kühnheit**. Ziel des
+      Trainings ist ein körperlliches, geistiges und seelisches Gleichgewicht
+      des Hundes durch sinnvolle Auslastung, ruhiges konzentriertes Arbeiten,
+      gepaart mit Teamwork und gegenseitigem Vertrauen.
 
 
-      Die **K3-Formel** steht dabei für **Körper** - **Kognition** und **Kühnheit**.
+      **K3DogParkour®**ist eine sehr individuelle und kreative Hundesportart mit ganz vielen variablen Trainingsmöglichkeiten. Vom einfachen Fun-Parkour bis hin zu sehr anspruchsvollen Übungen ist alles möglich. Jeder Hund arbeitet so kleinschrittig, wie es erforderlich ist. Ein K3DogParkour® sieht jede Woche anders aus und bietet immer wieder neue Herausforderungen, aber auch die Möglichkeit, bekannte Elemente zu wiederholen und zu festigen.
+
+
+      * **Quirlige Junghunde** oder **hyperaktive Hunde** mit einem erhöhten Stresslevel profitieren von der ruhigen, konzentrierten Arbeit kombiniert mit Übungen des Grundgehorsams.
+
+      * **Ängstliche** oder **unsichere Hunde** werden spürbar selbstsicherer. Das gegenseitige Vertrauen im Team wird gestärkt und die Beziehung und Bindung gefördert. Die Hundehalter werden in Orientierung, Körpersprache und Führtechniken geschult. Dieses Wissen kann anschließend sehr gut in den Alltag übertragen werden.
+
+      * Bei **Hunden mit orthopädischen Funktionsstörungen oder Handicaps wird K3DogParkour®**  als aktive Bewegungstherapie, auch in Ergänzung zu einer laufenden tierärztlichen oder physiotherapeutischen Behandlung, eingesetzt. Durch die Bewegungstherapie werden Stoffwechselprozesse angeregt, Muskelverspannungen allmählich gelöst, und der gesamte Bewegungsablauf wird koordinierter. Der Hund hat infolgedessen weniger Schmerzen, die Muskulatur wird stabilisierend aufgebaut und die Beweglichkeit verbessert.
+
+      * Zudem fördert **K3DogParkour®**die Beziehung und Bindung zwischen Hund und Halter: Durch feine Signale und kleinste Veränderungen in der Führtechnik wird die Kommunikation stetig verfeinert. 
 
 
       Mehr Infos unter: [https://k3dogparkour.net](https://k3dogparkour.chayns.net/)
     headingSize: "3"
-    heading: "Warum K3 DogParkour? "
+    heading: "Warum K3DogParkour®? "
   - type: image
     width: 1/4
     innerWidth: "1"
@@ -56,28 +66,13 @@ buildingBlocks:
     image: p1170095.jpg
     isColored: true
   - type: text
-    width: 2/3
-    headingLevel: "2"
-    headingCentered: false
-    headingColorPrimary: false
-    heading: Für wen eignet sich das Hundefitnesstraining?
-    text: Das Training eignet sich grundsätzlich für Hunde aller Größen und
-      Altersklassen. Selbstverständlich kann es fernab von jeglichen
-      Fitnesszielen einfach als gemeinsame Beschäftigung mit dem Hund angesehen
-      werden. Insbesondere bietet es sich jedoch z. B. für Hunde an, die ein
-      eher schlechtes Körpergefühl besitzen (oftmals junge Hunde sehr großer
-      Rassen oder hyperaktive Hunde), sowie für Hundesenioren, um diese sowohl
-      körperlich als auch geistig auf ruhige aber anspruchsvolle Art und Weise
-      auszulasten und bis ins hohe Alter fit zu halten.
-    headingSize: "3"
-  - type: text
     width: 1/3
     headingLevel: "3"
     headingCentered: false
     isColored: false
     heading: "Termine und Kosten: "
     text: >-
-      **Termin:** jeweils**14-tägigdienstags**um 17:15 Uhr
+      **Termin:** jeweils**14-tägig dienstags** um 17:15 Uhr
 
 
       **Kursstart: 31. Mai 2022 (6 Termine): 110,- Euro (inkl. 19% MwSt.)**
