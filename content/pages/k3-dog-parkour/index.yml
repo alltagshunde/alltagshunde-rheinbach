@@ -20,16 +20,27 @@ buildingBlocks:
     headingLevel: "2"
     headingCentered: false
     headingColorPrimary: false
-    text: >-
-      K3 DogParkour**®** ist ein ganzheitliches Fitness- und Mentaltraining für
+    text: K3 DogParkour**®** ist ein ganzheitliches Fitness- und Mentaltraining für
       „Jederhund“, das auf der innovativen K3-Formel basiert. Die K3-Formel
       beinhaltet die Elemente **Körper, Kognition und Kühnheit**. Ziel des
       Trainings ist ein körperlliches, geistiges und seelisches Gleichgewicht
       des Hundes durch sinnvolle Auslastung, ruhiges konzentriertes Arbeiten,
       gepaart mit Teamwork und gegenseitigem Vertrauen.
-
-
-      **K3DogParkour®**ist eine sehr individuelle und kreative Hundesportart mit ganz vielen variablen Trainingsmöglichkeiten. Vom einfachen Fun-Parkour bis hin zu sehr anspruchsvollen Übungen ist alles möglich. Jeder Hund arbeitet so kleinschrittig, wie es erforderlich ist. Ein K3DogParkour® sieht jede Woche anders aus und bietet immer wieder neue Herausforderungen, aber auch die Möglichkeit, bekannte Elemente zu wiederholen und zu festigen.
+    headingSize: "3"
+    heading: "Warum K3DogParkour®? "
+  - type: text
+    width: 2/3
+    headingLevel: "2"
+    headingCentered: false
+    isColored: false
+    text: >-
+      **K3DogParkour®**ist eine sehr individuelle und kreative Hundesportart mit
+      ganz vielen variablen Trainingsmöglichkeiten. Vom einfachen Fun-Parkour
+      bis hin zu sehr anspruchsvollen Übungen ist alles möglich. Jeder Hund
+      arbeitet so kleinschrittig, wie es erforderlich ist. Ein K3DogParkour®
+      sieht jede Woche anders aus und bietet immer wieder neue
+      Herausforderungen, aber auch die Möglichkeit, bekannte Elemente zu
+      wiederholen und zu festigen.
 
 
       * **Quirlige Junghunde** oder **hyperaktive Hunde** mit einem erhöhten Stresslevel profitieren von der ruhigen, konzentrierten Arbeit kombiniert mit Übungen des Grundgehorsams.
@@ -42,29 +53,6 @@ buildingBlocks:
 
 
       Mehr Infos unter: [https://k3dogparkour.net](https://k3dogparkour.chayns.net/)
-    headingSize: "3"
-    heading: "Warum K3DogParkour®? "
-  - type: image
-    width: 1/4
-    innerWidth: "1"
-    image: p1170237.jpg
-    isColored: true
-  - type: image
-    width: 1/4
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: img_7887.jpg
-  - type: image
-    width: 1/4
-    innerWidth: "1"
-    isBanner: false
-    image: p1160643.jpg
-  - type: image
-    width: 1/4
-    innerWidth: "1"
-    image: p1170095.jpg
-    isColored: true
   - type: text
     width: 1/3
     headingLevel: "3"
@@ -88,3 +76,25 @@ buildingBlocks:
 
 
       Dein Hund sollte auch in Anwesenheit von Artgenossen ansprechbar sein und nicht permanent bellen, wenn die anderen Hunde arbeiten.
+  - type: image
+    width: 1/4
+    innerWidth: "1"
+    image: p1170237.jpg
+    isColored: true
+  - type: image
+    width: 1/4
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: img_7887.jpg
+  - type: image
+    width: 1/4
+    innerWidth: "1"
+    isBanner: false
+    image: p1160643.jpg
+    isColored: false
+  - type: image
+    width: 1/4
+    innerWidth: "1"
+    image: p1170095.jpg
+    isColored: true
