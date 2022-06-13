@@ -6,14 +6,7 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     isColored: false
-    heading: Seminare & Workshops
-  - type: text
-    width: "1"
-    headingLevel: "1"
-    headingCentered: true
-    isColored: true
-    heading: Termine 2022
-    text: ""
+    heading: Seminare & Workshops 2022
   - type: text
     width: "1"
     headingLevel: "2"
