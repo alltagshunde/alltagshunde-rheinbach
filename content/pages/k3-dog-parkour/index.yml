@@ -6,7 +6,7 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: K3 DogParkour®
+    heading: K3DogParkour®
   - type: text
     width: "1"
     headingLevel: "2"
@@ -20,11 +20,11 @@ buildingBlocks:
     headingLevel: "2"
     headingSize: "3"
     width: "1"
-    text: K3 DogParkour**®** ist ein ganzheitliches Fitness- und Mentaltraining für
+    text: K3DogParkour**®** ist ein ganzheitliches Fitness- und Mentaltraining für
       „Jederhund“, das auf der innovativen K3-Formel basiert. Die K3-Formel
       beinhaltet die Elemente **Körper, Kognition und Kühnheit**. Ziel des
-      Trainings ist ein körperlliches, geistiges und seelisches Gleichgewicht
-      des Hundes durch sinnvolle Auslastung, ruhiges konzentriertes Arbeiten,
+      Trainings ist ein körperliches, geistiges und seelisches Gleichgewicht des
+      Hundes durch sinnvolle Auslastung, ruhiges konzentriertes Arbeiten,
       gepaart mit Teamwork und gegenseitigem Vertrauen.
     headingCentered: false
     isColored: false
@@ -34,10 +34,10 @@ buildingBlocks:
     headingLevel: "2"
     headingCentered: false
     isColored: true
-    heading: K3 DogParkour® bei Tiere suchen ein Zuhause
-    text: Am 12. Juni 2022 war unsere Kollegin und K3 DogParkour® Gründerin Rosa
-      Wiesner zu Gast in der Sendung Tiere suchen ein Zuhause des WDR und hat K3
-      DogParkour® dort mit ihrer Hündin Neyla vorgestellt. Hier geht's direkt
+    heading: K3DogParkour® bei Tiere suchen ein Zuhause
+    text: Am 12. Juni 2022 war unsere Kollegin und K3DogParkour® Gründerin Rosa
+      Wiesner zu Gast in der Sendung Tiere suchen ein Zuhause des WDR und hat
+      K3DogParkour® dort mit ihrer Hündin Neyla vorgestellt. Hier geht's direkt
       zum
       [Beitrag](https://www.ardmediathek.de/video/tiere-suchen-ein-zuhause/fitness-fuer-gebrechliche-oder-unsichere-hunde/wdr/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTFmMTRlYjViLTU3ZDYtNDFlNi1hZWExLTBkMGY2OTliOTUyZQ).
   - type: text
