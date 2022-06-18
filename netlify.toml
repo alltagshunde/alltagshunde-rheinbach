@@ -9,3 +9,9 @@ package = "netlify-plugin-gatsby-cache"
   to = "https://www.alltagshunde-training.de/:splat"
   status = 301
   force = true
+
+[[redirects]]
+  from = "https://alltagshunde-rheinbach.de/*"
+  to = "https://www.alltagshunde-training.de/:splat"
+  status = 301
+  force = true
