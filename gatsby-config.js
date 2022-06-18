@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Alltagshunde Rheinbach`,
-    description: `Alltagshunde Rheinbach - Carolin Henseler`,
+    title: `Alltagshunde Training`,
+    description: `Alltagshunde Training - Carolin Henseler`,
     author: `Carolin Henseler`,
+    siteUrl: `https://www.alltagshunde-training.de`,
   },
   plugins: [
     {
