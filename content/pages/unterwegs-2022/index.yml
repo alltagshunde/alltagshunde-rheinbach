@@ -57,91 +57,6 @@ buildingBlocks:
     width: "1"
     headingLevel: "3"
     headingCentered: false
-    isColored: true
-    heading: ""
-    text: >-
-      ### Social Walk
-
-
-      ### Sonntag 3. April 2022, 14:30 Uhr (Dauer ca. 2 Stunden)
-
-
-      **Start: Parkplatz "Waldgaststätte Bahnhof Kottenforst" in 53840 Meckenheim**
-
-
-      Bei diesem Spaziergang liegt der Schwerpunkt auf dem kontrollierten Kontakt zu Hund und Mensch. Es sind daher auch ausdrücklich Hunde willkommen, die Schwierigkeiten im Kontakt mit Artgenossen haben. Das Ziel dieses Spaziergangs in kleiner Runde ist es, kontrollierte Begegnungen zwischen den einzelnen Hunden zuzulassen und sie dabei zu unterstützen, angemessen mit ihren Artgenossen zu kommunizieren. Dabei sollen vor allem auch die Besitzer die Möglichkeit haben, ihren Hund immer wieder einzuschätzen, die Kommunikation der Hunde zu erleben und ihre Vierbeiner vielleicht auch neu kennenzulernen.
-
-
-      **Teilnahmevoraussetzung:** 
-
-
-      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Hunde mit sozialen Unverträglichkeiten sind ebenfalls und ausdrücklich willkommen, müssen jedoch mit einem gut sitzenden Maulkorb gesichert werden. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
-
-
-      **Kosten: 25,00 Euro pro Mensch-Hund-Team oder ein Feld auf Eurer 10er-Karte, Begleitperson gratis**
-
-
-      **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
-  - type: text
-    width: "1"
-    headingLevel: "3"
-    headingCentered: false
-    isColored: false
-    text: >-
-      ### Kräuterwanderung
-
-
-      ### Sonntag 8. Mai 2022, 15:00 Uhr (Dauer ca. 2 Stunden)
-
-
-      **Start: Parkplatz Restaurant "Zur Siegfähre" in 53344 Troisdorf-Bergheim**
-
-
-      Auf diesem besonderen Spaziergang widmen wir uns der heimischen Natur und ihren Geschenken. Keine Angst - Du musst kein Freizeitdiplom in der Botanik vorweisen. Beim Suchen, Bestimmen und Verwenden der Pflanzen konzentrieren wir uns auf die Exemplare, die eigentlich jeder von uns regelmäßig sieht und kennt. Am Ende erhältst Du auch noch ein hübsches Handout mit entsprechenden Verwendungstipps und Rezepten für Leckerchen & Co.
-
-
-      **Teilnahmevoraussetzung:** 
-
-
-      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
-
-
-      **Kosten: 25,00 Euro pro Mensch-Hund-Team oder ein Feld auf deiner 10er-Karte**
-
-
-      **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
-  - type: text
-    width: "1"
-    headingLevel: "2"
-    headingCentered: false
-    isColored: true
-    text: >-
-      ### Social Walk 
-
-
-      ### Sonntag 26. Juni 2022, 15:00 Uhr (Dauer ca. 2 Stunden)
-
-
-      **Start: Parkplatz “Waldgaststätte Bahnhof Kottenforst” in 53840 Meckenheim**
-
-
-      Bei diesem Spaziergang liegt der Schwerpunkt auf dem kontrollierten Kontakt zu Hund und Mensch. Es sind daher auch ausdrücklich Hunde willkommen, die Schwierigkeiten im Kontakt mit Artgenossen haben. Das Ziel dieses Spaziergangs in kleiner Runde ist es, kontrollierte Begegnungen zwischen den einzelnen Hunden zuzulassen und sie dabei zu unterstützen, angemessen mit ihren Artgenossen zu kommunizieren. Dabei sollen vor allem auch die Besitzer die Möglichkeit haben, ihren Hund immer wieder einzuschätzen, die Kommunikation der Hunde zu erleben und ihre Vierbeiner vielleicht auch neu kennenzulernen.
-
-
-      **Teilnahmevoraussetzung:**
-
-
-      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Hunde mit sozialen Unverträglichkeiten sind ebenfalls und ausdrücklich willkommen, müssen jedoch mit einem gut sitzenden Maulkorb gesichert werden. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
-
-
-      **Kosten: 25,00 Euro pro Mensch-Hund-Team oder ein Feld auf deiner 10er-Karte**
-
-
-      **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
-  - type: text
-    width: "1"
-    headingLevel: "3"
-    headingCentered: false
     isColored: false
     text: >-
       ### Sommer - Social Walk
@@ -287,16 +202,16 @@ buildingBlocks:
     headingCentered: false
     isColored: true
     text: >-
-      ### Krimiwanderung
+      ### Herbstwanderung
 
 
-      ### Samstag 31. Dezember 2022, 11:30 Uhr (Dauer ca. 2,5 Stunden)
+      ### Sonntag 23. Oktober 2022, 15:00 Uhr (Dauer ca. 2 Stunden)
 
 
-      **Start: Parkplatz "Waldkapelle", 53359 Rheinbach**
+      **Start: Parkplatz PanoramaSauna, 53501 Grafschaft-Holzweiler**
 
 
-      Gemeinsam werden wir durch den winterlichen Wald wandern und mit tatkräftiger Unterstützung unserer Hunde dabei einen spannenden Kriminalfall lösen. Knifflige Aufgaben und lustige Spiele sorgen unterwegs für gute Laune und zusätzliche Auslastung der Hunde, so daß hoffentlich alle einem entspannten Silvesterabend entgegenblicken können. Denn ein müder Hund ist ein guter Hund! ;-)
+      Gemeinsam erkunden wir den herbstlichen Wald, beobachten die Vierbeiner und fachsimpeln über Hundeverhalten. Zum Spaß streuen wir natürlich auch wie immer ein paar kleine Übungen ein.
 
 
       **Teilnahmevoraussetzung:**
@@ -305,7 +220,30 @@ buildingBlocks:
       Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
 
 
-      **Kosten: 35,00 Euro pro Mensch-Hund-Team, eine Begleitperson (u. Kinder) gratis**
+      **Kosten: 25,00 Euro pro Mensch-Hund-Team oder ein Feld auf Eurer 10er-Karte, Begleitperson gratis**
 
 
       **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
+  - text: >-
+      ### Social Walk
+
+
+      ### Sonntag 13. November 2022, 15:00 Uhr (Dauer ca. 2 Stunden)
+
+
+      **Start: Parkplatz “Waldgaststätte Bahnhof Kottenforst” in 53840 Meckenheim**
+
+
+      Bei diesem Spaziergang liegt der Schwerpunkt auf dem kontrollierten Kontakt zu Hund und Mensch. Es sind daher auch ausdrücklich Hunde willkommen, die Schwierigkeiten im Kontakt mit Artgenossen haben. Das Ziel dieses Spaziergangs in kleiner Runde ist es, kontrollierte Begegnungen zwischen den einzelnen Hunden zuzulassen und sie dabei zu unterstützen, angemessen mit ihren Artgenossen zu kommunizieren. Dabei sollen vor allem auch die Besitzer die Möglichkeit haben, ihren Hund immer wieder einzuschätzen, die Kommunikation der Hunde zu erleben und ihre Vierbeiner vielleicht auch neu kennenzulernen.
+
+
+      **Teilnahmevoraussetzung:** 
+
+
+      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Hunde mit sozialen Unverträglichkeiten sind ebenfalls und ausdrücklich willkommen, müssen jedoch mit einem gut sitzenden Maulkorb gesichert werden. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
+
+
+      **Kosten: 25,00 Euro pro Mensch-Hund-Team oder ein Feld auf Eurer 10er-Karte, Begleitperson gratis**
+
+
+      **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
