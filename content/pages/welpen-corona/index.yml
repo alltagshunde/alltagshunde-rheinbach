@@ -39,17 +39,11 @@ buildingBlocks:
 
 
       ### In meinem Welpenkurs erhältst Du Antworten auf alle Deine Fragen für die aktuelle Lebensphase deines kleinen Hundes.
-  - type: image
-    width: 1/3
-    innerWidth: "1"
-    isBanner: false
-    isColored: true
-    image: welpengruppe-charly-hort-zu.jpg
   - type: text
     width: 1/2
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     text: >-
       für Welpen ab 9 Wochen
 
@@ -81,7 +75,7 @@ buildingBlocks:
     width: 1/2
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     heading: Welpen Paket - Das kleine 1x1
     text: >-
       ### Das Paket beinhaltet:
@@ -106,6 +100,12 @@ buildingBlocks:
 
 
       ### Kosten: 249,- Euro (inkl. 19 % MwSt.)
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: true
+    image: welpengruppe-charly-hort-zu.jpg
   - type: image
     width: 1/3
     innerWidth: "1"
