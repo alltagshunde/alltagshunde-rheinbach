@@ -107,12 +107,12 @@ buildingBlocks:
 
       ### Kosten: 249,- Euro (inkl. 19 % MwSt.)
   - heading: JETZT ANMELDEN ...
-    headingLevel: "1"
+    headingLevel: "3"
     width: "1"
     facebook: false
     innerWidth: "1"
     whatsapp: true
-    headingCentered: false
+    headingCentered: true
     isColored: true
     type: contact
     email: true
