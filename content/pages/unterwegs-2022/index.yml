@@ -56,8 +56,8 @@ buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "1"
-    headingCentered: true
-    isColored: false
+    headingCentered: false
+    isColored: true
     text: >-
       ### Sommerwanderung
 
