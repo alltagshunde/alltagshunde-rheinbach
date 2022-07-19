@@ -113,7 +113,7 @@ buildingBlocks:
     innerWidth: "1"
     whatsapp: true
     headingCentered: true
-    isColored: true
+    isColored: false
     type: contact
     email: true
   - type: image
