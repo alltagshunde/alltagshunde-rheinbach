@@ -59,7 +59,7 @@ buildingBlocks:
     width: 1/2
     headingLevel: "3"
     headingCentered: false
-    isColored: true
+    isColored: false
     text: >-
       für Welpen ab 9 Wochen
 
@@ -91,7 +91,7 @@ buildingBlocks:
     width: 1/2
     headingLevel: "3"
     headingCentered: false
-    isColored: true
+    isColored: false
     heading: Welpen Paket - Das kleine 1x1
     text: >-
       ### Das Paket beinhaltet:
@@ -123,7 +123,7 @@ buildingBlocks:
     innerWidth: "1"
     whatsapp: true
     headingCentered: true
-    isColored: false
+    isColored: true
     type: contact
     email: true
   - type: image
