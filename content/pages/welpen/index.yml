@@ -45,6 +45,16 @@ buildingBlocks:
     isBanner: false
     isColored: true
     image: welpengruppe-charly-hort-zu.jpg
+  - heading: JETZT ANMELDEN UND PLATZ SICHERN
+    headingLevel: "3"
+    width: "1"
+    facebook: false
+    innerWidth: "1"
+    whatsapp: true
+    headingCentered: true
+    isColored: true
+    type: contact
+    email: true
   - type: text
     width: 1/2
     headingLevel: "3"
@@ -183,13 +193,3 @@ buildingBlocks:
 
       * **Beratung via Telefon / Zoom-Meeting: 10,- Euro je 15 Min. (inkl. 19% MwSt.)**
     heading: "Zusätzliche Beratung und Unterstützung:"
-  - heading: JETZT ANMELDEN UND PLATZ SICHERN
-    headingLevel: "3"
-    width: "1"
-    facebook: false
-    innerWidth: "1"
-    whatsapp: true
-    headingCentered: true
-    isColored: true
-    type: contact
-    email: true
