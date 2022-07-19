@@ -169,7 +169,7 @@ buildingBlocks:
     width: "1"
     headingLevel: "1"
     headingCentered: false
-    isColored: false
+    isColored: true
     text: >-
       ### Herbstwanderung
 
@@ -196,7 +196,7 @@ buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "1"
-    headingCentered: true
+    headingCentered: false
     isColored: false
     text: >-
       ### Halloweenwanderung
