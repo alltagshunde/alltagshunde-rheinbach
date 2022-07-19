@@ -113,7 +113,7 @@ buildingBlocks:
     width: "1"
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     text: >-
       ### Sommer - Social Walk
 
@@ -141,7 +141,7 @@ buildingBlocks:
     width: "1"
     headingLevel: "3"
     headingCentered: false
-    isColored: true
+    isColored: false
     text: >-
       ### Schnüffeltour
 
