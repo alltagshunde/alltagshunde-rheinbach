@@ -55,19 +55,10 @@ buildingBlocks:
     isColored: false
     heading: TERMINE
   - type: text
-    width: "1"
-    headingLevel: "1"
-    headingCentered: true
-    isColored: false
-    text: Du weißt noch nicht genau, welche Art der Nasenarbeit für dich und deinen
-      Hund am geeignetsten wäre? Dann ist vielleicht unsere [Schnüffelwanderung
-      ](https://www.alltagshunde-training.de/unterwegs-2022/)ein guter Einstieg
-      für euch beide, um erstmal einen Überblick zu bekommen.
-  - type: text
     width: 2/3
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     heading: Einsteigerkurs "Fährtenarbeit" - Start 17. September 2022
     text: >-
       Kann ein Hund fährten, obwohl er kein Jagdhund ist? Ja! Fördert das
@@ -78,3 +69,12 @@ buildingBlocks:
 
 
       In diesem Kurs geht es darum, wie man verschiedene Fährten mit einfachen Mittel auslegen kann. Von der ersten Fährte, über anspruchsvolle Übernachtfährten bis hin zu unendlichen Variationen … Seinen Hund "lesen" lernen und ihn selbstständig arbeiten zu lassen, macht Spaß und schweißt zusammen. Gerade für Hunde, die im Alltag viel eingeschränkt werden müssen, ist es eine großartige Erfahrung, wenn sein Mensch mal loslässt und ihm zutraut die Aufgabe zu meistern.
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    isColored: false
+    text: Du weißt noch nicht genau, welche Art der Nasenarbeit für dich und deinen
+      Hund am geeignetsten wäre? Dann ist vielleicht unsere [Schnüffelwanderung
+      ](https://www.alltagshunde-training.de/unterwegs-2022/)ein guter Einstieg
+      für euch beide, um erstmal einen Überblick zu bekommen.
