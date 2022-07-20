@@ -29,11 +29,7 @@ buildingBlocks:
       Für nahezu jeden Hund ist Nasenarbeit daher eine tolle und vor allem auslastende Beschäftigung. Ob Ihr dabei ambitionierte Ziele verfolgt und z.B. in der Rettungshundearbeit aktiv seid oder einfach nur zum Spaß eine Leckerchensuche veranstaltet, ist erstmal zweitrangig. Im Vordergrund steht der Spaß an der gemeinsamen Beschäftigung. Ganz nebenbei stärkst Du auf diese Weise auch eure Bindung! 
 
 
-      In meiner Hundeschule biete ich – neben meiner Leidenschaft dem [Mantrailing ](https://www.alltagshunde-training.de/beschaftigung/mantrailing/)- in regelmäßigen Abständen Kurse zu verschiedenen Sparten der Nasenarbeit, z. B. Fährtenarbeit, Scent Detection, Teebeutelsuche etc., für Einsteiger und Fortgeschrittene.\
-
-      \
-
-      Du weißt noch nicht genau, welche Art der Nasenarbeit für dich und deinen Hund am geeignetsten wäre? Dann ist vielleicht unsere [Schnüffelwanderung ](https://www.alltagshunde-training.de/unterwegs-2022/)ein guter Einstieg für euch beide, um erstmal einen Überblick zu bekommen.
+      In meiner Hundeschule biete ich – neben meiner Leidenschaft dem [Mantrailing ](https://www.alltagshunde-training.de/beschaftigung/mantrailing/)- in regelmäßigen Abständen Kurse zu verschiedenen Sparten der Nasenarbeit, z. B. Fährtenarbeit, Scent Detection, Teebeutelsuche etc., für Einsteiger und Fortgeschrittene.
   - type: image
     width: 1/3
     innerWidth: "1"
@@ -52,3 +48,9 @@ buildingBlocks:
     isBanner: false
     isColored: true
     image: vizsla-geruchsdifferenzierung.jpg
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    heading: TERMINE
