@@ -39,7 +39,7 @@ buildingBlocks:
     image: beagle-geruchsdifferenzierung.jpg
     heading: Fährtenarbeit
     button: Mehr erfahren
-    buttonLink: Mantrailing
+    buttonLink: Nasenarbeit
   - type: card
     width: 1/3
     innerWidth: "1"
