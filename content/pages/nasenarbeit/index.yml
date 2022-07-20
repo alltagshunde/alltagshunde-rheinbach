@@ -78,14 +78,15 @@ buildingBlocks:
       **Bitte bringt ein passendes Geschirr, eine Schleppleine und Futter für euren Hund mit.**
   - type: text
     width: "1"
-    headingLevel: "1"
+    headingLevel: "2"
     headingCentered: true
-    isColored: false
-    text: "### Du weißt noch nicht genau, welche Art der Nasenarbeit für dich und
-      deinen Hund am geeignetsten wäre? Dann ist vielleicht unsere
-      [Schnüffelwanderung
-      ](https://www.alltagshunde-training.de/unterwegs-2022/)ein guter Einstieg
-      für euch beide, um erstmal einen Überblick zu bekommen."
+    isColored: true
+    text: >-
+      ### Du weißt noch nicht genau, welche Art der Nasenarbeit für dich und
+      deinen Hund am geeignetsten wäre? 
+
+
+      ### Dann ist vielleicht auch unsere [Schnüffelwanderung ](https://www.alltagshunde-training.de/unterwegs-2022/)ein guter Einstieg für euch beide, um erstmal einen Überblick zu bekommen.
   - heading: JETZT KONTAKT AUFNEHMEN UND PLATZ SICHERN!
     headingLevel: "3"
     width: "1"
