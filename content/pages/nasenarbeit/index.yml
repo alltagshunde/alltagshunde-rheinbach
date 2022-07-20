@@ -76,6 +76,16 @@ buildingBlocks:
 
 
       **Bitte bringt ein passendes Geschirr, eine Schleppleine und Futter für euren Hund mit.**
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    isColored: false
+    text: "### Du weißt noch nicht genau, welche Art der Nasenarbeit für dich und
+      deinen Hund am geeignetsten wäre? Dann ist vielleicht unsere
+      [Schnüffelwanderung
+      ](https://www.alltagshunde-training.de/unterwegs-2022/)ein guter Einstieg
+      für euch beide, um erstmal einen Überblick zu bekommen."
   - type: image
     width: 1/3
     innerWidth: "1"
@@ -94,13 +104,3 @@ buildingBlocks:
     isBanner: false
     isColored: true
     image: vizsla-geruchsdifferenzierung.jpg
-  - type: text
-    width: "1"
-    headingLevel: "1"
-    headingCentered: true
-    isColored: false
-    text: "### Du weißt noch nicht genau, welche Art der Nasenarbeit für dich und
-      deinen Hund am geeignetsten wäre? Dann ist vielleicht unsere
-      [Schnüffelwanderung
-      ](https://www.alltagshunde-training.de/unterwegs-2022/)ein guter Einstieg
-      für euch beide, um erstmal einen Überblick zu bekommen."
