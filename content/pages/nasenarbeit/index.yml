@@ -76,6 +76,16 @@ buildingBlocks:
 
 
       **Bitte bringt ein passendes Geschirr, eine Schleppleine und Futter für euren Hund mit.**
+  - heading: JETZT KONTAKT AUFNEHMEN UND PLATZ SICHERN!
+    headingLevel: "3"
+    width: "1"
+    facebook: false
+    innerWidth: "1"
+    whatsapp: true
+    headingCentered: true
+    isColored: false
+    type: contact
+    email: true
   - type: text
     width: "1"
     headingLevel: "2"
@@ -87,16 +97,6 @@ buildingBlocks:
 
 
       ### Dann ist vielleicht auch unsere [Schnüffelwanderung ](https://www.alltagshunde-training.de/unterwegs-2022/)ein guter Einstieg für euch beide, um erstmal einen Überblick zu bekommen.
-  - heading: JETZT KONTAKT AUFNEHMEN UND PLATZ SICHERN!
-    headingLevel: "3"
-    width: "1"
-    facebook: false
-    innerWidth: "1"
-    whatsapp: true
-    headingCentered: true
-    isColored: false
-    type: contact
-    email: true
   - type: image
     width: 1/3
     innerWidth: "1"
