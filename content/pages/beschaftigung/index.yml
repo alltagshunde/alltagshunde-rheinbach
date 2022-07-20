@@ -37,7 +37,7 @@ buildingBlocks:
     innerWidth: "1"
     isColored: false
     image: beagle-geruchsdifferenzierung.jpg
-    heading: Fährtenarbeit
+    heading: Nasenarbeit
     button: Mehr erfahren
     buttonLink: Nasenarbeit
   - type: card
