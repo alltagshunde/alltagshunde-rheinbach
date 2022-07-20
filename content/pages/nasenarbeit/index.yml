@@ -39,6 +39,12 @@ buildingBlocks:
     innerWidth: "1"
     isBanner: false
     isColored: true
+    image: beagle-geruchsdifferenzierung.jpg
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: true
     image: tea-time.jpg
   - type: image
     width: 1/3
