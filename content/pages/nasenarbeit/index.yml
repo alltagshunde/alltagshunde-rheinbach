@@ -101,17 +101,17 @@ buildingBlocks:
     width: 1/3
     innerWidth: "1"
     isBanner: false
-    isColored: true
+    isColored: false
     image: beagle-geruchsdifferenzierung.jpg
   - type: image
     width: 1/3
     innerWidth: "1"
     isBanner: false
-    isColored: true
+    isColored: false
     image: tea-time.jpg
   - type: image
     width: 1/3
     innerWidth: "1"
     isBanner: false
-    isColored: true
+    isColored: false
     image: vizsla-geruchsdifferenzierung.jpg
