@@ -47,6 +47,16 @@ buildingBlocks:
 
 
       Somit kann der Hund jederzeit ohne großen Aufwand beschäftigt werden. Es wird an der Schleppleine gearbeitet, so kann auch in spannenden Gebieten trainiert werden ohne die Gefahr, dass der Hund die Aufgabe abbricht, um jagen zu gehen.
+  - heading: JETZT KONTAKT AUFNEHMEN UND PLATZ SICHERN!
+    headingLevel: "3"
+    width: 2/3
+    facebook: false
+    innerWidth: "1"
+    whatsapp: true
+    headingCentered: false
+    isColored: true
+    type: contact
+    email: true
   - type: text
     width: 1/3
     headingLevel: "3"
@@ -79,16 +89,6 @@ buildingBlocks:
 
 
       **Bitte bringt ein passendes Geschirr, eine Schleppleine und Futter für euren Hund mit.**
-  - heading: JETZT KONTAKT AUFNEHMEN UND PLATZ SICHERN!
-    headingLevel: "3"
-    width: 2/3
-    facebook: false
-    innerWidth: "1"
-    whatsapp: true
-    headingCentered: false
-    isColored: true
-    type: contact
-    email: true
   - type: text
     width: "1"
     headingLevel: "2"
