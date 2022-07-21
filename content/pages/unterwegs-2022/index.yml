@@ -141,7 +141,7 @@ buildingBlocks:
     width: "1"
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     text: >-
       ### Schnüffeltour
 
