@@ -81,12 +81,12 @@ buildingBlocks:
       **Bitte bringt ein passendes Geschirr, eine Schleppleine und Futter für euren Hund mit.**
   - heading: JETZT KONTAKT AUFNEHMEN UND PLATZ SICHERN!
     headingLevel: "3"
-    width: "1"
+    width: 2/3
     facebook: false
     innerWidth: "1"
     whatsapp: true
-    headingCentered: true
-    isColored: false
+    headingCentered: false
+    isColored: true
     type: contact
     email: true
   - type: text
