@@ -85,7 +85,7 @@ buildingBlocks:
     width: "1"
     headingLevel: "1"
     headingCentered: false
-    isColored: false
+    isColored: true
     text: >-
       ### Sommerwanderung City & Eiscafé
 
