@@ -47,7 +47,7 @@ buildingBlocks:
     facebook: false
     innerWidth: "1"
     whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=35295010
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Workshops
     headingCentered: true
     isColored: false
     booking: true
@@ -92,6 +92,18 @@ buildingBlocks:
 
       **Anmeldung:** telefonisch unter 0176 - 61711772 oder per E-Mail an caro@alltagshunde-rheinbach.de
     heading: "Workshop: Kommunikation & Körpersprache Mensch-Hund"
+  - heading: JETZT BUCHEN
+    headingLevel: "2"
+    width: 1/4
+    facebook: false
+    innerWidth: "1"
+    whatsapp: false
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Workshops
+    headingCentered: true
+    isColored: true
+    booking: true
+    type: contact
+    email: false
   - type: text
     width: 3/4
     headingLevel: "2"
@@ -124,18 +136,6 @@ buildingBlocks:
 
 
       **Anmeldung:** telefonisch unter 0176 - 61711772 oder per E-Mail an caro@alltagshunde-rheinbach.de
-  - heading: JETZT BUCHEN
-    headingLevel: "2"
-    width: 1/4
-    facebook: false
-    innerWidth: "1"
-    whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Workshops
-    headingCentered: true
-    isColored: true
-    booking: true
-    type: contact
-    email: false
   - heading: JETZT BUCHEN
     headingLevel: "2"
     width: 1/4
