@@ -196,8 +196,8 @@ buildingBlocks:
     heading: Schnüffeltour
   - heading: JETZT BUCHEN
     headingLevel: "3"
-    headingSize: "3"
-    width: 3/4
+    headingSize: null
+    width: 1/4
     facebook: false
     innerWidth: "1"
     whatsapp: false
