@@ -366,14 +366,11 @@ buildingBlocks:
     type: contact
     email: false
   - type: text
-    width: "1"
-    headingLevel: "2"
+    width: 3/4
+    headingLevel: "3"
     headingCentered: false
     isColored: false
     text: >-
-      ### Krimiwanderung
-
-
       ### Samstag 31. Dezember 2022, 11:30 Uhr (Dauer ca. 2,5 Stunden)
 
 
@@ -393,3 +390,4 @@ buildingBlocks:
 
 
       **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
+    heading: Krimiwanderung - Silvester Special
