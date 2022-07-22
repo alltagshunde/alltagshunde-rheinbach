@@ -233,8 +233,8 @@ buildingBlocks:
       **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
     heading: Herbstwanderung
   - type: text
-    width: "1"
-    headingLevel: "1"
+    width: 3/4
+    headingLevel: "3"
     headingCentered: false
     isColored: true
     text: >-
@@ -260,6 +260,7 @@ buildingBlocks:
 
 
       **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
+    heading: Halloween-Wanderung
   - type: text
     width: "1"
     headingLevel: "3"
