@@ -123,3 +123,14 @@ buildingBlocks:
 
       **Beratung via Telefon / Zoom-Meeting (15 Min.): 10,- Euro (inkl. 19% MwSt.)**
     heading: Angebot und Kosten
+  - heading: Jetzt Kontakt aufnehmen und Termin vereinbaren
+    headingLevel: "3"
+    width: "1"
+    facebook: false
+    innerWidth: "1"
+    whatsapp: true
+    headingCentered: true
+    isColored: true
+    booking: false
+    type: contact
+    email: true
