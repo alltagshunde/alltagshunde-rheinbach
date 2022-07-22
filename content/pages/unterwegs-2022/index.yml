@@ -94,7 +94,7 @@ buildingBlocks:
     type: contact
     email: false
   - type: text
-    width: 2/3
+    width: 3/4
     headingLevel: "1"
     headingCentered: false
     isColored: true
@@ -121,6 +121,18 @@ buildingBlocks:
 
 
       **Teilnehmer: mindestens 4, maximal 10 Mensch-Hund-Teams**
+  - heading: JETZT ANMELDEN
+    headingLevel: "3"
+    width: 1/4
+    facebook: false
+    innerWidth: "1"
+    whatsapp: false
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=35294298
+    headingCentered: true
+    isColored: false
+    booking: true
+    type: contact
+    email: false
   - type: text
     width: "1"
     headingLevel: "3"
@@ -320,15 +332,3 @@ buildingBlocks:
 
 
       **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
-  - heading: JETZT ANMELDEN
-    headingLevel: "3"
-    width: 1/4
-    facebook: false
-    innerWidth: "1"
-    whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=35294298
-    headingCentered: true
-    isColored: false
-    booking: true
-    type: contact
-    email: false
