@@ -136,13 +136,15 @@ buildingBlocks:
     booking: true
     type: contact
     email: false
-  - headingLevel: "1"
-    width: "1"
-    facebook: true
+  - heading: JETZT BUCHEN
+    headingLevel: "2"
+    width: 1/4
+    facebook: false
     innerWidth: "1"
-    whatsapp: true
+    whatsapp: false
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Workshops
     headingCentered: true
     isColored: false
-    booking: false
+    booking: true
     type: contact
-    email: true
+    email: false
