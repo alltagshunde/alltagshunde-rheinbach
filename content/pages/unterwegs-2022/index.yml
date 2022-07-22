@@ -131,7 +131,7 @@ buildingBlocks:
     type: contact
     email: false
   - type: text
-    width: "1"
+    width: 3/4
     headingLevel: "3"
     headingCentered: false
     isColored: false
