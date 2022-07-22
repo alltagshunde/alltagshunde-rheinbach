@@ -287,14 +287,11 @@ buildingBlocks:
     type: contact
     email: false
   - type: text
-    width: "1"
+    width: 3/4
     headingLevel: "3"
     headingCentered: false
     isColored: false
     text: >-
-      ### Social Walk
-
-
       ### Sonntag 13. November 2022, 15:00 Uhr (Dauer ca. 2 Stunden)
 
 
@@ -314,6 +311,7 @@ buildingBlocks:
 
 
       **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
+    heading: Social Walk
   - type: text
     width: "1"
     headingLevel: "2"
