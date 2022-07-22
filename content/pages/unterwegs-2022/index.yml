@@ -94,7 +94,7 @@ buildingBlocks:
     type: contact
     email: false
   - type: text
-    width: "1"
+    width: 2/3
     headingLevel: "1"
     headingCentered: false
     isColored: true
