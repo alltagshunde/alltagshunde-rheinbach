@@ -129,7 +129,7 @@ buildingBlocks:
     whatsapp: false
     bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=35294298
     headingCentered: true
-    isColored: false
+    isColored: true
     booking: true
     type: contact
     email: false
