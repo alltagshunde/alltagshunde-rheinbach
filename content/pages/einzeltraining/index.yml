@@ -71,7 +71,7 @@ buildingBlocks:
     width: 1/2
     innerWidth: "1"
     isBanner: false
-    image: img_4432finish.jpg
+    image: img_4101finish.jpg
     isColored: true
   - type: text
     width: 1/2
