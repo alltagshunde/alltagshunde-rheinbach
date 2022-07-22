@@ -54,45 +54,10 @@ buildingBlocks:
     type: contact
     email: false
   - type: text
-    width: "1"
+    width: 3/4
     headingLevel: "2"
     headingCentered: false
     isColored: true
-    text: >-
-      In diesem Workshop beschäftigen wir uns intensiv mit der eigenen
-      Körpersprache und der unserer Hunde. Was haben die Körpersprache von
-      Hunden und Menschen gemeinsam und was unterscheidet sie? Warum ist das
-      überhaupt wichtig?  Ziel des Workshops ist es, wieder mehr Gefühl für die
-      eigene Körpersprache zu entwickeln, um diese dann gezielt in der
-      Kommunikation mit dem Hund einzusetzen. Die Ergebnisse werden wir sofort
-      umsetzen und mit den Hunden spannende „Unterhaltungen führen“.
-
-
-      Min. 3 max. 5 Teilnehmer
-
-      Ort: Trainingsgelände Meckenheim 
-
-
-      **Termin:** Samstag 23. April 2022, 12:00 - 15:00 Uhr (inkl. Pause)
-
-
-      **Teilnehmer:** min. 3 und max. 5 Mensch-Hund-Teams
-
-
-      **Kosten:** 80,00 Euro pro Mensch-Hund-Team
-
-
-      **Ort:** Trainingsgelände in 53340 Meckenheim
-
-
-      **Anmeldung:** telefonisch unter 0176 - 61711772 oder per E-Mail an caro@alltagshunde-rheinbach.de
-    heading: "Workshop: Kommunikation & Körpersprache Mensch-Hund"
-  - type: text
-    width: "1"
-    headingLevel: "2"
-    headingCentered: false
-    isColored: false
-    heading: "Workshop: Wer ist denn eigentlich mein Hund?"
     text: >-
       Du hast deinen Hund noch nicht so lange oder hast manchmal das Gefühl, als
       könntest Du ihn nicht immer richtig einschätzen? 
@@ -113,13 +78,46 @@ buildingBlocks:
       Am Ende wagen wir gemeinsam eine Charaktereinschätzung und werden vielleicht überrascht sein. 
 
 
-      **Termin:** Samstag 7. Mai 2022, 12:00 - 15:00 Uhr (inkl. Pausen)
+      **Termin:** in Planung ...
 
 
       **Teilnehmer:** min. 3 und max. 5 Mensch-Hund-Teams
 
 
-      **Kosten:** 80,00 Euro pro Mensch-Hund-Team
+      **Kosten:** 90,00 Euro pro Mensch-Hund-Team
+
+
+      **Ort:** Trainingsgelände in 53340 Meckenheim
+
+
+      **Anmeldung:** telefonisch unter 0176 - 61711772 oder per E-Mail an caro@alltagshunde-rheinbach.de
+    heading: "Workshop: Kommunikation & Körpersprache Mensch-Hund"
+  - type: text
+    width: 3/4
+    headingLevel: "2"
+    headingCentered: false
+    isColored: false
+    heading: "Workshop: Wer ist denn eigentlich mein Hund?"
+    text: >-
+      In diesem Workshop beschäftigen wir uns intensiv mit der eigenen
+      Körpersprache und der unserer Hunde. Was haben die Körpersprache von
+      Hunden und Menschen gemeinsam und was unterscheidet sie? Warum ist das
+      überhaupt wichtig?  Ziel des Workshops ist es, wieder mehr Gefühl für die
+      eigene Körpersprache zu entwickeln, um diese dann gezielt in der
+      Kommunikation mit dem Hund einzusetzen. Die Ergebnisse werden wir sofort
+      umsetzen und mit den Hunden spannende „Unterhaltungen führen“.
+
+
+      Min. 3 max. 5 Teilnehmer Ort: Trainingsgelände Meckenheim 
+
+
+      **Termin:** in Planung ...
+
+
+      **Teilnehmer:** min. 3 und max. 5 Mensch-Hund-Teams
+
+
+      **Kosten:** 90,00 Euro pro Mensch-Hund-Team
 
 
       **Ort:** Trainingsgelände in 53340 Meckenheim
