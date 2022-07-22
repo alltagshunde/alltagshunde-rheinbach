@@ -325,14 +325,11 @@ buildingBlocks:
     type: contact
     email: false
   - type: text
-    width: "1"
-    headingLevel: "2"
+    width: 3/4
+    headingLevel: "3"
     headingCentered: false
     isColored: true
     text: >-
-      ### Nikolauswanderung
-
-
       ### Sonntag 4. Dezember 2022, 15:00 Uhr (Dauer ca. 2- 2,5 Stunden)
 
 
@@ -355,6 +352,19 @@ buildingBlocks:
 
 
       **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
+    heading: Nikolauswanderung
+  - heading: JETZT BUCHEN
+    headingLevel: "3"
+    width: 1/4
+    facebook: false
+    innerWidth: "1"
+    whatsapp: false
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Wanderung
+    headingCentered: true
+    isColored: true
+    booking: true
+    type: contact
+    email: false
   - type: text
     width: "1"
     headingLevel: "2"
@@ -383,15 +393,3 @@ buildingBlocks:
 
 
       **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
-  - heading: JETZT BUCHEN
-    headingLevel: "3"
-    width: 1/4
-    facebook: false
-    innerWidth: "1"
-    whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Wanderung
-    headingCentered: true
-    isColored: true
-    booking: true
-    type: contact
-    email: false
