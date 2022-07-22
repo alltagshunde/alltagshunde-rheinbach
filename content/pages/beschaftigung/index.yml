@@ -41,7 +41,7 @@ buildingBlocks:
     button: Mehr erfahren
     buttonLink: Nasenarbeit
   - type: card
-    width: 1/3
+    width: 1/4
     innerWidth: "1"
     isColored: false
     heading: K3 DogParkour / Hundefitness
