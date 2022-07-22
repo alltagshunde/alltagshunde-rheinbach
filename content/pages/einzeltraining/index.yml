@@ -50,17 +50,29 @@ buildingBlocks:
 
       * Kannst Du mit Deinem Hund nicht entspannt spazieren gehen, weil er durchweg an der Leine zieht oder Begegnungen mit anderen Hunden immer Stress bedeuten?
     isColored: true
+  - heading: Jetzt Kontakt aufnehmen und Termin vereinbaren
+    headingLevel: "3"
+    width: "1"
+    facebook: false
+    innerWidth: "1"
+    whatsapp: true
+    headingCentered: true
+    isColored: true
+    booking: false
+    type: contact
+    email: true
   - type: image
     width: 1/2
     innerWidth: "1"
     isBanner: false
-    isColored: false
+    isColored: true
     image: img_4087finish.jpg
   - type: image
     width: 1/2
     innerWidth: "1"
     isBanner: false
     image: img_4432finish.jpg
+    isColored: true
   - type: text
     width: 1/2
     headingLevel: "3"
@@ -111,14 +123,3 @@ buildingBlocks:
 
       **Beratung via Telefon / Zoom-Meeting (15 Min.): 10,- Euro (inkl. 19% MwSt.)**
     heading: Angebot und Kosten
-  - heading: Jetzt Kontakt aufnehmen und Termin vereinbaren
-    headingLevel: "3"
-    width: "1"
-    facebook: false
-    innerWidth: "1"
-    whatsapp: true
-    headingCentered: true
-    isColored: true
-    booking: false
-    type: contact
-    email: true
