@@ -11,7 +11,7 @@ buildingBlocks:
     width: 3/4
     headingLevel: "2"
     headingCentered: false
-    isColored: false
+    isColored: true
     heading: Mantrailing Tagesworkshop in der Bonner City
     text: >-
       Vormittags werden kurze Trails zum Kennenlernen der Teams und des
@@ -49,7 +49,7 @@ buildingBlocks:
     whatsapp: false
     bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Workshops
     headingCentered: true
-    isColored: false
+    isColored: true
     booking: true
     type: contact
     email: false
