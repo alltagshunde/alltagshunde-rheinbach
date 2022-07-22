@@ -57,7 +57,7 @@ buildingBlocks:
     innerWidth: "1"
     whatsapp: true
     headingCentered: true
-    isColored: true
+    isColored: false
     booking: false
     type: contact
     email: true
