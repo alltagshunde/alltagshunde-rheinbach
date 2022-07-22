@@ -233,7 +233,7 @@ buildingBlocks:
       **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
     heading: Herbstwanderung
   - heading: JETZT BUCHEN
-    headingLevel: "1"
+    headingLevel: "3"
     headingSize: "3"
     width: 1/4
     facebook: false
