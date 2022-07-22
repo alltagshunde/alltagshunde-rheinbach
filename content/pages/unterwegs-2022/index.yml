@@ -93,14 +93,12 @@ buildingBlocks:
     email: false
   - type: text
     width: 3/4
-    headingLevel: "1"
+    headingLevel: "3"
     headingCentered: false
     isColored: true
     text: >-
-      ### Sommerwanderung City & Eiscafé
-
-
-      ### Samstag 06. August 2022, 15:30 Uhr (Dauer ca. 2,5 Stunden inkl. Einkehr)
+      ### Samstag 06. August 2022, 15:30 Uhr (Dauer ca. 2,5 Stunden inkl.
+      Einkehr)
 
 
       **Start: Wanderparkplatz "Steinbruch", 53359 Rheinbach**
@@ -119,6 +117,7 @@ buildingBlocks:
 
 
       **Teilnehmer: mindestens 4, maximal 10 Mensch-Hund-Teams**
+    heading: Sommerwanderung City & Eiscafé
   - heading: JETZT ANMELDEN
     headingLevel: "3"
     width: 1/4
