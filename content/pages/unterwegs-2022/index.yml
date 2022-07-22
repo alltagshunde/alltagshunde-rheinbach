@@ -54,7 +54,7 @@ buildingBlocks:
     isColored: true
     type: text
   - type: text
-    width: 2/3
+    width: 3/4
     headingLevel: "3"
     headingCentered: false
     isColored: false
