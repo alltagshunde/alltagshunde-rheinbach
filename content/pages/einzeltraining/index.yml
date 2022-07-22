@@ -12,7 +12,7 @@ buildingBlocks:
     width: "1"
     headingLevel: "3"
     headingCentered: true
-    isColored: false
+    isColored: true
     text: Zeigt dein Hund im Alltag unerwünschtes oder problematisches Verhalten,
       kann das ganz unterschiedliche Gründe haben. Die Ursachen hierfür lassen
       sich daher in der Regel am effektivsten in einer Verhaltensberatung
@@ -100,3 +100,14 @@ buildingBlocks:
 
       **Beratung via Telefon / Zoom-Meeting (15 Min.): 10,- Euro (inkl. 19% MwSt.)**
     heading: Angebot und Kosten
+  - heading: Jetzt Kontakt aufnehmen und Termin vereinbaren
+    headingLevel: "3"
+    width: "1"
+    facebook: false
+    innerWidth: "1"
+    whatsapp: true
+    headingCentered: true
+    isColored: true
+    booking: false
+    type: contact
+    email: true
