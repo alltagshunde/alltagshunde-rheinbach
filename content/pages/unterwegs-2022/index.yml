@@ -55,13 +55,10 @@ buildingBlocks:
     type: text
   - type: text
     width: 2/3
-    headingLevel: "1"
+    headingLevel: "3"
     headingCentered: false
     isColored: false
     text: >-
-      ### Sommerwanderung
-
-
       ### Sonntag 31. Juli 2022, 15:30 Uhr (Dauer ca. 2 Stunden)
 
 
@@ -81,6 +78,7 @@ buildingBlocks:
 
 
       **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
+    heading: Sommerwanderung & Badespaß
   - heading: "JETZT ANMELDEN "
     headingLevel: "3"
     width: 1/3
