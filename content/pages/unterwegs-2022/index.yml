@@ -171,7 +171,7 @@ buildingBlocks:
     type: contact
     email: false
   - type: text
-    width: "1"
+    width: 3/4
     headingLevel: "3"
     headingCentered: false
     isColored: true
@@ -341,3 +341,13 @@ buildingBlocks:
 
 
       **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
+  - headingLevel: "1"
+    width: "1"
+    facebook: true
+    innerWidth: "1"
+    whatsapp: true
+    headingCentered: true
+    isColored: false
+    booking: false
+    type: contact
+    email: true
