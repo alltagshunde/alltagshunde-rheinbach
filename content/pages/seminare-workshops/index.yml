@@ -255,3 +255,15 @@ buildingBlocks:
 
 
       **Ort:** Das Webinar findet über die Plattform Zoom statt. Ihr müsst nichts installieren und keine Webcam einschalten. Der Zugang wird ca. 1 Woche vorab per Mail verschickt.
+  - heading: JETZT BUCHEN
+    headingLevel: "2"
+    width: 1/4
+    facebook: false
+    innerWidth: "1"
+    whatsapp: false
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Webinare%20%26%20Workshops
+    headingCentered: true
+    isColored: true
+    booking: true
+    type: contact
+    email: false
