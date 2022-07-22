@@ -19,6 +19,17 @@ buildingBlocks:
       herausarbeiten und im Einzelcoaching lösen. Im Fokus steht dabei der
       Aufbau einer vertrauensvollen und belastbaren Mensch-Hund-Beziehung, in
       der Konflikte nicht umschifft, sondern angenommen und aufgelöst werden.
+  - heading: Jetzt Kontakt aufnehmen und Termin vereinbaren
+    headingLevel: "3"
+    width: "1"
+    facebook: false
+    innerWidth: "1"
+    whatsapp: true
+    headingCentered: true
+    isColored: false
+    booking: false
+    type: contact
+    email: true
   - type: text
     width: "1"
     headingLevel: "3"
@@ -108,17 +119,6 @@ buildingBlocks:
     whatsapp: true
     headingCentered: true
     isColored: true
-    booking: false
-    type: contact
-    email: true
-  - heading: Jetzt Kontakt aufnehmen und Termin vereinbaren
-    headingLevel: "3"
-    width: "1"
-    facebook: false
-    innerWidth: "1"
-    whatsapp: true
-    headingCentered: true
-    isColored: false
     booking: false
     type: contact
     email: true
