@@ -174,13 +174,10 @@ buildingBlocks:
     headingCentered: false
     isColored: true
     text: >-
-      ### Schnüffeltour
-
-
       ### Sonntag 18. September 2022, 15:00 Uhr (Dauer ca. 2 Stunden)
 
 
-      **Start: Wanderparkplatz, Dorfstraße 56, 53343 Wachtberg-Villiprott**
+      ### **Start: Wanderparkplatz, Dorfstraße 56, 53343 Wachtberg-Villiprott**
 
 
       Wenn es um den Einsatz ihrer Nase geht sind unsere Vierbeiner meist mit großem Eifer bei der Sache. Leider nicht immer zu unserer Freude, schalten sie die Ohren dabei doch oft auf Durchzug. Auf diesem Spaziergang zeige ich dir, wie du deinen Hund unterwegs mit verschiedenen Schnüffelspielen auf unterschiedlichen Ebenen beschäftigen und auslasten kannst aber dabei trotzdem seine Aufmerksamkeit behältst.
@@ -196,6 +193,7 @@ buildingBlocks:
 
 
       **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
+    heading: Schnüffeltour
   - heading: JETZT BUCHEN
     headingLevel: "3"
     width: 3/4
