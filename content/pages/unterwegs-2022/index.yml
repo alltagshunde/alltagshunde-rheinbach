@@ -77,7 +77,7 @@ buildingBlocks:
       **Kosten: 25,00 Euro pro Mensch-Hund-Team oder ein Feld auf Eurer 10er-Karte, Begleitperson gratis**
 
 
-      **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
+      **Teilnehmer: mindestens 4, maximal 10 Mensch-Hund-Teams**
     heading: Sommerwanderung & Badespaß
   - heading: JETZT BUCHEN
     headingLevel: "3"
@@ -136,9 +136,6 @@ buildingBlocks:
     headingCentered: false
     isColored: false
     text: >-
-      ### Sommer - Social Walk
-
-
       ### Sonntag 28. August 2022, 15:00 Uhr (Dauer ca. 2 Stunden)
 
 
@@ -158,6 +155,7 @@ buildingBlocks:
 
 
       **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
+    heading: Social Walk
   - heading: JETZT BUCHEN
     headingLevel: "3"
     width: "1"
