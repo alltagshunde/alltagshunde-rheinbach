@@ -111,3 +111,14 @@ buildingBlocks:
     booking: false
     type: contact
     email: true
+  - heading: Jetzt Kontakt aufnehmen und Termin vereinbaren
+    headingLevel: "3"
+    width: "1"
+    facebook: false
+    innerWidth: "1"
+    whatsapp: true
+    headingCentered: true
+    isColored: false
+    booking: false
+    type: contact
+    email: true
