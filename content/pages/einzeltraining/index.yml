@@ -7,7 +7,7 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Einzelcoaching & Verhaltensberatung
+    heading: Einzelcoaching & Beratung
   - type: text
     width: "1"
     headingLevel: "3"
@@ -17,7 +17,8 @@ buildingBlocks:
       kann das ganz unterschiedliche Gründe haben. Die Ursachen hierfür lassen
       sich daher in der Regel am effektivsten in einer Verhaltensberatung
       herausarbeiten und im Einzelcoaching lösen. Im Fokus steht dabei der
-      Aufbau einer vertrauensvollen und belastbaren Mensch-Hund-Beziehung.
+      Aufbau einer vertrauensvollen und belastbaren Mensch-Hund-Beziehung, in
+      der Konflikte nicht umschifft, sondern angenommen und aufgelöst werden.
   - type: text
     width: "1"
     headingLevel: "3"
@@ -37,8 +38,6 @@ buildingBlocks:
       * Vielleicht reagiert dein Hund auch oft ängstlich, gestresst und / oder aggressiv auf Umweltreize und / oder fremde Menschen? 
 
       * Kannst Du mit Deinem Hund nicht entspannt spazieren gehen, weil er durchweg an der Leine zieht oder Begegnungen mit anderen Hunden immer Stress bedeuten?
-
-      * Vielleicht hast Du aber auch gerade erst einen Hund aus dem Tierschutz aufgenommen und sein Verhalten entspricht so gar nicht deinen Vorstellungen?
     isColored: true
   - type: image
     width: 1/2
