@@ -207,14 +207,11 @@ buildingBlocks:
     type: contact
     email: false
   - type: text
-    width: "1"
-    headingLevel: "1"
+    width: 3/4
+    headingLevel: "3"
     headingCentered: false
     isColored: false
     text: >-
-      ### Herbstwanderung
-
-
       ### Sonntag 23. Oktober 2022, 14:30 Uhr (Dauer ca. 2 Stunden)
 
 
@@ -234,6 +231,7 @@ buildingBlocks:
 
 
       **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
+    heading: Herbstwanderung
   - type: text
     width: "1"
     headingLevel: "1"
