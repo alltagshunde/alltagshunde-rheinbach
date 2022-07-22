@@ -158,7 +158,7 @@ buildingBlocks:
     heading: Social Walk
   - heading: JETZT BUCHEN
     headingLevel: "3"
-    width: "1"
+    width: 1/4
     facebook: false
     innerWidth: "1"
     whatsapp: false
