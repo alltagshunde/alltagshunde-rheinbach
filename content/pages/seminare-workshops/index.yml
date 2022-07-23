@@ -57,7 +57,7 @@ buildingBlocks:
     width: 3/4
     headingLevel: "2"
     headingCentered: true
-    isColored: true
+    isColored: false
     heading: "WEBINAR: Let's Talk about sex ... Sexualverhalten des Hundes"
     text: >-
       Dein Welpe ist niedlich und süß, doch über Nacht ist sie plötzlich da: Die
@@ -112,7 +112,7 @@ buildingBlocks:
     whatsapp: false
     bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Webinare%20%26%20Workshops
     headingCentered: true
-    isColored: true
+    isColored: false
     booking: true
     type: contact
     email: false
@@ -120,7 +120,7 @@ buildingBlocks:
     width: 3/4
     headingLevel: "2"
     headingCentered: true
-    isColored: false
+    isColored: true
     heading: "WEBINAR: Silvester - Keine Angst vorm Jahreswechsel! "
     text: >-
       Du weißt bereits um die Angst deines Hundes an Silvester, jedoch nicht,
@@ -168,7 +168,7 @@ buildingBlocks:
     whatsapp: false
     bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Webinare%20%26%20Workshops
     headingCentered: true
-    isColored: false
+    isColored: true
     booking: true
     type: contact
     email: false
