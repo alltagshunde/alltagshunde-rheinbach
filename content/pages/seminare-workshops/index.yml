@@ -57,7 +57,7 @@ buildingBlocks:
   - type: text
     width: 3/4
     headingLevel: "3"
-    headingCentered: true
+    headingCentered: false
     isColored: false
     heading: "WEBINAR: Let's Talk about sex ... Sexualverhalten des Hundes"
     text: >-
@@ -113,7 +113,7 @@ buildingBlocks:
     innerWidth: "1"
     whatsapp: false
     bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Webinare%20%26%20Workshops
-    headingCentered: true
+    headingCentered: false
     isColored: false
     booking: true
     type: contact
@@ -121,7 +121,7 @@ buildingBlocks:
   - type: text
     width: 3/4
     headingLevel: "3"
-    headingCentered: true
+    headingCentered: false
     isColored: true
     heading: "WEBINAR: Silvester - Keine Angst vorm Jahreswechsel! "
     text: >-
@@ -169,7 +169,7 @@ buildingBlocks:
     innerWidth: "1"
     whatsapp: false
     bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Webinare%20%26%20Workshops
-    headingCentered: true
+    headingCentered: false
     isColored: true
     booking: true
     type: contact
