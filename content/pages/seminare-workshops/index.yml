@@ -9,7 +9,7 @@ buildingBlocks:
     heading: Seminare & Workshops 2022
   - type: text
     width: 3/4
-    headingLevel: "2"
+    headingLevel: "3"
     headingCentered: false
     isColored: true
     heading: Mantrailing Tagesworkshop in der Bonner City
