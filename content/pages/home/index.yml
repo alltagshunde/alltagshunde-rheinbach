@@ -6,8 +6,8 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Hundetraining für deinen Alltag mit Hund!
-    headingSize: "1"
+    heading: Hundetraining für einen entspannten Alltag mit deinem Hund!
+    headingSize: "2"
     text: ""
   - type: image
     image: img_4201finish.jpg
@@ -16,15 +16,18 @@ buildingBlocks:
     isBanner: false
     isColored: true
   - type: text
-    heading: Für ein entspanntes Miteinander von Mensch und Hund
+    heading: Hundetraining muss nicht kompliziert sein!
     text: >-
       Ich freue mich, dass du den Weg auf meine Webseite gefunden hast.
 
 
-      In der Region Wachtberg, Meckenheim, der Grafschaft, Rheinbach und Umgebung biete ich interessierten Hundehaltern ein umfangreiches Angebot rund um die Erziehung und Beschäftigung mit dem geliebten Vierbeiner. Sicher ist auch für dich und deinen Hund das passende Angebot dabei.  
+      Hundehaltung sieht heute anders aus als noch vor 30 Jahren und insbesondere in den letzten 10-15 Jahren hat sich die Rolle des Hundes in unserer Gesellschaft stark gewandelt. Vom ursprünglichen Helfer bei Jagd und Arbeit hin zum Familienmitglied begleiten uns unsere Hunde heute in unserem Alltag und zur Arbeit ins Büro. 
 
 
-      Solltest du Fragen zu meinem Training oder meinen Angeboten haben, ruf mich gerne an und wir sprechen darüber, wie ich dich am besten bei der Erreichung deiner Ziele unterstützen kann! Ich freue mich darauf, dich und deinen Hund persönlich kennenzulernen! 
+      Damit dies gelingt und Du mit deinem Hund überall willkommen bist, biete ich dir meine Unterstützung an! Dabei ist es mir eine Herzensangelegenheit, dass Hundetraining nicht unnötig verkompliziert wird! Ich möchte dich ermutigen, eine echte Beziehung zu deinem Hund aufzubauen und dir helfen ihn in seinem Wesen zu verstehen und seine (Körper-)Sprache lesen zu lernen. Seine Erziehung gelingt dann am Besten, wenn wir uns auf das wichtigste Hilfsmittel besinnen, welches wir immer bei uns tragen, unser Bauchgefühl. 
+
+
+      Solltest du Fragen zu meinem Training oder meinen Angeboten haben, ruf mich gerne an oder schreibe mir und wir sprechen darüber, wie ich dich am besten bei der Erreichung deiner Ziele unterstützen kann! Ich freue mich darauf, dich und deinen Hund persönlich kennenzulernen! 
 
 
       Bis dahin, viel Spaß auf meiner Seite!
@@ -45,7 +48,9 @@ buildingBlocks:
     facebook: true
     innerWidth: 1/2
     whatsapp: true
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     headingCentered: true
+    booking: true
     type: contact
     email: true
   - type: text
