@@ -120,7 +120,7 @@ buildingBlocks:
     email: false
   - type: text
     width: 3/4
-    headingLevel: "2"
+    headingLevel: "3"
     headingCentered: true
     isColored: true
     heading: "WEBINAR: Silvester - Keine Angst vorm Jahreswechsel! "
@@ -163,7 +163,7 @@ buildingBlocks:
 
       **Ort:** Das Webinar findet über die Plattform Zoom statt. Ihr müsst nichts installieren und keine Webcam einschalten. Der Zugang wird ca. 1 Woche vorab per Mail verschickt.
   - heading: JETZT BUCHEN
-    headingLevel: "2"
+    headingLevel: "3"
     width: 1/4
     facebook: false
     innerWidth: "1"
