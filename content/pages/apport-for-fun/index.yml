@@ -37,7 +37,7 @@ buildingBlocks:
     width: 1/2
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     heading: Neuer Einsteigerkurs ab August!
     text: >-
       ### **Start: Freitag 26. August 2022**
@@ -72,22 +72,6 @@ buildingBlocks:
     booking: true
     type: contact
     email: false
-  - type: image
-    width: 1/3
-    innerWidth: 3/4
-    isBanner: true
-    image: chihuahua-apport.jpg
-  - type: image
-    width: 1/3
-    innerWidth: 3/4
-    isBanner: false
-    image: 2016-06-10-34027.jpg
-  - type: image
-    width: 1/3
-    innerWidth: 3/4
-    isBanner: false
-    image: apportieren.jpg
-    isColored: false
   - type: text
     width: 1/2
     headingLevel: "2"
@@ -115,3 +99,19 @@ buildingBlocks:
 
       Dein Hund sollte auch in Anwesenheit von Artgenossen ansprechbar sein und nicht permanent bellen, wenn die anderen Hunde arbeiten.
     headingSize: "3"
+  - type: image
+    width: 1/3
+    innerWidth: 3/4
+    isBanner: true
+    image: chihuahua-apport.jpg
+  - type: image
+    width: 1/3
+    innerWidth: 3/4
+    isBanner: false
+    image: 2016-06-10-34027.jpg
+  - type: image
+    width: 1/3
+    innerWidth: 3/4
+    isBanner: false
+    image: apportieren.jpg
+    isColored: false
