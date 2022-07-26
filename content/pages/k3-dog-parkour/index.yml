@@ -91,3 +91,30 @@ buildingBlocks:
     innerWidth: "1"
     image: p1170095.jpg
     isColored: true
+  - type: text
+    width: 2/3
+    headingLevel: "2"
+    headingCentered: false
+    isColored: false
+    heading: "NEUER KURS AB SEPTEMBER:"
+    text: >-
+      ### **Start: Dienstag 13. September 2022**
+
+
+      **Termine**: 13.9. / 27.9. / 11.10. / 25.10. / 8.11. / 22.11.2022: jeweils um 17:00 Uhr (ca. 50 Min.)
+
+
+      **Kosten:** 140,- Euro (inkl. MwSt.) pro Mensch-Hund-Team
+
+
+      **Teilnehmer:** min. 3 und max. 5 Mensch-Hund-Teams
+
+
+      **Ort:** Trainingsgelände Meckenheim
+
+
+      **Vorausgesetzt wird ein gewisser Grundgehorsam des Hundes:**
+
+
+      Dein Hund sollte auch in Anwesenheit von Artgenossen ansprechbar sein und nicht permanent bellen, wenn die anderen Hunde arbeiten.
+    headingSize: "3"
