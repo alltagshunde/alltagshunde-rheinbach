@@ -100,7 +100,7 @@ buildingBlocks:
     width: 1/4
     innerWidth: "1"
     image: p1170237.jpg
-    isColored: true
+    isColored: false
   - type: image
     width: 1/4
     innerWidth: "1"
