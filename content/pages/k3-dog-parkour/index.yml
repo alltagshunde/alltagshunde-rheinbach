@@ -30,21 +30,10 @@ buildingBlocks:
     isColored: false
     type: text
   - type: text
-    width: "1"
-    headingLevel: "2"
-    headingCentered: false
-    isColored: true
-    heading: K3DogParkour® bei Tiere suchen ein Zuhause
-    text: Am 12. Juni 2022 war unsere Kollegin und K3DogParkour® Gründerin Rosa
-      Wiesner zu Gast in der Sendung Tiere suchen ein Zuhause des WDR und hat
-      K3DogParkour® dort mit ihrer Hündin Neyla vorgestellt. Hier geht's direkt
-      zum
-      [Beitrag](https://www.ardmediathek.de/video/tiere-suchen-ein-zuhause/fitness-fuer-gebrechliche-oder-unsichere-hunde/wdr/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTFmMTRlYjViLTU3ZDYtNDFlNi1hZWExLTBkMGY2OTliOTUyZQ).
-  - type: text
     width: 2/3
     headingLevel: "2"
     headingCentered: false
-    isColored: false
+    isColored: true
     text: >-
       **K3DogParkour®**ist eine sehr individuelle und kreative Hundesportart mit
       ganz vielen variablen Trainingsmöglichkeiten. Vom einfachen Fun-Parkour
@@ -65,6 +54,7 @@ buildingBlocks:
 
 
       Mehr Infos unter: [https://k3dogparkour.net](https://k3dogparkour.chayns.net/)
+    heading: K3DogParkour® - Training für Jederhund
   - type: text
     width: 1/3
     headingLevel: "3"
@@ -72,22 +62,18 @@ buildingBlocks:
     isColored: false
     heading: "Termine und Kosten: "
     text: >-
-      **Termin:** jeweils**14-tägig dienstags** um 17:15 Uhr
+      * **Quirlige Junghunde** oder **hyperaktive Hunde** mit einem erhöhten
+      Stresslevel profitieren von der ruhigen, konzentrierten Arbeit kombiniert
+      mit Übungen des Grundgehorsams.
+
+      * **Ängstliche** oder **unsichere Hunde** werden spürbar selbstsicherer. Das gegenseitige Vertrauen im Team wird gestärkt und die Beziehung und Bindung gefördert. Die Hundehalter werden in Orientierung, Körpersprache und Führtechniken geschult. Dieses Wissen kann anschließend sehr gut in den Alltag übertragen werden.
+
+      * Bei **Hunden mit orthopädischen Funktionsstörungen oder Handicaps wird K3DogParkour®**  als aktive Bewegungstherapie, auch in Ergänzung zu einer laufenden tierärztlichen oder physiotherapeutischen Behandlung, eingesetzt. Durch die Bewegungstherapie werden Stoffwechselprozesse angeregt, Muskelverspannungen allmählich gelöst, und der gesamte Bewegungsablauf wird koordinierter. Der Hund hat infolgedessen weniger Schmerzen, die Muskulatur wird stabilisierend aufgebaut und die Beweglichkeit verbessert.
+
+      * Zudem fördert **K3DogParkour®**die Beziehung und Bindung zwischen Hund und Halter: Durch feine Signale und kleinste Veränderungen in der Führtechnik wird die Kommunikation stetig verfeinert. 
 
 
-      **Kursstart: 31. Mai 2022 (6 Termine): 110,- Euro (inkl. 19% MwSt.)**
-
-
-      **Teilnehmer:** min. 3 und max. 5 Mensch-Hund-Teams
-
-
-      **Ort:** Trainingsgelände Meckenheim 
-
-
-      **Vorausgesetzt wird ein gewisser Grundgehorsam des Hundes:**
-
-
-      Dein Hund sollte auch in Anwesenheit von Artgenossen ansprechbar sein und nicht permanent bellen, wenn die anderen Hunde arbeiten.
+      Mehr Infos unter: [https://k3dogparkour.net](https://k3dogparkour.chayns.net/)
   - type: image
     width: 1/4
     innerWidth: "1"
