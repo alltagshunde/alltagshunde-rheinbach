@@ -47,7 +47,7 @@ buildingBlocks:
     heading: K3 DogParkour / Hundefitness
     image: k3.jpg
     button: Mehr erfahren
-    buttonLink: Hundefitness / K3
+    buttonLink: Hundefitness
   - type: card
     width: 1/4
     innerWidth: "1"
