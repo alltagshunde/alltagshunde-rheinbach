@@ -7,15 +7,16 @@ buildingBlocks:
     headingCentered: true
     headingColorPrimary: false
     heading: Über mich
-  - type: text
-    width: "1"
-    headingLevel: "3"
-    headingCentered: true
-    headingColorPrimary: false
+  - headingColorPrimary: false
     heading: Carolin Henseler
-    text: "**Hundetrainerin & Verhaltensberaterin, Mantrailing Trainerin,
-      Hundefitness Trainerin i. A.**"
+    headingLevel: "2"
+    headingSize: "3"
+    width: "1"
+    text: "**Hundetrainerin & Verhaltensberaterin, Mantrailing-Trainerin,
+      Hundefitness-Trainerin i. A.**"
+    headingCentered: true
     isColored: true
+    type: text
   - type: text
     width: 2/3
     headingLevel: "3"
@@ -32,10 +33,10 @@ buildingBlocks:
       Ländchen bei Bonn. 
 
 
-      Als 2011 unser Rüde Aris als Welpe bei uns einzog, wollte ich ihm natürlich von Anfang an einen optimalen Start ins Leben ermöglichen. Von der Masse an - teilweise auch widersprüchlichen - Informationen fühlte ich mich schnell erschlagen. Vieles ist in der heutigen Medienlandschaft leicht verfügbar und in den sozialen Medien wird vieles sehr emotional, teilweise sogar unter der Gürtellinie diskutiert. 
+      Als 2011 unser Rüde Aris als Welpe bei uns einzog, wollte ich ihm - wie wahrscheinlich jeder Welpenbesitzer - von Anfang an einen optimalen Start ins Leben ermöglichen. Von der Masse an teilweise auch widersprüchlichen Informationen fühlte ich mich schnell erschlagen. Vieles ist in der heutigen Medienlandschaft leicht verfügbar und wird in den sozialen Medien hoch und runter diskutiert. 
 
 
-      Auf der Suche nach dem richtigen Weg für mich und meinen Hund entschied ich mich daher 2014 für die dreijährige Ausbildung zur Hundetrainerin und Verhaltensberaterin bei **[Canis](https://www.canis-kynos.de)**. Ursprünglich nur gedacht, um meinen eigenen Wissendurst zu stillen.  Während des Studiums erkannte ich jedoch schnell, wie viel Spaß es mir bereitet, Menschen zu mehr Verständnis für und zu einer besseren Kommunikation mit Ihrem Hund zu verhelfen. Der Umgang mit Hunden und ihren Menschen bedeutete seither für mich einen gelungenen Ausgleich zu meinem Alltag im Büro. Seit August 2021 habe ich das große Glück meine Hundeschule hauptberuflich führen zu können.  
+      Auf der Suche nach dem richtigen Weg für mich und meinen Hund entschied ich mich daher 2014 für die dreijährige Ausbildung zur Hundetrainerin und Verhaltensberaterin bei **[Canis](https://www.canis-kynos.de)**. Ursprünglich nur, um meinen eigenen Wissendurst zu stillen, doch während des Studiums erkannte ich schnell, wie viel Spaß es mir bereitet, Menschen zu mehr Verständnis für und zu einer besseren Kommunikation mit Ihrem Hund zu verhelfen. Seither bestimmt der Umgang mit Hunden und ihren Menschen auch meinen beruflichen Alltag.
 
 
       **Selbstverständlich verfüge ich über die erforderliche Erlaubnis gemäß §11 TierSchG zum Betrieb einer Hundeschule. Mehr zu meiner Ausbildung und Qualifikation erfährst Du auf den folgenden Seiten.**
