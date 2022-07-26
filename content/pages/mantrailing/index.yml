@@ -51,25 +51,6 @@ buildingBlocks:
     image: mantrailing_gefunden.jpg
     isColored: true
   - headingColorPrimary: false
-    heading: "Deine Vorteile:"
-    headingLevel: "2"
-    headingSize: "2"
-    width: "1"
-    text: >-
-      * **Individuelles Training** – ganz auf deinen persönlichen Leistungsstand
-      abgestimmt
-
-      * **Max. 4 Teilnehmer pro Termin** - damit für jeden genug Zeit da ist
-
-      * **Weniger Wartezeiten** - ich bemühe mich die Trails so gut es geht vorzubereiten und die Wartezeiten dadurch so gering wie möglich zu gestalten
-
-      * **Fortgeschrittene und Anfänger** - voneinander und miteinander lernen ist die Devise. Wenn die Rahmenbedingungen es hergeben ist es ausdrücklich erwünscht bei den Trails anderer Teams mitzulaufen. Auch dadurch kannst Du viel lernen und für dein eigenes Training mitnehmen
-
-      * **Einstieg jederzeit möglich** - keine Vorkenntnisse nötig
-    headingCentered: false
-    isColored: false
-    type: text
-  - headingColorPrimary: false
     heading: "Termine & Kosten: "
     headingLevel: "2"
     headingSize: "2"
@@ -88,16 +69,10 @@ buildingBlocks:
       * **sonntags** 10:30 Uhr (14-tägig) 
 
 
-      **Einzeln:** 30,00 Euro pro Termin (inkl. 19 % MwSt.)
-
-
-      **5er-Karte:** 140,- Euro (inkl. 19 % MwSt.)
+      **Einzeln:** 30,00 Euro pro Termin (inkl. 19 % MwSt.) <br>**5er-Karte:** 140,- Euro (inkl. 19 % MwSt.)
 
 
       Das Training findet an unterschiedlichen Orten in und um Meckenheim, Wachtberg und Rheinbach statt. 
-
-
-      Es sind keine Vorkenntnisse nötig - Anfänger können direkt mit einsteigen.
 
 
       **WICHTIG:** 
@@ -108,7 +83,7 @@ buildingBlocks:
 
       **Da wir uns während des Trainings im öffentlichen Raum bewegen, sollte dein Hund über einen gewissen Grundgehorsam verfügen.**
     headingCentered: false
-    isColored: true
+    isColored: false
     type: text
   - heading: "JETZT ANMELDEN:"
     headingLevel: "2"
@@ -118,11 +93,30 @@ buildingBlocks:
     innerWidth: "1"
     whatsapp: false
     bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=22431068
-    headingCentered: true
+    headingCentered: false
     isColored: true
     booking: true
     type: contact
     email: false
+  - headingColorPrimary: false
+    heading: "Deine Vorteile:"
+    headingLevel: "2"
+    headingSize: "2"
+    width: "1"
+    text: >-
+      * **Individuelles Training** – ganz auf deinen persönlichen Leistungsstand
+      abgestimmt
+
+      * **Max. 4 Teilnehmer pro Termin** - damit für jeden genug Zeit da ist
+
+      * **Weniger Wartezeiten** - ich bemühe mich die Trails so gut es geht vorzubereiten und die Wartezeiten dadurch so gering wie möglich zu gestalten
+
+      * **Fortgeschrittene und Anfänger** - voneinander und miteinander lernen ist die Devise. Wenn die Rahmenbedingungen es hergeben ist es ausdrücklich erwünscht bei den Trails anderer Teams mitzulaufen. Auch dadurch kannst Du viel lernen und für dein eigenes Training mitnehmen
+
+      * **Einstieg jederzeit möglich** - keine Vorkenntnisse nötig
+    headingCentered: false
+    isColored: true
+    type: text
   - type: text
     width: "1"
     headingLevel: "3"
