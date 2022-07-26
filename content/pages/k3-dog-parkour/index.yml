@@ -30,7 +30,7 @@ buildingBlocks:
     isColored: false
     type: text
   - type: text
-    width: 2/3
+    width: "1"
     headingLevel: "2"
     headingCentered: false
     isColored: true
@@ -55,6 +55,7 @@ buildingBlocks:
 
       Mehr Infos unter: [https://k3dogparkour.net](https://k3dogparkour.chayns.net/)
     heading: K3DogParkour® - Training für Jederhund
+    headingSize: "3"
   - type: text
     width: 1/2
     headingLevel: "3"
