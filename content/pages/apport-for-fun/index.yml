@@ -24,19 +24,13 @@ buildingBlocks:
     width: 1/2
     headingLevel: "2"
     headingCentered: false
-    isColored: false
+    isColored: true
     text: >-
       Die meisten Hunde laufen gerne geworfenen Gegenständen hinter her. Doch
       ist das schon Apportieren? 
 
 
-      Im meinen Kursen widmen wir uns mit viel Spaß und Motivation den unterschiedlichen Möglichkeiten des Dummytrainings als spannende Beschäftigung und Auslastung für den Familienhund! Das Schöne am Apportieren, dass nebenher auch immer der Grundgehorsam gefestigt wird. 
-
-
-      Einige Kandidaten nehmen und tragen zwar gerne, geben das Objekt der Begierde aber nicht mehr her. Im **Einsteigerkurs** bekommst du Hilfestellung bei diesen und weiteren Herausforderungen. Gemeinsam gehen wir die ersten Schritte an und du erhältst einen ersten Einblick in die Vielfältigkeit dieser Beschäftigungsform. Ich stelle euch die verschiedenen Grundelemente des Apportierens (Markieren, Einweisen, Freiverlorensuche) vor, die dann natürlich mit den eigenen Hunden ausprobiert werden. Schnell wirst du erkennen, was das Apportieren alles zu bieten hat.
-
-
-      Im **Kurs für Dranbleiber** werden wir die neu erworbenen Fähigkeiten der Hunde weiter ausbauen. Wir steigern die Merkfähigkeit der Hunde durch Doppel- und Mehrfachmarkierungen, arbeiten weiter an den Signalen des sicheren Einweisens (Sitzpfiff, Links - Rechts - Back) etc. Auch die Freiverlorensuche wird nun einen größeren Stellenwert im Training bekommen.
+      Im meinen Kursen widmen wir uns mit viel Spaß und Motivation den unterschiedlichen Möglichkeiten des Dummytrainings als spannende Beschäftigung und Auslastung für den Familienhund! Das Schöne am Apportieren, dass nebenher auch immer der Grundgehorsam gefestigt wird.
     heading: "Dummytraining für den Familienhund "
     headingSize: "3"
   - type: text
