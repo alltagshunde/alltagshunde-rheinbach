@@ -74,3 +74,16 @@ buildingBlocks:
     innerWidth: 3/4
     isBanner: false
     image: apportieren.jpg
+  - heading: "JETZT VERBINDLICH ANMELDEN:"
+    headingLevel: "2"
+    headingSize: "3"
+    width: "1"
+    facebook: false
+    innerWidth: 3/4
+    whatsapp: false
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=35295953
+    headingCentered: true
+    isColored: true
+    booking: true
+    type: contact
+    email: false
