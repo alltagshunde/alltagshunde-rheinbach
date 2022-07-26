@@ -19,7 +19,7 @@ buildingBlocks:
     width: "1"
     headingLevel: "2"
     headingCentered: true
-    isColored: true
+    isColored: false
     heading: Warum Hundefitness-Training?
     text: >-
       Ein ganzheitliches Fitness- und Mentaltraining eignet sich für
@@ -43,13 +43,13 @@ buildingBlocks:
     width: 2/3
     headingLevel: "2"
     headingCentered: false
-    isColored: false
+    isColored: true
     heading: "NEUER KURS AB SEPTEMBER:"
     text: >-
       ### **Start: Dienstag 13. September 2022**
 
 
-      **Termine**: 13.9. / 27.9. / 11.10. / 25.10. / 8.11. / 22.11.2022: jeweils um 17:00 Uhr (ca. 50 Min.)
+      **Termine**: 13.9. / 27.9. / 11.10. / 25.10. / 8.11. / 22.11.2022: jeweils um 17:00 Uhr
 
 
       **Kosten:** 140,- Euro (inkl. MwSt.) pro Mensch-Hund-Team
@@ -91,8 +91,8 @@ buildingBlocks:
     innerWidth: "1"
     whatsapp: false
     bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=35295705
-    headingCentered: false
-    isColored: false
+    headingCentered: true
+    isColored: true
     booking: true
     type: contact
     email: false
