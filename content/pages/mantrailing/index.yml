@@ -33,10 +33,10 @@ buildingBlocks:
       "lesen". 
 
 
-      Dies kann dir z. B. auch helfen, die Signale deines Hundes auch beim Spaziergang besser lesen und sein Jagdverhalten dadurch besser kontrollieren zu können. Dass Hunde weniger jagen würden, weil sie durch Mantrailing beschäftigt werden, ist jedoch ein Gerücht. 
+      Gerade für Hunde, die im Alltag viel eingeschränkt werden müssen, ist es eine großartige Erfahrung, wenn sein Mensch mal loslässt und ihm zutraut die Aufgabe zu meistern. Dass Hunde weniger jagen würden, weil sie durch Mantrailing beschäftigt werden, ist jedoch ein Gerücht. Ebenso wenig fördert Mantrailing das Jagdverhalten deines Hundes unterwegs. 
 
 
-      Das Training erfordert eure Teamarbeit auf höchstem Niveau: <br>deine Unterstützung ist z. B. immer dann gefragt, wenn dein Hund Probleme hat der Geruchsspur zu folgen oder diese verloren hat. Auch wenn Hindernisse (z. B. Straßenüberquerungen, verschlossene Türen etc.) auf dem Weg auftauchen ist dein Hund auf deine Unterstützung angewiesen. Du lernst deinen Hund in diesen Situationen nicht zu korrigieren, sondern ihm stattdessen ganz gezielt deine Hilfestellung anzubieten, so dass er die Spur eigenständig wiederfindet. Dein Hund lernt auf deine Unterstützung zu vertrauen und dich ganz gezielt um Hilfe zu bitten wenn er nicht weiter weiß.
+      **Das Training erfordert eure Teamarbeit auf höchstem Niveau:** <br>deine Unterstützung ist z. B. immer dann gefragt, wenn dein Hund Probleme hat der Geruchsspur zu folgen oder diese verloren hat. Auch wenn Hindernisse (z. B. Straßenüberquerungen, verschlossene Türen etc.) auf dem Weg auftauchen ist dein Hund auf deine Unterstützung angewiesen. Du lernst deinen Hund in diesen Situationen nicht zu korrigieren, sondern ihm stattdessen ganz gezielt deine Hilfestellung anzubieten, so dass er die Spur eigenständig wiederfindet. Dein Hund lernt auf deine Unterstützung zu vertrauen und dich ganz gezielt um Hilfe zu bitten wenn er nicht weiter weiß.
     heading: Was ist Mantrailing?
   - type: image
     width: 1/2
@@ -110,6 +110,19 @@ buildingBlocks:
     headingCentered: false
     isColored: true
     type: text
+  - heading: "JETZT ANMELDEN:"
+    headingLevel: "2"
+    headingSize: "2"
+    width: 1/3
+    facebook: false
+    innerWidth: "1"
+    whatsapp: false
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=22431068
+    headingCentered: true
+    isColored: true
+    booking: true
+    type: contact
+    email: false
   - type: text
     width: "1"
     headingLevel: "3"
@@ -126,16 +139,3 @@ buildingBlocks:
 
 
       Ebenso sind aber auch Hunde willkommen, die z. B. **unverträglich mit Artgenossen** sind. Oft sind diese Teams vom Training ausgeschlossen oder Mensch und Hund fühlen sich in den üblichen Gruppenkursen nicht wohl. Beim Mantrailing seid Ihr willkommen! Jeder Hund arbeitet einzeln, daher muss es keine Berührungspunkte mit den anderen teilnehmenden Hunden geben.
-  - heading: "JETZT ANMELDEN:"
-    headingLevel: "2"
-    headingSize: "2"
-    width: 1/3
-    facebook: false
-    innerWidth: "1"
-    whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=22431068
-    headingCentered: true
-    isColored: true
-    booking: true
-    type: contact
-    email: false
