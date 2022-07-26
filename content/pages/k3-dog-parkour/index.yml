@@ -43,7 +43,7 @@ buildingBlocks:
     heading: Warum Hundefitness -Training?
     headingSize: "3"
   - type: text
-    width: 2/3
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
     isColored: true
