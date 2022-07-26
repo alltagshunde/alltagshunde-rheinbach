@@ -15,25 +15,11 @@ buildingBlocks:
     text: ""
     headingSize: "3"
     isColored: true
-  - headingColorPrimary: false
-    heading: "Warum Hundefitness-Training? "
-    headingLevel: "2"
-    headingSize: "3"
-    width: "1"
-    text: K3DogParkour**®** ist ein ganzheitliches Fitness- und Mentaltraining für
-      „Jederhund“, das auf der innovativen K3-Formel basiert. Die K3-Formel
-      beinhaltet die Elemente **Körper, Kognition und Kühnheit**. Ziel des
-      Trainings ist ein körperliches, geistiges und seelisches Gleichgewicht des
-      Hundes durch sinnvolle Auslastung, ruhiges konzentriertes Arbeiten,
-      gepaart mit Teamwork und gegenseitigem Vertrauen.
-    headingCentered: false
-    isColored: false
-    type: text
   - type: text
     width: "1"
     headingLevel: "2"
     headingCentered: false
-    isColored: true
+    isColored: false
     text: >-
       **K3DogParkour®**ist eine sehr individuelle und kreative Hundesportart mit
       ganz vielen variablen Trainingsmöglichkeiten. Vom einfachen Fun-Parkour
@@ -54,7 +40,7 @@ buildingBlocks:
 
 
       Mehr Infos unter: [https://k3dogparkour.net](https://k3dogparkour.chayns.net/)
-    heading: K3DogParkour® - Training für Jederhund
+    heading: Warum Hundefitness -Training?
     headingSize: "3"
   - type: text
     width: 1/2
@@ -63,25 +49,22 @@ buildingBlocks:
     isColored: false
     heading: "Neuer Einsteigerkurs ab September:"
     text: >-
-      ### **Start:** Dienstag 13. September 2022
+      Ein ganzheitliches Fitness- und Mentaltraining eignet sich für
+      „Jederhund“, denn Ziel des Trainings ist ein körperliches, geistiges und
+      seelisches Gleichgewicht des Hundes durch sinnvolle Auslastung, ruhiges
+      konzentriertes Arbeiten, gepaart mit Teamwork und gegenseitigem Vertrauen.
+      Die Übungen können dabei jede Woche anders aussehen und bieten immer
+      wieder neue Herausforderungen, aber auch die Möglichkeit, bekannte
+      Elemente zu wiederholen und zu festigen.
 
 
-      **Termine:** 13.9. / 27.9. / 11.10. / 25.10. / 8.11. / 22.11.2022; jeweils um 17:00 Uhr (ca. 50 Min.)
+      * **Quirlige Junghunde** oder **hyperaktive Hunde** mit einem erhöhten Stresslevel **profitieren von der ruhigen, konzentrierten Arbeit** kombiniert mit Übungen des Grundgehorsams.
 
+      * **Ängstliche** oder **unsichere Hunde** **werden spürbar selbstsicherer**. Das gegenseitige Vertrauen im Team wird gestärkt und die Beziehung und Bindung gefördert. Die Hundehalter werden in Orientierung, Körpersprache und Führtechniken geschult. Dieses Wissen kann anschließend sehr gut in den Alltag übertragen werden.
 
-      **Kosten:** 140,- Euro (inkl. 19% MwSt.) pro Mensch-Hund-Team
+      * Bei **Hunden mit orthopädischen Funktionsstörungen oder Handicaps** wird das Training als aktive Bewegungstherapie, auch in **Ergänzung zu einer laufenden tierärztlichen oder physiotherapeutischen Behandlung**, eingesetzt. Durch die Bewegungstherapie werden Stoffwechselprozesse angeregt, Muskelverspannungen allmählich gelöst, und der gesamte Bewegungsablauf wird koordinierter. Der Hund hat infolgedessen weniger Schmerzen, die Muskulatur wird stabilisierend aufgebaut und die Beweglichkeit verbessert.
 
-
-      **Teilnehmer:** min. 3 und max. 5 Mensch-Hund-Teams
-
-
-      **Ort:** Trainingsgelände Meckenheim 
-
-
-      **Vorausgesetzt wird ein gewisser Grundgehorsam des Hundes:**
-
-
-      Dein Hund sollte auch in Anwesenheit von Artgenossen ansprechbar sein und nicht permanent bellen, wenn die anderen Hunde arbeiten.
+      * Durch feine Signale und kleinste Veränderungen in der Führtechnik wird die Kommunikation stetig verfeinert. Das **Training wirkt sich daher auch positiv auf die Beziehung zwischen Hund und Halter** aus.
   - type: image
     width: 1/4
     innerWidth: "1"
