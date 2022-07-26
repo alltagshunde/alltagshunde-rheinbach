@@ -61,11 +61,11 @@ buildingBlocks:
       * Bei **Hunden mit orthopädischen Funktionsstörungen oder Handicaps**  wird das Training als aktive Bewegungstherapie, auch in **Ergänzung zu einer laufenden tierärztlichen oder physiotherapeutischen Behandlung**, eingesetzt. Durch die Bewegungstherapie werden Stoffwechselprozesse angeregt, Muskelverspannungen allmählich gelöst, und der gesamte Bewegungsablauf wird koordinierter. Der Hund hat infolgedessen weniger Schmerzen, die Muskulatur wird stabilisierend aufgebaut und die Beweglichkeit verbessert.
 
       * Durch feine Signale und kleinste Veränderungen in der Führtechnik wird die Kommunikation stetig verfeinert. **Dadurch wirkt sich das Training auch positiv auf die Beziehung zwischen Hund und Halter aus.**
-    innerWidth: 3/4
+    innerWidth: "1"
     whatsapp: false
     bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=35295705
     headingCentered: false
-    isColored: true
+    isColored: false
     booking: true
     type: contact
     email: false
