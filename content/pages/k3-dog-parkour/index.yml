@@ -43,10 +43,10 @@ buildingBlocks:
     heading: Warum Hundefitness -Training?
     headingSize: "3"
   - type: text
-    width: 1/2
+    width: 2/3
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     heading: "Neuer Einsteigerkurs ab September:"
     text: >-
       Ein ganzheitliches Fitness- und Mentaltraining eignet sich für
