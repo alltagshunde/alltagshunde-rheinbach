@@ -88,3 +88,30 @@ buildingBlocks:
     isBanner: false
     image: apportieren.jpg
     isColored: false
+  - type: text
+    width: 1/2
+    headingLevel: "2"
+    headingCentered: false
+    isColored: true
+    heading: "Neuer Kurs für Dranbleiber ab September:"
+    text: >-
+      ### **Start: Samstag 3. September 2022**
+
+
+      **Termine**: 3.9. / 24.9. / 8.10. / 22.10. / 12.11. / 26.11.2022: jeweils um 13:15 Uhr (ca. 60 Min.)
+
+
+      **Kosten:** 140,- Euro (inkl. MwSt.) pro Mensch-Hund-Team
+
+
+      **Teilnehmer:** min. 3 und max. 5 Mensch-Hund-Teams
+
+
+      **Ort:** Trainingsgelände Meckenheim und Umgebung (Meckenheim, BN-Röttgen, Wachtberg)
+
+
+      **Vorausgesetzt wird ein gewisser Grundgehorsam des Hundes:**
+
+
+      Dein Hund sollte auch in Anwesenheit von Artgenossen ansprechbar sein und nicht permanent bellen, wenn die anderen Hunde arbeiten.
+    headingSize: "3"
