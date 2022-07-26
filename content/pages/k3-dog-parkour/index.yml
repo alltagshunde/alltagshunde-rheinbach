@@ -18,7 +18,7 @@ buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "2"
-    headingCentered: false
+    headingCentered: true
     isColored: false
     text: >-
       **K3DogParkour®**ist eine sehr individuelle und kreative Hundesportart mit
