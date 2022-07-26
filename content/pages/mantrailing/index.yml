@@ -101,7 +101,7 @@ buildingBlocks:
   - headingColorPrimary: false
     heading: "Deine Vorteile:"
     headingLevel: "2"
-    headingSize: "2"
+    headingSize: "3"
     width: "1"
     text: >-
       * **Individuelles Training** – ganz auf deinen persönlichen Leistungsstand
