@@ -44,7 +44,7 @@ buildingBlocks:
     width: 1/4
     innerWidth: "1"
     isColored: false
-    heading: K3 DogParkour / Hundefitness
+    heading: Hundefitness-Training
     image: k3.jpg
     button: Mehr erfahren
     buttonLink: Hundefitness
