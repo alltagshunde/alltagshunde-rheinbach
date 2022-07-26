@@ -24,10 +24,10 @@ buildingBlocks:
     headingSize: "3"
   - type: text
     width: 1/2
-    headingLevel: "3"
+    headingLevel: "2"
     headingCentered: false
     isColored: false
-    heading: Neuer Einsteigerkurs ab Freitag 26. August 2022!
+    heading: "Neuer Einsteigerkurs ab August:"
     text: >-
       Einige Kandidaten nehmen und tragen zwar gerne, geben das Objekt der
       Begierde aber nicht mehr her. Im **Einsteigerkurs** bekommst du
@@ -61,6 +61,7 @@ buildingBlocks:
 
 
       Dein Hund sollte auch in Anwesenheit von Artgenossen ansprechbar sein und nicht permanent bellen, wenn die anderen Hunde arbeiten.
+    headingSize: "3"
   - type: text
     width: 1/2
     headingLevel: "2"
