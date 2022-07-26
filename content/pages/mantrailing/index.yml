@@ -100,7 +100,7 @@ buildingBlocks:
     email: false
   - headingColorPrimary: false
     heading: "Deine Vorteile:"
-    headingLevel: "2"
+    headingLevel: "4"
     headingSize: "3"
     width: "1"
     text: >-
