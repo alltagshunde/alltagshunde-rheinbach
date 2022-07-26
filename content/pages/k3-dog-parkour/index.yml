@@ -19,47 +19,48 @@ buildingBlocks:
     width: "1"
     headingLevel: "2"
     headingCentered: true
-    isColored: false
-    text: >-
-      **K3DogParkour®**ist eine sehr individuelle und kreative Hundesportart mit
-      ganz vielen variablen Trainingsmöglichkeiten. Vom einfachen Fun-Parkour
-      bis hin zu sehr anspruchsvollen Übungen ist alles möglich. Jeder Hund
-      arbeitet so kleinschrittig, wie es erforderlich ist. Ein K3DogParkour®
-      sieht jede Woche anders aus und bietet immer wieder neue
-      Herausforderungen, aber auch die Möglichkeit, bekannte Elemente zu
-      wiederholen und zu festigen.
-
-
-      * **Quirlige Junghunde** oder **hyperaktive Hunde** mit einem erhöhten Stresslevel profitieren von der ruhigen, konzentrierten Arbeit kombiniert mit Übungen des Grundgehorsams.
-
-      * **Ängstliche** oder **unsichere Hunde** werden spürbar selbstsicherer. Das gegenseitige Vertrauen im Team wird gestärkt und die Beziehung und Bindung gefördert. Die Hundehalter werden in Orientierung, Körpersprache und Führtechniken geschult. Dieses Wissen kann anschließend sehr gut in den Alltag übertragen werden.
-
-      * Bei **Hunden mit orthopädischen Funktionsstörungen oder Handicaps wird K3DogParkour®**  als aktive Bewegungstherapie, auch in Ergänzung zu einer laufenden tierärztlichen oder physiotherapeutischen Behandlung, eingesetzt. Durch die Bewegungstherapie werden Stoffwechselprozesse angeregt, Muskelverspannungen allmählich gelöst, und der gesamte Bewegungsablauf wird koordinierter. Der Hund hat infolgedessen weniger Schmerzen, die Muskulatur wird stabilisierend aufgebaut und die Beweglichkeit verbessert.
-
-      * Zudem fördert **K3DogParkour®**die Beziehung und Bindung zwischen Hund und Halter: Durch feine Signale und kleinste Veränderungen in der Führtechnik wird die Kommunikation stetig verfeinert. 
-
-
-      Mehr Infos unter: [https://k3dogparkour.net](https://k3dogparkour.chayns.net/)
-    heading: Warum Hundefitness -Training?
-    headingSize: "3"
-  - type: text
-    width: 1/2
-    headingLevel: "3"
-    headingCentered: false
     isColored: true
-    heading: "Neuer Einsteigerkurs ab September:"
-    text: Ein ganzheitliches Fitness- und Mentaltraining eignet sich für
+    heading: Warum Hundefitness-Training?
+    text: >-
+      Ein ganzheitliches Fitness- und Mentaltraining eignet sich für
       „Jederhund“, denn Ziel des Trainings ist ein körperliches, geistiges und
       seelisches Gleichgewicht des Hundes durch sinnvolle Auslastung, ruhiges
       konzentriertes Arbeiten, gepaart mit Teamwork und gegenseitigem Vertrauen.
       Die Übungen können dabei jede Woche anders aussehen und bieten immer
       wieder neue Herausforderungen, aber auch die Möglichkeit, bekannte
       Elemente zu wiederholen und zu festigen.
+
+
+      * **Quirlige Junghunde** oder **hyperaktive Hunde** mit einem erhöhten Stresslevel **profitieren von der ruhigen, konzentrierten Arbeit** kombiniert mit Übungen des Grundgehorsams.
+
+      * **Ängstliche** oder **unsichere Hunde** werden spürbar selbstsicherer. Das gegenseitige Vertrauen im Team wird gestärkt und die Beziehung und Bindung gefördert. Die Hundehalter werden in Orientierung, Körpersprache und Führtechniken geschult. Dieses Wissen kann anschließend sehr gut in den Alltag übertragen werden.
+
+      * Bei **Hunden mit orthopädischen Funktionsstörungen oder Handicaps wird K3DogParkour®**  als aktive Bewegungstherapie, auch in Ergänzung zu einer laufenden tierärztlichen oder physiotherapeutischen Behandlung, eingesetzt. Durch die Bewegungstherapie werden Stoffwechselprozesse angeregt, Muskelverspannungen allmählich gelöst, und der gesamte Bewegungsablauf wird koordinierter. Der Hund hat infolgedessen weniger Schmerzen, die Muskulatur wird stabilisierend aufgebaut und die Beweglichkeit verbessert.
+
+      * Zudem fördert **K3DogParkour®**die Beziehung und Bindung zwischen Hund und Halter: Durch feine Signale und kleinste Veränderungen in der Führtechnik wird die Kommunikation stetig verfeinert.
+    headingSize: "3"
   - heading: "JETZT ANMELDEN: "
     headingLevel: "2"
     headingSize: "3"
     width: 1/3
     facebook: false
+    text: >-
+      Ein ganzheitliches Fitness- und Mentaltraining eignet sich für
+      „Jederhund“, denn Ziel des Trainings ist ein körperliches, geistiges und
+      seelisches Gleichgewicht des Hundes durch sinnvolle Auslastung, ruhiges
+      konzentriertes Arbeiten, gepaart mit Teamwork und gegenseitigem Vertrauen.
+      Die Übungen können dabei jede Woche anders aussehen und bieten immer
+      wieder neue Herausforderungen, aber auch die Möglichkeit, bekannte
+      Elemente zu wiederholen und zu festigen.
+
+
+      * **Quirlige Junghunde** oder **hyperaktive Hunde** mit einem erhöhten Stresslevel **profitieren von der ruhigen, konzentrierten Arbeit** kombiniert mit Übungen des Grundgehorsams.
+
+      * **Ängstliche** oder **unsichere Hunde** **werden spürbar selbstsicherer**. Das gegenseitige Vertrauen im Team wird gestärkt und die Beziehung und Bindung gefördert. Die Hundehalter werden in Orientierung, Körpersprache und Führtechniken geschult. Dieses Wissen kann anschließend sehr gut in den Alltag übertragen werden.
+
+      * Bei **Hunden mit orthopädischen Funktionsstörungen oder Handicaps**  wird das Training als aktive Bewegungstherapie, auch in **Ergänzung zu einer laufenden tierärztlichen oder physiotherapeutischen Behandlung**, eingesetzt. Durch die Bewegungstherapie werden Stoffwechselprozesse angeregt, Muskelverspannungen allmählich gelöst, und der gesamte Bewegungsablauf wird koordinierter. Der Hund hat infolgedessen weniger Schmerzen, die Muskulatur wird stabilisierend aufgebaut und die Beweglichkeit verbessert.
+
+      * Durch feine Signale und kleinste Veränderungen in der Führtechnik wird die Kommunikation stetig verfeinert. **Dadurch wirkt sich das Training auch positiv auf die Beziehung zwischen Hund und Halter aus.**
     innerWidth: 3/4
     whatsapp: false
     bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=35295705
