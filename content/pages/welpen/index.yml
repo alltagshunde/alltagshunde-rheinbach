@@ -22,12 +22,12 @@ buildingBlocks:
     isColored: false
     heading: ""
     text: >-
-      ### So ein kleiner Welpe stellt deine Welt damit erstmal ordentlich auf
-      den Kopf. Alle sind total aufgeregt und freuen sich. Doch bald tauchen
-      erste Fragezeichen auf:
+      ### So ein kleiner Welpe stellt deine Welt erstmal ordentlich auf den
+      Kopf. Alle sind voller Vorfreude - doch bald tauchen erste Fragezeichen
+      auf:
 
 
-      * Was sollte mein Welpe für den Alltag lernen und wie konfrontiere ich ihn damit?
+      * Was sollte mein Welpe für den Alltag lernen und worauf muss ich achten?
 
       * Wann kann ich mit dem Training starten? Was übe ich als erstes?
 
@@ -53,6 +53,7 @@ buildingBlocks:
     whatsapp: true
     headingCentered: true
     isColored: true
+    booking: false
     type: contact
     email: true
   - type: text
@@ -124,6 +125,7 @@ buildingBlocks:
     whatsapp: true
     headingCentered: true
     isColored: true
+    booking: false
     type: contact
     email: true
   - type: image
