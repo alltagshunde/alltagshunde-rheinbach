@@ -84,76 +84,6 @@ buildingBlocks:
 
       ### Kosten: 225,- Euro (inkl. 19 % MwSt.)
   - type: text
-    width: 1/2
-    headingLevel: "3"
-    headingCentered: false
-    isColored: true
-    heading: Junghunde Kläff-Treff
-    text: >-
-      Freilaufgruppe für Junghunde ab ca. 6 Monaten
-
-
-      ### Hier lernst Du ...
-
-
-      * ... zu erkennen wann es sich um Spiel handelt und wann nicht mehr bzw. 
-
-      * ... wann dein Hund Unterstützung benötigt und wie Du dich dabei richtig verhältst 
-
-      * ... wann und warum du deinen Hund besser begrenzen solltest und wie du dies umsetzt 
-
-
-      ### Hier lernt dein Hund...
-
-
-      * ... sich Artgenossen gegenüber angemessen zu verhalten
-
-      * ... dass er auch mal "nein" sagen darf bzw. sich an seinen Menschen (also dich!) zu wenden, wenn er sich bedrängt fühlt
-
-      * ... wie man das "nein" eines anderen Hundes akzeptiert
-
-      * ... dass man erst loslaufen darf, wenn man ruhig ist
-
-      * ... dass man anderen auch mal beim Spielen zuschauen kann, ohne auszuflippen
-
-      * ... dass man nicht immer Vollgas geben muss
-
-
-      ### Wann, Wer & Wo
-
-
-      * Jeweils dienstags um 17:30 Uhr (14-tägig) und <br>samstags um 9:30 Uhr 
-
-      * Trainingsort: Hundeplatz in 53340 Meckenheim 
-
-      * Nur exklusiv für aktive Kund*innen der Junghundekurse buchbar.
-
-      * Teilnahme nur nach vorheriger Anmeldung (maximal 8 Teams) - **Du solltest WhatsApp benutzen!**
-
-
-      ### Kosten: 
-
-
-      ### Einzeln 15,- Euro pro Teilnahme <br>5er-Karte 70,- Euro <br>10er-Karte 135,- Euro
-  - type: image
-    width: 1/3
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: gulliver.jpg
-  - type: image
-    width: 1/3
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: gulliver-und-fergie.jpg
-  - type: image
-    width: 1/3
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: manuela-nano.jpg
-  - type: text
     width: 1/3
     headingLevel: "3"
     headingCentered: false
@@ -205,6 +135,76 @@ buildingBlocks:
 
       \*bei extremen Witterungsbedingungen wie großer Hitze, extremer Kälte oder Unwettergefahr kann der Unterricht auch online stattfinden.
     heading: "Junghundekurs - Modul III "
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: gulliver.jpg
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: gulliver-und-fergie.jpg
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: manuela-nano.jpg
+  - type: text
+    width: 1/2
+    headingLevel: "3"
+    headingCentered: false
+    isColored: true
+    heading: Junghunde Kläff-Treff
+    text: >-
+      Freilaufgruppe für Junghunde ab ca. 6 Monaten
+
+
+      ### Hier lernst Du ...
+
+
+      * ... zu erkennen wann es sich um Spiel handelt und wann nicht mehr bzw. 
+
+      * ... wann dein Hund Unterstützung benötigt und wie Du dich dabei richtig verhältst 
+
+      * ... wann und warum du deinen Hund besser begrenzen solltest und wie du dies umsetzt 
+
+
+      ### Hier lernt dein Hund...
+
+
+      * ... sich Artgenossen gegenüber angemessen zu verhalten
+
+      * ... dass er auch mal "nein" sagen darf bzw. sich an seinen Menschen (also dich!) zu wenden, wenn er sich bedrängt fühlt
+
+      * ... wie man das "nein" eines anderen Hundes akzeptiert
+
+      * ... dass man erst loslaufen darf, wenn man ruhig ist
+
+      * ... dass man anderen auch mal beim Spielen zuschauen kann, ohne auszuflippen
+
+      * ... dass man nicht immer Vollgas geben muss
+
+
+      ### Wann, Wer & Wo
+
+
+      * Jeweils dienstags um 17:30 Uhr (14-tägig) und <br>samstags um 9:30 Uhr 
+
+      * Trainingsort: Hundeplatz in 53340 Meckenheim 
+
+      * Nur exklusiv für aktive Kund*innen der Junghundekurse buchbar.
+
+      * Teilnahme nur nach vorheriger Anmeldung (maximal 8 Teams) - **Du solltest WhatsApp benutzen!**
+
+
+      ### Kosten: 
+
+
+      ### Einzeln 15,- Euro pro Teilnahme <br>5er-Karte 70,- Euro <br>10er-Karte 135,- Euro
   - type: text
     width: 1/2
     headingLevel: "3"
