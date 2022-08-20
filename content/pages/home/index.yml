@@ -78,7 +78,7 @@ buildingBlocks:
     innerWidth: null
     image: gh2a2859finish.jpg
     heading: Webinare & Workshops
-    buttonLink: Seminare & Workshops
+    buttonLink: Webinare & Workshops
     button: Mehr erfahren
   - type: card
     width: 1/4
