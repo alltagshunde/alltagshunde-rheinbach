@@ -159,8 +159,13 @@ buildingBlocks:
     headingCentered: false
     isColored: true
     text: >-
-      ### Das Praxis-Training findet auf dem eingezäunten Trainingsgelände in
-      53340 Meckenheim statt
+      **Training in angenehmer Atmosphäre:**
+
+
+      Damit ich dich und deinen Hund optimal unterstützen und auf jeden Teilnehmer individuell eingehen kann, trainieren wir in kleinen Gruppen von max. 5 Welpen. 
+
+
+      **Der Freilauf der Hunde steht dabei nicht im Vordergrund**. Vielmehr möchte ich dich von Beginn an in der Erziehung deines jungen Hundes unterstützen, damit er zu einem zuverlässigen Begleiter in deinem Alltag heranwächst. Wenn die Hunde von Alter, Größe und Temperament zueinander passen, werden auch Freilaufsequenzen eingebaut.
 
 
       **Mitzubringen sind:**
@@ -173,15 +178,6 @@ buildingBlocks:
       * kleine, weiche Leckerlis die dein Hund gut schlucken kann
 
       * Impfpass des Hundes + Nachweis über Haftpflichtversicherung (nur zur ersten Trainingsstunde)
-
-
-      **Training in angenehmer Atmosphäre:**
-
-
-      Damit ich dich und deinen Hund optimal unterstützen und auf jeden Teilnehmer individuell eingehen kann, trainieren wir in kleinen Gruppen von max. 5 Welpen. 
-
-
-      **Der Freilauf der Hunde steht dabei nicht im Vordergrund**. Vielmehr möchte ich dich von Beginn an in der Erziehung deines jungen Hundes unterstützen, damit er zu einem zuverlässigen Begleiter in deinem Alltag heranwächst. Wenn die Hunde von Alter, Größe und Temperament zueinander passen, werden auch Freilaufsequenzen eingebaut.
     heading: "Hinweise zum Training:"
   - type: text
     width: 1/2
