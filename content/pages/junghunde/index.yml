@@ -199,7 +199,7 @@ buildingBlocks:
     image: manuela-nano.jpg
   - type: text
     width: "1"
-    headingLevel: "3"
+    headingLevel: "2"
     headingCentered: true
     isColored: false
     heading: Weitere Angebote für die Junghundezeit
