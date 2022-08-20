@@ -1,4 +1,4 @@
-title: Seminare & Workshops
+title: Webinare & Workshops
 isLandingPage: false
 buildingBlocks:
   - type: text
@@ -6,7 +6,7 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     isColored: false
-    heading: Seminare & Workshops 2022
+    heading: Webinare & Workshops 2022
   - type: text
     width: 3/4
     headingLevel: "3"
