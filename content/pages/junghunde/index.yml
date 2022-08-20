@@ -290,7 +290,7 @@ buildingBlocks:
     headingSize: "3"
   - type: text
     width: 1/3
-    headingLevel: "2"
+    headingLevel: "3"
     headingCentered: false
     isColored: true
     heading: "WEBINAR: Silvester - Keine Angst vorm Jahreswechsel!"
