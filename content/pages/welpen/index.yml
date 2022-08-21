@@ -51,9 +51,10 @@ buildingBlocks:
     facebook: false
     innerWidth: "1"
     whatsapp: true
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Welpen%20%26%20Junghunde
     headingCentered: true
     isColored: true
-    booking: false
+    booking: true
     type: contact
     email: true
   - type: text
