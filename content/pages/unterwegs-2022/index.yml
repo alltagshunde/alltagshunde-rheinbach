@@ -135,47 +135,6 @@ buildingBlocks:
     width: 3/4
     headingLevel: "3"
     headingCentered: false
-    isColored: true
-    text: >-
-      ### Halloweenwanderung
-
-
-      ### Montag 31. Oktober 2022, 18:00 Uhr (Dauer ca. 2,5 Stunden)
-
-
-      **Start: Wanderparkplatz “Gudenauer Weg”, 53127 Bonn**
-
-
-      Gemeinsam laufen wir mit unseren Hunden durch den dunklen Wald rund um die Bonner Waldau und werden ein paar gruselige Aufgaben lösen.  Spannend auch zu beobachten, wie Hunde (und Menschen ;-) auf die teils gruseligen Geräusche im dunklen Wald reagieren werden. 
-
-
-      **Teilnahmevoraussetzung:**
-
-
-      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
-
-
-      **Kosten: 25,00 Euro pro Mensch-Hund-Team, eine Begleitperson (u. Kinder) gratis**
-
-
-      **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
-    heading: Halloween-Wanderung
-  - heading: JETZT BUCHEN
-    headingLevel: "3"
-    width: 1/4
-    facebook: false
-    innerWidth: "1"
-    whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Wanderung
-    headingCentered: true
-    isColored: true
-    booking: true
-    type: contact
-    email: false
-  - type: text
-    width: 3/4
-    headingLevel: "3"
-    headingCentered: false
     isColored: false
     text: >-
       ### Sonntag 13. November 2022, 15:00 Uhr (Dauer ca. 2 Stunden)
