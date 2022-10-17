@@ -11,44 +11,6 @@ buildingBlocks:
     width: 3/4
     headingLevel: "3"
     headingCentered: false
-    isColored: true
-    heading: Sonntag 2. Oktober
-      2022                                                                                       Mantrailing
-      Tagesworkshop in der Bonner City
-    text: >-
-      Vormittags werden kurze Trails zum Kennenlernen der Teams und des
-      jeweiligen Trainingsstands gearbeitet. Nach der Mittagspause werden wir
-      dann an die Teams angepasste Trails mit unterschiedlichen
-      Schwierigkeitsgraden und Distanzen legen. <br>Bei den Trails versuchen ich
-      mit euch an den Fehlerquellen zu arbeiten. Ich werde darauf eingehen, wie
-      die Kommunikationsprobleme zwischen euch und eurem Hund entstehen und wie
-      Ihr im weiteren Verlauf daran arbeiten könnt.
-
-
-      Das Seminar ist sowohl für Anfänger als auch „Profis“ geeignet, die Hunde sollten jedoch bereits "angetrailt" sein. 
-
-
-      **WICHTIG:** <br> **Da die Hunde beim Mantrailing einzeln arbeiten und Zeit zum Verarbeiten benötigen, <br>sollten sie es gewohnt sein zwischen den Trails im Auto zu warten.**
-
-
-      **Termin:** Sonntag 2. Oktober 2022, 10:00 - 17:00 Uhr (inkl. Pause) <br>**Teilnehmer:** min. 3 und max. 5 Mensch-Hund-Teams <br>**Kosten:** 100,00 Euro pro Mensch-Hund-Team (es können Parkgebühren hinzukommen) <br>**Ort:** 53111 Bonn Innenstadt
-  - heading: JETZT BUCHEN
-    headingLevel: "3"
-    headingSize: "3"
-    width: 1/4
-    facebook: false
-    innerWidth: "1"
-    whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Workshops
-    headingCentered: false
-    isColored: true
-    booking: true
-    type: contact
-    email: false
-  - type: text
-    width: 3/4
-    headingLevel: "3"
-    headingCentered: false
     isColored: false
     heading: "WEBINAR: Let's Talk about sex ... Sexualverhalten des Hundes"
     text: >-
@@ -116,34 +78,41 @@ buildingBlocks:
     isColored: true
     heading: "WEBINAR: Silvester - Keine Angst vorm Jahreswechsel! "
     text: >-
-      Du weißt bereits um die Angst deines Hundes an Silvester, jedoch nicht,
-      wie du richtig damit umgehen sollst? Oder hast Du deinen Hund gerade erst
-      bekommen und möchtest vorbereitet sein?
+      Dein Welpe ist niedlich und süß, doch über Nacht ist sie plötzlich da: Die
+      Pubertät!!!
 
 
-      In meinem Webinar rund um das Thema „Silvester“ gehe ich auf diese und viele weitere Fragen und Themen ein:
+      Von jetzt auf gleich musst du dich als Hundehalter*in mit dem Sexualverhalten deines Hundes auseinandersetzen: 
 
 
-      * Warum ist Silvester für die Hunde problematisch?
-
-      * Was ist der Unterschied zwischen Angst und Panik?
-
-      * Gassigehen rund um den Jahreswechsel
-
-      * Die passende Ausstattung
-
-      * Das richtige Mindset
-
-      * Do‘s and Don’ts an Silvester.
-
-      * Die sinnvolle Beschäftigung.
-
-      * Präventive Maßnahmen –Hausmittel & Heilkräuter.
-
-      * Ungewöhnliche, aber sinnvolle Maßnahmen.
+      Was ist normal? Was passiert in den einzelnen Zyklusphasen der Hündin und welches Verhalten legt sie an den Tag? Woran erkenn ich die bevorstehende Läufigkeit? Wie verhalten sich Rüden und was kann ständiges Aufreiten bedeuten? Was machen die Hormone mit dem Hund und warum ist es gut, diese Phase durchzustehen?
 
 
-      **Termin:** Sonntag 27. November 2022, 19:30 - 21:30 Uhr 
+      In meinem Webinar gehe ich auf diese und andere Fragen und Themen ein und möchte dir helfen dem ganzen gelassener gegenüberzutreten:
+
+
+      * Beginn und Dauer der Pubertät
+
+      * Was passiert in der Pubertät
+
+      * Warum eine Kastration keine Erziehung ersetzt
+
+      * Zyklusphasen der Hündin und Besonderheiten
+
+      * Was tun bei Scheinmutterschaft?
+
+      * Wie mit läufigen Hündinnen umgehen?
+
+      * Sexualverhalten des Rüden und Gründe fürs Aufreiten
+
+      * Erkrankungen der Hündin, die durch Sexualhormone mit verursacht werden
+
+      * Erkrankung des Rüden, die durch Sexualhormone mit verursacht werden
+
+      * Kastration, ja oder nein?
+
+
+      **Termin:** Sonntag 23. Oktober 2022, 19:30 - 21:30 Uhr 
 
 
       **Teilnehmer:** min. 4 und max. 10 Mensch-Hund-Teams
@@ -152,7 +121,7 @@ buildingBlocks:
       **Kosten:** 20,00 Euro
 
 
-      **Ort:** Das Webinar findet über die Plattform Zoom statt. Ihr müsst nichts installieren und keine Webcam einschalten. Der Zugang wird ca. 1 Woche vorab per Mail verschickt.
+      **Ort:** Das Webinar findet über die Plattform Zoom statt. Ihr müsst nichts installieren und keine Webcam einschalten. Der Zugang wird vorab per Mail verschickt.
   - heading: JETZT BUCHEN
     headingLevel: "3"
     width: 1/4
