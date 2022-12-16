@@ -372,3 +372,15 @@ buildingBlocks:
 
       * Impfpass des Hundes und Nachweis über Haftpflichtversicherung (nur zur ersten Trainingsstunde)
     heading: Hinweise zum Training
+  - heading: Jetzt Kontakt aufnehmen und Platz sichern!
+    headingLevel: "2"
+    width: "1"
+    facebook: false
+    innerWidth: "1"
+    whatsapp: true
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Webinare%20%26%20Workshops
+    headingCentered: true
+    isColored: true
+    booking: true
+    type: contact
+    email: true
