@@ -49,11 +49,23 @@ buildingBlocks:
 
 
       Es ist mir eine große Freude euch über den exklusiven Link das Online-Training meiner geschätzten Kollegen der Firma [**Hansehund** ](https://www.hansehund.de/hundeschule/)aus Hamburg zur Verfügung stellen zu dürfen:
+  - heading: ZUM ONLINE-TRAINING VON HANSEHUND ...
+    headingLevel: "3"
+    width: "1"
+    facebook: false
+    innerWidth: "1"
+    whatsapp: false
+    bookingUrl: https://training.hansehund.de/?ad=RWEbDjyK2V
+    headingCentered: false
+    isColored: true
+    booking: true
+    type: contact
+    email: false
   - type: text
     width: 3/4
     headingLevel: "3"
     headingCentered: false
-    isColored: true
+    isColored: false
     text: >-
       Die Gründerin von Hansehund Anne Klose durfte ich bereits mehrfach als
       Dozentin im Rahmen meiner Ausbildung zur Hundetrainerin bei Canis Kynos
@@ -68,11 +80,23 @@ buildingBlocks:
 
       Besser hätte ich es niemals umsetzen können und bin den Kolleginnen daher sehr dankbar, euch diesen Leckerbissen exklusiv anbieten zu dürfen.
     heading: Online-Training das Spaß macht
+  - heading: ONLINE TRAINING - JETZT BUCHEN!
+    headingLevel: "3"
+    width: 1/4
+    facebook: false
+    innerWidth: "1"
+    whatsapp: false
+    bookingUrl: https://training.hansehund.de/?ad=RWEbDjyK2V
+    headingCentered: true
+    isColored: false
+    booking: true
+    type: contact
+    email: false
   - type: text
     width: "1"
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     text: >-
       Solltest Du Fragen zu den einzelnen Formaten des Online-Trainings haben,
       melde dich gerne bei mir!
