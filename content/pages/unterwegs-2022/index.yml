@@ -45,7 +45,7 @@ buildingBlocks:
     isColored: false
     image: unterwegs_klein.jpg
   - headingColorPrimary: false
-    heading: Termine 2022
+    heading: Termine 2023
     headingLevel: "2"
     headingSize: "1"
     width: "1"
@@ -53,6 +53,58 @@ buildingBlocks:
     headingCentered: true
     isColored: true
     type: text
+  - type: text
+    width: 3/4
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    text: >-
+      ### Sonntag 13. November 2022, 15:00 Uhr (Dauer ca. 2 Stunden)
+
+
+      **Start: Parkplatz “Waldgaststätte Bahnhof Kottenforst” in 53840 Meckenheim**
+
+
+      Bei diesem Spaziergang liegt der Schwerpunkt auf dem kontrollierten Kontakt zu Hund und Mensch. Es sind daher auch ausdrücklich Hunde willkommen, die Schwierigkeiten im Kontakt mit Artgenossen haben. Das Ziel dieses Spaziergangs in kleiner Runde ist es, kontrollierte Begegnungen zwischen den einzelnen Hunden zuzulassen und sie dabei zu unterstützen, angemessen mit ihren Artgenossen zu kommunizieren. Dabei sollen vor allem auch die Besitzer die Möglichkeit haben, ihren Hund immer wieder einzuschätzen, die Kommunikation der Hunde zu erleben und ihre Vierbeiner vielleicht auch neu kennenzulernen.
+
+
+      **Teilnahmevoraussetzung:** 
+
+
+      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Hunde mit sozialen Unverträglichkeiten sind ebenfalls und ausdrücklich willkommen, müssen jedoch mit einem gut sitzenden Maulkorb gesichert werden. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
+
+
+      **Kosten: 30,00 Euro pro Mensch-Hund-Team oder ein Feld auf Eurer 5er-Karte, Begleitperson gratis**
+
+
+      **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
+    heading: Social Walk
+  - type: text
+    width: 3/4
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    text: >-
+      ### Samstag 31. Dezember 2022, 11:30 Uhr (Dauer ca. 2,5 Stunden)
+
+
+      **Start: Parkplatz “Waldkapelle”, 53359 Rheinbach**
+
+
+      Gemeinsam werden wir durch den winterlichen Wald wandern und mit tatkräftiger Unterstützung unserer Hunde dabei einen spannenden Kriminalfall lösen. Knifflige Aufgaben und lustige Spiele sorgen unterwegs für gute Laune und zusätzliche Auslastung der Hunde, so daß hoffentlich alle einem entspannten Silvesterabend entgegenblicken können. Denn ein müder Hund ist ein guter Hund! ;-)
+
+
+      **Teilnahmevoraussetzung:**
+
+
+      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
+
+
+      **Kosten: 35,00 Euro pro Mensch-Hund-Team, eine Begleitperson (u. Kinder) gratis**
+
+
+      **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
+    heading: Krimiwanderung - Silvester Special
   - type: text
     width: 3/4
     headingLevel: "3"
@@ -79,19 +131,6 @@ buildingBlocks:
 
       **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
     heading: Schnüffeltour
-  - heading: JETZT BUCHEN
-    headingLevel: "3"
-    headingSize: null
-    width: 1/4
-    facebook: false
-    innerWidth: "1"
-    whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Wanderung
-    headingCentered: true
-    isColored: true
-    booking: true
-    type: contact
-    email: false
   - type: text
     width: 3/4
     headingLevel: "3"
@@ -122,133 +161,3 @@ buildingBlocks:
 
       **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
     heading: "Herbstwanderung "
-  - heading: JETZT BUCHEN
-    headingLevel: "3"
-    headingSize: "3"
-    width: 1/4
-    facebook: false
-    innerWidth: "1"
-    whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Wanderung
-    headingCentered: true
-    isColored: false
-    booking: true
-    type: contact
-    email: false
-  - type: text
-    width: 3/4
-    headingLevel: "3"
-    headingCentered: false
-    isColored: false
-    text: >-
-      ### Sonntag 13. November 2022, 15:00 Uhr (Dauer ca. 2 Stunden)
-
-
-      **Start: Parkplatz “Waldgaststätte Bahnhof Kottenforst” in 53840 Meckenheim**
-
-
-      Bei diesem Spaziergang liegt der Schwerpunkt auf dem kontrollierten Kontakt zu Hund und Mensch. Es sind daher auch ausdrücklich Hunde willkommen, die Schwierigkeiten im Kontakt mit Artgenossen haben. Das Ziel dieses Spaziergangs in kleiner Runde ist es, kontrollierte Begegnungen zwischen den einzelnen Hunden zuzulassen und sie dabei zu unterstützen, angemessen mit ihren Artgenossen zu kommunizieren. Dabei sollen vor allem auch die Besitzer die Möglichkeit haben, ihren Hund immer wieder einzuschätzen, die Kommunikation der Hunde zu erleben und ihre Vierbeiner vielleicht auch neu kennenzulernen.
-
-
-      **Teilnahmevoraussetzung:** 
-
-
-      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Hunde mit sozialen Unverträglichkeiten sind ebenfalls und ausdrücklich willkommen, müssen jedoch mit einem gut sitzenden Maulkorb gesichert werden. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
-
-
-      **Kosten: 30,00 Euro pro Mensch-Hund-Team oder ein Feld auf Eurer 5er-Karte, Begleitperson gratis**
-
-
-      **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
-    heading: Social Walk
-  - heading: JETZT BUCHEN
-    headingLevel: "3"
-    width: 1/4
-    facebook: false
-    innerWidth: "1"
-    whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Wanderung
-    headingCentered: true
-    isColored: false
-    booking: true
-    type: contact
-    email: false
-  - type: text
-    width: 3/4
-    headingLevel: "3"
-    headingCentered: false
-    isColored: true
-    text: >-
-      ### Sonntag 4. Dezember 2022, 15:00 Uhr (Dauer ca. 2- 2,5 Stunden)
-
-
-      **Start: Parkplatz des FC-Pech, Anfahrt über Nachtigallenweg, 53343 Wachtberg**
-
-
-      Weihnachten ist bunt, schnell, anstrengend und manchmal auch ein wenig laut. Auf unserer Nikolauswanderung wollen wir daher dem üblichen Adventswahnsinn mal für einen Nachmittag entfliehen und in gemütlicher Runde Zeit mit unseren Hunden verbringen.
-
-
-      Wir lesen die Mitmachgeschichte „Ein ganz besonderes Weihnachtsfest“ und wie gewohnt gibt es dazu eine passende Spielaktion. Dabei könnt Ihr euch Futternetze für Vögel erspielen, mit denen wir im Anschluss gemeinsam einen Tannenbaum im Wald schmücken. Ausklingen lassen wir den Nachmittag bei Tee, Punsch und Plätzchen. Und vielleicht kommt ja sogar der Nikolaus noch auf einen Besuch vorbei… ;-)
-
-
-      **Teilnahmevoraussetzung:**
-
-
-      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
-
-
-      **Kosten: 30,00 Euro pro Mensch-Hund-Team oder ein Feld auf Eurer 5er-Karte, Begleitperson gratis**
-
-
-      **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
-    heading: Nikolauswanderung
-  - heading: JETZT BUCHEN
-    headingLevel: "3"
-    width: 1/4
-    facebook: false
-    innerWidth: "1"
-    whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Wanderung
-    headingCentered: true
-    isColored: true
-    booking: true
-    type: contact
-    email: false
-  - type: text
-    width: 3/4
-    headingLevel: "3"
-    headingCentered: false
-    isColored: false
-    text: >-
-      ### Samstag 31. Dezember 2022, 11:30 Uhr (Dauer ca. 2,5 Stunden)
-
-
-      **Start: Parkplatz “Waldkapelle”, 53359 Rheinbach**
-
-
-      Gemeinsam werden wir durch den winterlichen Wald wandern und mit tatkräftiger Unterstützung unserer Hunde dabei einen spannenden Kriminalfall lösen. Knifflige Aufgaben und lustige Spiele sorgen unterwegs für gute Laune und zusätzliche Auslastung der Hunde, so daß hoffentlich alle einem entspannten Silvesterabend entgegenblicken können. Denn ein müder Hund ist ein guter Hund! ;-)
-
-
-      **Teilnahmevoraussetzung:**
-
-
-      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
-
-
-      **Kosten: 35,00 Euro pro Mensch-Hund-Team, eine Begleitperson (u. Kinder) gratis**
-
-
-      **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
-    heading: Krimiwanderung - Silvester Special
-  - heading: JETZT BUCHEN
-    headingLevel: "3"
-    width: 1/4
-    facebook: false
-    innerWidth: "1"
-    whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Wanderung
-    headingCentered: true
-    isColored: false
-    booking: true
-    type: contact
-    email: false
