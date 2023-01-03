@@ -8,3 +8,26 @@ buildingBlocks:
     isColored: false
     heading: Online-Training für Welpen- und Junghunde
     text: ""
+  - type: text
+    width: "1"
+    headingLevel: "3"
+    headingCentered: false
+    isColored: true
+    text: >-
+      Während der vergangenen Jahre haben diverse Online-Formate auch Einzug in
+      die Welt des Hundetrainings gefunden und bieten damit neben dem
+      klassischen Präsenz-Training auf dem Hundeplatz eine Menge Vorteile: 
+
+
+      * Leicht in den Alltag zu integrieren, da keine Bindung an feste Zeiten oder Wochentage
+
+      * Trainingseinheiten können frei eingeteilt und je nach persönlichem Tempo umgesetzt werden
+
+      * Videosequenzen können in aller Ruhe und beliebig oft angeschaut werden
+
+      * Im Vergleich zum Präsenz-Training relativ geringe Kosten
+
+      * Wetterunabhängig z. B. bei großer Hitze oder Kälte / Nässe
+
+      * Sowohl als wertvolle Ergänzung zum Präsenztraining, wie auch als Solitärlösung einsetzbar
+    heading: Vorteile von Online-Training
