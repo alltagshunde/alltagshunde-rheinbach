@@ -92,7 +92,7 @@ buildingBlocks:
     facebook: false
     innerWidth: "1"
     whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=22431068
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     headingCentered: false
     isColored: true
     booking: true
