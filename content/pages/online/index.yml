@@ -32,7 +32,7 @@ buildingBlocks:
       * Sowohl als wertvolle Ergänzung zum Präsenztraining, wie auch als Solitärlösung einsetzbar
     heading: Vorteile von Online-Training
   - type: text
-    width: "1"
+    width: 3/4
     headingLevel: "3"
     headingCentered: false
     isColored: false
@@ -49,15 +49,15 @@ buildingBlocks:
 
 
       Es ist mir eine große Freude euch über den exklusiven Link das Online-Training meiner geschätzten Kollegen der Firma [**Hansehund** ](https://www.hansehund.de/hundeschule/)aus Hamburg zur Verfügung stellen zu dürfen:
-  - heading: ZUM ONLINE-TRAINING VON HANSEHUND ...
+  - heading: ZUM HANSEHUND ONLINE-TRAINING  ...
     headingLevel: "3"
-    width: "1"
+    width: 1/4
     facebook: false
     innerWidth: "1"
     whatsapp: false
     bookingUrl: https://training.hansehund.de/?ad=RWEbDjyK2V
     headingCentered: false
-    isColored: true
+    isColored: false
     booking: true
     type: contact
     email: false
