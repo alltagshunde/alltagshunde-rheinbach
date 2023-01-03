@@ -65,7 +65,7 @@ buildingBlocks:
     width: 3/4
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     text: >-
       Die Gründerin von Hansehund Anne Klose durfte ich bereits mehrfach als
       Dozentin im Rahmen meiner Ausbildung zur Hundetrainerin bei Canis Kynos
@@ -88,7 +88,7 @@ buildingBlocks:
     whatsapp: false
     bookingUrl: https://training.hansehund.de/?ad=RWEbDjyK2V
     headingCentered: true
-    isColored: false
+    isColored: true
     booking: true
     type: contact
     email: false
@@ -96,7 +96,7 @@ buildingBlocks:
     width: "1"
     headingLevel: "3"
     headingCentered: false
-    isColored: true
+    isColored: false
     text: >-
       Solltest Du Fragen zu den einzelnen Formaten des Online-Trainings haben,
       melde dich gerne bei mir!
