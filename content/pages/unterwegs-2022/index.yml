@@ -83,32 +83,6 @@ buildingBlocks:
     width: 3/4
     headingLevel: "3"
     headingCentered: false
-    isColored: false
-    text: >-
-      ### Samstag 31. Dezember 2022, 11:30 Uhr (Dauer ca. 2,5 Stunden)
-
-
-      **Start: Parkplatz “Waldkapelle”, 53359 Rheinbach**
-
-
-      Gemeinsam werden wir durch den winterlichen Wald wandern und mit tatkräftiger Unterstützung unserer Hunde dabei einen spannenden Kriminalfall lösen. Knifflige Aufgaben und lustige Spiele sorgen unterwegs für gute Laune und zusätzliche Auslastung der Hunde, so daß hoffentlich alle einem entspannten Silvesterabend entgegenblicken können. Denn ein müder Hund ist ein guter Hund! ;-)
-
-
-      **Teilnahmevoraussetzung:**
-
-
-      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
-
-
-      **Kosten: 35,00 Euro pro Mensch-Hund-Team, eine Begleitperson (u. Kinder) gratis**
-
-
-      **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
-    heading: Krimiwanderung - Silvester Special
-  - type: text
-    width: 3/4
-    headingLevel: "3"
-    headingCentered: false
     isColored: true
     text: >-
       ### Sonntag 18. September 2022, 15:00 Uhr (Dauer ca. 2 Stunden)
@@ -137,17 +111,13 @@ buildingBlocks:
     headingCentered: false
     isColored: false
     text: >-
-      ###  \*  \*  \*  \*  \*  \*  \*  \*  \*  A U S G E B U C H
-      T  \*  \*  \*  \*  \*  \* \*  \*  \*  
+      ### Sonntag 12. Februar 2023, 15:00 Uhr (Dauer ca. 2 Stunden)
 
 
-      ### Sonntag 23. Oktober 2022, 14:30 Uhr (Dauer ca. 2 Stunden)
+      ### **Start: Wanderparkplatz, Dorfstraße 56, 53343 Wachtberg-Villiprott**
 
 
-      **Start: Parkplatz PanoramaSauna, 53501 Grafschaft-Holzweiler**
-
-
-      Gemeinsam erkunden wir den herbstlichen Wald, beobachten die Vierbeiner und fachsimpeln über Hundeverhalten. Zum Spaß streuen wir natürlich auch wie immer ein paar kleine Übungen ein.
+      Wenn es um den Einsatz ihrer Nase geht sind unsere Vierbeiner meist mit großem Eifer bei der Sache. Leider nicht immer zu unserer Freude, schalten sie die Ohren dabei doch oft auf Durchzug. Auf diesem Spaziergang zeige ich dir, wie du deinen Hund unterwegs mit verschiedenen Schnüffelspielen auf unterschiedlichen Ebenen beschäftigen und auslasten kannst aber dabei trotzdem seine Aufmerksamkeit behältst.
 
 
       **Teilnahmevoraussetzung:**
@@ -156,8 +126,8 @@ buildingBlocks:
       Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
 
 
-      **Kosten: 30,00 Euro pro Mensch-Hund-Team oder ein Feld auf Eurer 5er-Karte, Begleitperson gratis**
+      **Kosten: 30,00 Euro pro Mensch-Hund-Team, Begleitperson gratis**
 
 
-      **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
+      **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
     heading: "Herbstwanderung "
