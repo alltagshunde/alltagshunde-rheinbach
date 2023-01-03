@@ -155,6 +155,18 @@ buildingBlocks:
 
 
       **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
+  - heading: "JETZT ANMELDEN:"
+    headingLevel: "3"
+    width: 1/4
+    facebook: false
+    innerWidth: "1"
+    whatsapp: false
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Wanderung
+    headingCentered: false
+    isColored: false
+    booking: true
+    type: contact
+    email: false
   - type: text
     width: "1"
     headingLevel: "3"
@@ -181,7 +193,7 @@ buildingBlocks:
 
 
       **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
-  - heading: "JETZT ANMELDEN:"
+  - heading: "JETZT ANMELDEN: "
     headingLevel: "3"
     width: 1/4
     facebook: false
@@ -189,7 +201,7 @@ buildingBlocks:
     whatsapp: false
     bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Wanderung
     headingCentered: false
-    isColored: false
+    isColored: true
     booking: true
     type: contact
     email: false
