@@ -3,10 +3,10 @@ isLandingPage: false
 buildingBlocks:
   - type: text
     width: "1"
-    headingLevel: "1"
+    headingLevel: "2"
     headingCentered: true
     isColored: false
-    heading: Online-Training für Welpen- und Junghunde
+    heading: Online-Training für Welpen & Junghunde
     text: ""
   - type: text
     width: "1"
