@@ -131,7 +131,53 @@ buildingBlocks:
 
       **Ort:** Das Webinar findet über die Plattform Zoom statt. <br>Du  musst nichts installieren und keine Webcam einschalten. Der Zugang wird vorab per Mail verschickt.
     heading: WEBINAR - BEZIEHUNGSPFLEGE
-  - heading: JETZT BUCHEN
+  - heading: JETZT ANMELDEN
+    headingLevel: "3"
+    width: 1/4
+    facebook: false
+    innerWidth: "1"
+    whatsapp: false
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
+    headingCentered: false
+    isColored: true
+    booking: true
+    type: contact
+    email: false
+  - type: text
+    width: 3/4
+    headingLevel: "3"
+    headingCentered: false
+    isColored: true
+    heading: WEBINAR - TIERSCHUTZHUND, MULTIKULTI AUF VIER PFOTEN?
+    text: >-
+      Du überlegst, Dir einen Hund anzuschaffen? Und es muss nicht unbedingt ein
+      Welpe sein? <br>Dieses Webinar zum Thema "Tierschutz für Hunde" gibt Dir
+      viele Antworten auf die wichtigsten Fragen: 
+
+
+      * Woran erkenne ich eine seriöse Tierschutzorganisation? 
+
+      * Welche Eigenheiten haben vermutlich die Hunde aus den verschiedenen Ländern? 
+
+      * Welche Regelungen muss ich beachten? 
+
+      * An wen kann ich mich wenden, wenn es nicht klappt? 
+
+
+      Ein aufschlussreicher Vortrag inkl. anschließendem Handout wartet auf Dich! 
+
+
+      **Termin:** Donnerstag 27. April 2023, 18:00 - 20:00 Uhr
+
+
+      **Teilnehmer:** min. 5 und max. 10 Teilnehmer
+
+
+      **Kosten:** 25,00 Euro
+
+
+      **Ort:** Das Webinar findet über die Plattform Zoom statt. <br>Du  musst nichts installieren und keine Webcam einschalten. Der Zugang wird vorab per Mail verschickt.
+  - heading: JETZT ANMELDEN
     headingLevel: "3"
     width: 1/4
     facebook: false
