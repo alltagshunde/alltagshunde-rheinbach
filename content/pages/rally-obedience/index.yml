@@ -90,13 +90,3 @@ buildingBlocks:
     booking: true
     type: contact
     email: false
-  - headingLevel: "1"
-    width: "1"
-    facebook: true
-    innerWidth: "1"
-    whatsapp: true
-    headingCentered: true
-    isColored: false
-    booking: false
-    type: contact
-    email: true
