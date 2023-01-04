@@ -63,6 +63,7 @@ buildingBlocks:
     heading: RALLY OBEDIENCE
     buttonLink: Rally Obedience
     button: Mehr erfahren
+    image: rally-obedeince.jpg
   - type: text
     width: "1"
     headingLevel: "3"
