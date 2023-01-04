@@ -11,7 +11,7 @@ buildingBlocks:
     width: 3/4
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     heading: WEBINAR - MEIN WELPE WIRD ERWACHSEN, WILLKOMMEN IN DER PUBERTÄT!
     text: >-
       In diesem Workshop beschäftigen wir uns intensiv mit der eigenen
@@ -55,7 +55,7 @@ buildingBlocks:
     width: 3/4
     headingLevel: "3"
     headingCentered: false
-    isColored: true
+    isColored: false
     heading: WEBINAR - LET'S TALK ABOUT SEX!
     text: >-
       Dein Welpe ist niedlich und süß, doch über Nacht ist sie plötzlich da: Die
