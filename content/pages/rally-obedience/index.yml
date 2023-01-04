@@ -90,3 +90,57 @@ buildingBlocks:
     booking: true
     type: contact
     email: false
+  - type: text
+    width: 1/3
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    heading: RALLY OBEDIENCE - TEIL II
+    text: >-
+      Im zweiten Teil bauen wir auf den bereits erlernten Fähigkeiten auf.  Es
+      kommen weitere Elemente und Schilder hinzu. Darüber hinaus werden
+      Fußarbeit und Fußsitzen der Hunde weiter gefestigt.  
+
+
+      **Der Kurs  ist als direkter Folgekurs des ersten Teils angelegt. Hat dein Hund jedoch bereits einen ganz guten Grundgehorsam und beherrscht das Fußlaufen und Fußsitzen in den Grundzügen, kannst du auch im zweiten Teil einsteigen. Wenn Du unsicher bist, sprich mich vorab gerne an!**
+
+
+      Inhalte des Kurses:
+
+
+      * Schrittweises Kennenlernen weiterer Elemente aus dem Rally Obedience
+
+      * Festigung von „Fußlaufen“ und „Fußsitzen“ des Hundes
+
+      * Jedes Team arbeitet in seinem Tempo
+
+      * Mini-Abschluss-Turnier mit Urkunde
+  - heading: JETZT ANMELDEN
+    headingLevel: "3"
+    width: 1/3
+    facebook: false
+    innerWidth: "1"
+    whatsapp: false
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
+    headingCentered: false
+    isColored: false
+    booking: true
+    type: contact
+    email: false
+  - type: text
+    width: 1/3
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    heading: NÄCHSTER TERMIN
+    text: |-
+      ### Start: Dienstag 10. Januar 2023
+
+      **Termine:** 14-tägig 6x dienstags, 18:30 Uhr (60 Min.)\
+      10.1. / 24.1. / 7.2. / 21.02. / 07.03. / 21.03.2023
+
+      **Teilnehmer:** min. 3, max. 4 Teilnehmer
+
+      **Kosten:** 140,- Euro (inkl. 19 % MwSt.) 
+
+      **Ort:** Trainingsgelände 53340 Meckenheim
