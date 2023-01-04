@@ -27,7 +27,7 @@ buildingBlocks:
     heading: Faszination Hundenase
     headingSize: "3"
   - type: text
-    width: 3/4
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
     isColored: false
