@@ -63,7 +63,7 @@ buildingBlocks:
 
 
       **O﻿rt:** Trainingsgelände 53340 Meckenheim
-  - heading: "JETZT ANMELDEN:"
+  - heading: JETZT ANMELDEN
     headingLevel: "3"
     width: 1/4
     facebook: false
@@ -118,7 +118,7 @@ buildingBlocks:
 
       **O﻿rt:** 53340 Meckenheim und nähere Umgebung
     heading: NEUER SCHNUPPERKURS
-  - heading: "JETZT BUCHEN:"
+  - heading: JETZT ANMELDEN
     headingLevel: "3"
     width: 1/4
     facebook: false
@@ -197,7 +197,7 @@ buildingBlocks:
 
       M﻿ehr Infos gibt es **[hier ](https://www.alltagshunde-training.de/unterwegs-2022/)**...
     heading: "Noch unschlüssig? "
-  - heading: JETZT BUCHEN
+  - heading: JETZT ANMELDEN
     headingLevel: "3"
     width: 1/4
     facebook: false
