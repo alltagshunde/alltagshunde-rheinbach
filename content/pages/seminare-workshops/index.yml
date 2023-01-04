@@ -6,7 +6,7 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     isColored: false
-    heading: Webinare & Workshops 2023
+    heading: Termine 2023
   - type: text
     width: 3/4
     headingLevel: "3"
@@ -186,6 +186,64 @@ buildingBlocks:
     bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     headingCentered: false
     isColored: true
+    booking: true
+    type: contact
+    email: false
+  - type: text
+    width: 3/4
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    heading: WEBINAR - SILVESTERANGST
+    text: >-
+      Silvester steht wieder mal vor der Tür und viele Hunde werden an diesen
+      Tagen mit einer ungewohnten Geräusch-Kulisse konfrontiert, die auf viele
+      bedrohlich wirkt. Auch ein Hund, der sich in der Vergangenheit nicht vor
+      Knallgeräuschen gefürchtet hat, kann diese Angst noch entwickeln.\
+
+      Umso wichtiger ist es, rechtzeitig und nicht erst ein paar Tage vor Silvester mit entsprechenden Maßnahmen zu beginnen. Unser Abendvortrag gibt viele Tipps nicht nur für Silvester, sondern auch bei Gewitter und generell bei Geräuschangst.
+
+
+      #### **Wir besprechen folgende Themen:**
+
+
+      * Grundsätzliches zum Thema "Geräuschangst"
+
+      * Was kann ich vorbeugend tun?
+
+      * Was kann ich tun, wenn er diese Angst schon hat?
+
+      * Wie kann ich meinem Hund den Silvesterabend erleichtern?
+
+      * Die große Frage: Trösten oder besser nicht trösten?
+
+      * Allgemeine Tipps
+
+      * Fragerunde am Ende
+
+
+      Du erhältst in diesem Vortrag wertvolle Tipps, wie Du Deinem Hund auch an Silvester eine Stütze und sein sicherer Hafen sein kannst.
+
+
+      **Termin:** Donnerstag 23. November 2023, 18:00 - 20:00 Uhr
+
+
+      **Teilnehmer:** min. 5 und max. 10 Teilnehmer
+
+
+      **Kosten:** 25,00 Euro
+
+
+      **Ort:** Das Webinar findet über die Plattform Zoom statt. <br>Du  musst nichts installieren und keine Webcam einschalten. Der Zugang wird vorab per Mail verschickt.
+  - heading: JETZT ANMELDEN
+    headingLevel: "3"
+    width: 1/4
+    facebook: false
+    innerWidth: "1"
+    whatsapp: false
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
+    headingCentered: false
+    isColored: false
     booking: true
     type: contact
     email: false
