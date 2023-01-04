@@ -131,10 +131,10 @@ buildingBlocks:
     type: contact
     email: false
   - type: text
-    width: "1"
+    width: 3/4
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     heading: KURS - FÄHRTEN FÜR JEDERMANN (Start voraussichtlich September 2023)
     text: >-
       **Gleich vorweg: das Jagdverhalten wird hierbei NICHT gefördert!** 
@@ -147,6 +147,17 @@ buildingBlocks:
 
 
       **Es wird an der Schleppleine gearbeitet, so kann auch in spannenden Gebieten trainiert werden ohne die Gefahr, dass der Hund die Aufgabe abbricht, um jagen zu gehen.**
+  - heading: JETZT VORMERKEN
+    headingLevel: "3"
+    width: 1/4
+    facebook: false
+    innerWidth: "1"
+    whatsapp: true
+    headingCentered: false
+    isColored: true
+    booking: false
+    type: contact
+    email: true
   - type: text
     width: "1"
     headingLevel: "2"
@@ -182,3 +193,8 @@ buildingBlocks:
     isBanner: false
     isColored: false
     image: vizsla-geruchsdifferenzierung.jpg
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    isColored: false
