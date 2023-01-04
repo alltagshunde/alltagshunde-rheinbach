@@ -43,6 +43,26 @@ buildingBlocks:
 
 
       **D﻿ieser Kurs richtet sich daher an Menschen die Lust haben, auch zwischen den einzelnen Terminen   im Alltag mit ihrem Hund zu üben.**
+  - type: text
+    width: 1/3
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    heading: "NEUER KURS FÜR EINSTEIGER: "
+    text: >-
+      ### S﻿tart: Dienstag 17. Januar 2023
+
+
+      **T﻿ermine:** 17.01. / 31.01. / 14.02. / 28.02. / 14.02. / 28.03.  jeweils um 18:30 Uhr (60 Min. )
+
+
+      **Teilnehmer:** min. 3, max. 5 Teilnehmer
+
+
+      **K﻿osten:** 140,- Euro (inkl. 19 % MwSt.) pro Mensch-Hund-Team
+
+
+      **O﻿rt:** Trainingsgelände 53340 Meckenheim
   - heading: "JETZT ANMELDEN:"
     headingLevel: "3"
     width: 1/4
@@ -107,23 +127,3 @@ buildingBlocks:
     isBanner: false
     isColored: false
     image: vizsla-geruchsdifferenzierung.jpg
-  - type: text
-    width: 1/3
-    headingLevel: "3"
-    headingCentered: false
-    isColored: false
-    heading: "NEUER KURS FÜR EINSTEIGER: "
-    text: >-
-      ### S﻿tart: Dienstag 17. Januar 2023
-
-
-      **T﻿ermine:** 17.01. / 31.01. / 14.02. / 28.02. / 14.02. / 28.03.  jeweils um 18:30 Uhr (60 Min. )
-
-
-      **Teilnehmer:** min. 3, max. 5 Teilnehmer
-
-
-      **K﻿osten:** 140,- Euro (inkl. 19 % MwSt.) pro Mensch-Hund-Team
-
-
-      **O﻿rt:** Trainingsgelände 53340 Meckenheim
