@@ -135,7 +135,7 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     isColored: true
-    heading: KURS - FÄHRTEN FÜR JEDERMANN (Start voraussichtlich September 2023)
+    heading: "KURS - FÄHRTEN FÜR JEDERMANN "
     text: >-
       **Gleich vorweg: das Jagdverhalten wird hierbei NICHT gefördert!** 
 
@@ -147,6 +147,26 @@ buildingBlocks:
 
 
       **Es wird an der Schleppleine gearbeitet, so kann auch in spannenden Gebieten trainiert werden ohne die Gefahr, dass der Hund die Aufgabe abbricht, um jagen zu gehen.**
+  - type: text
+    width: 1/4
+    headingLevel: "3"
+    headingCentered: false
+    isColored: true
+    text: >-
+      ### S﻿tart: Samstag 29. April 2023
+
+
+      **T﻿ermine:** 14-tägig 5x samstags um 13:30 Uhr (75 Min.) <br> 29.04. / 13.05. / 27.05. / 10.06. / 24.06.
+
+
+      **Teilnehmer:** min. 3, max. 4 Teilnehmer
+
+
+      **K﻿osten:** 140,- Euro (inkl. 19 % MwSt.)
+
+
+      **O﻿rt:** 53340 Meckenheim und nähere Umgebung
+    heading: NÄCHSTER TERMIN
   - heading: JETZT VORMERKEN
     headingLevel: "3"
     width: 1/4
