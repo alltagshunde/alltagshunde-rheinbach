@@ -194,6 +194,20 @@ buildingBlocks:
 
       Du bekommst einen ersten Eindruck verschiedener Varianten der Nasenarbeit und kannst direkt praktisch ausprobieren in welche Richtung es euch verschlägt und dich mir Gleichgesinnten austauschen.
     heading: "Noch unschlüssig? "
+  - type: text
+    width: 1/3
+    headingLevel: "3"
+    headingCentered: false
+    isColored: true
+    heading: NÄCHSTER TERMIN
+    text: |-
+      ### Sonntag 12. Februar 2023, 15:00 Uhr (Dauer ca. 2 Stunden)
+
+      **Start:** Wanderparkplatz, Dorfstraße 56, 53343 Wachtberg-Villiprott
+
+      **Kosten:** 30,00 Euro pro Mensch-Hund-Team, Begleitperson gratis
+
+      **Teilnehmer:** mindestens 4, maximal 8 Mensch-Hund-Teams
   - heading: JETZT ANMELDEN
     headingLevel: "3"
     width: 1/4
