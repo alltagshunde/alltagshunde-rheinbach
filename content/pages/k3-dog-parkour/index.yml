@@ -39,15 +39,15 @@ buildingBlocks:
     headingLevel: "2"
     headingCentered: false
     isColored: true
-    heading: "NEUER KURS AB SEPTEMBER:"
+    heading: NEUER KURS IN PLANUNG
     text: >-
-      ### **Start: Dienstag 13. September 2022**
+      ### **Start:** 
 
 
-      **Termine**: 13.9. / 27.9. / 11.10. / 25.10. / 8.11. / 22.11.2022: jeweils um 17:00 Uhr
+      **Termine**: 
 
 
-      **Kosten:** 140,- Euro (inkl. MwSt.) pro Mensch-Hund-Team
+      **Kosten:** 
 
 
       **Teilnehmer:** min. 3 und max. 5 Mensch-Hund-Teams
@@ -85,7 +85,7 @@ buildingBlocks:
       * Durch feine Signale und kleinste Veränderungen in der Führtechnik wird die Kommunikation stetig verfeinert. **Dadurch wirkt sich das Training auch positiv auf die Beziehung zwischen Hund und Halter aus.**
     innerWidth: "1"
     whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=35295705
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     headingCentered: true
     isColored: true
     booking: true
