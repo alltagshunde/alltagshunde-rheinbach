@@ -113,37 +113,15 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     isColored: true
-    text: >-
-      In diesem Webinar sprechen wir über Auslöser und die physischen Prozesse
-      in der Pubertät. Ich erkläre ausführlich welche Veränderungen im Verhalten
-      deines Hundes nun zu beobachten sind und wie du darauf reagieren
-      solltest. 
-
-
-      D﻿ie Pubertät ist die wichtigste Phase im Leben deines Hundes. Jetzt geht es um Selbstfindung und die Ausprägung des eigenen Charakters. Die Art wie man mit anderen umgeht und was man für richtig und falsch im Kontakt hält, wird insbesondere in der Pubertät gelernt.
-
-
-      Als Besitzer eines Welpen / Junghundes solltest du dieses Webinar also nicht verpassen!
-
-
-      **Termin:** Donnerstag 19. Januar 2023, 18:00 - 20:00 Uhr 
-
-
-      **Teilnehmer:** min. 5 und max. 10 Teilnehmer
-
-
-      **Kosten:** 25,00 Euro
-
-
-      **Ort:** Das Webinar findet über die Plattform Zoom statt. <br>Du  musst nichts installieren und keine Webcam einschalten. Der Zugang wird vorab per Mail verschickt.
-    heading: "Workshop: Kommunikation & Körpersprache Mensch-Hund"
+    text: ""
+    heading: ""
   - heading: JETZT BUCHEN
     headingLevel: "3"
     width: 1/4
     facebook: false
     innerWidth: "1"
     whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Workshops
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     headingCentered: false
     isColored: true
     booking: true
