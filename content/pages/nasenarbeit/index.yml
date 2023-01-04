@@ -76,7 +76,7 @@ buildingBlocks:
     type: contact
     email: false
   - type: text
-    width: 1/3
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
     isColored: true
@@ -99,18 +99,22 @@ buildingBlocks:
 
       * Einbauen von Ruhe-, Impulskontroll- und Gehorsamsübungen
   - type: text
-    width: 1/3
+    width: 1/4
     headingLevel: "3"
     headingCentered: false
     isColored: true
-    text: |-
+    text: >-
       ### S﻿tart: Samstag 4. März 2023
 
-      **T﻿ermine:** 04.03. / 18.03. / 01.04.; jeweils um 13:30 Uhr (75 Min.)
+
+      **T﻿ermine:** 14-tägig 3x samstags um 13:30 Uhr (75 Min.) <br> 4.3. / 18.03. / 1.4.2023
+
 
       **Teilnehmer:** min. 3, max. 4 Teilnehmer
 
+
       **K﻿osten:** 90,- Euro (inkl. 19 % MwSt.) pro Mensch-Hund-Team
+
 
       **O﻿rt:** 53340 Meckenheim und nähere Umgebung
     heading: NEUER SCHNUPPERKURS
