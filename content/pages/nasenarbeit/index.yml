@@ -120,7 +120,7 @@ buildingBlocks:
     heading: NEUER SCHNUPPERKURS
   - heading: "JETZT BUCHEN:"
     headingLevel: "3"
-    width: 1/3
+    width: 1/4
     facebook: false
     innerWidth: "1"
     whatsapp: false
