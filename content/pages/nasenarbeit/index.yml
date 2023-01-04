@@ -31,7 +31,7 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     isColored: false
-    heading: KURS - Artikelsuche
+    heading: KURS - ARTIEKLSUCHE
     text: >-
       In diesem Kurs zeige ich dir, wie Du deinem Hund beibringst, kleinste
       Artikel (z. B. eine Büroklammer) mit deinem Geruch auf verschiedenen
@@ -80,7 +80,7 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     isColored: false
-    heading: KURS - Fährten für Jedermann (Start voraussichtlich September 2023)
+    heading: KURS - FÄHRTEN FÜR JEDERMANN (Start voraussichtlich September 2023)
     text: >-
       **Gleich vorweg: das Jagdverhalten wird hierbei NICHT gefördert!** 
 
@@ -127,3 +127,9 @@ buildingBlocks:
     isBanner: false
     isColored: false
     image: vizsla-geruchsdifferenzierung.jpg
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    isColored: false
+    heading: "KURS - TEA TIME "
