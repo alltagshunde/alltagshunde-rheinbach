@@ -52,18 +52,18 @@ buildingBlocks:
     width: 1/2
     innerWidth: "1"
     isColored: false
-    heading: Hundefitness
-    image: k3.jpg
+    heading: RALLY OBEDIENCE
+    buttonLink: Rally Obedience
     button: Mehr erfahren
-    buttonLink: Hundefitness
+    image: rally-obedience.jpg
   - type: card
     width: 1/2
     innerWidth: "1"
     isColored: false
-    heading: RALLY OBEDIENCE
-    buttonLink: Rally Obedience
+    heading: Hundefitness
+    image: k3.jpg
     button: Mehr erfahren
-    image: rally-obedeince.jpg
+    buttonLink: Hundefitness
   - type: text
     width: "1"
     headingLevel: "3"
