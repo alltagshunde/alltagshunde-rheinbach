@@ -61,6 +61,8 @@ buildingBlocks:
     innerWidth: "1"
     isColored: false
     heading: RALLY OBEDIENCE
+    buttonLink: Rally Obedience
+    button: Mehr erfahren
   - type: text
     width: "1"
     headingLevel: "3"
