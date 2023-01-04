@@ -61,7 +61,7 @@ buildingBlocks:
     innerWidth: "1"
     isColored: false
     heading: Hundefitness
-    image: k3.jpg
+    image: nele-und-rudi.jpg
     button: Mehr erfahren
     buttonLink: Hundefitness
   - type: text
