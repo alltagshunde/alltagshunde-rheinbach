@@ -69,7 +69,7 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     isColored: false
-    heading: "Workshop: Wer ist denn eigentlich mein Hund?"
+    heading: WEBINAR - MEIN WELPE WIRD ERWACHSEN, WILLKOMMEN IN DER PUBERTÄT!
     text: >-
       In diesem Workshop beschäftigen wir uns intensiv mit der eigenen
       Körpersprache und der unserer Hunde. Was haben die Körpersprache von
@@ -96,13 +96,13 @@ buildingBlocks:
 
 
       **Anmeldung:** telefonisch unter 0176 - 61711772 oder per E-Mail an caro@alltagshunde-rheinbach.de
-  - heading: JETZT BUCHEN
+  - heading: JETZT ANMELDEN
     headingLevel: "3"
     width: 1/4
     facebook: false
     innerWidth: "1"
     whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Workshops
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     headingCentered: false
     isColored: false
     booking: true
@@ -114,38 +114,28 @@ buildingBlocks:
     headingCentered: false
     isColored: true
     text: >-
-      Du hast deinen Hund noch nicht so lange oder hast manchmal das Gefühl, als
-      könntest Du ihn nicht immer richtig einschätzen? 
+      In diesem Webinar sprechen wir über Auslöser und die physischen Prozesse
+      in der Pubertät. Ich erkläre ausführlich welche Veränderungen im Verhalten
+      deines Hundes nun zu beobachten sind und wie du darauf reagieren
+      solltest. 
 
 
-      In diesem Workshop wirst du ihn (neu) kennenlernen! Wir stellen hier einmal jeden Hund ins Rampenlicht und widmen uns jeder anwesenden Hundepersönlichkeit ganz ausführlich. Dabei werden wir z. B. Fragen klären wie: 
+      D﻿ie Pubertät ist die wichtigste Phase im Leben deines Hundes. Jetzt geht es um Selbstfindung und die Ausprägung des eigenen Charakters. Die Art wie man mit anderen umgeht und was man für richtig und falsch im Kontakt hält, wird insbesondere in der Pubertät gelernt.
 
 
-      * Wie gesellig ist dein Hund? 
-
-      * Ist er ein Draufgänger oder eher zurückhaltend? 
-
-      * Wie löst er Probleme? 
-
-      * Welche Rolle spielst Du als sein Mensch dabei für ihn? 
+      Als Besitzer eines Welpen / Junghundes solltest du dieses Webinar also nicht verpassen!
 
 
-      Am Ende wagen wir gemeinsam eine Charaktereinschätzung und werden vielleicht überrascht sein. 
+      **Termin:** Donnerstag 19. Januar 2023, 18:00 - 20:00 Uhr 
 
 
-      **Termin:** in Planung ...
+      **Teilnehmer:** min. 5 und max. 10 Teilnehmer
 
 
-      **Teilnehmer:** min. 3 und max. 5 Mensch-Hund-Teams
+      **Kosten:** 25,00 Euro
 
 
-      **Kosten:** 90,00 Euro pro Mensch-Hund-Team
-
-
-      **Ort:** Trainingsgelände in 53340 Meckenheim
-
-
-      **Anmeldung:** telefonisch unter 0176 - 61711772 oder per E-Mail an caro@alltagshunde-rheinbach.de
+      **Ort:** Das Webinar findet über die Plattform Zoom statt. <br>Du  musst nichts installieren und keine Webcam einschalten. Der Zugang wird vorab per Mail verschickt.
     heading: "Workshop: Kommunikation & Körpersprache Mensch-Hund"
   - heading: JETZT BUCHEN
     headingLevel: "3"
