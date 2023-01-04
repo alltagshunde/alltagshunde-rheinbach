@@ -27,10 +27,23 @@ buildingBlocks:
     heading: Faszination Hundenase
     headingSize: "3"
   - type: text
-    width: "1"
-    headingLevel: "1"
-    headingCentered: true
+    width: 3/4
+    headingLevel: "3"
+    headingCentered: false
     isColored: false
+    heading: KURS - Artikelsuche
+    text: >-
+      In diesem Kurs zeige ich dir, wie Du deinem Hund beibringst, kleinste
+      Artikel (z. B. eine Büroklammer) mit deinem Geruch auf verschiedenen
+      Untergründen und Ebenen durch seinen Geruchssinn zu finden und über ein
+      festgelegtes Anzeigeverhalten (z. B. Platz und "Einfrieren") anzuzeigen. 
+
+
+      Diese Form der Nasenarbeit lastet deinen Hund nicht nur über seinen Geruchssinn aus. Durch das Training des Anzeigeverhaltens, welches stets weiter gefestigt wird, muss dein Hund auch Köpfchen beweisen und sich sehr konzentrieren. Auch Du bist aktiv gefordert, denn das Training einer sicheren Anzeige verlangt auch von dir einiges an Geschick und ein gutes Timing. \
+
+      \
+
+      **D﻿ieser Kurs richtet sich daher an Menschen die Lust haben auch zwischen den einzelnen Terminen mit ihrem Hund zuhause zu üben und die im Kurs erarbeiteten Dinge weiter auszubauen und zu festigen.**
   - heading: "JETZT ANMELDEN:"
     headingLevel: "3"
     width: 1/4
