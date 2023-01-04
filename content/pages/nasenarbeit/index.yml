@@ -76,6 +76,57 @@ buildingBlocks:
     type: contact
     email: false
   - type: text
+    width: 1/3
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    heading: SCHNUPPERKURS - NASENARBEIT FÜR EINSTEIGER
+    text: >-
+      ##### **Schnüffeln macht glücklich**
+
+
+      Schnüffeln, suchen und eine kleine Spur verfolgen können alle Hunde. Wir fördern und formen dieses Talent deines Hundes in unserem Kurs. Du und dein Hund gehen gemeinsam auf “Jagd”. Lass dich überraschen, wozu dein Hund bereits in der Lage ist und lerne seine Nasenwelt besser zu verstehen und einzuschätzen. Es wird euch beide zusammenschweißen!
+
+
+      Das lernst du und dein Hund:
+
+
+      * Wie funktioniert die Hundenase
+
+      * Was haben Windrichtung und Wetter für eine Rolle?
+
+      * Die ersten Suchaufgaben für dich und deinen Hund gestalten
+
+      * Einbauen von Ruhe-, Impulskontroll- und Gehorsamsübungen
+  - type: text
+    width: 1/3
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    text: |-
+      ### S﻿tart: Samstag 4. März 2023
+
+      **T﻿ermine:** 04.03. / 18.03. / 01.04.; jeweils um 13:30 Uhr (75 Min.)
+
+      **Teilnehmer:** min. 3, max. 4 Teilnehmer
+
+      **K﻿osten:** 90,- Euro (inkl. 19 % MwSt.) pro Mensch-Hund-Team
+
+      **O﻿rt:** 53340 Meckenheim und nähere Umgebung
+    heading: NEUER SCHNUPPERKURS
+  - heading: "JETZT BUCHEN:"
+    headingLevel: "3"
+    width: 1/3
+    facebook: false
+    innerWidth: "1"
+    whatsapp: false
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
+    headingCentered: false
+    isColored: false
+    booking: true
+    type: contact
+    email: false
+  - type: text
     width: "1"
     headingLevel: "3"
     headingCentered: false
@@ -127,54 +178,3 @@ buildingBlocks:
     isBanner: false
     isColored: false
     image: vizsla-geruchsdifferenzierung.jpg
-  - type: text
-    width: 1/3
-    headingLevel: "3"
-    headingCentered: false
-    isColored: false
-    heading: SCHNUPPERKURS - NASENARBEIT FÜR EINSTEIGER
-    text: >-
-      ##### **Schnüffeln macht glücklich**
-
-
-      Schnüffeln, suchen und eine kleine Spur verfolgen können alle Hunde. Wir fördern und formen dieses Talent deines Hundes in unserem Kurs. Du und dein Hund gehen gemeinsam auf “Jagd”. Lass dich überraschen, wozu dein Hund bereits in der Lage ist und lerne seine Nasenwelt besser zu verstehen und einzuschätzen. Es wird euch beide zusammenschweißen!
-
-
-      Das lernst du und dein Hund:
-
-
-      * Wie funktioniert die Hundenase
-
-      * Was haben Windrichtung und Wetter für eine Rolle?
-
-      * Die ersten Suchaufgaben für dich und deinen Hund gestalten
-
-      * Einbauen von Ruhe-, Impulskontroll- und Gehorsamsübungen
-  - type: text
-    width: 1/3
-    headingLevel: "3"
-    headingCentered: false
-    isColored: false
-    text: |-
-      ### S﻿tart: Samstag 4. März 2023
-
-      **T﻿ermine:** 04.03. / 18.03. / 01.04.; jeweils um 13:30 Uhr (75 Min.)
-
-      **Teilnehmer:** min. 3, max. 4 Teilnehmer
-
-      **K﻿osten:** 90,- Euro (inkl. 19 % MwSt.) pro Mensch-Hund-Team
-
-      **O﻿rt:** 53340 Meckenheim und nähere Umgebung
-    heading: NEUER SCHNUPPERKURS
-  - heading: "JETZT BUCHEN:"
-    headingLevel: "3"
-    width: 1/3
-    facebook: false
-    innerWidth: "1"
-    whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
-    headingCentered: false
-    isColored: false
-    booking: true
-    type: contact
-    email: false
