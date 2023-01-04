@@ -39,11 +39,10 @@ buildingBlocks:
       festgelegtes Anzeigeverhalten (z. B. Platz und "Einfrieren") anzuzeigen. 
 
 
-      Diese Form der Nasenarbeit lastet deinen Hund nicht nur über seinen Geruchssinn aus. Durch das Training des Anzeigeverhaltens, welches stets weiter gefestigt wird, muss dein Hund auch Köpfchen beweisen und sich sehr konzentrieren. Auch Du bist aktiv gefordert, denn das Training einer sicheren Anzeige verlangt auch von dir einiges an Geschick und ein gutes Timing. \
+      Diese Form der Nasenarbeit lastet deinen Hund nicht nur über seinen Geruchssinn aus. Durch das Training des Anzeigeverhaltens, welches stets weiter gefestigt wird, muss dein Hund auch Köpfchen beweisen und sich sehr konzentrieren. Auch Du bist aktiv gefordert, denn das Training einer sicheren Anzeige verlangt auch von dir einiges an Geschick und ein gutes Timing. 
 
-      \
 
-      **D﻿ieser Kurs richtet sich daher an Menschen die Lust haben auch zwischen den einzelnen Terminen mit ihrem Hund zuhause zu üben und die im Kurs erarbeiteten Dinge weiter auszubauen und zu festigen.**
+      **D﻿ieser Kurs richtet sich daher an Menschen die Lust haben, auch zwischen den einzelnen Terminen   im Alltag mit ihrem Hund zu üben.**
   - heading: "JETZT ANMELDEN:"
     headingLevel: "3"
     width: 1/4
@@ -51,7 +50,7 @@ buildingBlocks:
     innerWidth: "1"
     whatsapp: false
     bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
-    headingCentered: true
+    headingCentered: false
     isColored: false
     booking: true
     type: contact
