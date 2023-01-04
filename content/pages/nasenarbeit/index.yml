@@ -135,7 +135,7 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     isColored: true
-    heading: "KURS - FÄHRTEN FÜR JEDERMANN "
+    heading: KURS - FÄHRTEN FÜR JEDERHUND
     text: >-
       **Gleich vorweg: das Jagdverhalten wird hierbei NICHT gefördert!** 
 
@@ -167,17 +167,18 @@ buildingBlocks:
 
       **O﻿rt:** 53340 Meckenheim und nähere Umgebung
     heading: NÄCHSTER TERMIN
-  - heading: JETZT VORMERKEN
+  - heading: JETZT ANMELDEN
     headingLevel: "3"
     width: 1/4
     facebook: false
     innerWidth: "1"
-    whatsapp: true
+    whatsapp: false
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     headingCentered: false
     isColored: true
-    booking: false
+    booking: true
     type: contact
-    email: true
+    email: false
   - type: text
     width: 3/4
     headingLevel: "3"
