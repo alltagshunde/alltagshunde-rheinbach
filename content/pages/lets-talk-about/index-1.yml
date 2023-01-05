@@ -1,21 +1,55 @@
-title: Let's talk about - Körpersprache Treff
+title: Intensiv Kurse
 isLandingPage: false
-parentPage: Beschäftigung
+parentPage: ""
 buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "1"
     headingCentered: true
     isColored: false
-    heading: Körpersprache Treff - Let's talk about ...
+    heading: Intensiv Kurse
   - type: text
-    width: "1"
+    width: 1/3
     headingLevel: "3"
-    headingCentered: true
+    headingCentered: false
     isColored: true
-    heading: Du willst, dass dein Hund dich besser versteht?
-    text: Ich zeige dir, welche Möglichkeiten Du hast, dich auch ohne Worte
-      mitzuteilen…
+    heading: Intensivkurs Leinenführigkeit
+    text: >-
+      An lockerer Leine durchs Leben zu gehen ist der Traum vieler Hundehalter.
+      Bei den meisten Hunden ist dafür einiges an Training nötig, vor allem wenn
+      Ablenkung ins Spiel kommt bzw. die Hunde andere Dinge im Kopf haben.
+
+
+      In diesem Kurs lernen die Hunde an lockerer Leine zu laufen und sich an ihrem Menschen zu orientieren. Ein an seinem Menschen orientierter Hund ist besser ansprechbar und lenkbar – auch ohne Leine. Die Menschen lernen wie sie ihren Hund dazu bringen sich nicht von allem und jedem ablenken zu lassen.
+
+
+      Das Ergebnis ist ein Mensch-Hund-Team, das aufeinander achtet und an lockerer Leine durch viele Alltagssituationen kommt.
+
+
+      Wir arbeiten anfangs mit möglichst wenig Ablenkung und erhöhen diese sukzessive angepasst an das Mensch-Hund-Team.
+  - type: text
+    width: 1/3
+    headingLevel: "3"
+    headingCentered: false
+    isColored: true
+    heading: "NEUER TERMIN:"
+    text: >-
+      ### **Kursstart: Donnerstag 23. Februar 2023 / Freitag 3. März 2023**
+
+
+      **Termine:** 1x Theorie Webinar Donnerstag 23. März 2023 um 18.00 Uhr (90 Min) <br> 5x Praxis jeweils freitags um 18:30 Uhr (3.3. / 10.3. / 17.3. / 24.3. / 31.3.2023) (60 Min.)
+
+
+      **Teilnehmer:** min. 2 und max. 4 Mensch-Hund-Teams
+
+
+      **Kosten:** 150,- Euro (inkl. 19% MwSt.)
+
+
+      **O﻿rt:** wechselnde Orte im Raum Meckenheim, Wachtberg und Rheinbach
+
+
+      **Teilnahmevoraussetzung ist der Besuch meiner Welpengruppe und / oder Junghundekurs oder mindestens eine Einzelstunde um dich und deinen Hund kennenzulernen und mir ein Bild vom derzeitigen Erziehungsstand zu machen.**
   - type: text
     width: "1"
     headingLevel: "3"
@@ -38,26 +72,3 @@ buildingBlocks:
       \
 
       **Empfehlenswert - aber nicht Vorraussetzung - ist vorab die Teilnahme am Workshop "Kommunikation & Körpersprache Mensch - Hund"**
-  - type: text
-    width: "1"
-    headingLevel: "3"
-    headingCentered: true
-    isColored: true
-    heading: "Termine & Kosten:"
-    text: >-
-      **Termin:** jeweils**14-tägig dienstags** um 18:30 Uhr
-
-
-      **Kursstart: 7. Juni 2022 (6 Termine): 110,- Euro (inkl. 19% MwSt.)**
-
-
-      **Teilnehmer:** min. 3 und max. 5 Mensch-Hund-Teams
-
-
-      **Ort:** Trainingsgelände Meckenheim 
-
-
-      **Vorausgesetzt wird ein gewisser Grundgehorsam des Hundes:**
-
-
-      Dein Hund sollte auch in Anwesenheit von Artgenossen ansprechbar sein und nicht permanent bellen, wenn die anderen Hunde arbeiten.
