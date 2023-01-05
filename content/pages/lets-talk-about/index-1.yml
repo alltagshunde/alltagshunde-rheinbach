@@ -135,10 +135,30 @@ buildingBlocks:
       In diesem Kurs wirst Du neben einer Menge Spaß auch viele Aha-Erlebnisse sammeln. Zudem wird sich  die Kommunikation zwischen dir und deinem Hund nachhaltig verbessern.
   - type: text
     width: "1"
-    headingLevel: "1"
-    headingCentered: true
+    headingLevel: "3"
+    headingCentered: false
     isColored: false
-    heading: ""
+    heading: "NÄCHSTER TERMIN: "
+    text: >-
+      ### **Kursstart: in Planung**
+
+
+      **Termine:** 5 x Praxis (60 Min.)
+
+
+      **Teilnehmer:** min. 2 und max. 4 Mensch-Hund-Teams
+
+
+      **Kosten:** 140,- Euro (inkl. MwSt.)
+
+
+      **O﻿rt:** Trainingsgelände 53340 Meckenheim
+
+
+      **Voraussetzung für die Teilnahme am Workshop "Dein Körper spricht Hund" bzw. am Junghundekurs oder Intensivkurs "an lockerer Leine" oder "Orientierung ohne Leine".** 
+
+
+      **Neukunden buchen bitte eine Einzelstunde vorab, um uns kennenzulernen und damit ich mir ein Bild vom aktuellen Erziehungsstand deines Hundes machen kann.**
   - heading: "JETZT ANMELDEN: "
     headingLevel: "3"
     width: 1/3
