@@ -5,7 +5,7 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     isColored: false
-    heading: Beschäftigungsangebot
+    heading: Beschäftigung
   - type: text
     width: "1"
     headingLevel: "3"
@@ -15,15 +15,17 @@ buildingBlocks:
       Beschäftigung statt höher, schneller, weiter!
     text: >-
       Wenn es um die gemeinsame Beschäftigung von Hund und Halter geht, ist mir
-      wichtig, dass dein Hund sinnvoll beschäftigt und ausgelastet wird, statt
-      einfach nur körperlich „ausgepowert“ zu werden. Sportarten wie Flyball,
-      DogFrisbee etc. wirst du deshalb in meiner Hundeschule nicht finden.
+      wichtig, dass die Freude an der gemeinsamen Arbeit im überwiegt und dein
+      Hund sinnvoll ausgelastet, statt einfach nur körperlich „ausgepowert“
+      wird. Das kann je nach Hundetyp sehr unterschiedliche Anforderungen
+      bedeuten. Hochpushende Sportarten wie Flyball, Agility oder DogFrisbee
+      etc. wirst du jedoch hier nicht finden.
 
 
-      In meiner Hundeschule biete ich dir und deinem Hund daher eine kleine aber feine Auswahl artgerechter und sinnvoller Beschäftigungsangebot wie Apportieren, Crossdogging und Mantrailing. Im Vordergrund stehen dabei Ruhe, Ausgeglichenheit und Spaß an der Zusammenarbeit. Abgerundet wird das Angebot durch meinen Hundefitness-Kurs bei dem die physische Gesundheit deines Hundes im Vordergrund steht, sowie durch regelmäßige Hundewanderungen und Ausflüge in die herrliche Natur rund um Rheinbach, den Kottenforst und das Vorgebirge
+      In meiner Hundeschule biete ich dir und deinem Hund eine kleine aber feine Auswahl in meinen Augen sinnvoller Beschäftigungsangebote wie z. B. Apportieren, verschiedene Varianten der Nasenarbeit oder Rally Obedience. Im Vordergrund stehen dabei stets Ruhe, Ausgeglichenheit und Spaß an der Zusammenarbeit. Abgerundet wird das Angebot durch Hundefitness-Kurse bei denen die physische Gesundheit deines Hundes im Vordergrund steht, sowie durch regelmäßige Hundewanderungen und Ausflüge in die herrliche Natur rund um Rheinbach, den Kottenforst und das Ahrtal.
 
 
-      Auf den folgenden Seiten stelle ich dir meine Angebote genauer vor. Für mehr Infos klicke auf die einzelnen Kacheln.
+      Auf den folgenden Seiten stelle ich dir meine Angebote genauer vor. Für mehr Infos klicke bitte auf die einzelnen Kacheln.
   - type: card
     width: 1/3
     innerWidth: "1"
