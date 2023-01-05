@@ -1,0 +1,51 @@
+title: Workshops
+isLandingPage: false
+parentPage: Webinare & Workshops
+buildingBlocks:
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    isColored: false
+    heading: Termine 2023
+  - type: text
+    width: 1/3
+    headingLevel: "3"
+    headingCentered: false
+    isColored: true
+    heading: WORKSHOP - DEIN KÖRPER SPRICHT HUND
+    text: >-
+      In diesem Workshop In diesem Workshop beschäftigen wir uns intensiv mit
+      der eigenen Körpersprache und der unserer Hunde.
+
+
+      Was haben die Körpersprache von Hunden und Menschen gemeinsam und was unterscheidet sie? Warum ist das überhaupt wichtig? Wie reagiert mein Hund auf meine Körpersprache und welche Signale sende ich ihm eigentlich? Drücke ich mich dabei immer verständlich aus oder verhalte ich mich (in den Augen meines Hundes) widersprüchlich? Und wie kann ich die Kommunikation zwischen mir und meinem Hund verbessern oder einfach mal ein spannendes Gespräch mit ihm führen?
+
+
+      In diesem Kurs wirst Du neben einer Menge Spaß auch viele Aha-Erlebnisse sammeln.
+  - type: text
+    width: 1/3
+    headingLevel: "3"
+    headingCentered: false
+    isColored: true
+    text: |-
+      ### **T﻿ermin:** Freitag 19. Mai 2023
+
+      **D﻿auer:** 15: 00 - 18:00 Uhr inkl. kurzer Pause
+
+      **Teilnehmer:** min. 2 und max. 5 Mensch-Hund-Teams
+
+      **Kosten:** 80,- Euro (inkl. 19% MwSt.)
+    heading: "NÄCHSTER TERMIN:"
+  - heading: JETZT ANMELDEN
+    headingLevel: "3"
+    width: 1/3
+    facebook: false
+    innerWidth: "1"
+    whatsapp: false
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
+    headingCentered: false
+    isColored: true
+    booking: true
+    type: contact
+    email: false
