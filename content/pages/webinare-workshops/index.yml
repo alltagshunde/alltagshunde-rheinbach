@@ -22,3 +22,4 @@ buildingBlocks:
     image: seminare-workshops.jpg
     heading: Workshops
     button: Mehr erfahren
+    buttonLink: Workshops
