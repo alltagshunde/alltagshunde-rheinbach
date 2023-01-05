@@ -9,10 +9,10 @@ buildingBlocks:
   - type: text
     width: "1"
     headingLevel: "3"
-    headingCentered: true
+    headingCentered: false
     isColored: false
-    heading: Sinn- und maßvolle Auslastung, Interesse und Freude an der gemeinsamen
-      Beschäftigung statt höher, schneller, weiter!
+    heading: " Sinnvolle Beschäftigung und maßvolle Auslastung statt höher,
+      schneller, weiter!"
     text: >-
       Wenn es um die gemeinsame Beschäftigung von Hund und Halter geht, ist mir
       wichtig, dass die Freude an der gemeinsamen Arbeit im überwiegt und dein
