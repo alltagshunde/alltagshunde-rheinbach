@@ -172,15 +172,69 @@ buildingBlocks:
     type: contact
     email: false
   - type: text
-    width: "1"
-    headingLevel: "1"
-    headingCentered: true
+    width: 1/3
+    headingLevel: "3"
+    headingCentered: false
     isColored: false
+    heading: Intensivkurs - Der Weg zum zuverlässigen Rückruf
+    text: >-
+      Der Rückruf ist die Königsdisziplin im Hundetraining. Warum ist das so? 
+
+
+      Solange mein Hund in meiner Nähe nicht stillhalten oder an mir orientiert neben mir gehen kann, sollte ich auch nicht von ihm erwarten, dass er sich von einer Ablenkung in der Ferne abrufen lässt. Die Grundlagen müssen also sitzen.
+
+
+      In diesem Kurs arbeiten wir daher Schritt für Schritt an eurem Weg zum zuverlässigen Rückruf. 
+
+
+      ## In diesem Kurs beschäftigen wir uns mit folgenden Themen:
+
+
+      * Körpersprache von Mensch und Hund
+
+      * Stimmungsübertragung zwischen Mensch und Hund
+
+      * Wir "sprechen" mit den Hunden darüber, wie nah man rankommen kann und dass die Nähe etwas Schönes ist
+
+      * Orientierung am Menschen mit und ohne Leine im Stand und in der Bewegung
+
+      * Motivation des Zurückkommens steigern
+
+      * Aufbau des Rückrufs
+
+      * Rückruf mit und ohne Ablenkung
+
+      * Abbrechen von unerwünschtem Verhalten und dadurch Verbindlichkeit des Rückrufs
+
+      * Grenzen des Rückrufs je nach Hundetyp und jagdlicher Motivation
+
+      * Aufbau eines Rückrufpfiffs
   - type: text
-    width: "1"
-    headingLevel: "1"
-    headingCentered: true
+    width: 1/3
+    headingLevel: "3"
+    headingCentered: false
     isColored: false
+    heading: "NÄCHSTER TERMIN: "
+    text: >-
+      ### **Kursstart: in Planung**
+
+
+      **Termine:** 6 x Praxis (60 Min.)
+
+
+      **Teilnehmer:** min. 2 und max. 4 Mensch-Hund-Teams
+
+
+      **Kosten:** 150,- Euro (inkl. MwSt.)
+
+
+      **O﻿rt:** Trainingsgelände 53340 Meckenheim
+
+
+      **Voraussetzung für die Teilnahme am [](https://www.alltagshunde-training.de/seminare-workshops/)Junghundekurs oder Intensivkurs "an lockerer Leine" / "Orientierung ohne Leine" oder Einzelstunden.**
+
+
+      **Neukunden buchen bitte eine Einzelstunde vorab, um uns kennenzulernen und damit ich mir ein Bild vom aktuellen Erziehungsstand deines Hundes machen kann.**
   - heading: "JETZT ANMELDEN: "
     headingLevel: "3"
     width: 1/3
