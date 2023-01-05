@@ -14,7 +14,7 @@ buildingBlocks:
     headingCentered: true
     isColored: true
     heading: "Ein Welpe zieht ein ... "
-    text: "**... und mit ihm der Wunsch, von Beginn an alles richtig zu machen.**"
+    text: ""
   - type: text
     width: 2/3
     headingLevel: "3"
@@ -22,83 +22,72 @@ buildingBlocks:
     isColored: false
     heading: ""
     text: >-
-      ### So ein kleiner Welpe stellt deine Welt erstmal ordentlich auf den
-      Kopf. Alle sind voller Vorfreude - doch bald tauchen erste Fragezeichen
-      auf:
+      **.﻿.. und stellt die Welt erstmal ordentlich auf den Kopf. <br>Das ist
+      kein Problem für dich?** 
 
 
-      * Was sollte mein Welpe für den Alltag lernen und worauf muss ich achten?
+      Stubenreinheit, Beißhemmung etc. sind für dich keine Herausforderungen (mehr)? \
 
-      * Wann kann ich mit dem Training starten? Was übe ich als erstes?
+      Sitz und Platz wuppt Ihr beide mit links und auch für ausreichend Sozialkontakte ist gesorgt, denn in deinem Haushalt leben noch weitere Hunde, dein  Freundeskreis  besteht aus vielen Hundehaltern und Du kannst Begegnungen mit anderen Hundehaltern unterwegs gut einschätzen?\
 
-      * Wie wird mein Welpe stubenrein?
+      \
 
-      * Wie reagiere ich richtig, wenn mein Welpe ständig seine Welpenzähnchen einsetzt?
+      **Du magst Hunde die sich gut benehmen können?** \
 
-      * Wie viel Ruhe und Schlaf braucht mein Welpe am Tag und wie bekomme ich ihn überhaupt dazu, auch mal auszuruhen?
+      **F﻿rustrationstoleranz und Impulskontrolle sind keine Fremdwörter für dich?**\
+
+      **Du hast richtig Bock auf Erziehung?**  
 
 
-      ### In meinem Welpenkurs erhältst Du Antworten auf alle Deine Fragen für die aktuelle Lebensphase deines kleinen Hundes.
+      ### Dann bist Du hier goldrichtig! Lass uns gemeinsam den Grundstock für eine gute Erziehung deines Welpen legen!
   - type: image
     width: 1/3
     innerWidth: "1"
     isBanner: false
     isColored: true
     image: welpengruppe-charly-hort-zu.jpg
-  - heading: JETZT KONTAKT AUFNEHMEN UND PLATZ SICHERN!
-    headingLevel: "3"
+  - heading: SICHERE DIR JETZT DEINEN EXKLUSIVEN PLATZ IM NÄCHSTEN WELPENKURS!
+    headingLevel: "2"
     width: "1"
-    facebook: false
+    facebook: true
     innerWidth: "1"
     whatsapp: true
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Welpen%20%26%20Junghunde
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     headingCentered: true
     isColored: true
     booking: true
     type: contact
     email: true
   - type: text
-    width: 1/2
+    width: 2/3
     headingLevel: "3"
     headingCentered: false
     isColored: false
     text: >-
-      für Welpen im Alter von 9 bis ca. 14 Wochen (bei Einstieg)
+      **für Welpen im Alter von 9 bis ca. 14 Wochen (bei Einstieg!)**
 
 
-      ### **Der Welpenkurs beinhaltet:**
+      ### In meinem Welpenkurs legen wir in einer kleinen Gruppe von 2-4 Welpen den Grundstock für ein erfülltes und ausgeglichenes Hundeleben
 
 
-      #### **7 praktische Kursstunden in der Kleingruppe zu den folgenden Themenfeldern:**
+      Denn ein gut erzogener Hund, der früh gelernt hat sich selbst nicht zu wichtig zu nehmen, auf seinen Menschen zu achten und sich auch mal zurückzunehmen, genießt in unserer Gesellschaft größere Freiheiten und ist daher überall gern gesehen.
 
 
-      * **Lernverhalten**: Wie bringst Du Deinem Hund Dinge bei?
+      ### An 5 Terminen geht es anhand kleiner Übungen um die wichtigsten Grundlagen für eine gute Erziehung:
 
-      * **Frustrationstoleranz**: Es ist zwar langweilig, aber Dein Hund kommt klar damit.
-
-      * **Leinenführigkeit**: dein Hund lernt dir zu folgen und auf deine Körpersprache zu achten.
-
-      * **Impulskontrolle**: Dein Hund jagt nicht jedem Vogel hinterher und springt niemanden an.
-
-      * **Rückruf**: Dein Hund kommt zu Dir, wenn es nötig ist.
 
       * **Ruhe**: Decke und Körbchen = Pause und Entspannung
 
-      * **Signale "Aus!" und "Nein!"**: Wie reagieren bei unerwünschtem Verhalten?
+      * **Orientierung**: dein Hund lernt dir zu folgen und auf deine Körpersprache zu achten.
 
-      * **Tierarzttraining**: Bürsten, Augentropfen geben oder Zecken wegmachen – Alles kein Drama!
+      * **Aufbau eines zuverlässigen Rückruf**: Dein Hund kommt zu Dir, wenn es nötig ist.
+
+      * **Impulskontrolle**: Dein Hund jagt nicht jedem Vogel hinterher und springt niemanden an.
+
+      * **Frustrationstoleranz**: Es ist zwar langweilig, aber Dein Hund kommt klar damit.
 
       * **Kooperation**: Dein Hund lernt bei dir „nachzufragen“ um seine Ziele zu erreichen, statt einfach mit dem Kopf durch die Wand zu wollen.
-
-
-      In Theorie und Praxis erarbeiten wir erste praktische Übungen zu den oben genannten Themen, die du mit deinem Welpen natürlich direkt vor Ort umsetzen und zuhause weiter festigen kannst, damit aus deinem Hund ein toller Alltagsbegleiter wird.
-
-
-      **Die Themen rotieren im wöchentlichen Rhythmus, daher ist der Einstieg in den Welpenkurs - freie Plätze vorausgesetzt - jederzeit möglich.** <br>**Nach Abschluss des siebenstündigen Programms wechselst Du mit deinem Hund in die Junghundegruppe.**
-
-
-      ### **Kosten: 175,00 Euro inkl. 19% MwSt.**
-    heading: Welpenkurs
+    heading: "Welpenkurs "
   - type: text
     width: 1/2
     headingLevel: "3"
