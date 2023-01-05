@@ -145,7 +145,7 @@ buildingBlocks:
     innerWidth: "1"
     isBanner: false
     isColored: false
-    image: edda-und-charly.jpg
+    image: welpengruppe-erklarung.jpg
   - type: text
     width: 1/2
     headingLevel: "3"
