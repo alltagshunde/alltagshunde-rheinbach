@@ -44,7 +44,7 @@ buildingBlocks:
     width: 1/3
     innerWidth: "1"
     isBanner: false
-    isColored: true
+    isColored: false
     image: welpengruppe-charly-hort-zu.jpg
   - heading: SICHERE DIR JETZT DEINEN EXKLUSIVEN PLATZ IM NÄCHSTEN WELPENKURS!
     headingLevel: "2"
@@ -89,7 +89,7 @@ buildingBlocks:
       * **Kooperation**: Dein Hund lernt bei dir „nachzufragen“ um seine Ziele zu erreichen, statt einfach mit dem Kopf durch die Wand zu wollen.
     heading: "Welpenkurs "
   - type: text
-    width: 1/2
+    width: 1/3
     headingLevel: "3"
     headingCentered: false
     isColored: false
@@ -98,7 +98,9 @@ buildingBlocks:
       ### **Kursstart: Samstag 3. März 2023**
 
 
-      **Termine:** 5x Praxis jeweils samstags 10:30 Uhr (60 Min.) <br>am 4.3. / 11.3. / 18.3. / 25.3. / 1.4.2023
+      **Termine:** 5x Praxis jeweils samstags 10:30 Uhr (60 Min.)\
+
+      am 4.3. / 11.3. / 18.3. / 25.3. / 1.4.2023
 
 
       **Teilnehmer:** min. 2 und max. 4 Mensch-Hund-Teams
@@ -107,26 +109,20 @@ buildingBlocks:
       **Kosten:** 150,- Euro (inkl. 19% MwSt.)
 
 
-      **O﻿rt:** 53340 Meckenheim und Umgebung
+      **Ort:** 53340 Meckenheim und Umgebung
 
 
-      **Voraussetzung für die Teilnahme:** 
+      **Voraussetzung für die Teilnahme:** geeignetfür Welpen im Alter von 9 bis ca. 14 Wochen **(bei Einstieg)**
 
 
-      ### **Kursinformationen**
-
-
-      **Kursleitung:** Carolin Henseler <br>**Voraussetzungen:** für Welpen im Alter von 9 bis ca. 14 Wochen (bei Einstieg) <br>**Trainingszeiten:** aktuell samstags  11:30 Uhr **Trainingsort:** Trainingsgelände 53340 Meckenheim* <br>**Kosten:** Schnupperstunde 25,00 Euro; Kurs 175,00 Euro, jeweils inkl. 19% MwSt. 
-
-
-      **\*bei extremen Witterungsbedingungen wie großer Hitze, extremer Kälte oder Unwettergefahr kann der Unterricht auch online stattfinden.. /**
+      **\*bei extremen Witterungsbedingungen wie extremer Hitze oder Kälte bzw. Unwettergefahr kann der Unterricht auch online stattfinden.**
   - heading: JETZT KONTAKT AUFNEHMEN UND PLATZ SICHERN!
-    headingLevel: "3"
+    headingLevel: "2"
     width: "1"
     facebook: false
     innerWidth: "1"
     whatsapp: true
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Welpen%20%26%20Junghunde
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     headingCentered: true
     isColored: true
     booking: true
@@ -159,10 +155,13 @@ buildingBlocks:
       **Training in angenehmer Atmosphäre:**
 
 
-      Damit ich dich und deinen Hund optimal unterstützen und auf jeden Teilnehmer individuell eingehen kann, trainieren wir in kleinen Gruppen von 4 -5 Welpen.
+      Damit ich dich und deinen Hund optimal unterstützen und auf jeden Teilnehmer individuell eingehen kann, trainieren wir in kleiner Gruppe von 2-4 Welpen. 
 
 
-      **Der Freilauf der Hunde steht dabei nicht im Vordergrund**. Vielmehr möchte ich dich von Beginn an in der Erziehung deines jungen Hundes unterstützen, damit er zu einem zuverlässigen Begleiter in deinem Alltag heranwächst. Wenn die Hunde von Alter, Größe und Temperament zueinander passen, werden auch Freilaufsequenzen eingebaut.
+      **Der Freilauf der Hunde steht dabei nicht im Vordergrund**. 
+
+
+      Vielmehr möchte ich dich von Beginn an in der Erziehung deines jungen Hundes unterstützen, damit er zu einem zuverlässigen Begleiter in deinem Alltag heranwächst. Wenn die Hunde von Alter, Größe und Temperament zueinander passen, können Freilaufsequenzen eingebaut werden. 
 
 
       **Mitzubringen sind:**
@@ -182,10 +181,10 @@ buildingBlocks:
     headingCentered: false
     isColored: true
     text: >-
-      Solltest Du weitere Unterstützung benötigen, hast Du als Teilnehmer der
-      Welpen- und Junghundekurse die Möglichkeit jederzeit weitere
-      Einzelcoachings zu vergünstigten Konditionen bei mir vor Ort oder bei dir
-      Zuhause bzw. einem Ort deiner Wahl zu buchen:
+      Solltest Du weitere Unterstützung benötigen, hast Du als Teilnehmer des
+      Welpenkurs die Möglichkeit jederzeit weitere Einzelcoachings zu
+      vergünstigten Konditionen bei mir vor Ort oder bei dir Zuhause bzw. einem
+      Ort deiner Wahl zu buchen:
 
 
       * **zusätzliches Einzelcoaching vor Ort (60 Min.): 70,- Euro (inkl. 19% MwSt.)**
@@ -196,5 +195,5 @@ buildingBlocks:
       Für deine Fragen zwischendurch biete ich darüber hinaus montags abends und mittwochs vormittags Termine für kurze Beratungssessions per Telefon oder via Zoom-Meeting an:
 
 
-      * **Beratung via Telefon / Zoom-Meeting: 25,- Euro je 30 Min. (inkl. 19% MwSt.)**
+      * **Beratung via Telefon / Zoom-Meeting: 18,- Euro je 20 Min. (inkl. 19% MwSt.)**
     heading: "Zusätzliche Beratung und Unterstützung:"
