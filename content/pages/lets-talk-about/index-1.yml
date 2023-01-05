@@ -32,7 +32,7 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     isColored: true
-    heading: "NEUER TERMIN:"
+    heading: "NÄCHSTER TERMIN:"
     text: >-
       ### **Kursstart: Donnerstag 23. Februar 2023 / Freitag 3. März 2023**
 
@@ -67,24 +67,6 @@ buildingBlocks:
     headingLevel: "3"
     headingCentered: false
     isColored: false
-    heading: Intensiv Kurs - Dein Körper spricht Hund!
-    text: >-
-      In diesem Kurs liegt der Schwerpunkt auf der Kommunikation zwischen dir
-      und deinem Hund.
-
-
-      Was haben die Körpersprache von Hunden und Menschen gemeinsam und was unterscheidet sie? Warum ist das überhaupt wichtig?
-
-
-      Wie reagiert mein Hund auf meine Körpersprache und welche Signale sende ich ihm eigentlich? Drücke ich mich dabei immer verständlich aus oder verhalte ich mich (in den Augen meines Hundes) vielleicht manchmal widersprüchlich? Und wie kann ich die Kommunikation zwischen mir und meinem Hund verbessern oder einfach mal ein spannendes Gespräch mit ihm führen?  
-
-
-      In diesem Kurs wirst Du neben einer Menge Spaß auch viele Aha-Erlebnisse sammeln. Zudem wird sich  die Kommunikation zwischen dir und deinem Hund nachhaltig verbessern.
-  - type: text
-    width: 1/3
-    headingLevel: "3"
-    headingCentered: false
-    isColored: false
     heading: Intensiv Kurs - Orientierung ohne Leine
     text: >-
       Wie schön wäre es, wenn dein Hund auch ohne Leine mit dir mitlaufen würde
@@ -98,3 +80,56 @@ buildingBlocks:
 
 
       Das Ergebnis ist ein Mensch-Hund-Team, das aufeinander achtet und auch ohne Leine durch viele Alltagssituationen kommt. Der Hund erlangt mehr Freiheit im Alltag, wenn er sich an seinem Menschen orientiert wird er öfter von der Leine gelassen. Des Weiteren ist die Orientierung ohne Leine eine wichtige Vorarbeit für den zuverlässigen Rückruf.
+  - type: text
+    width: 1/3
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    heading: "NÄCHSTER TERMIN: "
+    text: >-
+      ### **Kursstart:** 
+
+
+      **Termine:** 5x Praxis jeweils freitags um 18:30 Uhr ( ) (60 Min.)   
+
+
+      **Teilnehmer:** min. 2 und max. 4 Mensch-Hund-Teams
+
+
+      **Kosten:** 150,- Euro (inkl. 19% MwSt.)
+
+
+      **O﻿rt:** wechselnde Orte im Raum Meckenheim, Wachtberg und Rheinbach
+
+
+      **Voraussetzung für die Teilnahme am Kurs „Orientierung ohne Leine“ ist die Teilnahme am Leinenführigkeitskurs oder Einzeltraining.**
+  - type: text
+    width: 1/3
+    headingLevel: "3"
+    headingCentered: false
+    isColored: false
+    heading: Intensiv Kurs - Dein Körper spricht Hund!
+    text: >-
+      In diesem Kurs liegt der Schwerpunkt auf der Kommunikation zwischen dir
+      und deinem Hund.
+
+
+      Was haben die Körpersprache von Hunden und Menschen gemeinsam und was unterscheidet sie? Warum ist das überhaupt wichtig?
+
+
+      Wie reagiert mein Hund auf meine Körpersprache und welche Signale sende ich ihm eigentlich? Drücke ich mich dabei immer verständlich aus oder verhalte ich mich (in den Augen meines Hundes) vielleicht manchmal widersprüchlich? Und wie kann ich die Kommunikation zwischen mir und meinem Hund verbessern oder einfach mal ein spannendes Gespräch mit ihm führen?  
+
+
+      In diesem Kurs wirst Du neben einer Menge Spaß auch viele Aha-Erlebnisse sammeln. Zudem wird sich  die Kommunikation zwischen dir und deinem Hund nachhaltig verbessern.
+  - heading: "JETZT ANMELDEN:"
+    headingLevel: "3"
+    width: 1/3
+    facebook: false
+    innerWidth: "1"
+    whatsapp: false
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
+    headingCentered: false
+    isColored: false
+    booking: false
+    type: contact
+    email: false
