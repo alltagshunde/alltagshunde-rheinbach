@@ -136,6 +136,15 @@ buildingBlocks:
       ### Kosten: 175,- Euro (inkl. 19 % MwSt.)
 
 
+      <!--StartFragment-->
+
+
+      https://app.squarespacescheduling.com/schedule.php?owner=22811034
+
+
+      <!--EndFragment-->
+
+
       \*bei extremen Witterungsbedingungen wie großer Hitze, extremer Kälte oder Unwettergefahr kann der Unterricht auch online stattfinden.
   - type: text
     width: 1/3
@@ -179,7 +188,7 @@ buildingBlocks:
     facebook: false
     innerWidth: "1"
     whatsapp: true
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034&appointmentType=category:Welpen%20%26%20Junghunde
+    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     headingCentered: true
     isColored: false
     booking: true
@@ -246,13 +255,36 @@ buildingBlocks:
       ### Kursinformationen:
 
 
-      * **Trainingszeit:** dienstags um 17:30 Uhr (14-tägig); samstags um 9:30 Uhr
+      * **Trainingszeit:** samstags um 9:30 Uhr (30 - 45 Min. je nach Teilnehmerzahl)
 
       * **Trainingsort:** Hundeplatz in 53340 Meckenheim
 
       * **Voraussetzung**: <br> Exklusiv für aktive Kund*innen der Junghundekurse und nur nach vorheriger Anmeldung (max. 8 Teams) buchbar - **Du solltest WhatsApp benutzen!**
 
       * **Kosten:** <br>Teilnahme einzeln: 15,- Euro <br>5er-Karte: 70,- Euro <br> 10er-Karte: 135,- Euro
+  - type: text
+    width: 1/3
+    headingLevel: "3"
+    headingCentered: false
+    isColored: true
+    heading: "WEBINAR: Mein Welpe wird erwachsen - Willkommen Pubertät!"
+    text: >-
+      In diesem Webinar geht es um den Übergang vom Welpenalter in die Pubertät.
+      Wir sprechen kurz über Auslöser und die physischen Prozesse in der
+      Pubertät. Im Anschluss erkläre ich ausführlich welche Veränderungen im
+      Verhalten deines Hundes nun zu beobachten sind und wie du darauf reagieren
+      und auf was du jetzt besonderen Wert legen solltest. 
+
+
+      D﻿ie Pubertät ist die wichtigste Phase im Leben deines Hundes. In der Pubertät geht es um Selbstfindung und die Ausprägung des eigenen Charakters. Die Art wie man mit anderen, also Menschen und Hunden umgeht und was man für richtig und falsch im Kontakt hält, wird insbesondere in der Pubertät gelernt! 
+
+
+      Termin: Donnerstag, 19. Januar 2023, 18:00 – 20:00 Uhr  Teilnehmer: min. 4 und max. 10 Mensch-Hund-Teams 
+
+      Kosten: 25,00 Euro 
+
+      Ort: Das Webinar findet über die Plattform Zoom statt. Du musst nichts installieren und keine Webcam einschalten. Der Zugang wird ca. 1 Woche vorab per Mail verschickt
+    headingSize: "3"
   - type: text
     width: 1/3
     headingLevel: "3"
@@ -291,29 +323,6 @@ buildingBlocks:
 
 
       **Termin:** Sonntag 9. Februar 2023, 18:00 - 20:00 Uhr <br> **Teilnehmer:** min. 5 und max. 10 Mensch-Hund-Teams <br>**Kosten:** 25,00 Euro <br>**Ort:** Das Webinar findet über die Plattform Zoom statt. Du musst nichts installieren und keine Webcam einschalten. Der Zugang wird ca. 1 Woche vorab per Mail verschickt.
-    headingSize: "3"
-  - type: text
-    width: 1/3
-    headingLevel: "3"
-    headingCentered: false
-    isColored: true
-    heading: "WEBINAR: Mein Welpe wird erwachsen - Willkommen Pubertät!"
-    text: >-
-      In diesem Webinar geht es um den Übergang vom Welpenalter in die Pubertät.
-      Wir sprechen kurz über Auslöser und die physischen Prozesse in der
-      Pubertät. Im Anschluss erkläre ich ausführlich welche Veränderungen im
-      Verhalten deines Hundes nun zu beobachten sind und wie du darauf reagieren
-      und auf was du jetzt besonderen Wert legen solltest. 
-
-
-      D﻿ie Pubertät ist die wichtigste Phase im Leben deines Hundes. In der Pubertät geht es um Selbstfindung und die Ausprägung des eigenen Charakters. Die Art wie man mit anderen, also Menschen und Hunden umgeht und was man für richtig und falsch im Kontakt hält, wird insbesondere in der Pubertät gelernt! 
-
-
-      Termin: Donnerstag, 19. Januar 2023, 18:00 – 20:00 Uhr  Teilnehmer: min. 4 und max. 10 Mensch-Hund-Teams 
-
-      Kosten: 25,00 Euro 
-
-      Ort: Das Webinar findet über die Plattform Zoom statt. Du musst nichts installieren und keine Webcam einschalten. Der Zugang wird ca. 1 Woche vorab per Mail verschickt
     headingSize: "3"
   - heading: SICHERE DIR JETZT DEINIEN PLATZ!
     headingLevel: "2"
