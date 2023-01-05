@@ -119,7 +119,7 @@ buildingBlocks:
     width: 1/3
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     heading: Intensiv Kurs - Dein Körper spricht Hund!
     text: >-
       In diesem Kurs liegt der Schwerpunkt auf der Kommunikation zwischen dir
@@ -137,7 +137,7 @@ buildingBlocks:
     width: "1"
     headingLevel: "3"
     headingCentered: false
-    isColored: false
+    isColored: true
     heading: "NÄCHSTER TERMIN: "
     text: >-
       ### **Kursstart: in Planung**
@@ -167,7 +167,7 @@ buildingBlocks:
     whatsapp: false
     bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     headingCentered: false
-    isColored: false
+    isColored: true
     booking: true
     type: contact
     email: false
