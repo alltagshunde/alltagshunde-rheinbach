@@ -68,13 +68,29 @@ buildingBlocks:
     heading: Einzelcoaching & Verhaltensberatung
     button: Mehr erfahren
     buttonLink: "Einzeltraining "
-    isColored: true
+    isColored: false
   - type: card
     width: 1/3
     innerWidth: null
     image: welpen-socke-u.-wallie.jpg
     heading: Welpen & Junghundekurse
     buttonLink: Welpen & Junghunde 2022
+    button: Mehr erfahren
+  - type: card
+    width: 1/3
+    innerWidth: "1"
+    isColored: false
+    image: dog-g74609b3b5_1920.jpg
+    heading: Online-Training
+    buttonLink: Online
+    button: Mehr erfahren
+  - type: card
+    width: 1/3
+    innerWidth: "1"
+    isColored: false
+    image: lf.jpg
+    heading: Intensiv Kurse
+    buttonLink: Intensiv Kurse
     button: Mehr erfahren
   - type: card
     width: 1/3
@@ -89,12 +105,4 @@ buildingBlocks:
     image: apportieren.jpg
     heading: Sinnvolle Beschäftigung
     buttonLink: Beschäftigung
-    button: Mehr erfahren
-  - type: card
-    width: 1/3
-    innerWidth: "1"
-    isColored: false
-    image: dog-g74609b3b5_1920.jpg
-    heading: Online-Training
-    buttonLink: Online
     button: Mehr erfahren
