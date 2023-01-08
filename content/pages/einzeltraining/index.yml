@@ -1,6 +1,6 @@
 title: "Einzeltraining "
 isLandingPage: false
-parentPage: Erziehung
+parentPage: ""
 buildingBlocks:
   - type: text
     width: "1"

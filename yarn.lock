@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@alltagshunde/gatsby-theme-alltagshunde@alltagshunde/gatsby-theme-alltagshunde#v1.0.19":
-  version "1.0.17"
-  resolved "https://codeload.github.com/alltagshunde/gatsby-theme-alltagshunde/tar.gz/9dcb0c74dcaf3fec433ddab091b2ba0f2e393449"
+"@alltagshunde/gatsby-theme-alltagshunde@alltagshunde/gatsby-theme-alltagshunde#v1.1.1":
+  version "1.1.1"
+  resolved "https://codeload.github.com/alltagshunde/gatsby-theme-alltagshunde/tar.gz/ea8a8ed116d57bc64860d84759c08b3ab58e0136"
   dependencies:
     "@emotion/core" "^10.0.28"
     "@fortawesome/fontawesome-svg-core" "^1.2.28"
