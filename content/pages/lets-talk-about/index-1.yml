@@ -62,7 +62,7 @@ buildingBlocks:
     width: 2/3
     headingLevel: "3"
     headingCentered: false
-    isColored: true
+    isColored: false
     heading: Intensivkurs - "An lockerer Leine"
     text: >-
       An lockerer Leine durchs Leben zu gehen ist der Traum vieler Hundehalter.
@@ -102,7 +102,7 @@ buildingBlocks:
     button: JETZT ANMELDEN
     buttonSize: "4"
     headingCentered: false
-    isColored: true
+    isColored: false
     type: text
   - heading: Intensiv Kurs - Orientierung ohne Leine
     headingLevel: "3"
@@ -124,7 +124,7 @@ buildingBlocks:
     button: ""
     buttonSize: null
     headingCentered: false
-    isColored: false
+    isColored: true
     type: text
   - heading: "NÄCHSTER TERMIN: "
     headingLevel: "3"
@@ -151,7 +151,7 @@ buildingBlocks:
     button: JETZT ANMELDEN
     buttonSize: "4"
     headingCentered: false
-    isColored: false
+    isColored: true
     type: text
   - type: text
     width: 2/3
