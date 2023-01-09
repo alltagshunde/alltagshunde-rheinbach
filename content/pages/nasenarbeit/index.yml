@@ -27,7 +27,7 @@ buildingBlocks:
     heading: Faszination Hundenase
     headingSize: "3"
   - type: text
-    width: 1/3
+    width: 2/3
     headingLevel: "3"
     headingCentered: false
     isColored: false
@@ -43,12 +43,10 @@ buildingBlocks:
 
 
       **D﻿ieser Kurs richtet sich daher an Menschen die Lust haben, auch zwischen den einzelnen Terminen   im Alltag mit ihrem Hund zu üben.**
-  - type: text
-    width: 1/3
+  - heading: "NÄCHSTER TERMIN "
     headingLevel: "3"
-    headingCentered: false
-    isColored: false
-    heading: "NÄCHSTER TERMIN "
+    width: 1/3
+    buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     text: >-
       ### S﻿tart: Dienstag 17. Januar 2023
 
@@ -63,20 +61,13 @@ buildingBlocks:
 
 
       **O﻿rt:** Trainingsgelände 53340 Meckenheim
-  - heading: JETZT ANMELDEN
-    headingLevel: "3"
-    width: 1/3
-    facebook: false
-    innerWidth: "1"
-    whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
+    button: JETZT ANMELDEN
+    buttonSize: "4"
     headingCentered: false
     isColored: false
-    booking: true
-    type: contact
-    email: false
+    type: text
   - type: text
-    width: 1/3
+    width: 2/3
     headingLevel: "3"
     headingCentered: false
     isColored: true
@@ -98,11 +89,11 @@ buildingBlocks:
       * Die ersten Suchaufgaben für dich und deinen Hund gestalten
 
       * Einbauen von Ruhe-, Impulskontroll- und Gehorsamsübungen
-  - type: text
-    width: 1/3
+  - heading: NÄCHSTER TERMIN
     headingLevel: "3"
-    headingCentered: false
-    isColored: true
+    buttonTop: true
+    width: 1/3
+    buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     text: >-
       ### S﻿tart: Samstag 4. März 2023
 
@@ -117,21 +108,13 @@ buildingBlocks:
 
 
       **O﻿rt:** 53340 Meckenheim und nähere Umgebung
-    heading: NÄCHSTER TERMIN
-  - heading: JETZT ANMELDEN
-    headingLevel: "3"
-    width: 1/3
-    facebook: false
-    innerWidth: "1"
-    whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
+    button: JETZT ANMELDEN
+    buttonSize: "4"
     headingCentered: false
     isColored: true
-    booking: true
-    type: contact
-    email: false
+    type: text
   - type: text
-    width: 1/3
+    width: 2/3
     headingLevel: "3"
     headingCentered: false
     isColored: false
@@ -149,11 +132,11 @@ buildingBlocks:
 
 
       **Es wird an der Schleppleine gearbeitet, so kann auch in spannenden Gebieten trainiert werden ohne die Gefahr, dass der Hund die Aufgabe abbricht, um jagen zu gehen.**
-  - type: text
-    width: 1/3
+  - heading: NÄCHSTER TERMIN
     headingLevel: "3"
-    headingCentered: false
-    isColored: false
+    buttonTop: true
+    width: 1/3
+    buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     text: >-
       ### S﻿tart: Samstag 29. April 2023
 
@@ -168,19 +151,11 @@ buildingBlocks:
 
 
       **O﻿rt:** 53340 Meckenheim und nähere Umgebung
-    heading: NÄCHSTER TERMIN
-  - heading: JETZT ANMELDEN
-    headingLevel: "3"
-    width: 1/3
-    facebook: false
-    innerWidth: "1"
-    whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
+    button: JETZT ANMELDEN
+    buttonSize: "4"
     headingCentered: false
     isColored: false
-    booking: true
-    type: contact
-    email: false
+    type: text
   - type: text
     width: 1/3
     headingLevel: "3"
@@ -196,12 +171,11 @@ buildingBlocks:
 
       Du bekommst einen ersten Eindruck verschiedener Varianten der Nasenarbeit und kannst direkt praktisch ausprobieren in welche Richtung es euch verschlägt und dich mir Gleichgesinnten austauschen.
     heading: "Noch unschlüssig? "
-  - type: text
-    width: 1/3
+  - heading: NÄCHSTER TERMIN
     headingLevel: "3"
-    headingCentered: false
-    isColored: true
-    heading: NÄCHSTER TERMIN
+    buttonTop: true
+    width: 1/3
+    buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     text: |-
       ### Schnüffeltour
 
@@ -214,18 +188,11 @@ buildingBlocks:
       **Kosten:** 30,00 Euro pro Mensch-Hund-Team, Begleitperson gratis
 
       **Teilnehmer:** mindestens 4, maximal 8 Mensch-Hund-Teams
-  - heading: JETZT ANMELDEN
-    headingLevel: "3"
-    width: 1/3
-    facebook: false
-    innerWidth: "1"
-    whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
+    button: JETZT ANMELDEN
+    buttonSize: "4"
     headingCentered: false
     isColored: true
-    booking: true
-    type: contact
-    email: false
+    type: text
   - type: image
     width: 1/3
     innerWidth: "1"
