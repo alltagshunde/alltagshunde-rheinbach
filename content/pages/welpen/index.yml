@@ -81,12 +81,11 @@ buildingBlocks:
 
       * **Kooperation**: Dein Hund lernt bei dir „nachzufragen“ um seine Ziele zu erreichen, statt einfach mit dem Kopf durch die Wand zu wollen.
     heading: "Welpenkurs "
-  - type: text
-    width: 1/3
+  - heading: "NEUER KURS AB MÄRZ 2023: "
     headingLevel: "3"
-    headingCentered: false
-    isColored: false
-    heading: "NÄCHSTER TERMIN: "
+    buttonTop: false
+    width: 1/3
+    buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     text: >-
       ### **Kursstart: Samstag 3. März 2023**
 
@@ -107,6 +106,11 @@ buildingBlocks:
 
 
       **\*bei extremen Witterungsbedingungen wie extremer Hitze oder Kälte bzw. Unwettergefahr kann der Unterricht auch indoor in unserem Vereinshaus oder online stattfinden.**
+    button: JETZT PLATZ SICHERN!
+    buttonSize: "4"
+    headingCentered: false
+    isColored: false
+    type: text
   - heading: JETZT KONTAKT AUFNEHMEN UND PLATZ SICHERN!
     headingLevel: "2"
     width: "1"
