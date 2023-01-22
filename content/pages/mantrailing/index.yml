@@ -53,8 +53,10 @@ buildingBlocks:
   - headingColorPrimary: false
     heading: "Termine & Kosten: "
     headingLevel: "2"
+    buttonTop: true
     headingSize: "3"
-    width: 2/3
+    width: "1"
+    buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     text: >-
       #### Derzeit biete ich folgende offenen Trainingsgruppen an - <br> die
       Termine können auch variabel gebucht werden:
@@ -67,7 +69,7 @@ buildingBlocks:
       * **samstags** 15:00 Uhr (14-tägig) 
 
 
-      **Einzeln:** 30,00 Euro pro Termin (inkl. 19 % MwSt.) <br>**5er-Karte:** 140,- Euro (inkl. 19 % MwSt.)
+      **Einzeln:** 30,00 Euro pro Hund u. Termin (inkl. 19 % MwSt.) <br>**5er-Karte:** 140,- Euro (inkl. 19 % MwSt.)
 
 
       Das Training findet an unterschiedlichen Orten in und um Meckenheim, Wachtberg und Rheinbach statt.  Der genaue Einsatzort wird 2 Tage vor dem Training per WhatsApp bekannt gegeben. 
@@ -80,22 +82,11 @@ buildingBlocks:
 
 
       **Da wir uns während des Trainings im öffentlichen Raum bewegen, sollte dein Hund über einen gewissen Grundgehorsam verfügen.**
+    button: JETZT ANMELDEN
+    buttonSize: "4"
     headingCentered: false
     isColored: false
     type: text
-  - heading: "JETZT ANMELDEN:"
-    headingLevel: "2"
-    headingSize: "3"
-    width: 1/3
-    facebook: false
-    innerWidth: "1"
-    whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
-    headingCentered: false
-    isColored: true
-    booking: true
-    type: contact
-    email: false
   - headingColorPrimary: false
     heading: "Deine Vorteile:"
     headingLevel: "4"
