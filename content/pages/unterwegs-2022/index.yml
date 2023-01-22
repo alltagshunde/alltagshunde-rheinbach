@@ -53,11 +53,11 @@ buildingBlocks:
     headingCentered: true
     isColored: true
     type: text
-  - type: text
-    width: 3/4
+  - heading: Social Walk
     headingLevel: "3"
-    headingCentered: false
-    isColored: false
+    buttonTop: true
+    width: "1"
+    buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     text: >-
       ### Sonntag 29. Januar 2023, 15:00 Uhr (Dauer ca. 2 Stunden)
 
@@ -78,12 +78,16 @@ buildingBlocks:
 
 
       ### **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
-    heading: Social Walk
-  - type: text
-    width: 3/4
-    headingLevel: "3"
+    button: JETZT ANMELDEN
+    buttonSize: "4"
     headingCentered: false
-    isColored: true
+    isColored: false
+    type: text
+  - heading: Schnüffeltour
+    headingLevel: "3"
+    buttonTop: true
+    width: "1"
+    buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     text: >-
       ### Sonntag 12. Februar 2023, 15:00 Uhr (Dauer ca. 2 Stunden)
 
@@ -104,13 +108,16 @@ buildingBlocks:
 
 
       ### **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
-    heading: Schnüffeltour
-  - type: text
-    width: "1"
-    headingLevel: "3"
+    button: JETZT ANMELDEN
+    buttonSize: "4"
     headingCentered: false
-    isColored: false
-    heading: Social Walk
+    isColored: true
+    type: text
+  - heading: Social Walk
+    headingLevel: "3"
+    buttonTop: true
+    width: "1"
+    buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     text: >-
       ### Sonntag 26. März 2023, 15:00 Uhr (Dauer ca. 2 Stunden)
 
@@ -131,12 +138,16 @@ buildingBlocks:
 
 
       ### **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
-  - type: text
-    width: "1"
-    headingLevel: "3"
+    button: JETZT ANMELDEN
+    buttonSize: "4"
     headingCentered: false
-    isColored: true
-    heading: Kräuterwanderung
+    isColored: false
+    type: text
+  - heading: Kräuterwanderung
+    headingLevel: "3"
+    buttonTop: true
+    width: "1"
+    buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     text: >-
       ### Sonntag 30. April 2023, 15:00 Uhr (Dauer ca. 2 Stunden)
 
@@ -157,3 +168,7 @@ buildingBlocks:
 
 
       ### **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
+    button: JETZT ANMELDEN
+    headingCentered: false
+    isColored: true
+    type: text
