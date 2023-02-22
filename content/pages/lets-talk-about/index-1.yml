@@ -29,12 +29,14 @@ buildingBlocks:
     headingCentered: false
     isColored: true
     type: text
-  - heading: "KURSSTART:  28. Januar 2023"
+  - heading: --- AUSGEBUCHT ---
     headingLevel: "3"
     buttonTop: false
     width: 1/3
     buttonLink2: ""
     text: |-
+      **KURSSTART:  28. Januar 2023**
+
       **5x Praxis, jeweils samstags 10:30 Uhr (60 Min.)**
 
       **Termine:** 28.1. / 4.2. / 11.2. / 18.2. / 25.2. 2023
@@ -71,14 +73,16 @@ buildingBlocks:
     headingCentered: false
     isColored: false
     type: text
-  - heading: "KURSSTART:  23. Februar 2023 "
+  - heading: --- AUSGEBUCHT ---
     headingLevel: "3"
     buttonTop: false
     width: 1/3
     buttonLink2: ""
     text: >-
-      **1x Theorie (Zoom) Donnerstag 23. März 2023 18.00 Uhr (90 Min) <br> 5x
-      Praxis jeweils freitags 18:30 Uhr** 
+      **KURSSTART:  23. Februar 2023** 
+
+
+      **1x Theorie (Zoom) Donnerstag 23. März 2023 18.00 Uhr (90 Min) <br> 5x Praxis jeweils freitags 18:30 Uhr** 
 
 
       **Termine Praxis:** 3.3. / 10.3. / 17.3. / 24.3. / 31.3. 2023 (60 Min.)
