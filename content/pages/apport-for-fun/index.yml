@@ -36,9 +36,9 @@ buildingBlocks:
     button: ""
     buttonSize: "4"
     headingCentered: false
-    isColored: false
+    isColored: true
     type: text
-  - heading: "APPORTIEREN I - BEGINNER "
+  - heading: "APPORTIEREN II - BEGINNER "
     headingLevel: "2"
     buttonTop: false
     headingSize: "3"
@@ -81,6 +81,55 @@ buildingBlocks:
       Dein Hund sollte in diesem Kurs bereits sicher Apportieren und gut warten können (Steadyness).
     button: ""
     buttonSize: null
+    headingCentered: false
+    isColored: false
+    type: text
+  - heading: APPORTIEREN III - FORTGESCHRITTEN
+    headingLevel: "2"
+    buttonTop: false
+    headingSize: "3"
+    width: "1"
+    text: >-
+      Im **F﻿ortgeschritten Kurs** erhöhen wir zunehmend den Schwierigkeitsgrad
+      (Gelände, Alter etc.) und die Distanzen der *Markierungen* und *Memories*
+      und steigern dadurch kontinuierlich die *Konzentrationsfähigkeit* der
+      Hunde, sowie deren *Steadyness* (je nach Typ). 
+
+
+      D﻿ie Signale für das *Einweisen* (Sitzpfiff, Rechts - Links - Back) sind aus dem Beginnerkurs bekannt und erleichtern die Kommunikation mit unseren Hunden während der Arbeit. Auch hier steigern wir stetig den Schwierigkeitsgrad und die Ablenkung. \
+
+      \
+
+      Im letzten Teil der Reihe lernen die Hunde auch die *Freiverlorensuche* kennen. Diese nimmt nun ebenfalls einen größeren Stellenwert ein und wird die Nase deines Hundes herausfordern. 
+
+
+      #### Start: Freitag 28. April 2023
+
+
+      **10 x 60-75 Min.; jeweils freitags um 17:00 Uhr**
+
+
+      **Termine:** 28.4. / 5.5. / 12.5. /  19.5. / 26.5. / 16.6. / 23.6. / 30.6. / 7.7. / 14.7.2023
+
+
+      **Kosten:** 220,- Euro pro Hund-Mensch-Team
+
+
+      **Teilnehmer:** min. 3 und max. 5 Mensch-Hund-Teams
+
+
+      **Ort:** Trainingsgelände Meckenheim und Umgebung
+
+
+      **Vorausgesetzt wird ein gewisser Grundgehorsam des Hundes:**
+
+
+      Dein Hund sollte auch in Anwesenheit von Artgenossen ansprechbar sein und nicht permanent bellen, wenn die anderen Hunde arbeiten.
+
+
+      Dein Hund sollte in diesem Kurs bereits sicher Apportieren und gut warten können (Steadyness). Außerdem sollten euch die Grundsignale des Einweisens (s.o.), sowie die Anfänge des Sitzpfiffes bekannt sein.
+    button: Jetzt buchen
+    buttonSize: "3"
     headingCentered: false
     isColored: true
     type: text
@@ -128,3 +177,11 @@ buildingBlocks:
     isBanner: false
     image: apportieren.jpg
     isColored: false
+  - type: text
+    width: "1"
+    headingLevel: "1"
+    headingCentered: true
+    isColored: false
+    button: Jetzt buchen
+    buttonSize: "3"
+    buttonTop: false
