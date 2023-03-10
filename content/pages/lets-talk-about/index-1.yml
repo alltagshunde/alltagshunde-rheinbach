@@ -155,7 +155,7 @@ buildingBlocks:
     type: text
   - heading: Intensivkurs - Der Weg zum zuverlässigen Rückruf
     headingLevel: "3"
-    width: 1/3
+    width: 2/3
     buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     text: >-
       Der Rückruf ist die Königsdisziplin im Hundetraining. Warum ist das so?
@@ -213,3 +213,43 @@ buildingBlocks:
 
 
       **Neukunden buchen bitte eine (vergünstigte) Einzelstunde vorab, damit wir uns kennenlernen und ich mir ein Bild vom aktuellen Erziehungsstand deines Hundes machen kann.**
+  - heading: Intensivkurs - Distanzkontrolle
+    headingLevel: "2"
+    buttonTop: true
+    headingSize: "3"
+    width: 2/3
+    buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
+    text: >-
+      Eine zuverlässige Distanzkontrolle sorgt für schöne entspannte
+      Spaziergänge. 
+
+
+      Soweit der Plan, doch gibt es schlaue Hunde, die genau wissen, wann sie außerhalb unseres Einflussbereichs sind. Im Nahbereich hören sie perfekt, doch ab einer gewissen Distanz reißt das Band ab, das uns verbindet.
+
+
+      In diesem Kurs zeige ich dir wie es gelingt, den Einfluss auf den Hund auch bei großer Distanz nicht zu verlieren.  
+
+
+      **I﻿nhalte & Themen werden sein:** 
+
+
+      * R﻿adius sinnvoll trainieren
+
+      * W﻿egtreue einhalten
+
+      * S﻿itz & Platz auf Distanz (ggf. auf Pfiff) 
+
+      * R﻿ückruf absichern
+
+      * e﻿in zuverlässiges Nein! und Aus! bei zunehmender Ablenkung und Distanz
+
+      * K﻿örpersprache sinnvoll einsetzen
+
+      * Wann belohne ich wie, wann bestrafe ich wie sinnvoll, um Verhalten abzusichern
+
+      * Welche Zwischenschritte sind nötig, damit mein Hund mich versteht
+    button: Jetzt buchen
+    buttonSize: "3"
+    headingCentered: false
+    isColored: false
+    type: text
