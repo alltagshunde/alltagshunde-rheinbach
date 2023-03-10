@@ -22,6 +22,30 @@ buildingBlocks:
       Im meinen Kursen widmen wir uns mit viel Spaß und Motivation den unterschiedlichen Möglichkeiten des Dummytrainings als spannende Beschäftigung und Auslastung für den Familienhund! Das Schöne am Apportieren, dass nebenher auch immer der Grundgehorsam gefestigt wird.
     heading: "Dummytraining für den Familienhund "
     headingSize: "3"
+  - headingLevel: "2"
+    buttonTop: false
+    headingSize: "3"
+    width: 3/4
+    text: >-
+      #### Leider sind die geplanten Kurse bereits alle ausgebucht! 
+
+
+      #### S﻿chreib mir gerne eine Nachricht und lass dich unverbindlich auf die Warteliste setzen! Ich informiere dich gerne, sobald neue Termine feststehen.
+    button: Jetzt buchen
+    buttonSize: "3"
+    headingCentered: true
+    isColored: false
+    type: text
+  - headingLevel: "2"
+    width: 1/4
+    facebook: false
+    innerWidth: "1"
+    whatsapp: true
+    headingCentered: true
+    isColored: false
+    booking: false
+    type: contact
+    email: true
   - heading: APPORTIEREN I - EINSTEIGER
     headingLevel: "2"
     buttonTop: false
@@ -177,11 +201,3 @@ buildingBlocks:
     isBanner: false
     image: apportieren.jpg
     isColored: false
-  - type: text
-    width: "1"
-    headingLevel: "1"
-    headingCentered: true
-    isColored: false
-    button: Jetzt buchen
-    buttonSize: "3"
-    buttonTop: false
