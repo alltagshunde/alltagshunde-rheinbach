@@ -158,10 +158,10 @@ buildingBlocks:
     isColored: true
     type: text
   - type: image
-    width: 1/3
-    innerWidth: 3/4
+    width: 1/4
+    innerWidth: "1"
     isBanner: true
-    image: chihuahua-apport.jpg
+    image: dsc01733.jpg
     text: >-
       Im **Kurs für Dranbleiber** werden wir die neu erworbenen Fähigkeiten der
       Hunde weiter ausbauen. Wir steigern die Merkfähigkeit der Hunde durch
@@ -191,13 +191,19 @@ buildingBlocks:
 
       Dein Hund sollte auch in Anwesenheit von Artgenossen ansprechbar sein und nicht permanent bellen, wenn die anderen Hunde arbeiten.
   - type: image
-    width: 1/3
-    innerWidth: 3/4
+    width: 1/4
+    innerWidth: "1"
     isBanner: false
-    image: 2016-06-10-34027.jpg
+    image: 2023_01_29_99999_205-bearbeitet.jpg
   - type: image
-    width: 1/3
-    innerWidth: 3/4
+    width: 1/4
+    innerWidth: "1"
     isBanner: false
-    image: apportieren.jpg
+    image: 2023_01_29_99999_114.jpg
     isColored: false
+  - type: image
+    width: 1/4
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: 2023_01_29_99999_86.jpg
