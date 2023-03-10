@@ -28,86 +28,59 @@ buildingBlocks:
     headingSize: "3"
   - type: text
     width: 2/3
-    headingLevel: "3"
+    headingLevel: "2"
     headingCentered: false
     isColored: false
-    heading: KURS - ARTIKELSUCHE
-    text: >-
-      In diesem Kurs zeige ich dir, wie Du deinem Hund beibringst, kleinste
-      Artikel (z. B. eine Büroklammer) mit deinem Geruch auf verschiedenen
-      Untergründen und Ebenen durch seinen Geruchssinn zu finden und über ein
-      festgelegtes Anzeigeverhalten (z. B. Platz und "Einfrieren") anzuzeigen. 
-
-
-      Diese Form der Nasenarbeit lastet deinen Hund nicht nur über seinen Geruchssinn aus. Durch das Training des Anzeigeverhaltens, welches stets weiter gefestigt wird, muss dein Hund auch Köpfchen beweisen und sich sehr konzentrieren. Auch Du bist aktiv gefordert, denn das Training einer sicheren Anzeige verlangt auch von dir einiges an Geschick und ein gutes Timing. 
-
-
-      **D﻿ieser Kurs richtet sich daher an Menschen die Lust haben, auch zwischen den einzelnen Terminen   im Alltag mit ihrem Hund zu üben.**
-  - heading: --- AUSGEBUCHT ---
-    headingLevel: "3"
-    width: 1/3
-    buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
-    text: |-
-      **Start: 17. Januar 2023**
-
-      **14-tägig 6x dienstags, 18:30 Uhr (60 Min.)** 
-
-      **T﻿ermine:** 17.01. / 31.01. / 14.02. / 28.02. / 14.02. und 28.03.
-
-      **Teilnehmer:** min. 3, max. 5 Teilnehmer
-
-      **K﻿osten:** 140,- Euro (inkl. 19 % MwSt.)
-
-      **O﻿rt:** Trainingsgelände 53340 Meckenheim
-    button: JETZT ANMELDEN
-    buttonSize: "4"
-    headingCentered: false
-    isColored: false
-    type: text
-  - type: text
-    width: 2/3
-    headingLevel: "3"
-    headingCentered: false
-    isColored: true
-    heading: SCHNUPPERKURS - NASENARBEIT
+    heading: SCENT DETECTION - IN 6 WOCHEN ZUM SCHNÜFFELPROFI
     text: >-
       ##### **Schnüffeln macht glücklich**
 
 
-      Schnüffeln, suchen und eine kleine Spur verfolgen können alle Hunde. Wir fördern und formen dieses Talent deines Hundes in unserem Kurs. Du und dein Hund gehen gemeinsam auf “Jagd”. Lass dich überraschen, wozu dein Hund bereits in der Lage ist und lerne seine Nasenwelt besser zu verstehen und einzuschätzen. Es wird euch beide zusammenschweißen!
+      Dein Hund hat von Natur aus eine super Nase – nutze dieses Talent deines Hundes, um ihn mit viel Spaß und Abwechslung zu beschäftigen!
 
 
-      Das lernst du und dein Hund:
+      Ob in der Wohnung oder draußen auf euren Spaziergängen Scent Detection geht immer und überall und lässt sich kinderleicht umsetzen. Bereits kleine Trainingseinheiten von max. 10 Min. pro Tag bringen gute Erfolge! 
 
 
-      * Wie funktioniert die Hundenase
+      Nach dem Kurs ist dein Hund in der Lage auch kleinste Partikel eines Geruchsstoffes (z. B. Tee, Gewürze, etc.) zu finden und anzuzeigen und ist artgerecht beschäftigt und intensiv ausgelastet!
 
-      * Was haben Windrichtung und Wetter für eine Rolle?
 
-      * Die ersten Suchaufgaben für dich und deinen Hund gestalten
+      **Kursinhalte & Themen:**  
 
-      * Einbauen von Ruhe-, Impulskontroll- und Gehorsamsübungen
-  - heading: --- AUSGEBUCHT ---
+
+      * So lernt dein Hund, seine Nase richtig einzusetzen
+
+      * Erschnüffeln verschiedener Gerüche
+
+      * Gerüche auch an versteckten Stellen zu finden
+
+      * Anzeige gefundener Geruchsträger 
+
+      * verschiedene ​Steigerung der Schwierigkeitsstufe
+
+      * Teamwork & Kooperation mit Deinem Hund
+    headingSize: "3"
+  - heading: NEUER KURS !!!
     headingLevel: "3"
     buttonTop: false
     width: 1/3
     buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     text: |-
-      **Start: 4. März 2023**
+      #### Start: 29. April 2023
 
-      **14-tägig 3x samstags, 13:30 Uhr (75 Min.)** 
+      **6x samstags (14-tägig) um 13:30 Uhr (60 Min.)**  
 
-      **T﻿ermine:** 4.3. / 18.03. / 1.4.2023
+      **T﻿ermine:** 29.4. / 13.5. / 27.5. / 24.6. / 8.7. / 22.7. 2023
 
       **Teilnehmer:** min. 3, max. 4 Teilnehmer
 
-      **K﻿osten:** 90,- Euro (inkl. 19 % MwSt.) pro Mensch-Hund-Team
+      **K﻿osten:** 150,- Euro (inkl. 19 % MwSt.) pro Mensch-Hund-Team
 
-      **O﻿rt:** 53340 Meckenheim und nähere Umgebung
+      **O﻿rt:** 53340 Meckenheim
     button: JETZT ANMELDEN
     buttonSize: "4"
     headingCentered: false
-    isColored: true
+    isColored: false
     type: text
   - type: text
     width: 2/3
@@ -147,41 +120,6 @@ buildingBlocks:
     buttonSize: "4"
     headingCentered: false
     isColored: false
-    type: text
-  - type: text
-    width: 2/3
-    headingLevel: "3"
-    headingCentered: false
-    isColored: true
-    text: >-
-      Du weißt noch nicht genau, welche Art der Nasenarbeit für deinen Hund
-      geeignet wäre und dir Spaß machen würde? 
-
-
-      Vielleicht ist dann die **[Schnüffeltour ](https://www.alltagshunde-training.de/unterwegs-2022/)**ein guter Einstieg für euch beide. Auf diesem Spaziergang zeige ich dir, wie du deinen Hund unterwegs mit verschiedenen Schnüffelspielen auf unterschiedlichen Ebenen beschäftigen und auslasten kannst aber dabei trotzdem seine Aufmerksamkeit behältst.
-
-
-      Du bekommst einen ersten Eindruck verschiedener Varianten der Nasenarbeit und kannst direkt praktisch ausprobieren in welche Richtung es euch verschlägt und dich mir Gleichgesinnten austauschen.
-    heading: "Noch unschlüssig? "
-  - heading: Schnüffeltour - 12. Februar 2023
-    headingLevel: "3"
-    buttonTop: false
-    width: 1/3
-    buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
-    text: |-
-      **T﻿ermin: Sonntag 12. Februar 2023, 15:00 Uhr**
-
-      **Start:** Wanderparkplatz, Dorfstraße 56, 53343 Wachtberg-Villiprott
-
-      **D﻿auer:** ca. 2 - 2,5 Stunden
-
-      **Kosten:** 30,00 Euro pro Mensch-Hund-Team, Begleitperson gratis
-
-      **Teilnehmer:** mindestens 4, maximal 8 Mensch-Hund-Teams
-    button: JETZT ANMELDEN
-    buttonSize: "4"
-    headingCentered: false
-    isColored: true
     type: text
   - type: image
     width: 1/3
