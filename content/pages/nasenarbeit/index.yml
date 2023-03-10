@@ -60,14 +60,12 @@ buildingBlocks:
 
       * Teamwork & Kooperation mit Deinem Hund
     headingSize: "3"
-  - heading: NEUER KURS !!!
+  - heading: "Start: 29. April 2023"
     headingLevel: "3"
     buttonTop: false
     width: 1/3
     buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     text: |-
-      #### Start: 29. April 2023
-
       **6x samstags (14-tägig) um 13:30 Uhr (60 Min.)**  
 
       **T﻿ermine:** 29.4. / 13.5. / 27.5. / 24.6. / 8.7. / 22.7. 2023
@@ -82,12 +80,10 @@ buildingBlocks:
     headingCentered: false
     isColored: false
     type: text
-  - type: text
+  - heading: SCHNUPPERKURS - FÄHRTEN FÜR JEDERHUND
+    headingLevel: "2"
+    headingSize: "3"
     width: 2/3
-    headingLevel: "3"
-    headingCentered: false
-    isColored: false
-    heading: KURS - FÄHRTEN FÜR JEDERHUND
     text: >-
       Für nahezu jeden Hund ist das Fährten eine tolle und vor allem auslastende
       Beschäftigung. Der Hund lernt eine Fährte kontrolliert und ruhig
@@ -97,29 +93,30 @@ buildingBlocks:
       Seinen Hund "lesen" lernen und ihn selbstständig arbeiten zu lassen, macht Spaß und schweißt zusammen. Gerade für Hunde, die im Alltag viel eingeschränkt werden müssen, ist es eine großartige Erfahrung, wenn sein Mensch mal loslässt und ihm zutraut die Aufgabe zu meistern.
 
 
-      Die Fährtenarbeit kann mit wenig Aufwand in den Alltagsspaziergang mit dem Hund eingebaut werden. Variationen und Schwierigkeiten können in vielfältiger Weise eingebaut werden: Von der ersten Fährte bis hin zur anspruchsvollen Übernachtfährt bieten sich unendliche Variationsmöglichkeiten. In diesem Kurs geht es darum, wie man verschiedene Fährten mit einfachen Mittel auslegen kann.
-
-
-      **Es wird an der Schleppleine gearbeitet, so kann auch in spannenden Gebieten trainiert werden ohne die Gefahr, dass der Hund die Aufgabe abbricht, um jagen zu gehen.**
-  - heading: "Start: 29. April 2023"
+      **I﻿n diesem Kurs zeige ich euch, wie Ihr Fährten mit einfachen Mitteln ganz unkompliziert und mit wenig Aufwand in euren Spaziergang integrieren könnt.**
+    button: ""
+    headingCentered: false
+    isColored: true
+    type: text
+  - heading: "Start: 4. September 2023"
     headingLevel: "3"
     buttonTop: false
     width: 1/3
     buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
     text: |-
-      **14-tägig 5x samstags, 13:30 Uhr (75 Min.)** 
+      **6 x dienstags um 18:45 Uhr (60 Min.)**  
 
-      **T﻿ermine:** 29.04. / 13.05. / 27.05. / 10.06. / 24.06.
+      **T﻿ermine:** 4.9. / 12.9 / 19.9. / 26.9. 2023
 
       **Teilnehmer:** min. 3, max. 4 Teilnehmer
 
-      **K﻿osten:** 140,- Euro (inkl. 19 % MwSt.)
+      **K﻿osten:** 100,- Euro (inkl. 19 % MwSt.) pro Mensch-Hund-Team
 
-      **O﻿rt:** 53340 Meckenheim und nähere Umgebung
+      **O﻿rt:** 53340 Meckenheim
     button: JETZT ANMELDEN
     buttonSize: "4"
     headingCentered: false
-    isColored: false
+    isColored: true
     type: text
   - type: image
     width: 1/3
