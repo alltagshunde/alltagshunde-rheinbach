@@ -28,7 +28,7 @@ buildingBlocks:
     button: JETZT ANMELDEN
     buttonSize: "4"
     headingCentered: false
-    isColored: false
+    isColored: true
     type: text
   - heading: --- AUSGEBUCHT ---
     headingLevel: "3"
@@ -61,7 +61,7 @@ buildingBlocks:
     button: ""
     buttonSize: null
     headingCentered: false
-    isColored: false
+    isColored: true
     type: text
   - heading: Intensiv Kurs - Orientierung ohne Leine
     headingLevel: "3"
@@ -83,7 +83,7 @@ buildingBlocks:
     button: JETZT ANMELDEN
     buttonSize: "4"
     headingCentered: false
-    isColored: true
+    isColored: false
     type: text
   - heading: "KURSSTART: 21. April 2023"
     headingLevel: "3"
@@ -110,7 +110,7 @@ buildingBlocks:
     button: ""
     buttonSize: null
     headingCentered: false
-    isColored: true
+    isColored: false
     type: text
   - heading: Intensiv Kurs - Dein Körper spricht Hund!
     headingLevel: "3"
