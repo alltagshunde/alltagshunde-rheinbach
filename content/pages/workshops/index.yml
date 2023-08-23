@@ -9,7 +9,7 @@ buildingBlocks:
     isColored: false
     heading: Termine 2023
   - type: text
-    width: 1/3
+    width: 1/2
     headingLevel: "3"
     headingCentered: false
     isColored: true
@@ -24,7 +24,7 @@ buildingBlocks:
 
       In diesem Kurs wirst Du neben einer Menge Spaß auch viele Aha-Erlebnisse sammeln.
   - type: text
-    width: 1/3
+    width: 1/4
     headingLevel: "3"
     headingCentered: false
     isColored: true
@@ -39,7 +39,7 @@ buildingBlocks:
     heading: "NÄCHSTER TERMIN:"
   - heading: JETZT ANMELDEN
     headingLevel: "3"
-    width: 1/3
+    width: 1/4
     facebook: false
     innerWidth: "1"
     whatsapp: false
