@@ -49,3 +49,9 @@ buildingBlocks:
     booking: true
     type: contact
     email: false
+  - type: image
+    width: "1"
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: fergie-andreas.jpg
