@@ -26,7 +26,10 @@ buildingBlocks:
       sein. 
 
 
-      Regelmäßig veranstalte ich daher für euch und eure Hunde spannende Ausflüge ins Grüne. Gemeinsam erkunden wir dabei die herrliche Natur rund um Rheinbach, die Voreifel und das Vorgebirge, beobachten die Vierbeiner untereinander und fachsimpeln über Hundeverhalten. Gerne gebe ich bei dieser Gelegenheit Antworten auf deine Fragen und unterstütze dich bei evtl. Unsicherheiten.
+      Regelmäßig veranstalte ich daher für euch und eure Hunde spannende Ausflüge und Social Walks mit unterschiedlichen Themenschwerpunkten: Vom klassischen Social Walk über Kräuterwanderungen oder spannende Aufgaben für Schnüffelnasen bis hin zur Krimitour für Hobby-Detektive. Für jeden ist etwas dabei!
+
+
+      Gemeinsam erkunden wir dabei die herrliche Natur rund um Rheinbach, die Voreifel und das Vorgebirge, beobachten die Vierbeiner untereinander und fachsimpeln über Hundeverhalten. Gerne gebe ich bei dieser Gelegenheit Antworten auf deine Fragen und unterstütze dich bei evtl. Unsicherheiten.
     headingSize: "3"
   - type: image
     width: 1/3
@@ -53,72 +56,13 @@ buildingBlocks:
     headingCentered: true
     isColored: true
     type: text
-  - heading: Social Walk
+  - heading: Social Walk für Schnüffelnasen
     headingLevel: "3"
     buttonTop: true
     width: "1"
-    buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
+    buttonLink2: https://app.acuityscheduling.com/schedule.php?owner=22811034&appointmentType=23928895
     text: >-
-      ### Sonntag 26. März 2023, 15:00 Uhr (Dauer ca. 2 Stunden)
-
-
-      ### **Start: Parkplatz “Waldgaststätte Bahnhof Kottenforst” in 53840 Meckenheim**
-
-
-      Bei diesem Spaziergang liegt der Schwerpunkt auf dem kontrollierten Kontakt zu Hund und Mensch. Es sind daher auch ausdrücklich Hunde willkommen, die Schwierigkeiten im Kontakt mit Artgenossen haben. Das Ziel dieses Spaziergangs in kleiner Runde ist es, kontrollierte Begegnungen zwischen den einzelnen Hunden zuzulassen und sie dabei zu unterstützen, angemessen mit ihren Artgenossen zu kommunizieren. Dabei sollen vor allem auch die Besitzer die Möglichkeit haben, ihren Hund immer wieder einzuschätzen, die Kommunikation der Hunde zu erleben und ihre Vierbeiner vielleicht auch neu kennenzulernen.
-
-
-      **Teilnahmevoraussetzung:** 
-
-
-      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Hunde mit sozialen Unverträglichkeiten sind ebenfalls und ausdrücklich willkommen, müssen jedoch mit einem gut sitzenden Maulkorb gesichert werden. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
-
-
-      ### **Kosten: 30,00 Euro pro Mensch-Hund-Team, Begleitperson gratis**
-
-
-      ### **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
-    button: JETZT ANMELDEN
-    buttonSize: "4"
-    headingCentered: false
-    isColored: false
-    type: text
-  - heading: Kräuterwanderung
-    headingLevel: "3"
-    buttonTop: true
-    width: "1"
-    buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
-    text: >-
-      ### Sonntag 30. April 2023, 15:00 Uhr (Dauer ca. 2 Stunden)
-
-
-      ### **Start: Parkplatz Restaurant "Zur Siegfähre" in 53344 Troisdorf-Bergheim**
-
-
-      Auf diesem besonderen Spaziergang widmen wir uns der heimischen Natur und ihren Geschenken. Keine Angst - Du musst kein Freizeitdiplom in der Botanik vorweisen. Beim Suchen, Bestimmen und Verwenden der Pflanzen konzentrieren wir uns auf die Exemplare, die eigentlich jeder von uns regelmäßig sieht und kennt. Am Ende erhältst Du auch noch ein hübsches Handout mit entsprechenden Verwendungstipps und Rezepten für Leckerchen & Co.
-
-
-      **Teilnahmevoraussetzung:** 
-
-
-      ### Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
-
-
-      ### **Kosten: 30,00 Euro pro Mensch-Hund-Team, Begleitperson gratis**
-
-
-      ### **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
-    button: JETZT ANMELDEN
-    headingCentered: false
-    isColored: true
-    type: text
-  - heading: Schnüffeltour
-    headingLevel: "3"
-    buttonTop: true
-    width: "1"
-    buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
-    text: >-
-      ### Sonntag 18. Juni 2023, 15:00 Uhr (Dauer ca. 2 Stunden)
+      ### Sonntag 1. Oktober 2023, 15:00 Uhr (Dauer ca. 1,5-2 Stunden)
 
 
       ### **Start: Wanderparkplatz, Dorfstraße 56, 53343 Wachtberg-Villiprott**
@@ -141,4 +85,43 @@ buildingBlocks:
     buttonSize: "4"
     headingCentered: false
     isColored: false
+    type: text
+  - heading: "Social Walk im "
+    headingLevel: "3"
+    buttonTop: true
+    width: "1"
+    buttonLink2: https://app.acuityscheduling.com/schedule.php?owner=22811034&appointmentType=23928930
+    text: >-
+      ### Sonntag 29. Oktober 2023, 15:00 Uhr (Dauer ca. 2 Stunden)
+
+
+      ### **Start: Wanderparkplatz Panorama-Sauna, 53501 Grafschaft-Holzweiler**
+
+
+      Gemeinsam erkunden wir den herbstlichen Wald, beobachten die Vierbeiner und fachsimpeln über Hundeverhalten. Zum Spaß streuen wir natürlich auch die ein oder andere kleine Übungen ein.
+
+
+      B﻿ei den Social Walks liegt der Schwerpunkt auch immer auf dem kontrollierten Kontakt zu Hund und Mensch. Es sind daher auch ausdrücklich Hunde willkommen, die Schwierigkeiten im Kontakt mit Artgenossen haben. Das Ziel dieses Spaziergangs in kleiner Runde ist es, kontrollierte Begegnungen zwischen den einzelnen Hunden zuzulassen und sie dabei zu unterstützen, angemessen mit ihren Artgenossen zu kommunizieren. Dabei sollen vor allem auch die Besitzer die Möglichkeit haben, ihren Hund immer wieder einzuschätzen, die Kommunikation der Hunde zu erleben und ihre Vierbeiner vielleicht auch neu kennenzulernen. 
+
+
+      **W﻿ichtig:** 
+
+
+      Der Spaziergang findet grundsätzlich an der Leine statt. Je nach Zusammenstellung der Gruppe werden einzelne Hunde situativ frei laufen können. Ziel sollte ein entspannter Spaziergang für alle Teilnehmer sein. 
+
+
+      **Teilnahmevoraussetzung:**
+
+
+      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Hunde mit sozialen Unverträglichkeiten sind ebenfalls und ausdrücklich willkommen, müssen jedoch mit einem gut sitzenden Maulkorb gesichert werden. Wenn du hier Zweifel hast, sprich mich bitte an! Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
+
+
+      ### **Kosten: 30,00 Euro pro Mensch-Hund-Team, Begleitperson gratis**
+
+
+      ### **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
+    button: Jetzt buchen
+    buttonSize: "3"
+    headingCentered: false
+    isColored: true
     type: text
