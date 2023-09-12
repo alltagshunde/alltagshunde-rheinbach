@@ -31,11 +31,11 @@ buildingBlocks:
     text: |-
       ### **T﻿ermin:** Samstag 30. September 2023
 
-      **D﻿auer:** 11: 00 - 16:00 Uhr inkl. Pause
+      **D﻿auer:** 11: 00 - 15:00 Uhr inkl. Pause
 
       **Teilnehmer:** min. 2 und max. 5 Mensch-Hund-Teams
 
-      **Kosten:** 90,- Euro (inkl. 19% MwSt.)
+      **Kosten:** 89,- Euro (inkl. 19% MwSt.)
     heading: "NÄCHSTER TERMIN:"
   - heading: JETZT ANMELDEN
     headingLevel: "3"
@@ -43,7 +43,7 @@ buildingBlocks:
     facebook: false
     innerWidth: "1"
     whatsapp: false
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
+    bookingUrl: https://app.acuityscheduling.com/schedule.php?owner=22811034&appointmentType=29672984
     headingCentered: false
     isColored: true
     booking: true
