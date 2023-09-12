@@ -9,7 +9,7 @@ buildingBlocks:
     isColored: false
     heading: Termine 2023
   - type: text
-    width: 1/2
+    width: 3/4
     headingLevel: "3"
     headingCentered: false
     isColored: true
