@@ -106,7 +106,7 @@ buildingBlocks:
 
 
       **\*bei extremen Witterungsbedingungen wie extremer Hitze oder Kälte bzw. Unwettergefahr kann der Unterricht auch indoor in unserem Vereinshaus oder online stattfinden.**
-    button: JETZT PLATZ SICHERN!
+    button: ""
     buttonSize: "4"
     headingCentered: false
     isColored: false
@@ -134,13 +134,13 @@ buildingBlocks:
     innerWidth: "1"
     isBanner: false
     isColored: false
-    image: edda-ruckruf.jpg
+    image: welpengruppe-erklarung.jpg
   - type: image
     width: 1/3
     innerWidth: "1"
     isBanner: false
     isColored: false
-    image: welpengruppe-erklarung.jpg
+    image: edda-ruckruf.jpg
   - type: text
     width: 1/2
     headingLevel: "3"
