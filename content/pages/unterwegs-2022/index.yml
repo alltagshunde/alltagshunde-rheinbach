@@ -86,11 +86,11 @@ buildingBlocks:
     headingCentered: false
     isColored: false
     type: text
-  - heading: "Social Walk im "
+  - heading: Social Walk im Herbst
     headingLevel: "3"
     buttonTop: true
     width: "1"
-    buttonLink2: https://app.acuityscheduling.com/schedule.php?owner=22811034&appointmentType=23928930
+    buttonLink2: https://app.acuityscheduling.com/schedule.php?owner=22811034
     text: >-
       ### Sonntag 29. Oktober 2023, 15:00 Uhr (Dauer ca. 2 Stunden)
 
@@ -120,8 +120,8 @@ buildingBlocks:
 
 
       ### **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
-    button: Jetzt buchen
-    buttonSize: "3"
+    button: JETZT ANMELDEN
+    buttonSize: "4"
     headingCentered: false
     isColored: true
     type: text
