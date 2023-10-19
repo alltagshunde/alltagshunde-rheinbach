@@ -8,46 +8,39 @@ buildingBlocks:
     headingCentered: true
     isColored: false
     heading: Termine 2023
-  - type: text
-    width: 2/3
+  - heading: "Erste-Hilfe Workshop "
     headingLevel: "3"
-    headingCentered: false
-    isColored: true
-    heading: "PRAXIS- WORKSHOP: WIE SAG ICH'S MEINEM HUND?!"
+    buttonTop: false
+    width: "1"
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18606&ia=show
     text: >-
-      In diesem Workshop In diesem Workshop beschäftigen wir uns intensiv mit
-      unserer eigenen Körpersprache und deren Wirkung auf (unsere) Hunde. 
+      I﻿n entspannter Atmosphäre werde ich euch gemeinsam mit Tierärztin Dr.
+      Stefanie Leuck von der Tierarztpraxis Winand in Bonn-Röttgen wichtige
+      Verhaltensregeln für den Notfall näherbringen. 
 
 
-      Was haben die Körpersprache von Hunden und Menschen gemeinsam und was unterscheidet sie? Warum ist das überhaupt wichtig? Wie reagiert mein Hund auf meine Körpersprache und welche Signale sende ich ihm (unbewusst)?
+      T﻿hemen werden u.a. sein: 
 
 
-      Drücke ich mich dabei immer verständlich aus oder verhalte ich mich (in den Augen meines Hundes) widersprüchlich? Was hindert mich ggf. daran, authentisch zu agieren und wie kann ich die Kommunikation zwischen mir und meinem Hund verbessern oder einfach mal ein spannendes Gespräch mit ihm führen?
+      * E﻿rkennen von Notfällen und entsprechende Verhaltensmaßnahmen für den Notfall
+
+      * E﻿rste-Hilfe Maßnahmen vor Ort: \
+        <br>Verbände anlegen, Vitalfunktionen prüfen, Sicherheitsmaßnahmen treffen
+      * V﻿orbereitet sein: \
+        <br>W﻿as gehört in die Hausapotheke? 
+      * Z﻿eit für eure Fragen
+
+      * T﻿eilnahmebestätigung und gratis Verbandskit inkl. Thermometer u. Zeckenzange  
 
 
-      In diesem Workshop wirst Du neben einer Menge Spaß auch viele Aha-Erlebnisse sammeln.
-  - heading: "NÄCHSTER TERMIN:"
-    headingLevel: "3"
-    width: 1/3
-    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=17598&ia=show
-    text: |-
-      ### Samstag 30. September 2023
 
-      **D﻿auer:** 11: 00 - 15:00 Uhr inkl. Pause
 
-      **Teilnehmer:** min. 2 / max. 4 Teams
+      **A﻿chtung:** 
 
-      **O﻿rt:** Trainingsgelände 53340 Meckenheim
 
-      **Kosten:** 89,- Euro (inkl. 19% MwSt.)
-    button: JETZT ANMELDEN
+      **D﻿amit eine möglichst ruhige Atmosphäre herrscht, findet der Workshop ohne euren Hund statt! <br>W﻿ir werden einige ruhige Hunde vor Ort haben, an denen wir praktische Dinge zeigen und üben können.**
+    button: Jetzt buchen
     buttonSize: "3"
     headingCentered: false
     isColored: true
     type: text
-  - type: image
-    width: "1"
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: fergie-andreas.jpg
