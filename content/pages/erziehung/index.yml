@@ -46,3 +46,23 @@ buildingBlocks:
     isBanner: false
     isColored: false
     image: fergie.jpg
+  - heading: Mein Angebot für Welpen & Junghunde
+    headingLevel: "2"
+    buttonTop: false
+    headingSize: "2"
+    width: "1"
+    text: A﻿us verschiedenen Gründen habe ich mich entschieden, keine klassischen
+      Welpen- und Junghundegruppen mehr anzubieten. Meine Erfahrungen der
+      letzten Jahre haben gezeigt, dass die Bedürfnisse der Hundehalter oft sehr
+      weit auseinanderklaffen. Daher biete ich mich entschieden, die Inhalte
+      stattdessen im Einzeltraining zu erarbeiten. Ergänzend dazu besteht die
+      Möglichkeit mit dem Welpen bzw. Junghund die Sozialkontaktstunden zu
+      besuchen und / oder mich während des Spaziergang mit meinen Hundegruppen
+      zu begleiten. Eine tolle Möglichkeit dem Junghund unter Anleitung die
+      sozialen Gepflogenheiten innerhalb einer gut geführten und gemischten
+      Hundegruppe näherzubringen.
+    button: Jetzt buchen
+    buttonSize: "3"
+    headingCentered: false
+    isColored: true
+    type: text
