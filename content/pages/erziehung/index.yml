@@ -7,47 +7,42 @@ buildingBlocks:
     headingColorPrimary: false
     heading: Welpen & Junghunde
     isColored: false
-  - type: text
-    width: "1"
+  - heading: Das erste Jahr im Leben deines Hundes
     headingLevel: "3"
+    buttonTop: false
+    headingSize: "3"
+    width: "1"
+    text: Lass uns gemeinsam das Fundament für ein glückliches und erfülltes
+      Hundeleben schaffen!
+    button: Jetzt buchen
+    buttonSize: "3"
     headingCentered: true
-    heading: Das erste Jahr im Leben deines Hundes
-    text: L﻿ass uns gemeinsam den Grundstein legen für eine gute Erziehung und ein
-      erfülltes Hundeleben. <br>Damit aus deinem jungen Hund ein angenehmer und
-      gern gesehener Begleiter wird.
     isColored: true
-  - type: text
-    width: "1"
-    headingLevel: "3"
+    type: text
+  - headingLevel: "1"
+    buttonTop: false
+    width: 2/3
+    text: >-
+      Das erste Lebensjahr deines Hundes ist unsagbar wichtig für seine weitere
+      Entwicklung: \
+
+      \
+
+      A﻿ls Welpe ist dein Hund zwar kein gänzlich unbeschriebenes Blatt mehr, dennoch saugt er Umweltreize und Erlebnisse in dieser Zeit auf wie ein Schwamm. Als kleiner tapsiger Welpe mag dich seine Niedlichkeit noch verzaubern, doch Regeln und Grenzen im Zusammenleben sind bereits in diesem zarten Alter wichtig und fallen auf fruchtbaren Boden. Alles was dein Hund jetzt schon lernt, macht euch beiden das Leben während der Pubertät um einiges leichter. 
+
+
+      S﻿o schnell die süße Welpenzeit auch vorüber ist, so nahtlos schließen sich die Höhen und Tiefen pubertärer Auswüchse an und lassen Hundehaltern die Schweißperlen auf die Stirn treten. Doch keine Bange -  gerne begleite ich dich auch durch diese intensive Zeit und zeige dir, wie Du Deinen Hund trotz pubertärer Flausen souverän durchs Leben führst und weiterhin geduldig mit ihm bleibst. Wie Du trotz hitziger Debatten einen kühlen Kopf bewahren und Dich durchsetzen kannst. Dein Hund lernt sich zurückzunehmen und auch wenn es mal aufregend wird, nicht immer in der ersten Reihe tanzen zu müssen.
+
+
+      Ausgestattet mit diesen Fähigkeiten wird er sich bald wieder diszipliniert an die gelernten Verhaltensregeln halten können. Beste Voraussetzungen für ein entspanntes Hundeleben an deiner Seite!
+    button: Jetzt buchen
+    buttonSize: "3"
     headingCentered: false
     isColored: false
-    text: >-
-      Als Welpe ist dein kleiner Hund unglaublich neugierig und von allem in
-      seiner Umwelt schnell abgelenkt. Schnell ist der Hund dann müde und
-      überreizt, was ihn allerdings zum Aufdrehen bringt ... Wie sagt man so
-      schön: Nach müde kommt blöd! 
-
-
-      Geht es in Richtung Junghundealter sieht das nicht anders aus: Zwar können sich die Hunde in diesem Alter grundsätzlich bereits etwas länger konzentrieren, jedoch stehen Ihnen jetzt oftmals pubertäre Flausen im Weg und ein einzelner Artgenosse reicht oft schon aus und der Hund ist komplett abgelenkt. 
-
-
-      Aus diesem Grund trainieren wir stets in kleinen Gruppen von 2-5 Mensch-Hund-Teams. So ist gewährleistet, dass die Ablenkung nicht zu groß ist, die Hunde jedoch über den Zeitraum des Kurses lernen, auch in Anwesenheit von Artgenossen mit ihren Menschen zusammenzuarbeiten. 
-
-
-      Im Folgenden stelle ich dir meine Angebote für die spannende Welpen- und Junghundezeit vor. <br>Für mehr Infos klicke bitte auf die entsprechende Kachel.
-  - type: card
-    width: 1/2
+    type: text
+  - type: image
+    width: 1/3
     innerWidth: "1"
-    isColored: true
-    heading: Angebote für Welpen
-    buttonLink: Welpen 2022
-    button: Mehr erfahren
-    image: welpe-charly-traumt.jpg
-  - type: card
-    width: 1/2
-    innerWidth: "1"
-    isColored: true
-    heading: Angebote für Junghunde
-    buttonLink: Junghunde 2022
-    button: Mehr erfahren
-    image: fergie-andreas.jpg
+    isBanner: false
+    isColored: false
+    image: fergie.jpg
