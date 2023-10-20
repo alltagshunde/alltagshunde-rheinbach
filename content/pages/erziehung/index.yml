@@ -14,28 +14,32 @@ buildingBlocks:
     width: "1"
     text: Lass uns gemeinsam das Fundament für ein glückliches und erfülltes
       Hundeleben schaffen!
-    button: Jetzt buchen
+    button: ""
     buttonSize: "3"
     headingCentered: true
     isColored: true
     type: text
-  - headingLevel: "1"
+  - heading: "Das erste Lebensjahr deines Hundes ist unsagbar wichtig für seine
+      weitere Entwicklung:"
+    headingLevel: "4"
     buttonTop: false
+    headingSize: "4"
     width: 2/3
     text: >-
-      Das erste Lebensjahr deines Hundes ist unsagbar wichtig für seine weitere
-      Entwicklung: \
-
-      \
-
-      A﻿ls Welpe ist dein Hund zwar kein gänzlich unbeschriebenes Blatt mehr, dennoch saugt er Umweltreize und Erlebnisse in dieser Zeit auf wie ein Schwamm. Als kleiner tapsiger Welpe mag dich seine Niedlichkeit noch verzaubern, doch Regeln und Grenzen im Zusammenleben sind bereits in diesem zarten Alter wichtig und fallen auf fruchtbaren Boden. Alles was dein Hund jetzt schon lernt, macht euch beiden das Leben während der Pubertät um einiges leichter. 
-
-
-      S﻿o schnell die süße Welpenzeit auch vorüber ist, so nahtlos schließen sich die Höhen und Tiefen pubertärer Auswüchse an und lassen Hundehaltern die Schweißperlen auf die Stirn treten. Doch keine Bange -  gerne begleite ich dich auch durch diese intensive Zeit und zeige dir, wie Du Deinen Hund trotz pubertärer Flausen souverän durchs Leben führst und weiterhin geduldig mit ihm bleibst. Wie Du trotz hitziger Debatten einen kühlen Kopf bewahren und Dich durchsetzen kannst. Dein Hund lernt sich zurückzunehmen und auch wenn es mal aufregend wird, nicht immer in der ersten Reihe tanzen zu müssen.
+      A﻿ls Welpe ist dein Hund zwar kein gänzlich unbeschriebenes Blatt mehr,
+      dennoch saugt er Umweltreize und Erlebnisse in dieser Zeit auf wie ein
+      Schwamm. Als kleiner tapsiger Welpe mag dich seine Niedlichkeit noch
+      verzaubern, doch Regeln und Grenzen im Zusammenleben sind bereits in
+      diesem zarten Alter wichtig und fallen auf fruchtbaren Boden. Alles was
+      dein Hund jetzt schon lernt, macht euch beiden das Leben während der
+      Pubertät und Junghundezeit um einiges leichter.
 
 
-      Ausgestattet mit diesen Fähigkeiten wird er sich bald wieder diszipliniert an die gelernten Verhaltensregeln halten können. Beste Voraussetzungen für ein entspanntes Hundeleben an deiner Seite!
-    button: Jetzt buchen
+      S﻿o schnell die süße Welpenzeit auch vorüber ist, so nahtlos schließen sich die Junghundezeit mit ihren Höhen und Tiefen, hormonellen Veränderungen und pubertärer Rebellion an. Doch keine Bange -  gerne begleite ich euch auch durch diese intensive Zeit und zeige dir, wie Du Deinen Hund trotz pubertärer Flausen souverän durchs Leben führst und weiterhin geduldig mit ihm bleibst. Wie Du trotz hitziger Debatten einen kühlen Kopf bewahren und Dich durchsetzen kannst. Dein Hund lernt sich zurückzunehmen und auch wenn es mal aufregend wird, nicht immer in der ersten Reihe tanzen zu müssen.
+
+
+      Ausgestattet mit diesen Fähigkeiten wird dein Hund sich bald wieder diszipliniert an die gelernten Verhaltensregeln halten können. Beste Voraussetzungen für ein entspanntes Hundeleben an deiner Seite!
+    button: Jetzt Platz sichern!
     buttonSize: "3"
     headingCentered: false
     isColored: false
