@@ -7,11 +7,11 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     isColored: false
-    heading: Termine 2023
+    heading: Seminare & Workshops 2023
   - heading: "Erste-Hilfe Workshop "
     headingLevel: "3"
     buttonTop: false
-    width: "1"
+    width: 2/3
     buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18606&ia=show
     text: >-
       I﻿n entspannter Atmosphäre werde ich euch gemeinsam mit Tierärztin Dr.
@@ -44,3 +44,9 @@ buildingBlocks:
     headingCentered: false
     isColored: true
     type: text
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: true
+    image: entwurf_flyer-1.hilfe.jpg
