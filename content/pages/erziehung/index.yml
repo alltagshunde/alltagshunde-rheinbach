@@ -49,7 +49,7 @@ buildingBlocks:
     innerWidth: "1"
     isBanner: false
     isColored: false
-    image: welpe-charly-traumt.jpg
+    image: welpengruppe-charly-hort-zu.jpg
   - heading: Mein Angebot für Welpen & Junghunde
     headingLevel: "2"
     buttonTop: false
@@ -75,3 +75,18 @@ buildingBlocks:
     headingCentered: false
     isColored: true
     type: text
+  - type: card
+    width: 1/2
+    innerWidth: 3/4
+    isColored: false
+    image: welpe-charly-traumt.jpg
+    heading: ""
+    buttonLink: Welpen 2022
+    button: Angebote für Welpen
+  - type: card
+    width: 1/2
+    innerWidth: 3/4
+    isColored: false
+    image: gulliver.jpg
+    buttonLink: Junghunde 2022
+    button: Angebote für Junghunde
