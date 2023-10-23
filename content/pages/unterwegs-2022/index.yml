@@ -56,36 +56,6 @@ buildingBlocks:
     headingCentered: true
     isColored: true
     type: text
-  - heading: Social Walk für Schnüffelnasen
-    headingLevel: "3"
-    buttonTop: true
-    width: "1"
-    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18287&ia=show
-    text: >-
-      ### Sonntag 1. Oktober 2023, 15:00 Uhr (Dauer ca. 1,5-2 Stunden)
-
-
-      ### **Start: Wanderparkplatz, Dorfstraße 56, 53343 Wachtberg-Villiprott**
-
-
-      Wenn es um den Einsatz ihrer Nase geht sind unsere Vierbeiner meist mit großem Eifer bei der Sache. Leider nicht immer zu unserer Freude, schalten sie die Ohren dabei doch oft auf Durchzug. Auf diesem Spaziergang zeige ich dir, wie du deinen Hund unterwegs mit verschiedenen Schnüffelspielen auf unterschiedlichen Ebenen beschäftigen und auslasten kannst aber dabei trotzdem seine Aufmerksamkeit behältst.
-
-
-      **Teilnahmevoraussetzung:**
-
-
-      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
-
-
-      ### **Kosten: 30,00 Euro pro Mensch-Hund-Team, Begleitperson gratis**
-
-
-      ### **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
-    button: JETZT ANMELDEN
-    buttonSize: "4"
-    headingCentered: false
-    isColored: false
-    type: text
   - heading: Social Walk im Herbst
     headingLevel: "3"
     buttonTop: true
@@ -119,7 +89,52 @@ buildingBlocks:
       ### **Kosten: 30,00 Euro pro Mensch-Hund-Team, Begleitperson gratis**
 
 
-      ### **Teilnehmer: mindestens 4, maximal 8 Mensch-Hund-Teams**
+      ### **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
+    button: JETZT ANMELDEN
+    buttonSize: "4"
+    headingCentered: false
+    isColored: false
+    type: text
+  - heading: Social Walk im Advent
+    headingLevel: "3"
+    buttonTop: true
+    width: "1"
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18287&ia=show
+    text: >-
+      ### Sonntag 10. Dezember 2023, 14:00 Uhr 
+
+
+      ### Dauer ca. 2 Stunden Laufzeit + anschließender Besuch des Lucia Markt in Rech (optional)
+
+
+      ### **Start: St. Lucia, Nollstraße 53506 Rech (Ahr)**
+
+
+      Gemeinsam erkunden wir den winterlichen Wald und genießen tolle Ausblicke auf das Weindorf Rech, das Ahrtal und die Saffenburg. Wir beobachten die Vierbeiner und fachsimpeln über Hundeverhalten. Zum Spaß streuen wir natürlich auch die ein oder andere kleine Übungen ein.
+
+
+      I﻿m Anschluß an die Wanderung ist ein Besuch des Lucia Markts im Weindorf Rech geplant. Dieser Besuch ist selbstverständlich optional. Der Lucia Markt ist einer der bekanntesten Weihnachtsmärkte im Ahrtal und der näheren Umgebung. Er findet traditionell stets am 2. Wochenende im Advent statt.
+
+
+      B﻿ei den Social Walks liegt der Schwerpunkt auch immer auf dem kontrollierten Kontakt zu Hund und Mensch. Es sind daher auch ausdrücklich Hunde willkommen, die Schwierigkeiten im Kontakt mit Artgenossen haben. Das Ziel dieses Spaziergangs in kleiner Runde ist es, kontrollierte Begegnungen zwischen den einzelnen Hunden zuzulassen und sie dabei zu unterstützen, angemessen mit ihren Artgenossen zu kommunizieren. Dabei sollen vor allem auch die Besitzer die Möglichkeit haben, ihren Hund immer wieder einzuschätzen, die Kommunikation der Hunde zu erleben und ihre Vierbeiner vielleicht auch neu kennenzulernen. 
+
+
+      **W﻿ichtig:** 
+
+
+      Der Spaziergang findet grundsätzlich an der Leine statt. Je nach Zusammenstellung der Gruppe werden die Hunde auch streckenweise frei laufen können. Ziel sollte ein entspannter Spaziergang für alle Teilnehmer sein. 
+
+
+      **Teilnahmevoraussetzung:**
+
+
+      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Hunde mit sozialen Unverträglichkeiten sind ebenfalls und ausdrücklich willkommen, müssen jedoch mit einem gut sitzenden Maulkorb gesichert werden. Wenn du hier Zweifel hast, sprich mich bitte an! Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
+
+
+      ### **Kosten: 30,00 Euro pro Mensch-Hund-Team, Begleitperson gratis**
+
+
+      ### **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
     button: JETZT ANMELDEN
     buttonSize: "4"
     headingCentered: false
