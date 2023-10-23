@@ -15,12 +15,11 @@ buildingBlocks:
     isColored: true
     heading: Ein Welpe zieht ein ...
     text: ""
-  - type: text
-    width: 2/3
+  - heading: ""
     headingLevel: "3"
-    headingCentered: true
-    isColored: false
-    heading: ""
+    buttonTop: false
+    width: 2/3
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18655&ia=show
     text: >-
       ### **.﻿.. und stellt die Welt erstmal ordentlich auf den Kopf. <br>Das
       stresst dich nicht (mehr)?**
@@ -33,29 +32,22 @@ buildingBlocks:
 
 
       ### Dann bist Du hier goldrichtig!<br>Lass uns gemeinsam den Grundstock für eine gute Erziehung deines Welpen legen!
+    button: JETZT PLATZ SICHERN!
+    buttonSize: "2"
+    headingCentered: true
+    isColored: false
+    type: text
   - type: image
     width: 1/3
     innerWidth: "1"
     isBanner: false
     isColored: false
     image: welpengruppe-charly-hort-zu.jpg
-  - heading: SICHERE DIR JETZT DEINEN EXKLUSIVEN PLATZ IM NÄCHSTEN KURS!
+  - heading: "Welpenkurs "
     headingLevel: "2"
+    headingSize: "2"
     width: "1"
-    facebook: true
-    innerWidth: "1"
-    whatsapp: true
-    bookingUrl: https://app.squarespacescheduling.com/schedule.php?owner=22811034
-    headingCentered: true
-    isColored: true
-    booking: true
-    type: contact
-    email: true
-  - type: text
-    width: "1"
-    headingLevel: "3"
-    headingCentered: false
-    isColored: false
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18655&ia=show
     text: >-
       **für Welpen im Alter von 9 bis ca. 15 Wochen (bei Einstieg!)**
 
@@ -80,43 +72,34 @@ buildingBlocks:
       * **Frustrationstoleranz**: Es ist zwar langweilig, aber Dein Hund kommt klar damit
 
       * **Kooperation**: Dein Hund lernt bei dir „nachzufragen“ um seine Ziele zu erreichen, statt einfach mit dem Kopf durch die Wand zu wollen
-    heading: "Welpenkurs "
     button: JETZT PLATZ SICHERN!
-  - heading: JETZT KONTAKT AUFNEHMEN UND PLATZ SICHERN!
-    headingLevel: "2"
-    width: "1"
-    facebook: false
-    innerWidth: "1"
-    whatsapp: true
-    bookingUrl: ""
-    headingCentered: true
+    buttonSize: "2"
+    headingCentered: false
     isColored: true
-    booking: false
-    type: contact
-    email: true
+    type: text
   - type: image
     width: 1/3
     innerWidth: "1"
     isBanner: false
-    isColored: false
+    isColored: true
     image: welpe-charly-traumt.jpg
   - type: image
     width: 1/3
     innerWidth: "1"
     isBanner: false
-    isColored: false
+    isColored: true
     image: welpengruppe-erklarung.jpg
   - type: image
     width: 1/3
     innerWidth: "1"
     isBanner: false
-    isColored: false
+    isColored: true
     image: edda-ruckruf.jpg
   - type: text
     width: 1/2
     headingLevel: "3"
     headingCentered: false
-    isColored: true
+    isColored: false
     text: >-
       **Training in angenehmer Atmosphäre:**
 
@@ -147,7 +130,7 @@ buildingBlocks:
     width: 1/2
     headingLevel: "3"
     headingCentered: false
-    isColored: true
+    isColored: false
     text: >-
       Solltest Du weitere Unterstützung benötigen, hast Du als Teilnehmer des
       Welpenkurs die Möglichkeit jederzeit weitere Einzelcoachings zu
