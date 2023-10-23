@@ -1,6 +1,6 @@
 title: Mantrailing
 isLandingPage: false
-parentPage: Beschäftigung
+parentPage: ""
 buildingBlocks:
   - type: text
     width: "1"
