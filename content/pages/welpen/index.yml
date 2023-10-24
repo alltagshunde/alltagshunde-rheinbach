@@ -46,7 +46,7 @@ buildingBlocks:
   - heading: "Welpenkurs "
     headingLevel: "2"
     headingSize: "2"
-    width: "1"
+    width: 2/3
     buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18655&ia=show
     text: >-
       **für Welpen im Alter von 9 bis ca. 15 Wochen (bei Einstieg!)**
