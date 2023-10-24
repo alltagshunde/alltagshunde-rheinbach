@@ -47,7 +47,7 @@ buildingBlocks:
     headingLevel: "2"
     headingSize: "2"
     width: 2/3
-    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18655&ia=show
+    buttonLink2: ""
     text: >-
       **für Welpen im Alter von 9 bis ca. 15 Wochen (bei Einstieg!)**
 
@@ -72,8 +72,43 @@ buildingBlocks:
       * **Frustrationstoleranz**: Es ist zwar langweilig, aber Dein Hund kommt klar damit
 
       * **Kooperation**: Dein Hund lernt bei dir „nachzufragen“ um seine Ziele zu erreichen, statt einfach mit dem Kopf durch die Wand zu wollen
+    button: ""
+    buttonSize: null
+    headingCentered: false
+    isColored: true
+    type: text
+  - heading: Neuer Kurs ab Januar 2024
+    headingLevel: "2"
+    buttonTop: false
+    headingSize: "2"
+    width: 1/3
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18655&ia=show
+    text: >-
+      ### **Kursstart: Dienstag 16. Januar 2024**
+
+
+      **Termine:** 6 x Praxis jeweils dienstags um 17:00 Uhr (45.-60 Min.)\
+
+      am 16.01. / 23.01. / 30.01. / 06.02. / 13.02. / 20.02. \
+
+      ggf. Nachholtermin 27.02.2024
+
+
+      **Teilnehmer:** min. 2 und max. 4 Mensch-Hund-Teams
+
+
+      **Kosten:** 168,- Euro (inkl. 19% MwSt.)
+
+
+      **Ort:** 53340 Meckenheim und Umgebung
+
+
+      **Voraussetzung für die Teilnahme:** geeignet für Welpen im Alter von 9 bis ca. 15 Wochen **(bei Einstieg)**
+
+
+      **\*bei extremen Witterungsbedingungen wie extremer Hitze oder Kälte bzw. Unwettergefahr kann der Unterricht auch indoor in unserem Vereinshaus oder online stattfinden.**
     button: JETZT PLATZ SICHERN!
-    buttonSize: "2"
+    buttonSize: "4"
     headingCentered: false
     isColored: true
     type: text
