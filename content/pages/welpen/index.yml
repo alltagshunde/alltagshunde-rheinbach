@@ -16,8 +16,9 @@ buildingBlocks:
     heading: Ein Welpe zieht ein ...
     text: ""
   - heading: ""
-    headingLevel: "3"
+    headingLevel: "2"
     buttonTop: false
+    headingSize: "2"
     width: 2/3
     buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18655&ia=show
     text: >-
@@ -33,7 +34,7 @@ buildingBlocks:
 
       ### Dann bist Du hier goldrichtig!<br>Lass uns gemeinsam den Grundstock für eine gute Erziehung deines Welpen legen!
     button: JETZT PLATZ SICHERN!
-    buttonSize: "2"
+    buttonSize: "4"
     headingCentered: true
     isColored: false
     type: text
