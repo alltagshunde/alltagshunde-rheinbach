@@ -78,9 +78,9 @@ buildingBlocks:
     headingCentered: false
     isColored: true
     type: text
-  - heading: Neuer Kurs ab Januar 2024
+  - heading: Neuer Kurs ab Januar !
     headingLevel: "2"
-    buttonTop: false
+    buttonTop: true
     headingSize: "2"
     width: 1/3
     buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18655&ia=show
@@ -88,17 +88,15 @@ buildingBlocks:
       ### **Kursstart: Dienstag 16. Januar 2024**
 
 
-      **Termine:** 6 x Praxis jeweils dienstags um 17:00 Uhr (45.-60 Min.)\
+      **Termine:** 6 x Praxis jeweils dienstags um 17:00 Uhr (45.-60 Min.)<br>am 16.01. / 23.01. / 30.01. / 06.02. / 13.02. / 20.02.2024<br>\
 
-      am 16.01. / 23.01. / 30.01. / 06.02. / 13.02. / 20.02. \
-
-      ggf. Nachholtermin 27.02.2024
+      Nachholtermin: 27.02.2024
 
 
-      **Teilnehmer:** min. 2 und max. 4 Mensch-Hund-Teams
+      **Teilnehmer:** min. 2 und max. 5 Mensch-Hund-Teams
 
 
-      **Kosten:** 168,- Euro (inkl. 19% MwSt.)
+      **Kosten:** 169,- Euro (inkl. 19% MwSt.)
 
 
       **Ort:** 53340 Meckenheim und Umgebung
