@@ -11,11 +11,11 @@ buildingBlocks:
     headingCentered: true
     isColored: false
     type: text
-  - heading: Hundebegegnungen sind für dich und deinen Hund mittlerweile purer Stress?
+  - heading: Hundebegegnungen sind für deinen Hund und dich purer Stress?
     headingLevel: "2"
     buttonTop: false
     headingSize: "2"
-    width: "1"
+    width: 2/3
     buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=appointments
     text: >-
       ### Lass' uns das ändern!
