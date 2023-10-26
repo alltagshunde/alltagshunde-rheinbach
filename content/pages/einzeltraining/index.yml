@@ -19,35 +19,39 @@ buildingBlocks:
       herausarbeiten und im Einzelcoaching lösen. Im Fokus steht dabei der
       Aufbau einer vertrauensvollen und belastbaren Mensch-Hund-Beziehung, in
       der Konflikte nicht umschifft, sondern angenommen und aufgelöst werden.
-  - type: text
-    width: "1"
-    headingLevel: "3"
-    headingCentered: false
-    headingColorPrimary: false
+  - headingColorPrimary: false
     heading: Stellt dein Hund dich in eurem Alltag immer wieder vor Herausforderungen?
+    headingLevel: "2"
+    width: "1"
+    buttonLink2: ""
     text: >-
       * Hattest Du Dir das gemeinsame Leben mit Deinem Hund oder vielleicht auch
       mehreren Hunden und / oder Tieren entspannter vorgestellt?
 
       * Besteht Dein Alltag vielleicht aus großen Einschränkungen und Zugeständnissen, weil Du stets viel planen, beachten und Rücksicht auf deine(n) Hund(e) nehmen musst?
 
-      * Würdest Du z. B. Deinen Hund gerne entspannt mit ins Büro, mit zu Freunden oder ins Restaurant nehmen? Doch ist das nicht möglich, da dein Hund ständig gestresst ist und somit immer öfter zuhause bleiben muss? Das macht dich traurig?
+      * Würdest Du z. B. Deinen Hund gerne entspannt mit ins Büro, mit zu Freunden oder ins Restaurant nehmen? Doch ist das nicht möglich, da dein Hund ständig gestresst ist und somit immer öfter zuhause bleiben muss? Das macht dich traurig? 
 
-      * Kann Dein Hund vielleicht nicht gut alleine bleiben und verfällt dann aus Verzweiflung und Stress in "Zerstörungswut" oder bellt und heult die ganze Nachbarschaft zusammen? 
+      * Kann Dein Hund zudem vielleicht auch nicht gut alleine bleiben und verfällt dann aus Verzweiflung und Stress in "Zerstörungswut" oder bellt und heult die ganze Nachbarschaft zusammen? 
 
       * Vielleicht reagiert dein Hund auch oft ängstlich, gestresst und / oder aggressiv auf Umweltreize und / oder fremde Menschen? 
 
       * Kannst Du mit Deinem Hund nicht entspannt spazieren gehen, weil er durchweg an der Leine zieht oder Begegnungen mit anderen Hunden immer Stress bedeuten?
+    buttonSize: null
+    headingCentered: false
     isColored: false
-  - heading: Jetzt Kontakt aufnehmen und Termin vereinbaren
-    headingLevel: "3"
+    type: text
+  - heading: JETZT TERMIN VEREINBAREN
+    headingLevel: "2"
+    headingSize: "2"
     width: "1"
-    facebook: false
-    innerWidth: "1"
+    facebook: true
+    innerWidth: 3/4
     whatsapp: true
+    bookingUrl: https://alltaghunde-training.kurs.software/iframe/?&module=appointments
     headingCentered: true
     isColored: true
-    booking: false
+    booking: true
     type: contact
     email: true
   - type: image
