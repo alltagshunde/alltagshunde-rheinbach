@@ -38,3 +38,28 @@ buildingBlocks:
     headingCentered: false
     isColored: true
     type: text
+  - heading: JETZT TERMIN VEREINBAREN
+    headingLevel: "2"
+    headingSize: "2"
+    width: "1"
+    facebook: true
+    innerWidth: 3/4
+    whatsapp: true
+    bookingUrl: https://alltaghunde-training.kurs.software/iframe/?&module=appointments
+    headingCentered: true
+    isColored: false
+    booking: true
+    type: contact
+    email: true
+  - type: image
+    width: 1/2
+    innerWidth: 3/4
+    isBanner: false
+    isColored: false
+    image: beratung.jpg
+  - type: image
+    width: 1/2
+    innerWidth: 3/4
+    isBanner: false
+    isColored: false
+    image: beratung_2.jpg
