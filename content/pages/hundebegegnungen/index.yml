@@ -63,7 +63,36 @@ buildingBlocks:
     isBanner: false
     isColored: false
     image: beratung_2.jpg
-  - heading: ANGEBOTE UND KOSTEN
+  - heading: Ablauf Einzelcoaching
+    headingLevel: "2"
+    buttonTop: true
+    headingSize: "2"
+    width: 1/2
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=appointments
+    text: >-
+      Am Beginn unserer Zusammenarbeit steht zunächst ein ausführliches
+      Erstgespräch. Dieses Gespräch dient uns beiden dazu uns gegenseitig
+      kennenzulernen und zu erkennen, ob ob die Chemie zwischen uns stimmt.
+      Schließlich ist Hundetraining auch Vertrauenssache und du sollst nicht die
+      "Katze im Sack" kaufen. 
+
+
+      Im Rahmen dieses Termins analysieren wir natürlich ebenfalls gemeinsam die Themen und Probleme, die den Alltag mit deinem Hund erschweren: Wer bist du und wer ist dein Hund? Was macht eure Beziehung aus? Gemeinsam formulieren wir eine (erste) Zielsetzung und erarbeiten erste Schritte um die hierfür wichtigen Veränderungen in eurer Beziehungsstruktur einzuleiten.
+
+
+      In den folgenden Stunden erarbeiten wir zusammen einen individuellen Lösungsweg, der sich gut in euren Alltag integrieren lässt. Die einzelnen Termine wählen wir in kleineren oder größeren Abständen, abhängig von der individuellen Problemstellung und deinen Trainingszielen. Wichtig ist mir dabei, dich als Hundehalter fit im Umgang mit deinem Hund zu machen, so dass Du handlungsfähig wirst und problematische Situationen zukünftig auch ohne meine Hilfe lösen kannst. Unsere gemeinsamen Termine verstehe ich daher sozusagen als "Hilfe zur Selbsthilfe".
+
+
+      In der Regel sind nach einem ausführlichen Kennenlernen ca. 4-6 Einzelstunden ausreichend, um dir und deinem Hund eine gute Basis für das weitere Miteinander zu geben und Gelerntes zu vertiefen. Veränderung braucht jedoch Zeit und jedes neu erlernte Verhalten - sowohl beim Menschen als auch beim Hund - entsprechende Wiederholungen, um zu reifen und sich im Alltag zu festigen. 
+
+
+      **Daher folgt nach dem Einzeltraining der nächste Schritt. Gemeinsam mit Gleichgesinnten erhältst du die Möglichkeit ruhige Begegnungen mit deinem Hund in entspannter Atmosphäre und mit so vielen Wiederholungen wie nötig zu üben. Dabei wirst du selbstverständlich von mir gecoacht und unterstützt.**
+    button: JETZT TERMIN VEREINBAREN
+    buttonSize: "2"
+    headingCentered: false
+    isColored: true
+    type: text
+  - heading: Angebote und Kosten
     headingLevel: "2"
     buttonTop: false
     width: 1/2
