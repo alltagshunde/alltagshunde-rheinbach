@@ -16,8 +16,9 @@ buildingBlocks:
     buttonTop: false
     headingSize: "2"
     width: "1"
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=appointments
     text: >-
-      ### Lass' uns das ändern! 
+      ### Lass' uns das ändern!
 
 
       Im Einzeltraining analysieren wir zunächst die ersten Schritte um die erforderlichen Veränderungen in eurer Beziehungsstruktur einzuleiten und erarbeiten in den Folgeterminen vorab die Grundlagen für ruhige Begegnungen:  
@@ -33,8 +34,8 @@ buildingBlocks:
 
 
       Ausgestattet m﻿it diesen Fähigkeiten starten wir i﻿m nächsten Step in einen Hundebegegnungskurs, um mit Gleichgesinnten in der Kleingruppe Begegnungen zu meistern. (Meeting Point)
-    button: ""
-    buttonSize: "3"
+    button: JETZT TERMIN VEREINBAREN
+    buttonSize: "4"
     headingCentered: false
     isColored: true
     type: text
