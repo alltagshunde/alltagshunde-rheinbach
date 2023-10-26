@@ -39,7 +39,7 @@ buildingBlocks:
     headingCentered: false
     isColored: true
     type: text
-  - heading: JETZT TERMIN VEREINBAREN
+  - heading: ""
     headingLevel: "2"
     headingSize: "2"
     width: "1"
@@ -56,13 +56,13 @@ buildingBlocks:
     width: 1/2
     innerWidth: 3/4
     isBanner: false
-    isColored: false
+    isColored: true
     image: beratung.jpg
   - type: image
     width: 1/2
     innerWidth: 3/4
     isBanner: false
-    isColored: false
+    isColored: true
     image: beratung_2.jpg
   - heading: Ablauf Einzelcoaching
     headingLevel: "2"
@@ -89,14 +89,15 @@ buildingBlocks:
 
       **Daher folgt nach dem Einzeltraining der nächste Schritt. Gemeinsam mit Gleichgesinnten erhältst du die Möglichkeit ruhige Begegnungen mit deinem Hund in entspannter Atmosphäre und mit so vielen Wiederholungen wie nötig zu üben. Dabei wirst du selbstverständlich von mir gecoacht und unterstützt.**
     button: JETZT TERMIN VEREINBAREN
-    buttonSize: "2"
+    buttonSize: "4"
     headingCentered: false
     isColored: true
     type: text
   - heading: Angebote und Kosten
     headingLevel: "2"
-    buttonTop: false
+    buttonTop: true
     width: 1/2
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=appointments
     text: >-
       In der Regel treffen wir uns für das Erstgespräch zu einem gemeinsamen
       Spaziergang. Hier bekomme ich meist gleich einen Eindruck von den
@@ -127,8 +128,8 @@ buildingBlocks:
 
 
       Ich bitte dich zu beachten, dass gebuchte Einzelcoachings und Beratungstermine aus organisatorischen Gründen spätestens 24 Stunden vor dem vereinbarten Termin storniert werden müssen. Andernfalls wird hier eine Aufwandspauschale i. H. v. 50% bei Einzelcoaching bzw. einer Einheit (20 Min.) bei Online- / Telefonische Beratung erhoben.
-    button: ""
-    buttonSize: null
+    button: JETZT TERMIN VEREINBAREN
+    buttonSize: "4"
     headingCentered: true
     isColored: true
     type: text
