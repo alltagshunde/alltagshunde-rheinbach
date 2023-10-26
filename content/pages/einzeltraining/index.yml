@@ -66,11 +66,11 @@ buildingBlocks:
     isBanner: false
     image: img_4101finish.jpg
     isColored: true
-  - type: text
-    width: 1/2
+  - heading: Ablauf Einzelcoaching
     headingLevel: "3"
-    headingCentered: false
-    isColored: false
+    buttonTop: true
+    width: 1/2
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=appointments
     text: >-
       Am Beginn unserer Zusammenarbeit steht zunächst ein ausführliches
       Erstgespräch. Dieses Gespräch dient uns beiden dazu uns gegenseitig
@@ -89,7 +89,11 @@ buildingBlocks:
 
 
       Daher ist es durchaus empfehlenswert, nach einiger Zeit einen Check-up Termin zu vereinbaren, um vielleicht den letzten Feinschliff anzugehen,  kleine Fehler zu korrigieren oder auch auch neue Ziele zu setzen.
-    heading: Ablauf Einzelcoaching
+    button: JETZT TERMIN VEREINBAREN
+    buttonSize: "2"
+    headingCentered: false
+    isColored: false
+    type: text
   - type: text
     width: 1/2
     headingLevel: "3"
