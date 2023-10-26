@@ -1,0 +1,40 @@
+title: Hundebegegnungen
+isLandingPage: false
+buildingBlocks:
+  - heading: HUNDEBEGEGNUNGEN OHNE STRESS
+    headingLevel: "1"
+    buttonTop: false
+    headingSize: "1"
+    width: "1"
+    button: ""
+    buttonSize: null
+    headingCentered: true
+    isColored: false
+    type: text
+  - heading: Hundebegegnungen sind für dich und deinen Hund mittlerweile purer Stress?
+    headingLevel: "2"
+    buttonTop: false
+    headingSize: "2"
+    width: "1"
+    text: >-
+      ### Lass' uns das ändern! 
+
+
+      Im Einzeltraining analysieren wir zunächst die ersten Schritte um die erforderlichen Veränderungen in eurer Beziehungsstruktur einzuleiten und erarbeiten in den Folgeterminen vorab die Grundlagen für ruhige Begegnungen:  
+
+
+      * Aufmerksamkeit & O﻿rientierung 
+
+      * F﻿rustrationstoleranz 
+
+      * V﻿erbindlichkeit 
+
+      * A﻿bbruchsignal für den Konflikt 
+
+
+      Ausgestattet m﻿it diesen Fähigkeiten starten wir i﻿m nächsten Step in einen Hundebegegnungskurs, um mit Gleichgesinnten in der Kleingruppe Begegnungen zu meistern. (Meeting Point)
+    button: ""
+    buttonSize: "3"
+    headingCentered: false
+    isColored: true
+    type: text
