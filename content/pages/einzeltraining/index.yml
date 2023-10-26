@@ -23,7 +23,7 @@ buildingBlocks:
     heading: Stellt dein Hund dich in eurem Alltag immer wieder vor Herausforderungen?
     headingLevel: "2"
     width: "1"
-    buttonLink2: ""
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=appointments
     text: >-
       * Hattest Du Dir das gemeinsame Leben mit Deinem Hund oder vielleicht auch
       mehreren Hunden und / oder Tieren entspannter vorgestellt?
@@ -37,11 +37,12 @@ buildingBlocks:
       * Vielleicht reagiert dein Hund auch oft ängstlich, gestresst und / oder aggressiv auf Umweltreize und / oder fremde Menschen? 
 
       * Kannst Du mit Deinem Hund nicht entspannt spazieren gehen, weil er durchweg an der Leine zieht oder Begegnungen mit anderen Hunden immer Stress bedeuten?
-    buttonSize: null
+    button: JETZT TERMIN VEREINBAREN
+    buttonSize: "2"
     headingCentered: false
     isColored: false
     type: text
-  - heading: JETZT TERMIN VEREINBAREN
+  - heading: ""
     headingLevel: "2"
     headingSize: "2"
     width: "1"
