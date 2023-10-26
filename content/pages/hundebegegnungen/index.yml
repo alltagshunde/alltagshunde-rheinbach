@@ -57,6 +57,37 @@ buildingBlocks:
     headingCentered: false
     isColored: true
     type: text
+  - heading: "THEMENABEND: HUNDEBEGEGNUNGEN ENTSPANNT MEISTERN"
+    headingLevel: "2"
+    buttonTop: true
+    headingSize: "2"
+    width: 1/3
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18696&ia=show
+    text: >-
+      ### T﻿ermin: 
+
+
+      ### Donnerstag 16. November 2023, 19:00 - 21:00 Uhr
+
+
+      ### **Ort:** 
+
+
+      #### Hundezentrum Kottenforst<br>Werner-von-Siemens-Str. 20<br>53340 Meckenheim
+
+
+      ### A﻿chtung: 
+
+
+      #### D﻿ie Teilnahme am Themenabend ist ohne Hund vorgesehen, damit Ihr euch auf die Inhalte konzentrieren und uns eure Fragen stellen könnt. 
+
+
+      ### **Kosten:** 28,- Euro (inkl. 19% MwSt.)
+    button: JETZT PLATZ SICHERN!
+    buttonSize: "4"
+    headingCentered: false
+    isColored: true
+    type: text
   - heading: ""
     headingLevel: "2"
     headingSize: "2"
@@ -149,36 +180,5 @@ buildingBlocks:
     button: JETZT TERMIN VEREINBAREN
     buttonSize: "4"
     headingCentered: true
-    isColored: true
-    type: text
-  - heading: "THEMENABEND: HUNDEBEGEGNUNGEN OHNE STRESS"
-    headingLevel: "2"
-    buttonTop: true
-    headingSize: "2"
-    width: 1/2
-    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18696&ia=show
-    text: >-
-      ### T﻿ermin: 
-
-
-      ### Donnerstag 16. November 2023, 19:00 - 21:00 Uhr
-
-
-      ### **Ort:** 
-
-
-      #### Hundezentrum Kottenforst<br>Werner-von-Siemens-Str. 20<br>53340 Meckenheim
-
-
-      ### A﻿chtung: 
-
-
-      #### D﻿ie Teilnahme am Themenabend ist ohne Hund vorgesehen, damit Ihr euch auf die Inhalte konzentrieren und uns eure Fragen stellen könnt. 
-
-
-      ### **Kosten:** 28,- Euro (inkl. 19% MwSt.)
-    button: JETZT PLATZ SICHERN!
-    buttonSize: "4"
-    headingCentered: false
     isColored: true
     type: text
