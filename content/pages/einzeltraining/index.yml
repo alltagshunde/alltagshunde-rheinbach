@@ -129,11 +129,12 @@ buildingBlocks:
   - heading: Jetzt Kontakt aufnehmen und Termin vereinbaren
     headingLevel: "3"
     width: "1"
-    facebook: false
+    facebook: true
     innerWidth: "1"
     whatsapp: true
+    bookingUrl: https://alltaghunde-training.kurs.software/iframe/?&module=appointments
     headingCentered: true
     isColored: true
-    booking: false
+    booking: true
     type: contact
     email: true
