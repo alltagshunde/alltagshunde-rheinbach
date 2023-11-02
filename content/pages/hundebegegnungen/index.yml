@@ -144,7 +144,7 @@ buildingBlocks:
     type: text
   - heading: Angebote und Kosten
     headingLevel: "2"
-    buttonTop: true
+    buttonTop: false
     width: 1/2
     buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=appointments
     text: >-
@@ -160,6 +160,8 @@ buildingBlocks:
 
 
       H﻿ier schaffen wir die theoretischen Grundlagen. Wir erklären, wie aggressives Verhalten an der Leine entsteht, welche Motivationen dahinterstehen können und wie du dich am besten verhalten solltest, wenn dein Hund sich bei Begegnungen an der Leine aggressiv verhält.  
+
+
 
 
       ### 2. Schritt:
