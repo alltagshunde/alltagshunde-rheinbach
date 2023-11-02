@@ -59,7 +59,7 @@ buildingBlocks:
     type: text
   - heading: "THEMENABEND: HUNDEBEGEGNUNGEN ENTSPANNT MEISTERN"
     headingLevel: "2"
-    buttonTop: true
+    buttonTop: false
     headingSize: "2"
     width: 1/3
     buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18696&ia=show
