@@ -27,14 +27,14 @@ buildingBlocks:
       Z﻿usammen mit meiner Kollegin **Anna Edeler** vom [Hundezentrum Kottenforst](https://www.huko.su/unser-team/), habe ich an einem Konzept getüftelt, um Hundebegegnungen endlich sinnvoll  zu trainieren und effektiv zu trainieren, so dass auch  eine dauerhafte Verbesserung erzielt werden kann. 
 
 
-      Z﻿um Einstieg in unsere Reihe **"Meeting-Point - Hundebegegnungen ohne Stress"** ist die Teilnahme am Themenabend **"[Hundebegegnungen entspannt meistern](https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18696&ia=show)"** verpflichtend. 
+      Z﻿um Einstieg in unsere Reihe **"Meeting-Point - Hundebegegnungen ohne Stress"** ist die Teilnahme am **Themenabend "[Hundebegegnungen entspannt meistern](https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18696&ia=show)"** verpflichtend. 
 
 
-      ### D﻿er erste Termin am 16.11.2023 ist leider bereits ausgebucht.
+      ### D﻿er erste Themenabend "Hundebegegnungen entspannt meistern!" am 16.11.2023 ist leider bereits ausgebucht.  
 
 
-      ### Hier kannst du dir einen Platz im nächsten Themenabend sichern:
-    button: JETZT PLATZ SICHERN
+      ### Hier kannst du dir einen Platz für den nächsten Termin sichern:
+    button: ZUR WARTELISTE
     buttonSize: "5"
     headingCentered: false
     isColored: true
@@ -45,43 +45,53 @@ buildingBlocks:
     isBanner: false
     isColored: true
     image: beratung.jpg
-  - heading: "Unser Konzept: “M﻿eeting Point - Hundebegegnungen ohne Stress”"
+  - heading: Konzept:“M﻿eeting Point - Hundebegegnungen ohne Stress”
     headingLevel: "2"
     buttonTop: false
     width: 2/3
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=appointments&ia=index
     text: >-
-      ### 1. Schritt: Themenabend "Hundebegegnungen entspannt meistern!"
+      ### 1. Schritt: 
+
+
+      ### Themenabend "Hundebegegnungen entspannt meistern!"
 
 
       H﻿ier schaffen wir die theoretischen Grundlagen. Wir erklären, wie aggressives Verhalten an der Leine entsteht, welche Motivationen dahinterstehen können und wie du dich am besten verhalten solltest, wenn dein Hund sich bei Begegnungen an der Leine aggressiv verhält.
 
 
-      ### 2. Schritt: **Individuelles Einzeltraining** 
+      ### 2. Schritt: 
 
 
-      **Hier erarbeiten wir gemeinsam die Grundlagen für ruhige Begegnungen:** 
+      ### **Individuelles Einzeltraining**
 
 
-      * Eine geklärte Beziehungsstruktur in der Konflikte nicht umgangen, sondern gelöst werden
-
-      * A﻿ufmerksamkeit und Orientierung
-
-      * F﻿rustrationstoleranz
-
-      * V﻿erbindlichkeit
-
-      * ggf. A﻿bbruchsignal für den Konflikt
+      Hier erarbeiten wir gemeinsam die Grundlagen für ruhige Begegnungen: 
 
 
-      Ausgestattet m﻿it diesen Fähigkeiten starten wir dann i﻿m nächsten Step in das eigentliche Begegnungstraining, unseren Meeting Point. Zusammen mit Gleichgesinnten erhältst du hier in der Kleingruppe und mit unserer Unterstützung die Möglichkeit, Begegnungen mit wechselnden Mensch-Hund-Teams in Ruhe und mit den notwendigen Wiederholungen so zu trainieren, das beide Seiten mit einem positiven Ergebnis und guten Gefühl nach Hause fahren.
+      * **Eine geklärte Beziehungsstruktur** **\- in der Konflikte nicht umgangen, sondern angenommen und gelöst werden**
+
+      * **A﻿ufmerksamkeit und Orientierung - verbindlich einfordern können**
+
+      * **F﻿rustrationstoleranz - macht das Leben soviel entspannter und schöner**
+
+      * **S﻿tellvertreterkonflikte - die neu gewonnene Handlungsfähigkeit in kleineren Konflikten mit dem Hund anwenden**
+
+      * **ggf. A﻿bbruchsignal für den Konflikt "Hundebegegnungen"**
 
 
-      ### 3﻿. Schritt: Teilnahme am “Meeting-Point”
+      Ausgestattet m﻿it diesen neuen Fähigkeiten starten wir i﻿m nächsten Step in das eigentliche Begegnungstraining, unseren Meeting Point. Zusammen mit Gleichgesinnten erhältst du hier in der Kleingruppe und mit unserer Unterstützung die Möglichkeit, Begegnungen mit wechselnden Mensch-Hund-Teams in Ruhe und mit den notwendigen Wiederholungen so zu trainieren, dass beide Seiten mit einem positiven Ergebnis und guten Gefühl nach Hause fahren.
+
+
+      ### 3﻿. Schritt: 
+
+
+      ### Begegnungstraining - “Meeting-Point”
 
 
       A﻿n jedem **L﻿ETZTEN SAMSTAG IM MONAT** bieten wir euch fortan die Möglichkeit, eure im Einzeltraining erarbeiteten Führungsfähigkeiten gemeinsam mit gleichgesinnten Sparring-Partnern und eng gecoacht durch Anna und mich, in echten Begegnungen zu trainieren.
-    button: ""
-    buttonSize: null
+    button: JETZT KONTAKT AUFNEHMEN
+    buttonSize: "5"
     headingCentered: false
     isColored: false
     type: text
@@ -103,7 +113,7 @@ buildingBlocks:
       ### 1. Schritt:
 
 
-      **Teilnahme am [T﻿hemenabend ](https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18696&ia=show)"Hundebegegnungen entspannt meistern"** 
+      ### **[T﻿hemenabend ](https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18696&ia=show)"Hundebegegnungen entspannt meistern"** 
 
 
       H﻿ier schaffen wir die theoretischen Grundlagen. Wir erklären, wie aggressives Verhalten an der Leine entsteht, welche Motivationen dahinterstehen können und wie du dich am besten verhalten solltest, wenn dein Hund sich bei Begegnungen an der Leine aggressiv verhält.  
@@ -115,7 +125,13 @@ buildingBlocks:
       ### 2. Schritt:
 
 
-      **Individuelles Einzeltraining - Hier erarbeiten wir gemeinsam die Grundlagen für ruhige Begegnungen:** Eine geklärte Beziehungsstruktur, verbindliche Aufmerksamkeit und Orientierung, Stellvertreterkonflikte und ggf. ein Abbruchsignal für die Begegnung.
+      ### **Individuelles Einzeltraining**
+
+
+      **Hier erarbeiten wir gemeinsam die Grundlagen für ruhige Begegnungen:** 
+
+
+      Eine geklärte Beziehungsstruktur, verbindliche Aufmerksamkeit und Orientierung, Stellvertreterkonflikte und ggf. ein Abbruchsignal für die Begegnung.
 
 
       ### **Angebote für Neukunden:**
@@ -164,10 +180,10 @@ buildingBlocks:
       ### 3﻿. Schritt:
 
 
-      ### Teilnahme am "Meeting-Point"
+      ### B﻿egegnungstraining - "Meeting-Point"
 
 
-      **K﻿osten bei Einzelbuchung: 35,- Euro**
+      **K﻿osten pro Termin bei Einzelbuchung: 35,- Euro** 
 
 
       **5 x M﻿eeting-Point (60-90 Min.): 159,- Euro (statt 175,- Euro)** 
@@ -176,6 +192,6 @@ buildingBlocks:
       A﻿lle Preise verstehen sich inkl. 19 % MwSt.
     button: ""
     buttonSize: null
-    headingCentered: true
-    isColored: false
+    headingCentered: false
+    isColored: true
     type: text
