@@ -19,28 +19,26 @@ buildingBlocks:
       Verhaltensregeln für den Notfall näherbringen. 
 
 
-      T﻿hemen werden u.a. sein: 
+      #### T﻿hemen werden u.a. sein: 
 
 
       * E﻿rkennen von Notfällen und entsprechende Verhaltensmaßnahmen für den Notfall
 
-      * E﻿rste-Hilfe Maßnahmen vor Ort: \
-        <br>Verbände anlegen, Vitalfunktionen prüfen, Sicherheitsmaßnahmen treffen
-      * V﻿orbereitet sein: \
-        <br>W﻿as gehört in die Hausapotheke? 
+      * E﻿rste-Hilfe Maßnahmen vor Ort:<br>Verbände anlegen, Vitalfunktionen prüfen, Sicherheitsmaßnahmen treffen
+
+      * V﻿orbereitet sein:<br>W﻿as gehört in die Hausapotheke? 
+
       * Z﻿eit für eure Fragen
 
       * T﻿eilnahmebestätigung und gratis Verbandskit inkl. Thermometer u. Zeckenzange  
 
 
-
-
-      **A﻿chtung:** 
+      #### **A﻿chtung:** 
 
 
       **D﻿amit eine möglichst ruhige Atmosphäre herrscht, findet der Workshop ohne euren Hund statt! <br>W﻿ir werden einige ruhige Hunde vor Ort haben, an denen wir praktische Dinge zeigen und üben können.**
-    button: Jetzt buchen
-    buttonSize: "3"
+    button: Jetzt Platz sichern
+    buttonSize: "4"
     headingCentered: false
     isColored: true
     type: text
