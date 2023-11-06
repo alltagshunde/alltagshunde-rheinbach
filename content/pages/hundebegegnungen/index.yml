@@ -15,7 +15,7 @@ buildingBlocks:
     headingLevel: "2"
     buttonTop: false
     headingSize: "2"
-    width: "1"
+    width: 2/3
     buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18696&ia=show
     text: >-
       ### Lass' uns das ändern!
@@ -46,16 +46,16 @@ buildingBlocks:
     isColored: true
     type: text
   - type: image
-    width: 1/2
-    innerWidth: 3/4
+    width: 1/3
+    innerWidth: "1"
     isBanner: false
     isColored: true
     image: beratung.jpg
   - type: image
-    width: 1/2
-    innerWidth: 3/4
+    width: 1/3
+    innerWidth: "1"
     isBanner: false
-    isColored: true
+    isColored: false
     image: beratung_2.jpg
   - heading: Ablauf Einzelcoaching
     headingLevel: "2"
