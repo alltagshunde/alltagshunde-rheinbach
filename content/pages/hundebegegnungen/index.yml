@@ -105,7 +105,7 @@ buildingBlocks:
     headingLevel: "2"
     buttonTop: false
     width: "1"
-    buttonLink2: ""
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=appointments
     text: >-
       ### **"Hundebegegnungen ohne Stress"**
 
@@ -190,8 +190,8 @@ buildingBlocks:
 
 
       A﻿lle Preise verstehen sich inkl. 19 % MwSt.
-    button: ""
-    buttonSize: null
+    button: JETZT TERMIN VEREINBAREN
+    buttonSize: "5"
     headingCentered: false
     isColored: true
     type: text
