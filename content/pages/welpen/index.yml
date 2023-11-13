@@ -162,3 +162,25 @@ buildingBlocks:
     headingCentered: false
     isColored: false
     type: text
+  - heading: "DA GEHT NOCH MEHR? "
+    headingLevel: "2"
+    buttonTop: false
+    headingSize: "2"
+    width: "1"
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18924,18923&ia=show
+    text: >-
+      #### Empfehlungen und Ratschläge einfach zu übernehmen reicht dir nicht? 
+
+
+      D﻿u willst es genau wissen und interessierst dich auch für die Hintergründe und willst alles ganz genau verstehen? Denn du willst auch zuhause richtig Gas geben und weiter an der Erziehung deines jungen Hundes arbeiten? 
+
+
+      #### D﻿as finden wir super!!! 
+
+
+      I﻿n sechs spannenden Themenabenden (je ca. 90 Min.) vermitteln meine Kollegin Anna Edeler vom Hundezentrum Kottenforst und ich dir auf unterhaltsame Art und Weise das notwendige Hintergrundwissen, um für alle Abenteuer und Herausforderungen im ersten Lebensjahr deines jungen Hundes gerüstet zu sein!
+    button: JETZT PLATZ SICHERN!
+    buttonSize: "5"
+    headingCentered: false
+    isColored: true
+    type: text
