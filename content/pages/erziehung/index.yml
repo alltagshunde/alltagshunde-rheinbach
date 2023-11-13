@@ -13,14 +13,15 @@ buildingBlocks:
     buttonTop: false
     headingSize: "2"
     width: "1"
-    text: Lass uns gemeinsam das Fundament für ein glückliches und erfülltes
-      Hundeleben schaffen!
+    text: ""
     button: ""
     buttonSize: "3"
     headingCentered: true
     isColored: true
     type: text
-  - headingLevel: "2"
+  - heading: Lass uns gemeinsam das Fundament für ein glückliches und erfülltes
+      Hundeleben schaffen!
+    headingLevel: "2"
     buttonTop: false
     width: "1"
     buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&ia=index
