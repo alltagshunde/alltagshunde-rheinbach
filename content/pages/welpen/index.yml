@@ -7,15 +7,48 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     isColored: false
-    heading: Welpenzeit
+    heading: "Angebote für Welpen & Junghunde "
   - type: text
     width: "1"
-    headingLevel: "3"
+    headingLevel: "2"
     headingCentered: true
     isColored: true
-    heading: Ein Welpe zieht ein ...
-    text: ""
-  - heading: ""
+    heading: DAS ERSTE LEBENSJAHR DEINES HUNDES BILDET DEN GRUNDSTEIN FÜR SEINE
+      WEITERE ENTWICKLUNG
+    text: L﻿ass uns gemeinsam das Fundament für ein glückliches und entspanntes
+      Hundeleben schaffen!
+  - headingLevel: "2"
+    buttonTop: false
+    width: "1"
+    text: >-
+      A﻿ls Welpe ist dein Hund zwar kein gänzlich unbeschriebenes Blatt mehr,
+      dennoch saugt er Umweltreize und Erlebnisse in dieser Zeit auf wie ein
+      Schwamm. Als kleiner tapsiger Welpe mag seine Niedlichkeit noch
+      verzaubern, doch Regeln und Grenzen im Zusammenleben sind bereits in
+      diesem zarten Alter wichtig und fallen auf fruchtbaren Boden. Alles was
+      dein Hund jetzt schon lernt, macht euch beiden das Leben während der
+      Pubertät und Junghundezeit um einiges leichter.
+
+
+      S﻿o schnell die süße Welpenzeit auch vorüber ist, so nahtlos schließen sich die Junghundezeit mit ihren Höhen und Tiefen, hormonellen Veränderungen und pubertärer Rebellion an. 
+
+
+      Ich begleite euch auch durch diese intensive Zeit und zeige dir, wie du einen Hund trotz pubertärer Flausen souverän durchs Leben führst und weiterhin geduldig mit ihm bleibst. Wie du trotz hitziger Debatten einen kühlen Kopf bewahren und dich durchsetzen kannst. Dein Hund lernt sich zurückzunehmen und auch wenn es mal aufregend wird, nicht immer in der ersten Reihe tanzen zu müssen.
+
+
+      Ausgestattet mit diesen Fähigkeiten wird dein Hund sich bald wieder diszipliniert an die gelernten Verhaltensregeln halten können. Beste Voraussetzungen für ein entspanntes Hundeleben an deiner Seite!
+
+
+      ### D﻿ie Welpenkurse werden nur 2-3 x pro Jahr angeboten, daher sind die Plätze sehr begrenzt.
+
+
+      ### S﻿ichere dir bereits jetzt einen Platz im nächsten Welpen- bzw. Junghundekurs!
+    button: JETZT ANMELDEN
+    buttonSize: "5"
+    headingCentered: false
+    isColored: false
+    type: text
+  - heading: Welpenkurs
     headingLevel: "2"
     buttonTop: false
     headingSize: "2"
