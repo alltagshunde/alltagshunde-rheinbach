@@ -7,22 +7,24 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     isColored: false
-    heading: "Angebote für Welpen & Junghunde "
-  - type: text
-    width: "1"
+    heading: Ein Welpe zieht ein ...
+  - heading: ... und mit ihm ein Berg von Erwartungen
     headingLevel: "2"
+    buttonTop: false
+    width: "1"
+    text: "#### L﻿ass uns gemeinsam das Fundament für ein glückliches und
+      entspanntes Hundeleben schaffen!"
+    button: ""
+    buttonSize: null
     headingCentered: true
     isColored: true
-    heading: DAS ERSTE LEBENSJAHR DEINES HUNDES BILDET DEN GRUNDSTEIN FÜR SEINE
-      WEITERE ENTWICKLUNG
-    text: L﻿ass uns gemeinsam das Fundament für ein glückliches und entspanntes
-      Hundeleben schaffen!
+    type: text
   - heading: "Welpenkurs "
     headingLevel: "2"
     buttonTop: false
     headingSize: "2"
     width: 2/3
-    buttonLink2: '"https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18655&ia=show'
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&ia=index
     text: >-
       **für Welpen im Alter von 9 bis ca. 15 Wochen (bei Einstieg!)**
 
@@ -51,22 +53,27 @@ buildingBlocks:
 
       ### **Pro Kurs gibt es jeweils einen festen Zusatztermin, an dem versäumte Stunden nachgeholt werden können!**
     button: JETZT PLATZ SICHERN!
-    buttonSize: null
+    buttonSize: "5"
     headingCentered: false
-    isColored: true
+    isColored: false
     type: text
-  - heading: Hier bist du richtig, wenn ....
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: welpengruppe-charly-hort-zu.jpg
+  - heading: Du bist hier richtig, wenn ...
     headingLevel: "2"
     buttonTop: false
     headingSize: "2"
-    width: 1/3
-    buttonLink2: '"https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18655&ia=show'
+    width: 2/3
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&ia=index
     text: >-
-      Stubenreinheit, Beißhemmung etc. sind für dich keine Herausforderungen
-      (mehr)? Sitz und Platz wuppt Ihr beide mit links und auch für ausreichend
-      Sozialkontakte ist gesorgt, denn Du kannst Begegnungen mit anderen
-      Hundehaltern unterwegs gut einschätzen und regeln? Vielleicht leben in
-      deinem Haushalt auch noch weitere Hunde dies ist nicht dein erstes Match?
+      Stubenreinheit, Beißhemmung etc. für dich keine Herausforderungen (mehr)
+      sind? Sitz und Platz für dich kein Garanten für gute Erziehung darstellen.
+      Vielleicht leben in deinem Haushalt auch noch weitere Hunde dies ist nicht
+      dein erstes Match? 
 
 
       ### Wenn diese Punkte auf dich zutreffen:
@@ -85,20 +92,8 @@ buildingBlocks:
     button: JETZT PLATZ SICHERN!
     buttonSize: "5"
     headingCentered: true
-    isColored: false
-    type: text
-  - type: image
-    width: 1/3
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: welpengruppe-charly-hort-zu.jpg
-  - type: image
-    width: 1/3
-    innerWidth: "1"
-    isBanner: false
     isColored: true
-    image: welpengruppe-erklarung.jpg
+    type: text
   - type: image
     width: 1/3
     innerWidth: "1"
@@ -162,8 +157,8 @@ buildingBlocks:
 
         F﻿ür deine Fragen zwischendurch biete ich zusätzlich montags nachmittags, sowie mittwochs vormittags Beratungstermine via Zoom oder Telefon an: 
       * ### **Beratung via Telefon / Zoom-Meeting: 19,- Euro je 20 Min. (inkl. 19% MwSt.)**
-    button: JETZT BUCHEN!
-    buttonSize: "5"
+    button: ""
+    buttonSize: null
     headingCentered: false
     isColored: false
     type: text
