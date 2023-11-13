@@ -54,17 +54,24 @@ buildingBlocks:
     isColored: false
     type: text
   - type: card
-    width: 1/2
-    innerWidth: 3/4
+    width: 1/3
+    innerWidth: "1"
     isColored: true
     image: welpe-charly-traumt.jpg
     heading: ""
     button: Angebote für Welpen
     buttonLink: Welpen 2024
   - type: card
-    width: 1/2
-    innerWidth: 3/4
+    width: 1/3
+    innerWidth: "1"
     isColored: true
     image: gulliver.jpg
     buttonLink: Junghunde 2024
     button: Angebote für Junghunde
+  - type: card
+    width: 1/3
+    innerWidth: "1"
+    isColored: true
+    image: dog-g74609b3b5_1920.jpg
+    buttonLink: Workshops
+    button: Mehr erfahren
