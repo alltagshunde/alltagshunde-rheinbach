@@ -1,4 +1,4 @@
-title: Welpen 2022
+title: Welpen 2023
 isLandingPage: false
 parentPage: Welpen & Junghunde 2022
 buildingBlocks:
@@ -19,7 +19,7 @@ buildingBlocks:
       Hundeleben schaffen!
   - headingLevel: "2"
     buttonTop: false
-    width: "1"
+    width: 2/3
     text: >-
       A﻿ls Welpe ist dein Hund zwar kein gänzlich unbeschriebenes Blatt mehr,
       dennoch saugt er Umweltreize und Erlebnisse in dieser Zeit auf wie ein
@@ -48,37 +48,15 @@ buildingBlocks:
     headingCentered: false
     isColored: false
     type: text
-  - heading: Welpenkurs
-    headingLevel: "2"
-    buttonTop: false
-    headingSize: "2"
-    width: 2/3
-    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18655&ia=show
-    text: >-
-      ### **.﻿.. und stellt die Welt erstmal ordentlich auf den Kopf. <br>Das
-      stresst dich nicht (mehr)?**
-
-
-      Stubenreinheit, Beißhemmung etc. sind für dich keine Herausforderungen (mehr)? <br>Sitz und Platz wuppt Ihr beide mit links und auch für ausreichend Sozialkontakte ist gesorgt, denn Du kannst Begegnungen mit anderen Hundehaltern unterwegs gut einschätzen?<br>Vielleicht leben in deinem Haushalt auch noch weitere Hunde oder dein Freundeskreis besteht aus vielen Hundehaltern?
-
-
-      ### **Du magst Hunde die sich gut benehmen können und** <br>**Du hast richtig Bock auf Erziehung?**<br>**F﻿rustrationstoleranz und Impulskontrolle sind keine Fremdwörter für dich?** <br> **Doch wie vermittelst Du das deinem Welpen?** <br>**Genau dabei wünschst Du dir Unterstützung?** 
-
-
-      ### Dann bist Du hier goldrichtig!<br>Lass uns gemeinsam den Grundstock für eine gute Erziehung deines Welpen legen!
-    button: JETZT PLATZ SICHERN!
-    buttonSize: "4"
-    headingCentered: true
-    isColored: false
-    type: text
   - type: image
     width: 1/3
     innerWidth: "1"
     isBanner: false
-    isColored: false
-    image: welpengruppe-charly-hort-zu.jpg
+    isColored: true
+    image: welpe-charly-traumt.jpg
   - heading: "Welpenkurs "
     headingLevel: "2"
+    buttonTop: false
     headingSize: "2"
     width: 2/3
     buttonLink2: ""
@@ -86,7 +64,7 @@ buildingBlocks:
       **für Welpen im Alter von 9 bis ca. 15 Wochen (bei Einstieg!)**
 
 
-      ### In meinem Welpenkurs legen wir in einer kleinen Gruppe von 2-4 Welpen den Grundstein für ein erfülltes und ausgeglichenes Hundeleben.
+      ### Im Welpenkurs legen wir in kleiner Gruppe von 2-5 Welpen den Grundstein für ein erfülltes und ausgeglichenes Hundeleben.
 
 
       Denn ein gut erzogener Hund, der früh gelernt hat sich selbst nicht zu wichtig zu nehmen, auf seinen Menschen zu achten und sich auch mal zurückzunehmen, genießt in unserer Gesellschaft größere Freiheiten und ist daher überall gern gesehen.
@@ -106,11 +84,52 @@ buildingBlocks:
       * **Frustrationstoleranz**: Es ist zwar langweilig, aber Dein Hund kommt klar damit
 
       * **Kooperation**: Dein Hund lernt bei dir „nachzufragen“ um seine Ziele zu erreichen, statt einfach mit dem Kopf durch die Wand zu wollen
-    button: ""
+
+
+      ### **Pro Kurs gibt es jeweils einen festen Zusatztermin, an dem versäumte Stunden nachgeholt werden können!**
+    button: JETZT PLATZ SICHERN!
     buttonSize: null
     headingCentered: false
     isColored: true
     type: text
+  - heading: Hier bist du richtig, wenn ....
+    headingLevel: "2"
+    buttonTop: false
+    headingSize: "2"
+    width: 1/3
+    buttonLink2: ""
+    text: >-
+      Stubenreinheit, Beißhemmung etc. sind für dich keine Herausforderungen
+      (mehr)? Sitz und Platz wuppt Ihr beide mit links und auch für ausreichend
+      Sozialkontakte ist gesorgt, denn Du kannst Begegnungen mit anderen
+      Hundehaltern unterwegs gut einschätzen und regeln? Vielleicht leben in
+      deinem Haushalt auch noch weitere Hunde dies ist nicht dein erstes Match?
+
+
+      ### Wenn diese Punkte auf dich zutreffen:
+
+
+      * #### Du magst Hunde die sich gut benehmen können
+
+      * #### Du hast richtig Bock auf Erziehung?
+
+      * #### Dir ist wichtig, dass dein Hund lernt selbstständig zur Ruhe zu kommen, sich zurückzunehmen und sich an dir zu orientieren?
+
+      * #### Freilauf der Hunde untereinander spielt für dich dagegen eine untergeordnete Rolle?
+
+
+      ### Dann bist Du hier goldrichtig!
+    button: JETZT PLATZ SICHERN!
+    buttonSize: "5"
+    headingCentered: true
+    isColored: false
+    type: text
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: false
+    image: welpengruppe-charly-hort-zu.jpg
   - heading: Neuer Kurs ab Januar !
     headingLevel: "2"
     buttonTop: true
@@ -144,12 +163,6 @@ buildingBlocks:
     headingCentered: false
     isColored: true
     type: text
-  - type: image
-    width: 1/3
-    innerWidth: "1"
-    isBanner: false
-    isColored: true
-    image: welpe-charly-traumt.jpg
   - type: image
     width: 1/3
     innerWidth: "1"
