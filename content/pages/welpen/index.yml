@@ -1,4 +1,4 @@
-title: Welpen 2023
+title: Welpen 2024
 isLandingPage: false
 parentPage: Welpen & Junghunde 2022
 buildingBlocks:
@@ -17,44 +17,6 @@ buildingBlocks:
       WEITERE ENTWICKLUNG
     text: L﻿ass uns gemeinsam das Fundament für ein glückliches und entspanntes
       Hundeleben schaffen!
-  - headingLevel: "2"
-    buttonTop: false
-    width: 2/3
-    buttonLink2: '"https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18655&ia=show'
-    text: >-
-      A﻿ls Welpe ist dein Hund zwar kein gänzlich unbeschriebenes Blatt mehr,
-      dennoch saugt er Umweltreize und Erlebnisse in dieser Zeit auf wie ein
-      Schwamm. Als kleiner tapsiger Welpe mag seine Niedlichkeit noch
-      verzaubern, doch Regeln und Grenzen im Zusammenleben sind bereits in
-      diesem zarten Alter wichtig und fallen auf fruchtbaren Boden. Alles was
-      dein Hund jetzt schon lernt, macht euch beiden das Leben während der
-      Pubertät und Junghundezeit um einiges leichter.
-
-
-      S﻿o schnell die süße Welpenzeit auch vorüber ist, so nahtlos schließen sich die Junghundezeit mit ihren Höhen und Tiefen, hormonellen Veränderungen und pubertärer Rebellion an. 
-
-
-      Ich begleite euch auch durch diese intensive Zeit und zeige dir, wie du einen Hund trotz pubertärer Flausen souverän durchs Leben führst und weiterhin geduldig mit ihm bleibst. Wie du trotz hitziger Debatten einen kühlen Kopf bewahren und dich durchsetzen kannst. Dein Hund lernt sich zurückzunehmen und auch wenn es mal aufregend wird, nicht immer in der ersten Reihe tanzen zu müssen.
-
-
-      Ausgestattet mit diesen Fähigkeiten wird dein Hund sich bald wieder diszipliniert an die gelernten Verhaltensregeln halten können. Beste Voraussetzungen für ein entspanntes Hundeleben an deiner Seite!
-
-
-      ### D﻿ie Welpenkurse werden nur 2-3 x pro Jahr angeboten, daher sind die Plätze sehr begrenzt.
-
-
-      ### S﻿ichere dir bereits jetzt deinen Platz im nächsten Welpenkurs!
-    button: JETZT PLATZ SICHERN!
-    buttonSize: "5"
-    headingCentered: false
-    isColored: false
-    type: text
-  - type: image
-    width: 1/3
-    innerWidth: "1"
-    isBanner: false
-    isColored: true
-    image: welpe-charly-traumt.jpg
   - heading: "Welpenkurs "
     headingLevel: "2"
     buttonTop: false
