@@ -164,20 +164,23 @@ buildingBlocks:
     image: edda-ruckruf.jpg
   - type: text
     width: 1/2
-    headingLevel: "3"
+    headingLevel: "2"
     headingCentered: false
     isColored: false
     text: >-
       **Training in angenehmer Atmosphäre:**
 
 
-      Damit ich dich und deinen Hund optimal unterstützen und auf jeden Teilnehmer individuell eingehen kann, trainieren wir in kleiner Gruppe von 2-4 Welpen. 
+      Damit ich dich und deinen Hund optimal unterstützen und auf jeden Teilnehmer individuell eingehen kann, trainieren wir in kleiner Gruppe von 2-5 Hunden.
 
 
       **Der Freilauf der Hunde steht dabei nicht im Vordergrund**. 
 
 
-      Vielmehr möchte ich dich von Beginn an in der Erziehung deines jungen Hundes unterstützen, damit er zu einem zuverlässigen Begleiter in deinem Alltag heranwächst. Wenn die Hunde von Alter, Größe und Temperament zueinander passen, können Freilaufsequenzen eingebaut werden. 
+      Vielmehr möchte ich dich von Beginn an bei der Erziehung deines jungen Hundes unterstützen, damit er zu einem zuverlässigen Begleiter in deinem Alltag heranwächst. Dazu gehört für mich u.a., dass dein Hund lernt sich zurückzunehmen und ein Zusammentreffen mit Artgenossen nicht automatisch als Partyeinladung versteht. 
+
+
+      Angepasst an Alter, Größe und Temperament der Hunde, werden kleine Freilaufsequenzen eingebaut. 
 
 
       **Mitzubringen sind:**
@@ -191,8 +194,8 @@ buildingBlocks:
 
       * kleine, weiche Leckerlis die dein Hund gut schlucken kann
 
-      * Impfpass des Hundes + Nachweis über Haftpflichtversicherung (nur zur ersten Trainingsstunde)
-    heading: "Hinweise zum Training:"
+      * **Impfpass des Hundes + Nachweis über Haftpflichtversicherung** (nur zur ersten Trainingsstunde)
+    heading: "Wichtige Hinweise zum Ablauf:"
   - type: text
     width: 1/2
     headingLevel: "3"
