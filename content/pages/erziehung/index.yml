@@ -5,12 +5,13 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Welpen & Junghunde
+    heading: Angebote für Welpen & Junghunde
     isColored: false
-  - heading: Das erste Jahr im Leben deines Hundes
-    headingLevel: "3"
+  - heading: DAS ERSTE LEBENSJAHR DEINES HUNDES BILDET DEN GRUNDSTEIN FÜR SEINE
+      WEITERE ENTWICKLUNG
+    headingLevel: "2"
     buttonTop: false
-    headingSize: "3"
+    headingSize: "2"
     width: "1"
     text: Lass uns gemeinsam das Fundament für ein glückliches und erfülltes
       Hundeleben schaffen!
@@ -19,74 +20,32 @@ buildingBlocks:
     headingCentered: true
     isColored: true
     type: text
-  - heading: "Das erste Lebensjahr deines Hundes ist unsagbar wichtig für seine
-      weitere Entwicklung:"
-    headingLevel: "4"
-    buttonTop: false
-    headingSize: "4"
-    width: 2/3
-    text: >-
-      A﻿ls Welpe ist dein Hund zwar kein gänzlich unbeschriebenes Blatt mehr,
-      dennoch saugt er Umweltreize und Erlebnisse in dieser Zeit auf wie ein
-      Schwamm. Als kleiner tapsiger Welpe mag dich seine Niedlichkeit noch
-      verzaubern, doch Regeln und Grenzen im Zusammenleben sind bereits in
-      diesem zarten Alter wichtig und fallen auf fruchtbaren Boden. Alles was
-      dein Hund jetzt schon lernt, macht euch beiden das Leben während der
-      Pubertät und Junghundezeit um einiges leichter.
-
-
-      S﻿o schnell die süße Welpenzeit auch vorüber ist, so nahtlos schließen sich die Junghundezeit mit ihren Höhen und Tiefen, hormonellen Veränderungen und pubertärer Rebellion an. Doch keine Bange -  gerne begleite ich euch auch durch diese intensive Zeit und zeige dir, wie Du Deinen Hund trotz pubertärer Flausen souverän durchs Leben führst und weiterhin geduldig mit ihm bleibst. Wie Du trotz hitziger Debatten einen kühlen Kopf bewahren und Dich durchsetzen kannst. Dein Hund lernt sich zurückzunehmen und auch wenn es mal aufregend wird, nicht immer in der ersten Reihe tanzen zu müssen.
-
-
-      Ausgestattet mit diesen Fähigkeiten wird dein Hund sich bald wieder diszipliniert an die gelernten Verhaltensregeln halten können. Beste Voraussetzungen für ein entspanntes Hundeleben an deiner Seite!
-    button: Jetzt Platz sichern!
-    buttonSize: "3"
-    headingCentered: false
-    isColored: false
-    type: text
-  - type: image
-    width: 1/3
-    innerWidth: "1"
-    isBanner: false
-    isColored: false
-    image: welpengruppe-charly-hort-zu.jpg
-  - heading: Mein Angebot für Welpen & Junghunde
-    headingLevel: "2"
-    buttonTop: false
-    headingSize: "2"
+  - type: text
     width: "1"
-    text: >-
-      Meine Erfahrungen der letzten Jahre haben gezeigt, dass die Bedürfnisse
-      der Hundehalter oft sehr weit auseinanderklaffen und habe mein Kurskonzept
-      entsprechend angepasst: 
-
-
-      * W﻿elpen- und Junghundekurse finden nur in kleinen Gruppen von 2-5 Teilnehmern statt. Dadurch bleibt genügend Raum um individuell auf jedes Team einzugehen. 
-
-      * W﻿ir alle haben heutzutage einen engen Terminplan. Meine Kurse beschränken sich daher jeweils auf 6 Kursstunden und vermitteln dir in dieser Zeit die wichtigsten Grundlagen für die jeweilige Lebensphase deines Hundes (Welpen-, JH-Kurs I + II). 
-
-      * Solltest Du intensivere Unterstützung bei der Erziehung deines Hundes benötigen, können individuelle Termine für zusätzliches Einzeltraining oder Hausbesuche vereinbart werden. 
-
-      * **W﻿ichtig:** Der Fokus meiner Kurse liegt auf der Erziehung deines jungen Hundes. Dabei sind mir insbesondere die Entwicklung guter Selbstregulation (Frustrationstoleranz, Impulskontrolle) und einer stabilen und vertrauensvollen Beziehung zu dir als Hundehalter (Orientierung) wichtig. Das freie Spiel unter den Hunden spielt daher nur eine untergeordnete Rolle und findet während der Kursstunden daher nur in kurzen Sequenzen bzw. im Rahmen einzelner Übungen statt. 
-
-      * Ergänzend zu den Kursstunden besteht jedoch die Möglichkeit mit dem Welpen bzw. Junghund die Sozialkontaktstunden zu besuchen und / oder mich während des Spaziergang mit meinen Hundegruppen zu begleiten. Eine tolle Möglichkeit dem Junghund unter Anleitung die sozialen Gepflogenheiten innerhalb einer gut geführten und gemischten Hundegruppe näherzubringen.
-    button: Jetzt Platz sichern!
-    buttonSize: "3"
-    headingCentered: false
-    isColored: true
-    type: text
-  - type: card
-    width: 1/2
-    innerWidth: 3/4
+    headingLevel: "1"
+    headingCentered: true
     isColored: false
+    button: Jetzt buchen
+    buttonSize: "3"
+    buttonTop: false
+  - type: card
+    width: 1/3
+    innerWidth: 3/4
+    isColored: true
     image: welpe-charly-traumt.jpg
     heading: ""
-    buttonLink: Welpen 2022
     button: Angebote für Welpen
+    buttonLink: Welpen 2023
   - type: card
-    width: 1/2
+    width: 1/3
     innerWidth: 3/4
-    isColored: false
+    isColored: true
     image: gulliver.jpg
     buttonLink: Junghunde 2022
     button: Angebote für Junghunde
+  - type: card
+    width: 1/3
+    innerWidth: 3/4
+    isColored: true
+    image: seminare-workshops.jpg
+    button: Themenabende
