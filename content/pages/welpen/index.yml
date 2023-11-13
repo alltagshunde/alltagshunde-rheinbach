@@ -24,7 +24,7 @@ buildingBlocks:
     buttonTop: false
     headingSize: "2"
     width: 2/3
-    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&ia=index
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18923&ia=show
     text: >-
       **für Welpen im Alter von 9 bis ca. 15 Wochen (bei Einstieg!)**
 
@@ -68,7 +68,7 @@ buildingBlocks:
     buttonTop: false
     headingSize: "2"
     width: 2/3
-    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&ia=index
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18923&ia=show
     text: >-
       Stubenreinheit, Beißhemmung etc. für dich keine Herausforderungen (mehr)
       sind? Sitz und Platz für dich kein Garanten für gute Erziehung darstellen.
@@ -103,7 +103,7 @@ buildingBlocks:
   - heading: "Wichtige Hinweise zum Ablauf:"
     headingLevel: "2"
     width: 1/2
-    buttonLink2: '"https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18655&ia=show'
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18923&ia=show
     text: >-
       **Training in angenehmer Atmosphäre:**
 
