@@ -7,8 +7,8 @@ buildingBlocks:
     headingColorPrimary: false
     heading: Angebote für Welpen & Junghunde
     isColored: false
-  - heading: DAS ERSTE LEBENSJAHR DEINES HUNDES BILDET DEN GRUNDSTEIN FÜR SEINE
-      WEITERE ENTWICKLUNG
+  - heading: Das erste Lebensjahr deines Hundes bildet die Basis für seine weitere
+      Entwicklung
     headingLevel: "2"
     buttonTop: false
     headingSize: "2"
@@ -20,8 +20,8 @@ buildingBlocks:
     isColored: true
     type: text
   - heading: Lass uns gemeinsam das Fundament für ein glückliches und erfülltes
-      Hundeleben schaffen!
-    headingLevel: "2"
+      Leben an deiner Seite schaffen!
+    headingLevel: "3"
     buttonTop: false
     width: "1"
     buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18923&ia=show
@@ -50,7 +50,7 @@ buildingBlocks:
       ### Daher sichere dir schon frühzeitig deinen Platz im nächsten Kurs!
     button: JETZT PLATZ SICHERN!
     buttonSize: "5"
-    headingCentered: false
+    headingCentered: true
     isColored: false
     type: text
   - type: card
