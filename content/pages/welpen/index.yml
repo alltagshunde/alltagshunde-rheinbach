@@ -24,7 +24,7 @@ buildingBlocks:
     buttonTop: false
     headingSize: "2"
     width: 2/3
-    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18923&ia=show
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18924,18923&ia=show
     text: >-
       **für Welpen im Alter von 9 bis ca. 15 Wochen (bei Einstieg!)**
 
@@ -68,7 +68,7 @@ buildingBlocks:
     buttonTop: false
     headingSize: "2"
     width: 2/3
-    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18923&ia=show
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18924,18923&ia=show
     text: >-
       ### \#﻿ Du magst Hunde die sich gut benehmen können und hast richtig Bock
       auf Erziehung?
@@ -101,7 +101,7 @@ buildingBlocks:
   - heading: "Wichtige Hinweise zum Ablauf:"
     headingLevel: "2"
     width: 1/2
-    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18923&ia=show
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18924,18923&ia=show
     text: >-
       **Training in angenehmer Atmosphäre:**
 
@@ -130,7 +130,7 @@ buildingBlocks:
       * kleine, weiche Leckerlis die dein Hund gut schlucken kann
 
       * **Impfpass des Hundes + Nachweis über Haftpflichtversicherung** (nur zur ersten Trainingsstunde)
-    button: JETZT PLATZ SICHERN!
+    button: Termine und Anmeldung
     buttonSize: "5"
     headingCentered: false
     isColored: false
