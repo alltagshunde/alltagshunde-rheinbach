@@ -48,7 +48,7 @@ buildingBlocks:
     isColored: false
     image: unterwegs_klein.jpg
   - headingColorPrimary: false
-    heading: Termine 2023
+    heading: Termine 2024
     headingLevel: "2"
     headingSize: "1"
     width: "1"
@@ -56,46 +56,7 @@ buildingBlocks:
     headingCentered: true
     isColored: true
     type: text
-  - heading: Social Walk im Herbst
-    headingLevel: "3"
-    buttonTop: true
-    width: "1"
-    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18287&ia=show
-    text: >-
-      ### Sonntag 29. Oktober 2023, 15:00 Uhr (Dauer ca. 2 Stunden)
-
-
-      ### **Start: Wanderparkplatz Panorama-Sauna, 53501 Grafschaft-Holzweiler**
-
-
-      Gemeinsam erkunden wir den herbstlichen Wald, beobachten die Vierbeiner und fachsimpeln über Hundeverhalten. Zum Spaß streuen wir natürlich auch die ein oder andere kleine Übungen ein.
-
-
-      B﻿ei den Social Walks liegt der Schwerpunkt auch immer auf dem kontrollierten Kontakt zu Hund und Mensch. Es sind daher auch ausdrücklich Hunde willkommen, die Schwierigkeiten im Kontakt mit Artgenossen haben. Das Ziel dieses Spaziergangs in kleiner Runde ist es, kontrollierte Begegnungen zwischen den einzelnen Hunden zuzulassen und sie dabei zu unterstützen, angemessen mit ihren Artgenossen zu kommunizieren. Dabei sollen vor allem auch die Besitzer die Möglichkeit haben, ihren Hund immer wieder einzuschätzen, die Kommunikation der Hunde zu erleben und ihre Vierbeiner vielleicht auch neu kennenzulernen. 
-
-
-      **W﻿ichtig:** 
-
-
-      Der Spaziergang findet grundsätzlich an der Leine statt. Je nach Zusammenstellung der Gruppe werden einzelne Hunde situativ frei laufen können. Ziel sollte ein entspannter Spaziergang für alle Teilnehmer sein. 
-
-
-      **Teilnahmevoraussetzung:**
-
-
-      Teilnehmen können alle Hunde, die mit Artgenossen und Menschen verträglich sind. Hunde mit sozialen Unverträglichkeiten sind ebenfalls und ausdrücklich willkommen, müssen jedoch mit einem gut sitzenden Maulkorb gesichert werden. Wenn du hier Zweifel hast, sprich mich bitte an! Jagende Hunde müssen angeleint bleiben, läufige Hündinnen dürfen leider nicht mitkommen.
-
-
-      ### **Kosten: 30,00 Euro pro Mensch-Hund-Team, Begleitperson gratis**
-
-
-      ### **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
-    button: JETZT ANMELDEN
-    buttonSize: "4"
-    headingCentered: false
-    isColored: false
-    type: text
-  - heading: Social Walk im Advent
+  - heading: "Neujahrs Social Walk "
     headingLevel: "3"
     buttonTop: true
     width: "1"
@@ -139,7 +100,7 @@ buildingBlocks:
 
       ### **Teilnehmer: mindestens 5, maximal 10 Mensch-Hund-Teams**
     button: JETZT ANMELDEN
-    buttonSize: "4"
+    buttonSize: "5"
     headingCentered: false
-    isColored: true
+    isColored: false
     type: text
