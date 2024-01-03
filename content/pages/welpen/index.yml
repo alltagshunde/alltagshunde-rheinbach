@@ -63,41 +63,6 @@ buildingBlocks:
     isBanner: false
     isColored: false
     image: welpengruppe-charly-hort-zu.jpg
-  - heading: "Du bist hier goldrichtig, wenn diese Punkte auf dich zutreffen:"
-    headingLevel: "2"
-    buttonTop: false
-    headingSize: "2"
-    width: 2/3
-    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18924,18923&ia=show
-    text: >-
-      ### \#﻿ Du magst Hunde die sich gut benehmen können und hast richtig Bock
-      auf Erziehung?
-
-
-      ### \# Sitz, Platz, Fuß stellen für dich keine Garanten für gute Erziehung dar.
-
-
-      ### \# Du möchtest an der Beziehung zu deinem Hund arbeiten. Möchtest , dass dein Hund dir vertraut aber möchtest auch ernst genommen werden.
-
-
-      ### \# Dir ist wichtig, dass dein Hund lernt selbstständig (!) zur Ruhe zu kommen, sich zurückzunehmen und sich an dir zu orientieren.
-
-
-      ### \# Freilauf der Hunde untereinander spielt für dich eine untergeordnete Rolle.
-
-
-      W﻿enn Du jetzt mehrfach zustimmend genickt hast, dann bist du in meinem Welpenkurs goldrichtig! Ich freue mich darauf, deinen kleinen Freund und dich kennenzulernen und euch zu begleiten!
-    button: Termine und Anmeldung
-    buttonSize: "5"
-    headingCentered: true
-    isColored: true
-    type: text
-  - type: image
-    width: 1/3
-    innerWidth: "1"
-    isBanner: false
-    isColored: true
-    image: edda-ruckruf.jpg
   - heading: "Wichtige Hinweise zum Ablauf:"
     headingLevel: "2"
     width: 1/2
@@ -135,6 +100,41 @@ buildingBlocks:
     headingCentered: false
     isColored: false
     type: text
+  - heading: "Du bist hier goldrichtig, wenn diese Punkte auf dich zutreffen:"
+    headingLevel: "2"
+    buttonTop: false
+    headingSize: "2"
+    width: 2/3
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=18924,18923&ia=show
+    text: >-
+      ### \#﻿ Du magst Hunde die sich gut benehmen können und hast richtig Bock
+      auf Erziehung?
+
+
+      ### \# Sitz, Platz, Fuß stellen für dich keine Garanten für gute Erziehung dar.
+
+
+      ### \# Du möchtest an der Beziehung zu deinem Hund arbeiten. Möchtest , dass dein Hund dir vertraut aber möchtest auch ernst genommen werden.
+
+
+      ### \# Dir ist wichtig, dass dein Hund lernt selbstständig (!) zur Ruhe zu kommen, sich zurückzunehmen und sich an dir zu orientieren.
+
+
+      ### \# Freilauf der Hunde untereinander spielt für dich eine untergeordnete Rolle.
+
+
+      W﻿enn Du jetzt mehrfach zustimmend genickt hast, dann bist du in meinem Welpenkurs goldrichtig! Ich freue mich darauf, deinen kleinen Freund und dich kennenzulernen und euch zu begleiten!
+    button: Termine und Anmeldung
+    buttonSize: "5"
+    headingCentered: true
+    isColored: true
+    type: text
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: true
+    image: edda-ruckruf.jpg
   - heading: "Zusätzliche Beratung:"
     headingLevel: "2"
     width: 1/2
