@@ -26,17 +26,24 @@ buildingBlocks:
     headingCentered: false
     headingColorPrimary: false
     text: >-
-      Anhand einer Geruchsprobe (z. B. einem getragenen Kleidungsstück) lernt
-      dein Hund die Spur einer versteckten Person zu verfolgen und diese bei
-      Fund eindeutig anzuzeigen. Als Mensch lernst du dabei, auf die Fähigkeiten
-      deines Hundes zu vertrauen und seine Signale anhand der Körperhaltung zu
-      "lesen". 
+      Beim Mantrailing lernt dein Hund die Spur einer versteckten Person anhand
+      einer Geruchsprobe dieser Person (z. B. ein getragenes Kleidungsstück) zu
+      verfolgen und die Person bei Fund anzuzeigen.
 
 
-      Gerade für Hunde, die im Alltag viel eingeschränkt werden müssen, ist es eine großartige Erfahrung, wenn sein Mensch mal loslässt und ihm zutraut die Aufgabe zu meistern. Dass Hunde weniger jagen würden, weil sie durch Mantrailing beschäftigt werden, ist jedoch ein Gerücht. Ebenso wenig fördert Mantrailing das Jagdverhalten deines Hundes unterwegs. 
+      Als Mensch lernst du dabei, auf die Fähigkeiten deines Hundes zu vertrauen und seine Signale anhand der Körperhaltung zu "lesen". Gerade für Hunde, die im Alltag viel eingeschränkt werden müssen, ist es eine großartige Erfahrung, wenn der Mensch mal loslässt und dem Hund zutraut die Aufgabe zu meistern.
 
 
-      **Das Training erfordert eure Teamarbeit auf höchstem Niveau:** <br>deine Unterstützung ist z. B. immer dann gefragt, wenn dein Hund Probleme hat der Geruchsspur zu folgen oder diese verloren hat. Auch wenn Hindernisse (z. B. Straßenüberquerungen, verschlossene Türen etc.) auf dem Weg auftauchen ist dein Hund auf deine Unterstützung angewiesen. Du lernst deinen Hund in diesen Situationen nicht zu korrigieren, sondern ihm stattdessen ganz gezielt deine Hilfestellung anzubieten, so dass er die Spur eigenständig wiederfindet. Dein Hund lernt auf deine Unterstützung zu vertrauen und dich ganz gezielt um Hilfe zu bitten wenn er nicht weiter weiß.
+      **Das Training erfordert eure Teamarbeit auf höchstem Niveau:**
+
+
+      Dein Hund hat beim Mantrailing sprichwörtlich die „Nase vorn“. Doch deine Unterstützung ist z. B. immer dann gefragt, wenn dein Hund Probleme hat der Geruchsspur zu folgen oder diese verloren hat. Dies kann z. B. aufgrund der Windverhältnisse (sog. „Abriss“) oder in einer großen Kreuzung der Fall sein. Auch wenn Hindernisse (z. B. Straßenüberquerungen, verschlossene Türen etc.) auf dem Weg auftauchen ist dein Hund auf deine Unterstützung angewiesen und lernt auf deine Hilfe zu vertrauen.
+
+
+      **Übrigens …**
+
+
+      Dass Hunde weniger jagen würden, weil sie durch Mantrailing beschäftigt werden, ist jedoch ein Gerücht. Ebenso wenig fördert Mantrailing das Jagdverhalten deines Hundes unterwegs.
     heading: Was ist Mantrailing?
   - type: image
     width: 1/2
@@ -50,40 +57,51 @@ buildingBlocks:
     isBanner: false
     image: mantrailing_gefunden.jpg
     isColored: true
-  - headingColorPrimary: false
-    heading: "Termine & Kosten: "
-    headingLevel: "2"
-    buttonTop: true
+  - heading: "Termine & Kosten: "
+    headingLevel: "3"
+    buttonTop: false
     headingSize: "3"
-    width: "1"
-    buttonLink2: https://app.squarespacescheduling.com/schedule.php?owner=22811034
+    width: 1/2
     text: >-
-      #### Derzeit biete ich folgende offenen Trainingsgruppen an - <br> die
-      Termine können auch variabel gebucht werden:
+      #### \- - - - - D﻿ERZEIT SIND LEIDER KEINE KAPAZITÄTEN MEHR FREI - - - - -
+
+
+      #### Das Training findet an folgenden Wochentagen statt:
 
 
       * **mittwochs** 18:30 Uhr 
 
-      * **freitags** 10:00 Uhr 
+      * **freitags** 11:00 Uhr 
 
       * **samstags** 15:00 Uhr (14-tägig) 
 
 
-      **Einzeln:** 30,00 Euro pro Hund u. Termin (inkl. 19 % MwSt.) <br>**5er-Karte:** 140,- Euro (inkl. 19 % MwSt.)
+      **Kosten bei Einzelbuchung:**  30,00 Euro pro Hund u. Termin (inkl. 19 % MwSt.) <br> **Kosten 5er-Karte:** 140,- Euro (inkl. 19 % MwSt.)
 
 
-      Das Training findet an unterschiedlichen Orten in und um Meckenheim, Wachtberg und Rheinbach statt.  Der genaue Einsatzort wird 2 Tage vor dem Training per WhatsApp bekannt gegeben. 
+      Das Training findet an unterschiedlichen Orten in und um Meckenheim, Wachtberg und Rheinbach statt.  Der genaue Einsatzort wird 1-2 Tage vor dem Training per WhatsApp bekannt gegeben.
+    button: ""
+    buttonSize: null
+    headingCentered: false
+    isColored: false
+    type: text
+  - heading: "**TEILNAHMEVORAUSSETZUNGEN:**"
+    headingLevel: "3"
+    buttonTop: false
+    width: 1/2
+    text: >-
+      **Da die Hunde einzeln arbeiten und die Zwischenzeiten auch zur
+      Regeneration benötigen, <br> sollte dein Hund zwischen den Einsätzen
+      entspannt im Auto warten können!**
 
 
-      **WICHTIG:** 
+      **Während des Trainings bewegen wir uns im öffentlichen Raum und nicht selten in recht belebtem Umfeld. Dein Hund sollte daher einen gewissen Grundgehorsam haben.** \
 
+      \
 
-      **Da die Hunde einzeln arbeiten und die Zwischenzeiten auch zur Regeneration benötigen, <br> sollte dein Hund zwischen den Einsätzen entspannt im Auto warten können!**
-
-
-      **Da wir uns während des Trainings im öffentlichen Raum bewegen, sollte dein Hund über einen gewissen Grundgehorsam verfügen.**
-    button: JETZT ANMELDEN
-    buttonSize: "4"
+      **Sollte dein Hund Probleme mit fremden Menschen und / oder Hunden haben sollte er / sie bitte mit einem gut sitzenden Maulkorb gesichert sein.**
+    button: ""
+    buttonSize: null
     headingCentered: false
     isColored: false
     type: text
@@ -93,7 +111,7 @@ buildingBlocks:
     headingSize: "3"
     width: "1"
     text: >-
-      * **Individuelles Training** – ganz auf deinen persönlichen Leistungsstand
+      * **Individuelles Training** – auf deinen persönlichen Leistungsstand
       abgestimmt
 
       * **Max. 4 Teilnehmer pro Termin** - damit für jeden genug Zeit da ist
