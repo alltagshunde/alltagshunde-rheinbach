@@ -66,7 +66,7 @@ buildingBlocks:
   - type: card
     width: 1/3
     innerWidth: null
-    image: apportieren.jpg
+    image: mantrailing.jpg
     heading: Mantrailing
     buttonLink: Mantrailing
     button: Mehr erfahren
@@ -89,15 +89,15 @@ buildingBlocks:
     width: 1/3
     innerWidth: null
     isColored: false
-    image: 2020_11_19_02590.jpg
-    heading: Dogwalking
-    buttonLink: Unterwegs
+    image: welpe-charly-traumt.jpg
+    heading: Onlinetraining für Welpen & Junghunde
+    buttonLink: Online
     button: Mehr erfahren
   - type: card
     width: 1/3
     innerWidth: null
     isColored: false
-    image: welpe-charly-traumt.jpg
-    heading: Online-Training für Welpen & Junghunde
-    buttonLink: Online
+    image: 2020_11_19_02590.jpg
+    heading: Dogwalking
+    buttonLink: Unterwegs
     button: Mehr erfahren
