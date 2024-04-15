@@ -91,3 +91,11 @@ buildingBlocks:
     heading: Dogwalking
     buttonLink: Unterwegs
     button: Mehr erfahren
+  - type: card
+    width: 1/3
+    innerWidth: null
+    isColored: false
+    image: welpe-charly-traumt.jpg
+    heading: Online-Training für Welpen & Junghunde
+    buttonLink: Online
+    button: Mehr erfahren
