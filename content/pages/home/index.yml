@@ -83,3 +83,11 @@ buildingBlocks:
     heading: Intensivtraining Hundebegegnungen
     buttonLink: Hundebegegnungen
     button: Mehr erfahren
+  - type: card
+    width: 1/3
+    innerWidth: null
+    isColored: false
+    image: 2020_11_19_02590.jpg
+    heading: Dogwalking
+    buttonLink: Unterwegs
+    button: Mehr erfahren
