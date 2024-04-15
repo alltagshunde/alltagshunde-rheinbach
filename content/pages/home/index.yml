@@ -64,32 +64,9 @@ buildingBlocks:
   - type: card
     width: 1/3
     innerWidth: null
-    image: welpe-charly-traumt.jpg
-    heading: Welpen & Junghundekurse
-    buttonLink: Welpen & Junghunde 2024
-    button: Mehr erfahren
-  - type: card
-    width: 1/3
-    innerWidth: "1"
-    isColored: false
-    image: lf.jpg
-    heading: Intensivtraining Hundebegegnungen
-    buttonLink: Hundebegegnungen
-    button: Mehr erfahren
-  - type: card
-    width: 1/3
-    innerWidth: null
     image: apportieren.jpg
     heading: Mantrailing
     buttonLink: Mantrailing
-    button: Mehr erfahren
-  - type: card
-    width: 1/3
-    innerWidth: "1"
-    isColored: false
-    image: dog-g74609b3b5_1920.jpg
-    heading: Online-Training
-    buttonLink: Online
     button: Mehr erfahren
   - type: card
     width: 1/3
@@ -97,4 +74,12 @@ buildingBlocks:
     image: gh2a2859finish.jpg
     heading: Seminare & Workshops
     buttonLink: Workshops
+    button: Mehr erfahren
+  - type: card
+    width: 1/3
+    innerWidth: null
+    isColored: false
+    image: lf.jpg
+    heading: Intensivtraining Hundebegegnungen
+    buttonLink: Hundebegegnungen
     button: Mehr erfahren
