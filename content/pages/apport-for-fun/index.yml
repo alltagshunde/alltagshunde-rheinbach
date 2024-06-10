@@ -15,179 +15,56 @@ buildingBlocks:
     headingCentered: false
     isColored: true
     text: >-
-      Die meisten Hunde laufen gerne geworfenen Gegenständen hinter her. Doch
-      ist das schon Apportieren? 
+      In meinen Apportierkursen widmen wir uns mit viel Spaß und Motivation den
+      unterschiedlichen Disziplinen der Dummyarbeit als spannende Beschäftigung
+      und Auslastung für den Familienhund! Das Schöne am Apportieren ist, dass
+      nebenher auch immer der Grundgehorsam gefestigt wird. 
 
 
-      Im meinen Kursen widmen wir uns mit viel Spaß und Motivation den unterschiedlichen Möglichkeiten des Dummytrainings als spannende Beschäftigung und Auslastung für den Familienhund! Das Schöne am Apportieren, dass nebenher auch immer der Grundgehorsam gefestigt wird.
-    heading: "Dummytraining für den Familienhund "
+      A﻿nders als in den typischen DRC-Kursen sind bei uns insbesondere auch die Nicht-Retriever-Rassen willkommen! Selbstverständlich freuen wir uns aber ebenso über Labbi, Goldie, Flat & Co.
+    heading: Dummytraining nicht nur für Retriever
     headingSize: "3"
-  - headingLevel: "2"
+  - heading: "DUMMY-WALK: APPORTIEREN UNTERWEGS "
+    headingLevel: "2"
     buttonTop: false
-    headingSize: "3"
-    width: 3/4
+    headingSize: "2"
+    width: "1"
+    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=17597,21886&ia=show
     text: >-
-      #### Leider sind die geplanten Kurse bereits alle ausgebucht! 
+      Zusammen in einer kleinen Gruppe von maximal 4 Mensch-Hund-Teams gehen wir
+      einmal im Monat auf einen ausgedehnten Spaziergang in schönem Gelände und
+      werden unterwegs mit unseren Hunden verschiedene Aufgaben aus der
+      Dummyarbeit absolvieren.
 
 
-      #### S﻿chreib mir gerne eine Nachricht und lass dich unverbindlich auf die Warteliste setzen! Ich informiere dich gerne, sobald neue Termine feststehen.
+      **T﻿EILNAHMEVORAUSSETZUNGEN:** 
+
+
+      * Die teilnehmenden Hunde sollten sozialverträglich sein. 
+
+      * Da wir im freien Gelände (insbesondere im Wald) unterwegs sind, müssen die Hunde sicher abrufbar sein und dürfen nicht unkontrolliert jagen gehen!
+
+      * Dein Hund sollte einen Dummy bereits sicher apportieren und gut warten können, wenn andere Hunde arbeiten.
     button: Jetzt buchen
-    buttonSize: "3"
+    buttonSize: "5"
     headingCentered: true
     isColored: false
     type: text
-  - headingLevel: "2"
-    width: 1/4
-    facebook: false
-    innerWidth: "1"
-    whatsapp: true
-    headingCentered: true
-    isColored: false
-    booking: false
-    type: contact
-    email: true
-  - heading: APPORTIEREN I - EINSTEIGER
-    headingLevel: "2"
-    buttonTop: false
-    headingSize: "3"
-    width: "1"
-    buttonLink2: ""
-    text: >-
-      ####  ﻿\* \* \* \* NEUER TERMIN IN PLANUNG \* \* \* \* 
-
-
-      Einige Hunde nehmen und tragen zwar gerne, geben das Objekt der Begierde aber nicht mehr her. Im **Einsteigerkurs** bekommst du Hilfestellung bei diesen und weiteren Herausforderungen. Gemeinsam gehen wir die ersten Schritte an und du erhältst einen ersten Einblick in die Vielfältigkeit dieser Beschäftigungsform. Ich stelle euch die verschiedenen Grundelemente des Apportierens vor, die dann natürlich mit den eigenen Hunden ausprobiert werden. Schnell wirst du erkennen, was das Apportieren alles zu bieten hat.
-    button: ""
-    buttonSize: "4"
-    headingCentered: false
-    isColored: true
-    type: text
-  - heading: "APPORTIEREN II - BEGINNER "
-    headingLevel: "2"
-    buttonTop: false
-    headingSize: "3"
-    width: "1"
-    buttonLink2: ""
-    text: >-
-      #### ﻿\* \* \* \* NEUER TERMIN IN PLANUNG \* \* \* \*
-
-
-      Im **F﻿olgekurs** sollten die Hunde einfache Markierungen und Memories bereits verlässlich apportieren. \
-
-      Wir erhöhen nun zunehmend den Schwierigkeitsgrad der *Markierungen* und steigern dadurch die *Konzentrationsfähigkeit* unserer Hunde, sowie deren *Steadyness* (je nach Typ). 
-
-
-      I﻿m Fokus des Kurses steht außerdem das Erlernen der Signale für das sichere *Einweisen* (Sitzpfiff, Rechts - Links - Back) und die Kommunikation mit unseren Hunden während der Arbeit. 
-
-
-      **Vorausgesetzt wird ein gewisser Grundgehorsam des Hundes:**
-
-
-      Dein Hund sollte auch in Anwesenheit von Artgenossen ansprechbar sein und nicht permanent bellen, wenn die anderen Hunde arbeiten.
-
-
-      Dein Hund sollte in diesem Kurs bereits sicher Apportieren und gut warten können (Steadyness).
-    button: ""
-    buttonSize: null
-    headingCentered: false
-    isColored: false
-    type: text
-  - heading: APPORTIEREN III - FORTGESCHRITTEN
-    headingLevel: "2"
-    buttonTop: false
-    headingSize: "3"
-    width: "1"
-    text: >-
-      Im **F﻿ortgeschritten Kurs** erhöhen wir zunehmend den Schwierigkeitsgrad
-      (Gelände, Alter etc.) und die Distanzen der *Markierungen* und *Memories*
-      und steigern dadurch kontinuierlich die *Konzentrationsfähigkeit* der
-      Hunde, sowie deren *Steadyness* (je nach Typ). 
-
-
-      D﻿ie Signale für das *Einweisen* (Sitzpfiff, Rechts - Links - Back) sind aus dem Beginnerkurs bekannt und erleichtern die Kommunikation mit unseren Hunden während der Arbeit. Auch hier steigern wir stetig den Schwierigkeitsgrad und die Ablenkung. \
-
-      \
-
-      Im letzten Teil der Reihe lernen die Hunde auch die *Freiverlorensuche* kennen. Diese nimmt nun ebenfalls einen größeren Stellenwert ein und wird die Nase deines Hundes herausfordern. 
-
-
-      #### Start: Freitag 28. April 2023
-
-
-      **12 x 60-75 Min.; jeweils freitags um 17:00 Uhr**
-
-
-      **Termine:** 28.4. / 5.5. / 12.5. /  26.5. / 16.6. / 23.6. / 30.6. / 7.7. / 14.7. / 21.7. / 28.7. / 4.8. 2023
-
-
-      **Kosten:** 240,- Euro pro Hund-Mensch-Team
-
-
-      **Teilnehmer:** min. 3 und max. 5 Mensch-Hund-Teams
-
-
-      **Ort:** Trainingsgelände Meckenheim und Umgebung
-
-
-      **Vorausgesetzt wird ein gewisser Grundgehorsam des Hundes:**
-
-
-      Dein Hund sollte auch in Anwesenheit von Artgenossen ansprechbar sein und nicht permanent bellen, wenn die anderen Hunde arbeiten.
-
-
-      Dein Hund sollte in diesem Kurs bereits sicher Apportieren und gut warten können (Steadyness). Außerdem sollten euch die Grundsignale des Einweisens (s.o.), sowie die Anfänge des Sitzpfiffes bekannt sein.
-    button: Jetzt buchen
-    buttonSize: "3"
-    headingCentered: false
-    isColored: true
-    type: text
   - type: image
-    width: 1/4
-    innerWidth: "1"
-    isBanner: true
-    image: dsc01733.jpg
-    text: >-
-      Im **Kurs für Dranbleiber** werden wir die neu erworbenen Fähigkeiten der
-      Hunde weiter ausbauen. Wir steigern die Merkfähigkeit der Hunde durch
-      Doppel- und Mehrfachmarkierungen, arbeiten weiter an den Signalen des
-      sicheren Einweisens (Sitzpfiff, Links - Rechts - Back) etc. Auch die
-      Freiverlorensuche wird nun einen größeren Stellenwert im Training
-      bekommen. 
-
-
-      ### **Start: Samstag 3. September 2022**
-
-
-      **Termine**: 3.9. / 24.9. / 8.10. / 22.10. / 12.11. / 26.11.2022: jeweils um 13:15 Uhr (ca. 60 Min.)
-
-
-      **Kosten:** 140,- Euro (inkl. MwSt.) pro Mensch-Hund-Team
-
-
-      **Teilnehmer:** min. 3 und max. 5 Mensch-Hund-Teams
-
-
-      **Ort:** Trainingsgelände Meckenheim und Umgebung (Meckenheim, BN-Röttgen, Wachtberg)
-
-
-      **Vorausgesetzt wird ein gewisser Grundgehorsam des Hundes:**
-
-
-      Dein Hund sollte auch in Anwesenheit von Artgenossen ansprechbar sein und nicht permanent bellen, wenn die anderen Hunde arbeiten.
-  - type: image
-    width: 1/4
-    innerWidth: "1"
-    isBanner: false
-    image: 2023_01_29_99999_205-bearbeitet.jpg
-  - type: image
-    width: 1/4
+    width: 1/3
     innerWidth: "1"
     isBanner: false
     image: 2023_01_29_99999_114.jpg
-    isColored: false
+    isColored: true
   - type: image
-    width: 1/4
+    width: 1/3
     innerWidth: "1"
     isBanner: false
-    isColored: false
+    image: 2023_01_29_99999_205-bearbeitet.jpg
+    isColored: true
+  - type: image
+    width: 1/3
+    innerWidth: "1"
+    isBanner: false
+    isColored: true
     image: 2023_01_29_99999_86.jpg
