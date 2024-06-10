@@ -1,6 +1,6 @@
 title: Apportieren
 isLandingPage: false
-parentPage: Beschäftigung
+parentPage: ""
 buildingBlocks:
   - type: text
     width: "1"
