@@ -1,0 +1,85 @@
+title: Dogwalking
+isLandingPage: false
+buildingBlocks:
+  - heading: Mit den AlltagsHunden unterwegs
+    headingLevel: "1"
+    buttonTop: false
+    headingSize: "1"
+    width: "1"
+    button: ""
+    buttonSize: null
+    headingCentered: true
+    isColored: false
+    type: text
+  - heading: Dogwalking in Wachtberg und Umgebung
+    headingLevel: "3"
+    buttonTop: false
+    headingSize: "3"
+    width: 2/3
+    text: >-
+      Die Gründe einen professionellen Gassi-Service in Anspruch zu nehmen,
+      können vielfältig sein. Ob aus beruflichen, privaten oder gesundheitlichen
+      Gründen oder ob du deinem Hund einfach nur eine gute Zeit unter
+      seinesgleichen gönnen möchtest, dein Hund ist bei mir bestens aufgehoben. 
+
+
+      Du kannst dich darauf verlassen, dass dein Hund ausgeglichen und zufrieden von unserem Spaziergang zurückkommt.
+    button: ""
+    buttonSize: "3"
+    headingCentered: false
+    isColored: true
+    type: text
+  - type: image
+    width: 1/3
+    innerWidth: 1/3
+    isBanner: false
+    isColored: true
+    image: 2020_11_19_02642.jpg
+  - heading: "So sieht ein Tag im Gassi-Service aus: "
+    headingLevel: "3"
+    buttonTop: false
+    headingSize: "3"
+    width: "1"
+    text: >-
+      J﻿e nach Ort, hole ich deinen Hund am Vormittag zwischen 9:30 und 11:00
+      Uhr ab. In meinem Hundemobil (Opel Combo mit professionellem Boxen-Ausbau
+      für bis zu 10 Hunde) wird dein Hund sicher und bequem transportiert. Je
+      nach Wochentag fahren wir einen anderen Ort in der Region (Kottenforst,
+      Rheinbacher Wald, Grafschaft etc.) an. Dort werden die Hunde erstmal der
+      Reihe nach ausgeladen und wer ganz dringend Pipi muss, darf hier auch
+      schonmal das Beinchen heben. 
+
+
+      S﻿trukturiert geht es nun los -  erstmal an der Leine, dabei hat jeder seinen festen Platz. Wir laufen so lange bis Ruhe eingekehrt ist und jeder sich mit seinem Platz abgefunden hat. Dies dauert je nach Zusammenstellung der Gruppe meist ca. 5-15 Min. Danach dürfen die Hunde erstmal in den Freilauf um ihre Geschäfte zu verrichten und Hundesachen zu machen. Doch auch hierbei gilt als oberstes Gebot: Wegtreue und Rückruf müssen sitzen. Wer hier noch Erklärungsbedarf hat, wird schrittweise an den Freilauf herangeführt und die ersten Male z.B. mit einer Schleppleine abgesichert. Auch ein Spiel ist mal drin, wenn sich die Gelegenheit bietet, doch die Hunde werden hierzu nicht von mir aufgefordert. Vielmehr sind mir Ruhe und eine entspannte Stimmung sehr wichtig. A﻿uf unseren Runden sind wir meist ca. 90 Min. unterwegs und begegnen hier und da natürlich verschiedenen Ablenkungen durch Spaziergänger mit und ohne Hunde, Radfahrer, Jogger, Reiter etc. Dadurch wird automatisch auch Alltagsgehorsam gefestigt. 
+
+
+      E﻿s ist immer wieder faszinierend und unglaublich spannend zu erleben, wie schnell die Hunde sich in diese Struktur einfügen und sich den Regeln anpassen. Auch die Kommunikation der Hunde untereinander ist spannend zu beobachten. Durch die festen Gruppen und die Regelmäßigkeit entwickelt sich schnell eine stabile Gemeinschaft. Natürlich ist nicht jeder mit jedem best friend, doch die Hunde lernen sich zu akzeptieren und artgerecht zu kommunizieren. Gerade junge und unsichere Hunde profitieren enorm von diesen stabilen und gut geführten Sozialkontakten und blühen nach kurzer Zeit sichtbar auf bzw. entwickeln ein angemessenes Sozialverhalten.
+    button: ""
+    buttonSize: null
+    headingCentered: true
+    isColored: false
+    type: text
+  - type: image
+    width: 1/4
+    innerWidth: "1"
+    isBanner: false
+    isColored: true
+    image: 20240716_123415.jpg
+  - type: image
+    width: 1/4
+    innerWidth: "1"
+    isBanner: false
+    isColored: true
+    image: 20240229_121224.jpg
+  - type: image
+    width: 1/4
+    innerWidth: "1"
+    isBanner: false
+    isColored: true
+    image: 20240514_120639.jpg
+  - type: image
+    width: 1/4
+    innerWidth: "1"
+    isBanner: false
+    isColored: true
+    image: 20240328_115358.jpg
