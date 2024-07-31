@@ -41,19 +41,21 @@ buildingBlocks:
     headingSize: "3"
     width: "1"
     text: >-
-      J﻿e nach Ort, hole ich deinen Hund am Vormittag zwischen 9:30 und 11:00
-      Uhr ab. In meinem Hundemobil (Opel Combo mit professionellem Boxen-Ausbau
-      für bis zu 10 Hunde) wird dein Hund sicher und bequem transportiert. Je
-      nach Wochentag fahren wir einen anderen Ort in der Region (Kottenforst,
-      Rheinbacher Wald, Grafschaft etc.) an. Dort werden die Hunde erstmal der
-      Reihe nach ausgeladen und wer ganz dringend Pipi muss, darf hier auch
-      schonmal das Beinchen heben. 
+      Z﻿wischen 9:00 und 10:30 Uhr werden die Hunde von mir abgeholt und in
+      meinem Hundemobil mit professionellem Boxen-Ausbau für bis zu 10 Hunde
+      sicher und bequem transportiert. Je nach Wochentag fahren wir einen
+      anderen Ort in der Region (Kottenforst, Rheinbacher Wald, Grafschaft etc.)
+
+      an. Dort angekommen werden die Hunde der Reihe nach ausgeladen und wer ganz dringend Pipi muss, darf hier auch schonmal das Beinchen heben. Denn im nächsten Schritt geht es erstmal sehr strukturiert los.
 
 
-      S﻿trukturiert geht es nun los -  erstmal an der Leine, dabei hat jeder seinen festen Platz. Wir laufen so lange bis Ruhe eingekehrt ist und jeder sich mit seinem Platz abgefunden hat. Dies dauert je nach Zusammenstellung der Gruppe meist ca. 5-15 Min. Danach dürfen die Hunde erstmal in den Freilauf um ihre Geschäfte zu verrichten und Hundesachen zu machen. Doch auch hierbei gilt als oberstes Gebot: Wegtreue und Rückruf müssen sitzen. Wer hier noch Erklärungsbedarf hat, wird schrittweise an den Freilauf herangeführt und die ersten Male z.B. mit einer Schleppleine abgesichert. Auch ein Spiel ist mal drin, wenn sich die Gelegenheit bietet, doch die Hunde werden hierzu nicht von mir aufgefordert. Vielmehr sind mir Ruhe und eine entspannte Stimmung sehr wichtig. A﻿uf unseren Runden sind wir meist ca. 90 Min. unterwegs und begegnen hier und da natürlich verschiedenen Ablenkungen durch Spaziergänger mit und ohne Hunde, Radfahrer, Jogger, Reiter etc. Dadurch wird automatisch auch Alltagsgehorsam gefestigt. 
+      Z﻿u Beginn laufen wir gemeinsam an der Leine bis Ruhe eingekehrt ist. Dabei hat jeder seinen festen Platz. Dies dauert je nach Zusammenstellung der Gruppe meist ca. 5-15 Min. Danach dürfen die Hunde erstmal in den Freilauf um ihre Geschäfte zu verrichten und Hundesachen zu machen. 
 
 
-      E﻿s ist immer wieder faszinierend und unglaublich spannend zu erleben, wie schnell die Hunde sich in diese Struktur einfügen, die Regeln verinnerlichen und Verantwortung abgeben, wenn man klar und deutlich agiert. 
+      Im Freilauf gilt als oberstes Gebot: <br>Wegtreue und Rückruf müssen sitzen. Wer hier noch Erklärungsbedarf hat, wird schrittweise an den Freilauf herangeführt und die ersten Male z.B. mit einer Schleppleine abgesichert. Halten sie sich an die Grundregeln haben die Hunde viele Freiheiten: Es darf nach Herzenslust geschnüffelt werden und natürlich ist auch mal ein kleines Spielchen drin. Wichtig ist mir jedoch, dass die Hunde nicht zu extra wilder Action aufgefordert werden. Vielmehr sind mir Ruhe und eine entspannte Stimmung sehr wichtig. A﻿uf unseren Runden sind wir meist ca. 90 Min. unterwegs und begegnen hier und da natürlich verschiedenen Ablenkungen durch Spaziergänger mit und ohne Hunde, Radfahrer, Jogger, Reiter etc. Dadurch wird automatisch auch Alltagsgehorsam gefestigt 
+
+
+      E﻿s ist immer wieder faszinierend und unglaublich schön zu erleben, wie schnell die Hunde sich in diese Struktur einfügen, die Regeln verinnerlichen und Verantwortung abgeben, wenn man klar und deutlich mit ihnen agiert.  
 
 
       Auch die Kommunikation der Hunde untereinander ist spannend zu beobachten. Durch die festen Gruppen und die Regelmäßigkeit entwickelt sich schnell eine stabile Gemeinschaft. Natürlich ist nicht jeder mit jedem best friend, doch die Hunde lernen sich zu akzeptieren und artgerecht zu kommunizieren. 
@@ -89,3 +91,47 @@ buildingBlocks:
     isBanner: false
     isColored: true
     image: 20240328_115358.jpg
+  - heading: "TERMINE & KOSTEN "
+    headingLevel: "3"
+    buttonTop: false
+    headingSize: "3"
+    width: "1"
+    text: >-
+      #### Das Dogwalking findet an folgenden Wochentagen statt: 
+
+
+      * d﻿ienstags
+
+      * m﻿ittwochs
+
+      * d﻿onnerstags
+
+
+      #### D﻿ie Plätze in der Gruppe sind begrenzt und a﻿ufgrund der hohen Nachfrage ist eine Teilnahme nur im monatlichen Abo möglich. 
+
+
+      #### Z﻿udem begüstigt eine stabile Zusammenstellung auch die Gruppenharmonie.\
+
+      \
+
+      **M﻿onatliche Kosten:** 
+
+
+      1﻿x Gassi / Woche: 105,- Euro / Monat
+
+
+      2﻿x Gassi / Woche: 199,- Euro / Monat
+
+
+      3﻿x Gassi / Woche: 295,- Euro / Monat
+
+
+      **B﻿ei Interesse kontaktiere mich bitte unter:** 
+
+
+      **caro@alltagshunde-training.de oder telefonisch bzw. per WhatsApp unter: 0176-61711772**
+    button: ""
+    buttonSize: null
+    headingCentered: true
+    isColored: false
+    type: text
