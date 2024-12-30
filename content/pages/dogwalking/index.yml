@@ -92,9 +92,19 @@ buildingBlocks:
     isColored: true
     image: 20240328_115358.jpg
   - heading: "TERMINE & KOSTEN "
-    headingLevel: "3"
+    headingLevel: "2"
     buttonTop: false
-    headingSize: "3"
+    headingSize: "2"
+    width: "1"
+    text: ""
+    button: ""
+    buttonSize: null
+    headingCentered: true
+    isColored: false
+    type: text
+  - headingLevel: "2"
+    buttonTop: false
+    headingSize: "2"
     width: "1"
     text: >-
       #### Das Dogwalking findet an folgenden Wochentagen statt:
@@ -123,8 +133,8 @@ buildingBlocks:
 
 
       3﻿x Gassi / Woche: 289,- Euro / Monat
-    button: ""
+    button: JETZT KONTAKT AUFNEHMEN
     buttonSize: null
     headingCentered: true
-    isColored: false
+    isColored: true
     type: text
