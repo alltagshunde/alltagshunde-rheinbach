@@ -133,8 +133,19 @@ buildingBlocks:
 
 
       3﻿x Gassi / Woche: 289,- Euro / Monat
-    button: JETZT KONTAKT AUFNEHMEN
+    button: ""
     buttonSize: null
     headingCentered: true
     isColored: true
     type: text
+  - heading: JETZT KONTAKT AUFNEHMEN
+    headingLevel: "1"
+    width: "1"
+    facebook: true
+    innerWidth: null
+    whatsapp: true
+    headingCentered: true
+    isColored: false
+    booking: false
+    type: contact
+    email: true
