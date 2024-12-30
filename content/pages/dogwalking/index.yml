@@ -139,7 +139,7 @@ buildingBlocks:
     isColored: true
     type: text
   - heading: JETZT KONTAKT AUFNEHMEN
-    headingLevel: "1"
+    headingLevel: "2"
     width: "1"
     facebook: true
     innerWidth: null
