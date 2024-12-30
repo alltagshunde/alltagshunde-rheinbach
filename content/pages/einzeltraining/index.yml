@@ -7,7 +7,7 @@ buildingBlocks:
     headingLevel: "1"
     headingCentered: true
     headingColorPrimary: false
-    heading: Einzelcoaching & Beratung
+    heading: Einzelcoaching & Verhaltensberatung
   - type: text
     width: "1"
     headingLevel: "3"
@@ -23,7 +23,7 @@ buildingBlocks:
     heading: Stellt dein Hund dich in eurem Alltag immer wieder vor Herausforderungen?
     headingLevel: "2"
     width: "1"
-    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=appointments
+    buttonLink2: ""
     text: >-
       * Hattest Du Dir das gemeinsame Leben mit Deinem Hund oder vielleicht auch
       mehreren Hunden und / oder Tieren entspannter vorgestellt?
@@ -49,10 +49,10 @@ buildingBlocks:
     facebook: true
     innerWidth: 3/4
     whatsapp: true
-    bookingUrl: https://alltaghunde-training.kurs.software/iframe/?&module=appointments
+    bookingUrl: ""
     headingCentered: true
     isColored: true
-    booking: true
+    booking: false
     type: contact
     email: true
   - type: image
@@ -74,22 +74,22 @@ buildingBlocks:
     buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=appointments
     text: >-
       Am Beginn unserer Zusammenarbeit steht zunächst ein ausführliches
-      Erstgespräch. Dieses Gespräch dient uns beiden dazu uns gegenseitig
-      kennenzulernen und zu erkennen, ob ob die Chemie zwischen uns stimmt.
-      Schließlich ist Hundetraining auch Vertrauenssache und du sollst nicht die
-      "Katze im Sack" kaufen. 
+      Erstgespräch (ca. 90 Min.).
 
 
-      Im Rahmen dieses Termins analysieren wir natürlich ebenfalls gemeinsam die Themen und Probleme, die den Alltag mit deinem Hund erschweren: Wer bist du und wer ist dein Hund? Was macht eure Beziehung aus? Gemeinsam formulieren wir eine (erste) Zielsetzung und erarbeiten erste Schritte um die hierfür wichtigen Veränderungen in eurer Beziehungsstruktur einzuleiten.
+      Dieses Gespräch dient uns beiden dazu uns gegenseitig kennenzulernen und zu erkennen, ob die Chemie zwischen uns stimmt. Schließlich ist Hundetraining auch Vertrauenssache und du sollst nicht die "Katze im Sack" kaufen. 
 
 
-      In den folgenden Stunden erarbeiten wir zusammen einen individuellen Lösungsweg, der sich gut in euren Alltag integrieren lässt. Die einzelnen Termine wählen wir in kleineren oder größeren Abständen, abhängig von der individuellen Problemstellung und deinen Trainingszielen. Wichtig ist mir dabei, dich als Hundehalter fit im Umgang mit deinem Hund zu machen, so dass Du handlungsfähig wirst und problematische Situationen zukünftig auch ohne meine Hilfe lösen kannst. Unsere gemeinsamen Termine verstehe ich daher sozusagen als "Hilfe zur Selbsthilfe".
+      Im Rahmen des Erstgesprächs analysieren wir ebenfalls gemeinsam die Probleme, die den Alltag mit deinem Hund erschweren: Wer bist du und wer ist dein Hund? Was macht eure Beziehung aus? Gemeinsam formulieren wir eine (erste) Zielsetzung und erarbeiten erste Schritte um die hierfür wichtigen Veränderungen in eurer Beziehungsstruktur einzuleiten.
 
 
-      In der Regel sind nach einem ausführlichen Kennenlernen ca. 4-6 Einzelstunden ausreichend, um dir und deinem Hund eine gute Basis für das weitere Miteinander zu geben und Gelerntes zu vertiefen. Veränderung braucht jedoch Zeit und jedes neu erlernte Verhalten - sowohl beim Menschen als auch beim Hund - entsprechende Wiederholungen, um zu reifen und sich im Alltag zu festigen. 
+      In den folgenden Stunden erarbeiten wir dann zusammen einen individuellen Lösungsweg, der sich gut in euren Alltag integrieren lässt. Die einzelnen Termine wählen wir in kleineren oder größeren Abständen, abhängig von der individuellen Problemstellung und deinen Trainingszielen. Wichtig ist mir dabei, dich als Hundehalter fit im Umgang mit deinem Hund zu machen, so dass Du handlungsfähig wirst und problematische Situationen zukünftig auch ohne meine Hilfe lösen kannst. Unsere gemeinsamen Termine verstehe ich daher sozusagen als "Hilfe zur Selbsthilfe".
 
 
-      Daher ist es durchaus empfehlenswert, nach einiger Zeit einen Check-up Termin zu vereinbaren, um vielleicht den letzten Feinschliff anzugehen,  kleine Fehler zu korrigieren oder auch auch neue Ziele zu setzen.
+      In der Regel sind nach dem Erstgespräch ca. 4-6 Einzelstunden ausreichend, um dir und deinem Hund eine gute Basis für das weitere Miteinander zu geben und Gelerntes zu vertiefen. Veränderung braucht jedoch Zeit und jedes neu erlernte Verhalten - sowohl beim Menschen als auch beim Hund - entsprechende Wiederholungen, um zu reifen und sich im Alltag zu festigen. 
+
+
+      Daher ist es durchaus empfehlenswert, nach einiger Zeit einen Check-up-Termin zu vereinbaren, um vielleicht den letzten Feinschliff anzugehen,  kleine Fehler zu korrigieren oder sogar neue Ziele anzugehen.
     button: JETZT TERMIN VEREINBAREN
     buttonSize: "2"
     headingCentered: false
@@ -108,28 +108,28 @@ buildingBlocks:
       individuell telefonisch oder per WhatsApp.
 
 
-      ### **Erstgespräch (ca. 90 Min.): 90,- Euro (inkl. 19% MwSt.)**
+      ### **Erstgespräch (ca. 90 Min.): 120,- Euro (inkl. 19% MwSt.)**
 
 
-      Weitere Termine vereinbaren wir ebenfalls individuell. Generell steht uns ein 5.000 m² großes und eingezäuntes Trainingsgelände zur Verfügung. In den meisten Fällen bietet sich jedoch ein Termin in “freier Wildbahn” eher an, um einen möglichst hohen Alltagsbezug zu gewährleisten.
+      Weitere Termine vereinbaren wir ebenfalls individuell. Bei Bedarf steht uns ein eingezäuntes Trainingsgelände zur Verfügung. In den meisten Fällen bietet sich jedoch ein Termin in “freier Wildbahn” eher an, um einen möglichst hohen Alltagsbezug zu gewährleisten.
 
 
-      ### **Einzelcoaching, Folgetermin (ca. 60-75 Min.): 80,- Euro (inkl. 19% MwSt.)**
+      ### **Einzelcoaching, Folgetermin (ca. 75 Min.): 90,- Euro (inkl. 19% MwSt.)**
 
 
-      ### **5er-Paket Einzelcoaching: 375,- Euro (inkl. 19% MwSt.)**
+      ### **5er-Paket Einzelcoaching: 425,- Euro (inkl. 19% MwSt.)**
 
 
-      ### **Hausbesuch (ca. 60-75 Min.): 90,- Euro (inkl. 19% MwSt.)**
+      ### **Hausbesuch (ca. 75 Min.): 120,- Euro (inkl. 19% MwSt.)**
 
 
-      **Für Hausbesuche außerhalb von 53343 Wachtberg o. 53340 Meckenheim fallen zusätzlich Fahrtkosten i. H. v. 40 Ct / gefahrenen km an.** 
+      **Für Hausbesuche außerhalb von 53343 Wachtberg o. 53340 Meckenheim fallen je nach Ort ggf. zusätzliche Fahrtkosten i. H. v. 40 Ct / gefahrenen km an.**  
 
 
       Als Ergänzung zum persönlichen Trainingstermin oder als Alternative in Zeiten, in denen aktuell kein vor Ort Termin möglich ist, hat sich auch eine telefonische Beratung oder online via Zoom-Meeting bewährt. Sie dient vor allem dazu, umfangreichere Fragen zwischen den einzelnen Trainingsterminen, die sich nicht innerhalb einer kurzen WhatsApp, oder E-Mail klären lassen zu besprechen.
 
 
-      ### **Beratung via Telefon / Zoom-Meeting (je 30 Min.): 25,- Euro (inkl. 19% MwSt.)**
+      ### **Beratung via Telefon / Zoom-Meeting (je 30 Min.): 30,- Euro (inkl. 19% MwSt.)**
 
 
       Ich bitte dich zu beachten, dass gebuchte Einzelcoachings und Beratungstermine aus organisatorischen Gründen nur bis spätestens 48 Stunden vor dem vereinbarten Termin storniert werden können.  Andernfalls wird eine Aufwandspauschale i. H. v. 50,- Euro erhoben.
@@ -140,9 +140,9 @@ buildingBlocks:
     facebook: true
     innerWidth: "1"
     whatsapp: true
-    bookingUrl: https://alltaghunde-training.kurs.software/iframe/?&module=appointments
+    bookingUrl: ""
     headingCentered: true
     isColored: true
-    booking: true
+    booking: false
     type: contact
     email: true
