@@ -59,45 +59,30 @@ buildingBlocks:
     headingSize: "2"
     isColored: true
   - type: card
-    width: 1/3
+    width: 1/4
     innerWidth: null
     image: beratung.jpg
-    heading: Einzelcoaching & Verhaltensberatung
+    heading: Einzeltraining & Verhaltensberatung
     button: Mehr erfahren
     buttonLink: "Einzeltraining "
     isColored: false
   - type: card
-    width: 1/3
+    width: 1/4
     innerWidth: null
     image: mantrailing.jpg
     heading: Mantrailing
     buttonLink: Mantrailing
     button: Mehr erfahren
   - type: card
-    width: 1/3
-    innerWidth: null
-    image: gh2a2859finish.jpg
-    heading: Seminare & Workshops
-    buttonLink: Workshops
-    button: Mehr erfahren
-  - type: card
-    width: 1/3
-    innerWidth: null
+    width: 1/4
+    innerWidth: "1"
     isColored: false
-    image: lf.jpg
-    heading: Intensivtraining Hundebegegnungen
-    buttonLink: Hundebegegnungen
+    image: 2023_01_29_99999_149-bearbeitet.jpg
+    heading: Dummytraining
+    buttonLink: Apportieren
     button: Mehr erfahren
   - type: card
-    width: 1/3
-    innerWidth: null
-    isColored: false
-    image: welpe-charly-traumt.jpg
-    heading: Onlinetraining für Welpen & Junghunde
-    buttonLink: Online
-    button: Mehr erfahren
-  - type: card
-    width: 1/3
+    width: 1/4
     innerWidth: null
     isColored: false
     image: 2020_11_19_02590.jpg
