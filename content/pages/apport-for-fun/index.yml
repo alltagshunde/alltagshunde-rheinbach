@@ -29,7 +29,7 @@ buildingBlocks:
     buttonTop: false
     headingSize: "2"
     width: "1"
-    buttonLink2: https://alltaghunde-training.kurs.software/iframe/?&module=courses&id=21886&ia=show
+    buttonLink2: ""
     text: >-
       Zusammen in einer kleinen Gruppe von maximal 4 Mensch-Hund-Teams gehen wir
       einmal im Monat auf einen ausgedehnten Spaziergang in schönem Gelände und
@@ -43,26 +43,37 @@ buildingBlocks:
       * Dein Hund sollte einen Dummy bereits sicher apportieren und gut warten können, wenn andere Hunde arbeiten.
 
       * Da wir im freien Gelände (insbesondere im Wald) unterwegs sind, müssen die Hunde sicher abrufbar sein und dürfen nicht unkontrolliert jagen gehen!
-    button: JETZT ANMELDEN
-    buttonSize: "5"
+    button: ""
+    buttonSize: null
     headingCentered: true
     isColored: false
     type: text
+  - heading: JETZT KONTAKT AUFNEHMEN
+    headingLevel: "5"
+    width: "1"
+    facebook: true
+    innerWidth: "1"
+    whatsapp: true
+    headingCentered: true
+    isColored: false
+    booking: false
+    type: contact
+    email: true
   - type: image
     width: 1/3
     innerWidth: "1"
     isBanner: false
     image: 2023_01_29_99999_114.jpg
-    isColored: true
+    isColored: false
   - type: image
     width: 1/3
     innerWidth: "1"
     isBanner: false
     image: 2023_01_29_99999_205-bearbeitet.jpg
-    isColored: true
+    isColored: false
   - type: image
     width: 1/3
     innerWidth: "1"
     isBanner: false
-    isColored: true
+    isColored: false
     image: 2023_01_29_99999_86.jpg
